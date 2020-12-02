@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d573e78ddf0f6f4b9845635a37f8dc8f82350066
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: db1168d494fd5a8d0a31176ccccdff72dd096f1d
+ms.sourcegitcommit: c697549cdc5785e163bd6147cf0d95ba61b078fe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506962"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528889"
 ---
 # <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>紐西蘭政府雲端計算安全性和隱私權考慮
 
@@ -66,7 +66,6 @@ Microsoft 和紐西蘭政府雲端計算安全性和隱私權考慮
 - [Cloud 計算的 NZ 政府需求](https://aka.ms/NZ-Cloud-Requirements)
 - [雲端計算： (ISPC) 的資訊安全性和隱私權考慮 ](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
-- [Office 365： SEEMail 整合及參考架構](https://download.microsoft.com/download/8/5/9/859CDCEE-D293-47D8-9B6A-670B108B48E1/Microsoft_Office_365_white_paper_EN_US.pdf) () 雲端服務採用的其他 Microsoft NZ 指導方針
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Microsoft 對「Cloud 計算 IPSC ' 的回應
