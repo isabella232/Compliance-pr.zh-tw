@@ -16,12 +16,12 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 6dabbb8599288d0291934135ef208b52b9ec0003
-  ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+  ms.openlocfilehash: 95c5b020d516d5fc7ccce6978c6f4cf0ad590b5f
+  ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 11/30/2020
-  ms.locfileid: "49506995"
+  ms.lasthandoff: 12/01/2020
+  ms.locfileid: "49527120"
 conceptualContent:
   title: Microsoft 365、Azure 雲端服務和其他 Microsoft 服務的規範服務
   summary: Microsoft 提供法規遵從性服務，協助您的組織遵守管理資料集合及使用的本國、地區和行業特定需求。
@@ -305,6 +305,8 @@ additionalContent:
         url: offering-tisax-germany.md
     - title: 地區
       links:
+      - text: 'ABS OSPAR (新加坡) '
+        url: offering-abs-ospar.md
       - text: 加拿大隱私權法
         url: offering-canadian-privacy-laws.md
       - text: Cyber Essentials Plus (英國)
