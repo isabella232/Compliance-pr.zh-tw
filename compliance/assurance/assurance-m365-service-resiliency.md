@@ -1,13 +1,12 @@
 ---
 title: Microsoft 365 內建的服務恢復功能
 description: Microsoft 365 服務恢復的說明
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 3ef398ef41516d6598bdec9b6e537b37577ef864
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ee9c7d898af13b9a1db95913a98be09eea8cd27f
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506175"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574755"
 ---
 # <a name="built-in-service-resiliency-in-microsoft-365"></a>Microsoft 365 內建的服務恢復功能
 
@@ -36,17 +35,17 @@ ms.locfileid: "49506175"
 
 ## <a name="activeactive-design"></a>主動/主動設計
 
-在 Microsoft 365 中，我們正努力讓所有服務以主動/主動設計的方式進行架構和運作，這可增加復原能力。 這表示一律有多個服務執行個體執行中，可以回應使用者要求，且它們託管在地理位置分散的資料中心。 所有使用者流量會透過 Microsoft Front Door 服務進入，並會自動路由所找到最佳的服務執行個體，並解決任何服務失敗，以防止或減少對客戶的影響。
+在 Microsoft 365 中，我們會讓所有服務以主動/主動設計來進行設計及運作，以提升復原能力。 這表示一律有多個服務執行個體執行中，可以回應使用者要求，且它們託管在地理位置分散的資料中心。 所有使用者流量會透過 Microsoft Front Door 服務進入，並會自動路由所找到最佳的服務執行個體，並解決任何服務失敗，以防止或減少對客戶的影響。
 
 ## <a name="reduce-incident-scope"></a>減少事件範圍
 
 服務事件的範圍是由嚴重程度、其持續時間和受影響的客戶數來衡量。 我們透過下列方式努力限制所有事件的範圍：
 
 - 讓每個服務的多個執行個體彼此分開
-- 以受控制、使用驗證環的漸進方式來部署更新，這樣一來，可能從更新引發的任何問題就可以在部署程序中及早偵測並緩和。 這可在必要時實現更新的迴歸，並且最初在 Microsoft 內的小型群組中進行 (內環)，之後才部署到較大型的群組，例如所有 140,000 個 Microsoft 員工 (環 2)，接著部署到早期採用者環 (環 3)，最後部署到全球的所有客戶 (環 4)。
-- 透過自動化來使得監控獲得改善。 Microsoft 365 非常龐大，因此 SLA 目標上線時間很高。 在服務事件的最開始時，如果需要人員參與偵測和回應，我們便無法以夠快的速度回應來滿足 SLA。 自動化是快速且有效的服務事件偵測和回應的關鍵。 越快找到問題，便能越快解決問題。
+- 以受控制、使用驗證環的漸進方式來部署更新，這樣一來，可能從更新引發的任何問題就可以在部署程序中及早偵測並緩和。 這可讓您根據需要回歸更新，並且會先發生在 Microsoft (內環) 內部的小群組中（如所有 140000 Microsoft 員工 (ring 2) ），然後針對全球的使用方式， (環 3) ，最後針對所有客戶進行。
+- 透過自動化來使得監控獲得改善。 Microsoft 365 是一種大型服務，SLA 目標的執行時間很高。 在服務事件的最開始時，如果需要人員參與偵測和回應，我們便無法以夠快的速度回應來滿足 SLA。 自動化是快速且有效的服務事件偵測和回應的關鍵。 越快找到問題，便能越快解決問題。
 
-透過 Microsoft 365 服務架構內建的主動/主動服務，這些努力可緩和服務事件期間受影響客戶的嚴重性、持續時間和數量。  
+除了 Microsoft 365 服務架構內建的主動/主動功能之外，這些工作也會減輕服務事件中的嚴重性、持續時間和受影響客戶數目。  
 
 ## <a name="fault-isolation"></a>錯誤隔離
 

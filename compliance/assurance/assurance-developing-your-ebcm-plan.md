@@ -1,13 +1,12 @@
 ---
 title: 您的企業商務持續性管理計劃的考量
 description: 開發雲端感知商務持續性計劃時需考慮的事項。
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 1761f9aabe7894deeb7464588a58b7b77db581c1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b43b3d272196007f4fa5015ade36055187a2db33
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507154"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574795"
 ---
 # <a name="developing-your-business-continuity-plan"></a>開發您的業務持續性計畫
 
