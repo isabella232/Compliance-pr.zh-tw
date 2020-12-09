@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 52b8841f8d89571ea73fa469b05a776e0e0d3557
-ms.sourcegitcommit: 186caf3b458d014f127bdf6e2d927c413276d9e1
+ms.openlocfilehash: 185f926db524f64851e715fecee31e699942fa22
+ms.sourcegitcommit: 247ee66ab59d06d2e1b0a3f4dba301c334ebfe71
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49520120"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601267"
 ---
 # <a name="datacenter-security-overview"></a>資料中心安全性綜述
 
@@ -38,7 +38,7 @@ Microsoft 提供超過200個雲端服務，包括企業服務，例如 Microsoft
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-unauthorized-access"></a>Microsoft 如何保護資料中心不會遭到未經授權的存取？
 
-存取實體資料中心設施的方式，會嚴格由外部和內部周邊伺服器控制，每個層級的安全性增加，包括周邊環境防護、安全性監察官、鎖定的伺服器機架、整合的告警系統、運作中心的全天候視頻監控，以及多重要素存取控制。 只有必要人員有權存取 Microsoft 資料中心。 在 Microsoft 資料中心內完全禁止邏輯存取 Microsoft 365 基礎結構（包括客戶資料）。
+存取實體資料中心設施的方式，會嚴格由外部和內部周邊伺服器控制，每個層級的安全性增加，包括周邊環境防護、安全性監察官、鎖定的伺服器機架、整合的告警系統、運作中心的全天候視頻監控，以及多重要素存取控制。 只有必要人員有權存取 Microsoft 資料中心。 Microsoft 資料中心內禁止邏輯存取 Microsoft 365 基礎結構（包括客戶資料）。
 
 我們的安全性運作中心會使用影片監控和整合式電子存取控制系統來監視資料中心網站和設施。 攝像頭的位置已策略性，可提供有效的設施周邊、入口、運送期間、伺服器 cages、內部通道及其他機密安全性點。 在多重階層式安全性狀態中，由於整合安全性系統所偵測到的任何未經授權的進入嘗試，會為安全性人員產生警示，以立即回應和修正。
 
@@ -56,12 +56,10 @@ Microsoft 採用各種保護措施，以防禦資料中心可用性的環境威�
 
 ## <a name="related-external-regulations--certifications"></a>相關的外部法規 & 認證
 
-Microsoft 的線上服務會定期進行審核，以符合外部法規和認證。 請參閱下表，以取得與資料中心安全性相關的控制項驗證。
+Microsoft 的線上服務會定期進行審核，以符合外部法規和認證。 請參閱下表，以驗證資料中心安全性相關的控制項。
 
 | **外部審計** | **Section** | **最新報告日期** |
 |:--------------------|:------------|:-----------------------|  
-| [FedRAMP (Office 365) ](https://compliance.microsoft.com/compliancemanager) | PE-2：實體存取授權 <br> PE-3：實體存取控制 <br> PE-6：監控實體存取 <br> PE-11：緊急電源 <br> PE-13：防火防護 <br> PE-14：溫度和濕度控制 <br> PE-15：水源損毀防護 | 2020年9月24日 |
-| [ISO 27001/27002 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 11：實體和環境安全性 | 2020 年 2 月 22 日 |
-| [ISO 27017 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 11：實體和環境安全性 | 2020 年 2 月 22 日 |
-| [SOC 1 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-39：資料中心存取控制 <br> CA-40：資料中心網路驗證 <br> CA-41：資料中心雙因素驗證 <br> CA-48：資料中心記錄 | 2019 年 9 月 30 日 |
-| [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-39：資料中心存取控制 <br> CA-40：資料中心網路驗證 <br> CA-41：資料中心雙因素驗證 <br> CA-48：資料中心記錄 | 2019 年 9 月 30 日 |
+| [ISO 27001/27002 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=3383676c-b365-4288-a3c0-086ed8d737e3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=4e5d7afb-2cee-4704-95cc-bb8c95a8e52a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 11：實體和環境安全性 | 2020年5月13日 |
+| [SOC 1 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=66043614-5628-4e26-83be-057eb3bb026c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1：資料中心實體存取配 <br> PE-2：資料中心安全性驗證 <br> PE-3：資料中心使用者存取權檢查 <br> PE-4：資料中心實體存取機制 <br> PE-5：資料中心實體監控監控 <br> PE-6：資料中心重要環境維護 <br> PE-7：資料中心環境控制項 <br> PE-8：資料中心事件回應 | 2020年10月30日 |
+| [SOC 2 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=ce5bfbea-3514-40ae-a8a6-3617106a0b56&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1：資料中心實體存取配 <br> PE-2：資料中心安全性驗證 <br> PE-3：資料中心使用者存取權檢查 <br> PE-4：資料中心實體存取機制 <br> PE-5：資料中心實體監控監控 <br> PE-6：資料中心重要環境維護 <br> PE-7：資料中心環境控制項 <br> PE-8：資料中心事件回應 | 2020年10月30日 |
