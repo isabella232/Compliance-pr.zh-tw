@@ -8,20 +8,21 @@ ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: daniha
-author: DaniHalfin
-manager: dansimp
+ms.author: robmazz
+author: robmaz
+manager: laurawi
+ms.reviewer: delinat
 audience: itpro
 ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: 196796cbbfe7755f2639ed5acc163cce130d98d8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 895dbe3b4fb0c272da22302a8e455da681b0ea88
+ms.sourcegitcommit: b366fb7c148b4da40f8c5d8ff41adbff0bcb850e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507052"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49585368"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>適用於 GDPR 和 CCPA 的 Windows 企業版資料主體要求的資料處理者服務 
 
