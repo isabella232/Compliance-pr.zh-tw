@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 55c94de3fe6e1c1a827003dfdaa61b74d2d712d4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
+ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507043"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49620758"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>適用於內部部署 Windows Server 檔案共用的 GDPR
 
@@ -56,6 +56,6 @@ ms.locfileid: "49507043"
 
     -   若要針對資料主體要求尋找個人資料，請使用 Azure 資訊保護掃描器。您也可以設定 SharePoint Server 搜尋來對檔案共用進行編目。
 
-如需有關使用 Azure 資訊保護掃描器來找出個人資料並加上標籤的詳細資訊，請參閱位於 [https://aka.ms/gdprpartners](<https://aka.ms/gdprpartners>) 的「Microsoft GDPR 資料探索工具組」。
+如需有關使用 Azure 資訊保護掃描器來找出個人資料並加上標籤的詳細資訊，請參閱 [部署 AIP 掃描程式](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)。
 
 如需有關針對條件設定掃描器，以及使用 Office 365 資料外洩防護 (DLP) 機密資訊類型的詳細資訊，請參閱＜[如何針對 Azure 資訊保護的自動和建議分類設定條件](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification)＞。請注意，新的 Office 365 機密資訊類型無法立即與掃描器搭配使用，且自訂機密資訊類型無法與掃描器搭配使用。
