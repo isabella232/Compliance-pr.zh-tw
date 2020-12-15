@@ -1,7 +1,7 @@
 ---
 title: '英國金融籌辦授權 (FCA) '
 description: 英國金融公司的 Microsoft 指導方針，遵循金融行為與雲端外包的指導方針。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 17c43992f813ba8f0b5b3e9400fadb29eb4174d5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fe7572c8b9f5d8d73d09e57c873a092a97c3226c
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506209"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669754"
 ---
 # <a name="united-kingdom-financial-conduct-authority-fca"></a>英國金融籌辦授權 (FCA) 
 
@@ -54,8 +54,6 @@ Microsoft 指南以極大的方式描述我們遵循許多公認的國際標準�
 ## <a name="frequently-asked-questions"></a>常見問題集
 
 **我是否可以在組織的合規性程式中使用 Microsoft 回應至此架構？**
-
-是。 不過，雖然 Microsoft 對此架構的回應是由協力廠商相容，但客戶也負責驗證他們在 Azure 或 Power BI 上實施的解決方案規範。
 
 是。 不過，雖然 Microsoft 對此架構的回應是由協力廠商相容，但客戶也負責驗證他們在 Azure 或 Power BI 上實施的解決方案規範。
 

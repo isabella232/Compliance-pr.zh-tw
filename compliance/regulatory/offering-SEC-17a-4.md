@@ -1,7 +1,7 @@
 ---
 title: 證券和 Exchange 傭金 (SEC) Rule 17a-4 (f) 美國
 description: 獨立評估事務所驗證，Azure 和 Office 365 可協助財務公司符合 SEC Rule 17a-4 (f) 記錄保留和不可改變的儲存需求。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7f91fc3fdc60cf12680e48c924223d8b5213af60
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 8f47359d23aa9399f36053e1ea6b1df91e181d59
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507547"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669764"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>證券和 Exchange 傭金 (SEC) Rule 17a-4 (f) 美國
 
@@ -57,7 +57,7 @@ Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & SEC 規則17
 
-[SEC 17a-4 (f) 法規遵從性評估： Microsoft Security & 合規性中心與 Exchange Online](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+[SEC 17a-4 (f) 法規遵從性評估： Microsoft Security & 合規性中心，含 SharePoint、OneDrive、小組、Exchange 和商務用 Skype](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
 ## <a name="how-to-implement"></a>實作方法
 
@@ -75,7 +75,7 @@ Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

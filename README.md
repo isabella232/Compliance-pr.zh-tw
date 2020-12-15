@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 2ce4a47728eb3d89101c77a6cec200d7ea2a3ac8
-ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
+ms.openlocfilehash: 61aafc556b30f5de9dabe5e67a5176b02b19ab28
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49620768"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669704"
 ---
 # <a name="overview"></a>概觀
 
 ## <a name="learn-how-to-contribute"></a>瞭解如何參與
 
-任何有興趣的人都可以參與主題。 當您參與時，您的工作會在合併後直接進入內容集。 它會顯示在 docs.microsoft.com 上，而且您將會列入下列的參與者： <https://github.com/MicrosoftDocs/microsoft-365-docs/graphs/contributors> 。
+任何有興趣的人都可以參與主題。 當您參與時，您的工作會在合併後直接進入內容集。 它會顯示在 docs.microsoft.com 上，而且您將會列入下列的參與者： <https://github.com/MicrosoftDocs/compliance/graphs/contributors> 。
 
 ### <a name="quickly-update-an-article-using-githubcom"></a>使用 GitHub.com 快速更新文章
 
