@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 9655c915bb7478e585ba477cd878b0367261dcfb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7be8b0dce164dc14ff70ca3bc91b805e84eb0363
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507440"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669744"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Microsoft 支援服務與專業服務資料主體要求
 
@@ -82,11 +82,15 @@ Microsoft 會如何回應客戶連絡人或 IT 系統管理員的要求來執行
 
 當客戶與 Microsoft 約定以接收支援或諮詢服務時，Microsoft 支援服務會自動收集或從帳戶記錄中擷取客戶連絡人 (例如主要 CSM、全域系統管理員、IT 系統管理員) 的個人資料。 這可能包括名稱、電子郵件、電話和尋求支援或諮詢服務的個體之其他個人資料。
 
-客戶連絡人的個人資料是 Microsoft 與客戶商務關係的一部分，且 Microsoft 是資料控制者。Microsoft 會回應客戶連絡人有關其個人資料的 DSR，無論其是否仍在組織中。
+客戶連絡人的個人資料是 Microsoft 與客戶商務關係的一部分，且 Microsoft 是資料控制者 (除非該資料是為提供技術支援而收集)。Microsoft 會回應客戶連絡人有關其個人資料的 DSR，無論其是否仍在組織中。
+
+當客戶連絡人的個人資料在提供技術支援的情況下收集時，Microsoft 就是資料處理者。
 
 客戶應了解，DSR 只涵蓋客戶連絡人的個人資料，且不會變更或刪除提交為約定 (例如文字記錄、案例說明、檔案、工作產品) 一部分的任何客戶資料，因為 Microsoft 是資料處理者。 此外，為維護約定的歷程記錄，不會對已結束的約定進行任何變更，包括開啟約定者的記錄。
 
-從客戶連絡人收到有關 DSR 的查詢時，Microsoft 人員會將客戶連絡人送交給[隱私權回應中心](https://go.microsoft.com/fwlink/?LinkId=321116)。這是 Microsoft 對隱私權查詢和抱怨的主要輸入機制。在收到查詢時，隱私權回應中心會識別其屬於商業或組織帳戶，並據此回應。
+當您收到來自客戶連絡人的查詢，其中 Microsoft 為資料控制者時，Microsoft 人員會請客戶連絡人參照 [隱私權回復中心](https://go.microsoft.com/fwlink/?LinkId=321116)。 這是 Microsoft 的主要輸入機制，以供隱私權查詢和投訴。 收到查詢時，隱私權回復中心會指出這是商務或組織帳戶的一部分，並相應回復。
+
+如果 Microsoft 是資料處理者，請參閱下方 <b> 客戶所提供資料的 DSR：商業支援</b>。
 
 為維護客戶的業務連續性，Microsoft 在確認取代的連絡人之前不會處理與約定相關的 DSR。在確認新連絡人後，Microsoft 會在開放約定中將舊連絡人換為新連絡人。
 
@@ -94,7 +98,7 @@ Microsoft 會如何回應客戶連絡人或 IT 系統管理員的要求來執行
 
 ***僅供說明的範例** _
 
-John 是 O365 企業客戶的 IT 系統管理員，具有一個開放支援約定與兩個已結束的約定。現在 John 要離開公司，並希望刪除其資料。John 先連絡隱私權回應中心，其將他識別為 IT 系統管理員，並告知其名稱無法從先前 (已結束) 的約定或從開放約定內的任何資料中刪除。不過，如果 John 找到取代的連絡人，隱私權回應中心會將目前開放支援票證的連絡人更改為取代連絡人。John 讓 Microsoft 知道了 Jane 會成為取代的連絡人，Microsoft 即在所有支援系統上進行變更。
+John 是 O365 企業版客戶的專案經理，具有一個開放的諮詢約定和兩個已關閉的約定。 現在，John 即將離開公司，並希望刪除其資料。 John 聯繫將之視為專案經理的隱私權回復中心。 系統通知 John，無法從先前的 (已關閉的) 約定或開放約定中的任何資料內刪除他的名字。 不過，如果他找出替代連絡人，隱私權回復中心將會以該聯絡人取代 John 做為目前開放約定的聯絡人狀態。 John 告知 Microsoft，Jane 將是他的替代連絡人，而 Microsoft 會在所有系統上對此進行變更。
 
 ## <a name="dsr-for-an-end-user-engaging-microsoft"></a>Microsoft 使用者的 DSR
 
@@ -112,9 +116,9 @@ _Microsoft 會如何回應客戶員工或其他資料主體的要求來執行其
 
 _當客戶收到員工或其他資料主體的要求要執行權限，且該資料主體的個人資料在支援約定期間由 Microsoft 支援服務所收集，在此情況下如何接收 Microsoft 的協助。*
 
-當客戶與 Microsoft 支援服務約定時，Microsoft 會收集客戶的支援資料以解決需要支援約定的任何問題。 這項支援資料包含 Microsoft 與客戶的互動 (例如聊天、電話、電子郵件、網頁提交)，加上客戶傳送給 Microsoft，或 Microsoft 經客戶同意從客戶 IT 環境或線上服務租用戶擷取的任何內容檔案，用以解決支援問題。 在主要支援的情況下，這還會包含我們向您收集的任何資料，以主動預防日後問題。 不過，這會排除客戶連絡人資訊或 Microsoft 與客戶商務關係 (例如帳單記錄) 的其他資訊。
+當客戶與 Microsoft 支援服務約定時，Microsoft 會收集客戶的支援資料以解決需要支援約定的任何問題。 這項支援資料包含 Microsoft 與客戶的互動 (例如聊天、電話、電子郵件、網頁提交)，加上客戶傳送給 Microsoft，或 Microsoft 經客戶同意從客戶 IT 環境或線上服務租用戶擷取的任何內容檔案，用以解決支援問題。 在主要支援的情況下，這還會包含我們向您收集的任何資料，以主動預防日後問題。 不過，這會排除 Microsoft 與客戶商務關係 (例如帳單記錄) 的其他資訊。
 
-對於所有支援資料，Microsoft 都是資料處理者。因此，Microsoft 不會回應資料主體針對與 Microsoft 商業客戶相關聯時提供的支援資料的直接要求。Microsoft 會透過客戶的一般支援管道協助客戶回應 DSR。
+針對在提供支援的過程中所收集的所有支援資料和連絡人資料，Microsoft 是資料處理者。 因此，Microsoft 不會回應資料主體針對與 Microsoft 商業客戶相關聯時提供的支援資料的直接要求。 Microsoft 會透過一般支援管道與客戶合作，協助他們回應 DSRs。
 
 ## <a name="step-1-discover"></a>步驟 1：探索
 
@@ -134,10 +138,10 @@ _當客戶收到員工或其他資料主體的要求要執行權限，且該資�
 
 若要找出特定的約定，客戶需要搜尋其約定。對於頂級客戶，客戶的合約服務管理員 ("CSM") 可看見在該合約排程下建立的所有支援要求 (SR)。對於非頂級客戶，則提供對等的支援約定入口網站，例如透過線上服務支援區域。
 
-![在 SMC 中搜尋](../media/Prof-Serv-DSR-Doc-Final_image3.png)CSM 可以進到入口網站 Support.Microsoft.Com ([https://support.microsoft.com/\<local language code\>/頂級](https://support.microsoft.com/%3clocal%20language%20code%3e/premier)) ("SMC") 並選取及檢閱支援要求。 (請注意：在 URL 中請替代為您的當地語言代碼)。
+CSM 可移至 [服務中心](https://serviceshub.microsoft.com/support/contactsupport) 入口網站，然後選取 [管理所有支援要求]。
 
 >[!IMPORTANT]
->除了 SMC 中的案例歷程記錄，客戶也可擁有在支援約定期間由 Microsoft 收集 (或經客戶同意，從線上服務移除) 的使用者個人資料檔案。 例子包括客戶 exchange 信箱、Azure VM 或資料庫的複本。 此個人資料可能或不一定會在特定約定的案例歷程記錄 (亦即工單) 中述及。 若要檢閱該資料，客戶連絡人必須是特定的驗證 (透過 AAD 或 MSA) 支援要求連絡人，其已在 Microsoft 支援服務資料傳輸和管理工具 (DTM) 中收到工作區 URL。 客戶連絡人可存取檔案，但無法進行全域檢視，且 SMC 不會指出檔案是否存在。
+>除了 [服務中心] 中的案例歷程記錄，客戶也可擁有在支援約定期間由 Microsoft 收集 (或經客戶同意，從線上服務移除) 的使用者個人資料檔案。 例子包括客戶 exchange 信箱、Azure VM 或資料庫的複本。 此個人資料可能或不一定會在特定約定的案例歷程記錄 (亦即工單) 中述及。 若要檢閱該資料，客戶連絡人必須是特定的驗證 (透過 AAD 或 MSA) 支援要求連絡人，其已在 Microsoft 支援服務資料傳輸和管理工具 (DTM) 中收到工作區 URL。 客戶連絡人可存取檔案，但無法進行全域檢視，且 [服務中心] 不會指出檔案是否存在。
 
 當客戶已找出所選支援工單中的所有相關資料時，客戶可決定是否要求刪除與工單相關的所有項目，或選擇性將 DSR 套用到個人資料的個別執行個體。
 
@@ -171,13 +175,13 @@ _當客戶收到員工或其他資料主體的要求要執行權限，且該資�
 
 Microsoft 的所有資料都有套用保留期與刪除原則，這些會根據風險及其他因素而有所不同。
 
-若客戶要求跨支援系統刪除資料主體的個人資料，可透過 TAM 進行或在 SMC 或對等系統中填寫支援要求 (SR)。您必須指出此要求是協助您在 GDPR 下的 DSR。
+若客戶要求跨支援系統刪除資料主體的個人資料，可透過 TAM 進行或在 [服務中心] 或對等系統中填寫支援要求 (SR)。 您_必須*指出此要求是協助您在 GDPR 下的 DSR。
 
 *選項 A：跨 Microsoft 支援客戶 DSR*。 針對跨系統 DSR，客戶必須提供 Microsoft 需要的個人資料，以識別所需資料 (例如電子郵件地址、電話號碼)。 Microsoft 不會建立相互關聯或研究記錄，而僅會在客戶所提供的識別項上直接進行搜尋。 找到資料時，Microsoft 就會刪除所有約定和所有相關資料。
 
 > 重要注意事項：這可能會導致客戶組織的重要歷程記錄遺失。
 
-*選項 B：特定客戶參與*。 對於客戶找出並想刪除的特定約定，請勿刪除 SMC 的工單。 這會導致存在於記錄檔和下游系統中的個人資料無法在所需時間範圍內刪除。 相反地，找出必須刪除的工單或工單內的個人資料，並連絡 Microsoft 支援服務，以協助您刪除資料。
+*選項 B：特定客戶參與*。 對於客戶找出並想刪除的特定約定，請勿刪除 [服務中心] 的工單。 這會導致存在於記錄檔和下游系統中的個人資料無法在所需時間範圍內刪除。 相反地，找出必須刪除的工單或工單內的個人資料，並連絡 Microsoft 支援服務，以協助您刪除資料。
 
 ### <a name="microsoft-support-data-transfer-and-management-tool-dtm-instructions"></a>Microsoft 支援服務資料傳輸和管理工具 (DTM) 指示
 
@@ -198,7 +202,7 @@ Microsoft 的所有資料都有套用保留期與刪除原則，這些會根據�
 
 John 是企業客戶 Contoso 的主要 CSM，Contoso 使用 O365 做為員工電子郵件並使用 Azure 裝載 Contoso SQL 資料庫。Contoso 擁有多個開放及結束的工單。最近，Microsoft 支援服務在 Contoso 的同意下，將 SQL 資料庫副本移到 DTM 中，以進行支援與疑難排解。
 
-John 收到 Jane 的 DSR，要求刪除她的所有資料。John 進入 SMC 並搜尋約定，發現 Jane 有電子郵件帳戶問題，因此其名稱和電子郵件地址參照在兩份工單中。他連絡了 TAM，提供 Jane 的名稱和電子郵件地址做為識別項，並要求刪除那兩份工單，以及可能由工單所產生的所有下游資料。
+John 收到 Jane 的 DSR，要求刪除她的所有資料。 John 前往 [服務中心]，並在多個約定中進行搜尋，以找出 Jane 有電子郵件帳戶問題，因此已透過名稱和電子郵件地址在兩份工單進行中參照。 他連絡了其 TAM，提供 Jane 的名稱和電子郵件地址做為識別項，並要求刪除那兩份工單，以及可能由工單所產生的所有下游資料。
 
 他也擔心他與支援人員提及 Jane 的聊天交談，因此要求刪除該聊天記錄。
 
