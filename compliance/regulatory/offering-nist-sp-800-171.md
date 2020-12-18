@@ -1,7 +1,7 @@
 ---
 title: NIST SP 800-171
 description: Microsoft 雲端服務遵循 NIST SP 800-171 指導方針，以保護 nonfederal 資訊系統中受控制的未分類資訊 (CUI) 。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 071bbbb24110b9d74aa75580d9a23628041455a6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
+ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506965"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49712081"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -47,6 +47,7 @@ NIST SP 800-171 的需求是 NIST SP 800-53 （FedRAMP 使用的標準）的子�
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
 - [Azure 政府](https://aka.ms/AzureCompliance)
+- [Azure 商業銀行](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
 - [美國政府的 Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365 美國政府社區雲端 (GCC) 、Office 365 GCC High 及 DoD](https://aka.ms/o365-compliance-framework)
@@ -67,7 +68,7 @@ NIST SP 800-171 的需求是 NIST SP 800-53 （FedRAMP 使用的標準）的子�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
