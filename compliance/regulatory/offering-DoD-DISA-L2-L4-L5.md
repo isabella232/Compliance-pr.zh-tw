@@ -1,7 +1,7 @@
 ---
 title: 美國國防部 (DoD) 臨時授權
 description: Microsoft 接收的國防 (DoD) 的臨時授權會影響層級的5、4和2。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 33ce1796ffa8fbf2e77dee49f682fb68c90b8111
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3bd95648e9ae36f5ccaab25bd504524e7d1e4afa
+ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507643"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49757818"
 ---
 # <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>美國國防部 (DoD 在影響層級（2、4、5）) 臨時授權
 
@@ -69,6 +69,7 @@ DISA 雲端服務支援已授與適用于 Microsoft Azure 政府的 DoD 影響�
 ### <a name="covered-services-for-dod-impact-level-4"></a>DoD 影響層級所涵蓋的服務
 
 - [Azure 政府](https://aka.ms/AzureCompliance)
+- [美國政府的 Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Office 365 美國政府國防版](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ### <a name="covered-services-for-dod-impact-level-2"></a>DoD 影響等級2所涵蓋的服務
