@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f58caebee758c9e4d4d1159ebd701c09df81e018
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
+ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507292"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49759688"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 資訊安全性管理標準
 
@@ -117,7 +117,7 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 
 是。 適用於 Microsoft 雲端基礎結構和營運群組的年度 ISO/IEC 27001 認證程序包含營運復原能力的稽核。 若要預覽最新的認證，請按一下下方的連結。
 
-- Microsoft Azure：[適用於 Microsoft 雲端基礎結構和營運的 ISO/IEC 27001：2013 認證](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft&licencenumber=IS%20533913)
+- Microsoft Azure：[適用於 Microsoft 雲端基礎結構和營運的 ISO/IEC 27001：2013 認證](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 - Azure 德國
 
 **我要從何處著手組織自身的 ISO/IEC 27001 合規性工作？**

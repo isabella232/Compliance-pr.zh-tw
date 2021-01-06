@@ -16,19 +16,19 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 66441638d7e9cb881422ba4243d936152bcd9eed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 317a5bf64a5d10099b3fcf73190bb6e20ffc2999
+ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507136"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49757838"
 ---
 # <a name="breach-notification-under-the-gdpr"></a>GDPR 規定的外洩通知
 
 Office 365 將以資料處理者的身分，確保身為資料控制者的客戶可符合 GDPR 資料外洩通知的要求。為此，我們致力於完成以下動作：
 
-- 讓客戶能夠指定專用的隱私權連絡人，以便在發生外洩事件時通知此連絡人。客戶可以在 Azure Active Directory 中指定此連絡人。
-- 在宣告發生資料外洩的 72 小時內，向客戶發出個人資料外洩通知。通知會透過電子郵件傳送給客戶指定的連絡人
+- 為客戶提供指定專用隱私權連絡人的能力，一旦出現違規行為，該連絡人將得到通知。  客戶可以使用訊息中心的隱私權讀取者角色設定指定此連絡人。
+- 在宣告個人資料外洩後 72 小時內通知客戶。 通知將發佈到 [訊息中心]，該中心可透過 Microsoft 365 系統管理中心存取。 第二，電子郵件通知被傳送到指定的連絡人，表示新訊息中心文章已經發佈。
 - 初次通知至少會包含外洩性質的描述、使用者的影響估計及降低風險的步驟 (如果適用的話)。如果在發出初次通知時，我們尚未完成調查，初次通知中會指出後續步驟及與您連絡的時間表
 
 Microsoft 認可資料控制者要負責進行風險評估並判斷資料外洩是否需要通知客戶 DPA，而我們傳送給客戶的通知中會提供此評估所需的資訊。因此，Microsoft 會將所有個人資料外洩事件通知客戶，除了確定無法辨識的個人資料以外 (例如，已確認金鑰完整性的加密資料)。
