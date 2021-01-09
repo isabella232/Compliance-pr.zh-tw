@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: c063460fdfba44265b3a1504a049a4772b484dff
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e246cc3c84a17fe697baea29eda285599832b0fa
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506166"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787424"
 ---
-# <a name="network-security-overview"></a>網路安全性概述
+# <a name="network-security-overview"></a>網路安全性概觀
 
 ## <a name="how-does-microsoft-365-secure-the-network-boundary"></a>Microsoft 365 如何保護網路界限？
 
@@ -49,5 +49,5 @@ Microsoft 的線上服務會定期進行審核，以符合外部法規和認證�
 | **外部審計** | **Section** | **最新報告日期** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP (Office 365) ](https://compliance.microsoft.com/compliancemanager) | SC-5：拒絕服務保護 <br> SC-7：界限保護 <br> SI-2：缺陷修正 <br> SI-3：惡意程式碼保護 <br> SI-8：垃圾郵件保護 | 2020年9月24日 |
-| [SOC 1 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-27：薄弱環節掃描 | 2019 年 9 月 30 日 |
-| [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-27：薄弱環節掃描 <br> CA-45：反惡意程式碼 | 2019 年 9 月 30 日 |
+| [SOC 1 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-27：薄弱環節掃描 | 2020月24日 |
+| [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-27：薄弱環節掃描 <br> CA-45：反惡意程式碼 | 2020月24日 |

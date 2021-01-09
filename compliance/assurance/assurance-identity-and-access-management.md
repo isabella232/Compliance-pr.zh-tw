@@ -1,5 +1,5 @@
 ---
-title: 身分識別和存取管理概述
+title: 身分識別和存取管理概觀
 description: 深入瞭解 Microsoft 365 中的身分識別和存取管理
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b62219faa5bc55ef4bef9557d953caf1a2f95fc7
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c07801fe5ef571ddb4c9efcbfe04a7b3e5faedb6
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506181"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787472"
 ---
-# <a name="identity-and-access-management-overview"></a>身分識別和存取管理概述
+# <a name="identity-and-access-management-overview"></a>身分識別和存取管理概觀
 
 ## <a name="how-does-microsoft-365-protect-production-systems-from-unauthorized-or-malicious-access"></a>Microsoft 365 如何防止未授權或惡意存取的實際執行系統？
 
@@ -55,6 +55,6 @@ Microsoft 的線上服務會定期進行審核，以符合外部法規和認證�
 | [FedRAMP (Office 365) ](https://compliance.microsoft.com/compliancemanager) | AC-2：帳戶管理 <br> AC-3：存取強制 <br> AC-5：分隔職責 <br> AC-6：最低許可權 <br> AC-17：遠端存取 | 2020年9月24日 |
 | [ISO 27001/27002 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 9.1：存取控制的商務需求 <br> 9.2： User access management <br> 9.3：使用者責任 <br> 9.4：系統和應用程式存取控制 <br> 15.1：供應商關聯中的資訊安全性 | 2020 年 2 月 22 日 |
 | [ISO 27017 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 9.2： User access management <br> 9.4：系統和應用程式存取控制 <br> 15.1：供應商關聯中的資訊安全性 | 2020 年 2 月 22 日 |
-| [SOC 1 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-33：修改帳戶 <br> CA-34：使用者驗證 <br> CA-35：特殊許可權存取 <br> CA-36：遠端存取 <br> CA-57：客戶密碼箱 Microsoft 管理核准 <br> CA-58：客戶加密箱服務要求 <br> CA-59：客戶密碼箱通知 <br> CA-61： JIT 檢查和核准 | 2019 年 9 月 30 日 |
-| [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-32：共用帳戶原則 <br> CA-33：修改帳戶 <br> CA-34：使用者驗證 <br> CA-35：特殊許可權存取 <br> CA-36：遠端存取 <br> CA-53：協力廠商監控 <br> CA-56：客戶的密碼箱客戶核准 <br> CA-57：客戶密碼箱 Microsoft 管理核准 <br> CA-58：客戶加密箱服務要求 <br> CA-59：客戶密碼箱通知 <br> CA-61： JIT 檢查和核准 | 2019 年 9 月 30 日 |
-| [SOC 3 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=9df8b99b-96ce-49a9-bff4-268031dcc9a6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CUEC-15：客戶加密箱要求 | 2019 年 9 月 30 日 |
+| [SOC 1 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-33：修改帳戶 <br> CA-34：使用者驗證 <br> CA-35：特殊許可權存取 <br> CA-36：遠端存取 <br> CA-57：客戶密碼箱 Microsoft 管理核准 <br> CA-58：客戶加密箱服務要求 <br> CA-59：客戶密碼箱通知 <br> CA-61： JIT 檢查和核准 | 2020月24日 |
+| [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-32：共用帳戶原則 <br> CA-33：修改帳戶 <br> CA-34：使用者驗證 <br> CA-35：特殊許可權存取 <br> CA-36：遠端存取 <br> CA-53：協力廠商監控 <br> CA-56：客戶的密碼箱客戶核准 <br> CA-57：客戶密碼箱 Microsoft 管理核准 <br> CA-58：客戶加密箱服務要求 <br> CA-59：客戶密碼箱通知 <br> CA-61： JIT 檢查和核准 | 2020月24日 |
+| [SOC 3 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=274054e5-4968-48d2-bf94-9a8eda5d7a93&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CUEC-15：客戶加密箱要求 | 2020月24日 |
