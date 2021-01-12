@@ -15,12 +15,12 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: b2ef6d975ee41def8b410a47afe824851c151e14
-  ms.sourcegitcommit: 1e6157933cd9aea32c36e0c796ee55a861da16c8
+  ms.openlocfilehash: 4a45e8244a3adba18d25f24301b921c385850a9c
+  ms.sourcegitcommit: 9ce2e6599e6cb15533cb07e8291dc3a2b8795679
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 12/09/2020
-  ms.locfileid: "49612809"
+  ms.lasthandoff: 01/11/2021
+  ms.locfileid: "49795513"
 highlightedContent:
   items:
   - title: 開始使用 Microsoft 365 合規性的快速工作
@@ -74,7 +74,7 @@ conceptualContent:
       text: 深入瞭解架構
     - url: /compliance/assurance/assurance-architecture
       itemType: concept
-      text: 架構概述
+      text: 架構概觀
   - title: 稽核記錄
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-logging-monitoring/
@@ -82,7 +82,7 @@ conceptualContent:
       text: 深入瞭解審核記錄
     - url: /compliance/assurance/assurance-audit-logging
       itemType: concept
-      text: 審核記錄概述
+      text: 稽核記錄概觀
   - title: 資料中心安全性
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-physical-security/
@@ -90,7 +90,7 @@ conceptualContent:
       text: 深入瞭解資料中心安全性
     - url: /compliance/assurance/assurance-datacenter-security
       itemType: concept
-      text: 資料中心安全性綜述
+      text: 資料中心安全性概觀
   - title: 加密和金鑰管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-encryption/
@@ -98,15 +98,15 @@ conceptualContent:
       text: 深入瞭解加密和金鑰管理
     - url: /compliance/assurance/assurance-encryption
       itemType: concept
-      text: 加密和金鑰管理概述
+      text: 加密和金鑰管理概觀
   - title: 治理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/
       itemType: learn
-      text: 深入瞭解身分識別和存取管理
+      text: 深入瞭解管理
     - url: /compliance/assurance/assurance-governance
       itemType: concept
-      text: 管理概觀
+      text: 控管概觀
   - title: 人力資源
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/personnel-security-governance
@@ -114,15 +114,15 @@ conceptualContent:
       text: 深入瞭解人力資源
     - url: /compliance/assurance/assurance-human-resources
       itemType: concept
-      text: 人力資源概覽
-  - title: 身分識別和存取管理
+      text: 人力資源概觀
+  - title: 身分識別與存取管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-identity-access-management/
       itemType: learn
       text: 深入瞭解身分識別和存取管理
     - url: /compliance/assurance/assurance-identity-and-access-management
       itemType: concept
-      text: 身分識別和存取管理概述
+      text: 身分識別和存取管理概觀
   - title: 事件管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-incident-management/
@@ -130,12 +130,12 @@ conceptualContent:
       text: 深入瞭解事件管理
     - url: /compliance/assurance/assurance-incident-management
       itemType: concept
-      text: 事件管理概述
+      text: 事件管理概觀
   - title: 網路安全性
     links:
     - url: /compliance/assurance/assurance-network-security
       itemType: concept
-      text: 網路安全性概述
+      text: 網路安全性概觀
   - title: 隱私權
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-privacy/
@@ -143,15 +143,15 @@ conceptualContent:
       text: 深入瞭解隱私權
     - url: /compliance/assurance/assurance-privacy
       itemType: concept
-      text: 隱私權概述
-  - title: 恢復能力和持續性
+      text: 隱私權概觀
+  - title: 復原和連續性
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-resiliency-continuity/
       itemType: learn
       text: 深入瞭解恢復能力與連續性
     - url: /compliance/assurance/assurance-resiliency-and-continuity
       itemType: concept
-      text: 恢復能力和持續性概述
+      text: 復原和連續性概觀
   - title: 風險管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-risk-management/
@@ -159,8 +159,8 @@ conceptualContent:
       text: 深入瞭解風險管理
     - url: /compliance/assurance/assurance-risk-management
       itemType: concept
-      text: 風險管理綜述
-  - title: 安全性開發與運作
+      text: 風險管理概觀
+  - title: 安全性開發與作業
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-security-development-operation/
       itemType: learn
@@ -168,14 +168,14 @@ conceptualContent:
     - url: /compliance/assurance/assurance-security-development-and-operation
       itemType: concept
       text: 安全性開發作業概述
-  - title: 安全性監控
+  - title: 安全性監視
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/security-monitoring
       itemType: learn
       text: 深入瞭解安全性監控
     - url: /compliance/assurance/assurance-security-monitoring
       itemType: concept
-      text: 安全性監控概述
+      text: 安全性監視概觀
   - title: 供應商管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-subprocessor-management/
@@ -183,7 +183,7 @@ conceptualContent:
       text: 深入瞭解供應商管理
     - url: /compliance/assurance/assurance-supplier-management
       itemType: concept
-      text: 供應商管理綜述
+      text: 供應商管理概觀
   - title: 弱點管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/
@@ -191,7 +191,7 @@ conceptualContent:
       text: 深入瞭解薄弱環節管理
     - url: /compliance/assurance/assurance-vulnerability-management
       itemType: concept
-      text: 弱點管理概述
+      text: 弱點管理概觀
 additionalContent:
   sections:
   - title: Microsoft 365 中的合規性入門
