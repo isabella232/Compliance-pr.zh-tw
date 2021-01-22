@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Microsoft 合規性方案
-summary: 深入瞭解 Microsoft 產品和服務如何協助您的組織符合法規遵從性標準。
+summary: 瞭解 Microsoft 產品與服務如何協助貴組織符合法規合規性標準。
 brand: m365
 metadata:
-  title: Microsoft 365、Azure 及其他 Microsoft 服務的規範服務。
-  description: 深入瞭解 Microsoft 產品和服務如何協助您的組織符合法規遵從性標準。
+  title: Microsoft 365、Azure 和其他 Microsoft 服務的合規性方案。
+  description: 瞭解 Microsoft 產品與服務如何協助貴組織符合法規合規性標準。
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
-  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
+  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
+  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "49588697"
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "49924846"
 conceptualContent:
-  title: Microsoft 365、Azure 及其他 Microsoft 服務的規範服務
-  summary: Microsoft 提供法規遵從性服務，協助您的組織遵守管理資料集合及使用的本國、地區和行業特定需求。
+  title: Microsoft 365、Azure 和其他 Microsoft 服務的合規性方案
+  summary: Microsoft 提供合規性方案，協助貴組織遵守規範資料收集和使用的國家、地區及產業特定需求。
   items:
   - title: 全域
     links:
@@ -33,7 +33,7 @@ conceptualContent:
       text: CIS 基準
     - url: offering-ISO-20000-1-2011.md
       itemType: reference
-      text: ISO 20000-1:2011
+      text: ISO 20000-1：2011
     - url: offering-ISO-22301.md
       itemType: reference
       text: ISO 22301
@@ -64,13 +64,13 @@ conceptualContent:
       text: DFARS
     - url: offering-dod-disa-l2-l4-l5.md
       itemType: reference
-      text: DoD DISA L2，L4，L5
+      text: DoD DISA L2， L4， L5
     - url: offering-doe-10-cfr-part-810.md
       itemType: reference
       text: DoE 10 CFR Part 810
     - url: offering-ear.md
       itemType: reference
-      text: 'EAR (美國出口 Adm。 Reg ) '
+      text: 'EAR (US Export Adm. Reg.) '
     - url: offering-fedramp.md
       itemType: reference
       text: FedRAMP
@@ -150,7 +150,7 @@ conceptualContent:
       text: HDS (法國)
     - url: offering-hipaa-hitech.md
       itemType: reference
-      text: HIPAA/高科技
+      text: HIPAA / HITECH
     - url: offering-hitrust.md
       itemType: reference
       text: HITRUST
@@ -193,13 +193,13 @@ conceptualContent:
       text: C5 (德國)
     - url: offering-ccpa.md
       itemType: reference
-      text: 'CCPA (美國-加州) '
-    - url: offering-ccsl-irap-australia.md
+      text: '美國 (加州的 CCPA) '
+    - url: offering-irap-australia.md
       itemType: reference
-      text: 'IRAP/CCSL (澳大利亞) '
+      text: 'I同 (澳洲) '
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
-      text: 'CS 符號金牌 (日本) '
+      text: 'CS Mark Gold (Japan) '
     - url: https://www.trustcenter.cn/compliance/default.html#DJCP
       itemType: reference
       text: DJCP (中國)
@@ -216,7 +216,7 @@ conceptualContent:
       text: 歐盟示範條款
     - url: offering-eu-us-privacy-shield.md
       itemType: reference
-      text: 歐盟-US 隱私權防護板
+      text: 歐盟隱私權盾牌
     - url: https://www.trustcenter.cn/compliance/default.html#GB18030
       itemType: reference
       text: GB 18030 (中國)
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (中國)
 additionalContent:
   sections:
-  - title: 專用於 Azure 的規範服務
-    summary: 適用于 Azure 的規範服務，可協助您的組織遵守管理資料集合及使用的本國、地區和行業特定需求。
+  - title: Azure 的合規性方案
+    summary: Azure 專用合規性方案，可協助貴組織遵守規範資料收集和使用的國家、地區及產業特定需求。
     items:
     - title: 全域
       links:
