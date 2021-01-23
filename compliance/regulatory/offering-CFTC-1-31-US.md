@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ed1fe5aed5f8a0455b65225d706866ab783dc8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 72a849b369f2d72c9b2546d73158ee9237c18b93
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507328"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937038"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 
@@ -35,7 +35,7 @@ ms.locfileid: "49507328"
 
 ## <a name="microsoft-and-cftc-rule-131c-d"></a>Microsoft 和 CFTC 規則 1.31 (3-d) 
 
-金融服務客戶（如世界上最受管制的行業之一）受到複雜的置備，例如保留金融交易和相關通訊的非擦除和不可修改的狀態。 在最具規範性的1.31 原則中，美國證券先期傭金 (CFTC) 會 stipulates 規定的管制實體需求，以在電子化儲存介質上保留書籍和記錄。 儲存的記錄必須防篡改，但不能變更或刪除，直到指定的保留期間為止。 Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （含保留鎖定）可協助金融機構符合 CFTC 規則 1.31 (的儲存需求。 3-d) 。
+金融服務客戶（如世界上最受管制的行業之一）受到複雜的置備，例如保留金融交易和相關通訊的非擦除和不可修改的狀態。 其中一個最具規範性的規則1.31 是美國商品先期傭金 (CFTC) ，可 stipulates 對管制實體的嚴格需求，以選擇在電子化儲存介質上保留書籍和記錄。 儲存的記錄必須防篡改，但不能變更或刪除，直到指定的保留期間為止。 Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （含保留鎖定）可協助金融機構符合 CFTC 規則 1.31 (的儲存需求。 3-d) 。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -67,7 +67,6 @@ ms.locfileid: "49507328"
 - [Microsoft 金融服務合規性計劃](https://aka.ms/FSCP-Print)
 - [Microsoft 商務用雲端服務與金融服務](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融服務雲端風險評定工具](https://aka.ms/FFIEC-CSDT)
 - [Microsoft Office 365 保留原則](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 - [Microsoft 金融服務部落格](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

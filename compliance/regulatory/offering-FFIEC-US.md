@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 536377c718b2957e71efc268885d248addd69bed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2425d81ae5f539e1942203abc3afcd58319fb1dd
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507631"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49936938"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>聯邦金融機構檢查委員會 (FFIEC) 
 
@@ -35,12 +35,7 @@ ms.locfileid: "49507631"
 
 Microsoft Azure、Microsoft Power BI 和 Microsoft Office 365 是針對金融服務中心提供雲端服務的嚴格需求而建立的。 在我們的支援中，我們提供指導方針，協助您遵循資訊技術的 FFIEC 審核需求，以及在尋求您的 FFIEC 合規性義務時使用 Azure SOC attestations 的能力。
 
-加速金融服務部署： [下載 Azure 安全性和合規性 FFIEC 金融服務藍圖](https://servicetrust.officeppe.com/ViewPage/FFIECBlueprint)
-
-為了協助金融機構用戶端符合 Azure 的 FFIEC 合規性需求，Microsoft 已開發：
-
-- [雲端安全性診斷工具 * *](https://aka.ms/FFIEC-CSDT) 可協助您更有效率地進行 Azure 服務的風險評估。 此工具 (Excel 試算表) 功能19資訊安全網域 (例如網路及系統安全性，以及用以追蹤金融服務法規和其他相關標準的資訊和風險管理) ，以及 FFIEC IT 檢查手冊的需求。 此工具會說明 Azure 如何符合每個適用于技術服務提供者 (TSPs) 的要求。
-- [FFIEC 管制服務工作負載的 Azure 安全性和合規性藍圖](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)，與診斷工具配套。 它提供使用 Azure 雲端服務的指引，以及客戶遵循 FFIEC 需求和風險評估指導方針的考慮。
+為了協助金融機構用戶端符合 Azure 的 FFIEC 合規性需求，Microsoft 已 [針對 FFIEC 管制服務工作負載開發 Azure 安全性與合規性藍圖](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)。 它提供使用 Azure 雲端服務的指引，以及客戶遵循 FFIEC 需求和風險評估指導方針的考慮。
 
 為了進一步協助您遵循 FFIEC 需求，Microsoft 雲端服務提供獨立 CPA 公司所產生的 [SOC 認證報告](offering-SOC.md) 。 例如，SOC 1 Type 2 認證是以 AICPA SSAE 18 standard (為基礎，請參閱105節) 取代的 SAS 70，且適用于報告某些財務報告的控制項。 SOC 報告包含審計員對 Microsoft 控制項效能的觀點，以在指定的監控期間達到相關的控制目標。 當針對 Azure、Power BI 和 Office 365 上部署的資產採取 FFIEC 特有的合規性義務時，金融機構可使用此正式審計。
 
@@ -61,9 +56,9 @@ Azure 和 Office 365 SOC 認證報告。
 
 為了協助您符合這些義務，Microsoft 會依照上述方式，提供與 SOC 標準的相容性相關資訊。 不過，最後，您可以決定我們的服務是否遵循適用于您機構的特定法律和規定。 FFIEC 也會建議 ' 審計報告或評論的使用者不應完全依賴報告中所包含的資訊，以驗證 TSP 的內部控制環境。 FFIEC IT 測驗手冊的 [外包技術手冊](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) 中所討論的功能，應使用其他驗證與監控程式。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
@@ -71,7 +66,6 @@ Azure 和 Office 365 SOC 認證報告。
 - [雲端計算和美國法規原則的符合性地圖](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [FFIEC 審計 IT 測驗手冊](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
 - [FFIEC 外包技術服務 IT 測驗手冊](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
-- [Azure 金融服務雲端風險評定工具](https://aka.ms/FFIEC-CSDT)
 - [Azure 安全性與合規性 FFIEC 金融服務藍圖](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)
 
 ## <a name="other-microsoft-resources-for-financial-services"></a>其他適用於金融服務的 Microsoft 資源
