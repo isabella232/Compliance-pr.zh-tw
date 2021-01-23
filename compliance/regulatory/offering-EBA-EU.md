@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8b6b9a44137f024b9d4af35b62458d3e90e6db4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506218"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937028"
 ---
 # <a name="european-banking-authority-eba"></a>歐洲銀行業管理局 (EBA)
 
 ## <a name="about-the-eba"></a>關於 EBA
 
-[歐洲銀行業管理局](https://eba.europa.eu/) (EBA) 是「獨立的機關，確保對整個歐盟銀行業進行有效且一致的審慎規範與監督。」 在 2017 年 12 月，EBA 頒佈了它的[最終報告：委外給雲端服務提供者的建議](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)，其中概述了歐盟金融機構雲端計算委外的綜合性方法。 建議釐清了雲端委外的允許時機、對於從科技中立觀點測量風險套用原則型方法，以及致力於在歐洲和其他地區更加協調。
+[歐洲銀行業管理局](https://eba.europa.eu/) (EBA) 是「獨立的機關，確保對整個歐盟銀行業進行有效且一致的審慎規範與監督」。 在 2017 年 12 月，EBA 頒佈了它的[最終報告：委外給雲端服務提供者的建議](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)，其中概述了歐盟金融機構雲端計算委外的綜合性方法。 建議釐清了雲端委外的允許時機、對於從科技中立觀點測量風險套用原則型方法，以及致力於在歐洲和其他地區更加協調。
 
 EBA 建議在 2018 年 7 月生效，建立在歐洲銀行監管委員會於 2006 年發佈的一般委外準則上，並且進一步闡明。 事實上，這些建議的發行是在 Microsoft 提供實質性意見反應的諮詢期間過後。 許多最終建議歸因於 Microsoft 提供給 EBA 的意見。
 
@@ -66,9 +66,9 @@ Microsoft 發佈的[在 Microsoft 雲端中金融機構的風險評定和合規�
 ## <a name="resources"></a>資源
 
 - [Microsoft 服務信任入口網站](https://aka.ms/STP)
+- [適用於歐洲金融機構的 Microsoft 雲端檢查清單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IPF3)
 - [Microsoft 金融服務合規性計劃](https://aka.ms/FSCP-Print)
 - [Microsoft 商務用雲端服務與金融服務](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融服務雲端風險評定工具](https://aka.ms/FFIEC-CSDT)
 - [Microsoft 金融服務部落格](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
