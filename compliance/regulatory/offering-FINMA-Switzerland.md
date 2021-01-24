@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 054d6a9f86e1d696472ee2091bc5b98c4312f5b5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3dfd4993428de2884c1d7ea4d149da28f833508d
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506207"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49936947"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>金融市場監督管理局 (FINMA) 瑞士
 
@@ -69,5 +69,4 @@ Microsoft 檢查清單可協助瑞士金融公司執行 Microsoft 商務雲端�
 - [Microsoft 金融服務合規性計劃](https://aka.ms/FSCP-Print)
 - [Microsoft 商務用雲端服務與金融服務](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融服務雲端風險評定工具](https://aka.ms/FFIEC-CSDT)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
