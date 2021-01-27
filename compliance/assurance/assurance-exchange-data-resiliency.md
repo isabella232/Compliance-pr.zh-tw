@@ -19,17 +19,17 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: f2e55701f5825a5edb42e69d23f0ce7553f7ba17
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 2cdd37d34612421cc7a9e4687134e2a1e2b1aeec
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669734"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012939"
 ---
 # <a name="exchange-online-data-resiliency-in-microsoft-365"></a>Microsoft 365 中的 Exchange Online 資料恢復功能
 
-> [!IMPORTANT]
->  當我們繼續以保留信箱內容的不同方式投資，我們宣佈 exchange 系統管理中心的封存 In-Place 封存 (EAC) 在 Exchange Online 中。 從2020年7月1日開始，您將無法建立新的 In-Place 保留。 不過，您仍然可以管理 EAC 中的 In-Place，或是使用 Exchange Online PowerShell 中的 **Set-MailboxSearch** Cmdlet 來管理。 不過，從2020年10月1日開始，您將無法管理 In-Place 保留。 您只能在 EAC 或使用 **Remove-MailboxSearch** Cmdlet 中移除它們。 仍支援在 Exchange Server 和 Exchange 混合式部署中使用 In-Place 的保留。 如需 Exchange Online 中退休的 In-Place 封存的詳細資訊，請參閱 [舊版 eDiscovery tools 的退休](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)。
+>[!IMPORTANT]
+>當我們繼續以保留信箱內容的不同方式投資，我們宣佈 exchange 系統管理中心的封存 In-Place 封存 (EAC) 在 Exchange Online 中。 從2020年7月1日開始，您將無法建立新的 In-Place 保留。 不過，您仍然可以管理 EAC 中的 In-Place，或是使用 Exchange Online PowerShell 中的 **Set-MailboxSearch** Cmdlet 來管理。 不過，從2020年10月1日開始，您將無法管理 In-Place 保留。 您只能在 EAC 或使用 **Remove-MailboxSearch** Cmdlet 中移除它們。 仍支援在 Exchange Server 和 Exchange 混合式部署中使用 In-Place 的保留。 如需 Exchange Online 中退休的 In-Place 封存的詳細資訊，請參閱 [舊版 eDiscovery tools 的退休](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)。
 
 原有範圍暫止 會保留所有的信箱內容，包括刪除的項目和修改項目的原始版本。 [就地 eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)搜尋時會傳回這類信箱項目。 當您設定使用者信箱的 In-Place 時，對應的封存信箱中的內容 (若啟用) 也會保留，並在 eDiscovery 搜尋中傳回。
 

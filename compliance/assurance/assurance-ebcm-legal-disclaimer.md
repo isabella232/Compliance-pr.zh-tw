@@ -16,16 +16,16 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 431b0eb84092e8dfaa1fdfe7fec67de5dc0e9397
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 01bdba8a9634baf537a435301dbc46b1d5dce985
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506294"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012949"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>企業業務連續性法律免責聲明
 
-## <a name="microsoft-corporation-non-disclosure-agreement-for-compliance-materials"></a>規範材料的 Microsoft Corporation 非公開合約
+## <a name="microsoft-corporation-non-disclosure-agreement-for-compliance-materials"></a>規範材料的 Microsoft corporation 非公開合約
 
 請閱讀此！ 這是 MICROSOFT CORPORATION (以下簡稱 "MICROSOFT") 與這些資料的收受者 (無論是個人、公司或其他實體 (以下簡稱「您」)) 之間的法律協議。 按下 [我接受]、下載或使用本資料即表示您同意這些條款。 如果本協議附加於資料中，則透過存取或使用附加的資料，即表示您同意這些條款。
 
@@ -33,7 +33,7 @@ ms.locfileid: "49506294"
     -  () 若要避免公開或將機密資訊散佈到任何協力廠商，請從 Microsoft 向公司/您公開機密資訊的日期中取得五 (5) 年。 
     -  (b) 避免複製或匯總機密資訊。和 
     -  (c) 採取合理的安全性防範措施，至少不如保護其個人機密資訊所採取的防範措施，但不是保持機密資訊的機密資訊。 不過，您/公司可能會根據司法或其他政府訂單披露機密資訊，但前提是您/公司 
-        -  (i) 會在披露此披露之前給 Microsoft 合理的通告，並允許 Microsoft 合理的機會尋求保護性訂單或對等專案，或 (ii) 從適當的司法或政府機構取得書面保證，以適用的法律或法規規定其可承受的最高保護等級。 機密資訊不會包含任何在您/公司違反任何對 Microsoft 義務的情況下，公開提供的資訊，但會將其指定： () 是（或後來）。 
+        -  (i) 會在披露此披露之前給 Microsoft 合理的通告，並允許 Microsoft 合理的機會尋求保護性訂單或對等專案，或 (ii) 從適當的司法或政府機構取得書面保證，以適用的法律或法規規定其可承受的最高保護等級。 機密資訊不會包含任何在您/公司違反任何對 Microsoft 義務的情況下，就會公開提供的資訊，但為 () 是或更新的： 
         - 針對您/公司所知的 (ii) （依照本合約條款之條款，對您/公司公開之前的資訊）;
         - 從 Microsoft 以外的其他來源，對您/公司所知的 (iii) ，而不是違反對 Microsoft 的機密性義務。或
         -  (iv) 是由您/公司獨立開發。 就本段落而言，「機密資訊」是指Microsoft 指定為機密的非公開資訊，或者在與公開有關的情況下，收受人應將其視為機密。 「機密資訊」包括（但不限於）有形或無形表單中與和/或包括發行或 unreleased Microsoft 軟體或硬體產品、行銷或促銷任何 Microsoft 產品、Microsoft 商務原則或作法的資訊，以及 Microsoft 要視為機密的其他人所收到的資訊。

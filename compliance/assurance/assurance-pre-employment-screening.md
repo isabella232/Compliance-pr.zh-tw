@@ -1,5 +1,5 @@
 ---
-title: Microsoft 雇用預先篩選
+title: Microsoft 職前檢測
 description: 在本文中，您可以找到 microsoft 365 的 Microsoft 預先雇用篩選慣例。
 ms.author: robmazz
 author: robmazz
@@ -19,16 +19,16 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 03936deb44b950d289c2f1b3cad896352bf3715f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6b285f6b0370966cc66a4fed1309a88aec89e839
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506254"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012909"
 ---
-# <a name="microsoft-pre-employment-screening"></a>Microsoft 雇用預先篩選
+# <a name="microsoft-pre-employment-screening"></a>Microsoft 職前檢測
 
-Microsoft 致力於維護安全且安全的環境，以適當保護員工、客戶、財產、個人資料及專有資訊。 全面的後臺篩選程式是實現此目標的必要條件。 所有適用于雇用和 internship 的候選人都是必要的，可在 Microsoft 開始雇用之前，先完成背景濾即用。 在特定角色中的目前員工可能也會受到定期重新篩選的制約。
+Microsoft 致力於維護安全且安全的環境，以適當保護員工、客戶、財產、個人資料及專有資訊。 全面的後臺篩選程式是實現此目標的必要條件。 所有適用于雇用和 internship 的候選人都是必要的，可在 Microsoft 開始雇用之前，先完成背景濾即用。 在特定角色中的目前員工可能也會受到定期 rescreening 的制約。
 
 ## <a name="the-microsoft-personnel-screening-standard"></a>Microsoft 人員篩選標準
 
@@ -46,25 +46,25 @@ Microsoft 365 的人員篩選慣例，會與 Microsoft 的公司標準和本國�
 - 將內部的 Microsoft 員工轉移或移至現有的角色，目前包括篩選為已定義的需求。
 - 變更範圍以包含篩選為已定義需求的現有角色。
 
-## <a name="microsoft-pre-employment-screening"></a>Microsoft 雇用預先篩選
+## <a name="microsoft-pre-employment-screening"></a>Microsoft 職前檢測
 
 Microsoft 的全域安全性部門負責確保候選人在開始雇用 Microsoft 的工作之前，進行背景的篩選。
 在當地法律允許的範圍內，檢查包含下列專案：
 
 - 在美國或在歐洲、中東和亞洲的政府簽發檔中確認身分識別的 SSN 追蹤。
-- 刑事病史會檢查 felony 和民事案件在州、縣和當地層級，以及在美國適當的聯邦層級檢查的七年。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
+- 刑事病史會在州、縣和當地層級檢查 felony 和民事案件的七年，如果有適用于美國的聯邦階層。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
 - 獲得最高教育程度的確認
-- 5年入職記錄
+- 五年期的雇用歷程記錄
 - 全球性制裁及強制執行檢查（包括國外資產的辦事處） (辦公室 OFAC) 清單、工業和 Security (BIS) 清單和 Office 的國防商貿控制排除人員 (DDTC) 清單檢查。
 
 ## <a name="supplier-screening"></a>供應商篩選
 
-Microsoft 要求供應商 (臨時員工) 進行預先放置背景檢查，以執行必須存取 Microsoft 擁有或租用之設施的服務或專案，或存取 Microsoft 資源，例如電子郵件、網路存取、cardkey 或其他存取徽章。
+Microsoft 要求供應商 (臨時人員) 進行預先放置背景檢查，以執行必須存取 Microsoft 擁有或租用之設施的服務或專案，或存取 Microsoft 資源，例如電子郵件、網路存取、卡金鑰或其他存取標記。
 
-在本機法律提供者遮罩檢查所允許的範圍內包含下列專案：
+在當地法律允許的程度範圍內，供應商篩選檢查包含下列專案：
 
 - 在美國或在歐洲、中東和亞洲的政府簽發檔中確認身分識別的 SSN 追蹤。
-- 刑事病史會檢查 felony 和民事案件在州、縣和當地層級，以及在美國適當的聯邦層級檢查的七年。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
+- 刑事病史會在州、縣和當地層級檢查 felony 和民事案件的七年，如果有適用于美國的聯邦階層。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
 - 獲得最高教育程度的確認
 - 全球制裁並強制執行檢查
 
@@ -72,14 +72,14 @@ Microsoft 要求供應商 (臨時員工) 進行預先放置背景檢查，以執
 
 在國際上，上述需求將會在2020年9月後於所有國家/地區實施，而且目前未實施，協力廠商的合約會指定 Microsoft 在進行篩選時必須執行的要求，而提供者會在撰寫已成功完成背景檢查的情況下，負責 attesting 至 Microsoft。
 
-## <a name="microsoft-cloud-background-check"></a>Microsoft cloud 背景檢查
+## <a name="microsoft-cloud-background-check"></a>Microsoft 雲端背景檢查
 
-若員工聘用的候選人是美國的 Microsoft 365 相關服務，則必須使用 Microsoft 雲端背景檢查。 在美國，具有客戶資料存取權的 microsoft 員工，必須遵循所有 Microsoft 365 服務所需的 Microsoft 雲端背景檢查程式。 在美國境外，程式會有所不同。 例如，針對德國的 Microsoft 雲端使用資料受信者核准模型，其設計目的是為了確保資料受信者 (德國公司) ，而不是 Microsoft，以控制客戶資料的存取權。 德國的 Microsoft 雲端是從德國送出的資料中心，而包含資料受信者的技術人員 (OC) 中也有德國的作業中心。 資料受信者都可以運作、維護和控制資料中心與 OC 功能。
+若員工聘用的候選人是美國的 Microsoft 365 相關服務，則必須使用 Microsoft 雲端背景檢查。 在美國，具有客戶資料存取權的 microsoft 員工，必須遵循所有 Microsoft 365 服務所需的 Microsoft 雲端背景檢查程式。 在美國境外，程式會有所不同。 例如，針對德國的 Microsoft 雲端使用資料受信者核准模型，其設計目的是為了確保資料受信者 (德國公司) ，而不是 Microsoft，以控制客戶資料的存取權。 德國的 Microsoft 雲端是從德國送出的資料中心，而包含資料受信者的技術人員 (OC) 中也有德國的作業中心。 資料受信者均可運作、維護及控制資料中心與 OC 功能。
 
 若要使用本機法律所允許的程度，請執行下列檢查，做為 Microsoft Cloud 背景檢查的一部分。
 
 - 美國：社交安全性號碼追蹤
-- 刑事病史會檢查 felony 和民事案件在州、縣和當地層級，以及在美國適當的聯邦層級檢查的七年。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
+- 刑事病史會在州、縣和當地層級檢查 felony 和民事案件的七年，如果有適用于美國的聯邦階層。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
 - 全球性制裁及強制執行檢查（包括國外資產的辦事處） (辦公室 OFAC) 清單、工業和 Security (BIS) 清單和 Office 的國防商貿控制排除人員 (DDTC) 清單檢查。
 
 Microsoft Cloud 背景檢查的結果會儲存在我們的員工資料庫中，並聯機至我們的資料中心存取控制系統。 如果 Microsoft Cloud 背景檢查到期，且員工未加以更新，將會取消對 Microsoft 365 服務的存取，且無法再使用，直到 Microsoft Cloud 背景檢查完成為止。 當與 Microsoft 的雇用關聯結束時，會立即撤銷所有資料中心存取。
