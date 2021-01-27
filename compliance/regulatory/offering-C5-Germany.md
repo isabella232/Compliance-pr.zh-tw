@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5d73dfe71ea0872e02e516e0c952d017ded22150
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 172b031f4193a24a36126d3aabfadb02f3f20247
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507001"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012999"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>雲端運算合規性控制目錄 (C5)
 
@@ -31,7 +31,7 @@ ms.locfileid: "49507001"
 
 C5 需求目錄的目的旨在為認證雲端服務提供者提供一致的安全架構，並向客戶保證將對其資料進行安全管理。
 
-C5 基於國際公認的 IT 安全標準，例如 ISO/IEC 27001:2013、Cloud Security Alliance Cloud Controls Matrix 3.0.1，以及 BSI 自己的 IT-Grundschutz 目錄。 此目錄包含跨 17 個網域的 114 個需求 (例如資訊安全性與實際安全性的組織)，其中包含所有雲端服務提供者的基本安全性需求，以及處理高度機密資料的額外需求和需要高可用性的情況。
+C5 基於國際公認的 IT 安全標準，例如 ISO/IEC 27001:2013、Cloud Security Alliance Cloud Controls Matrix 3.0.1，以及 BSI 自己的 IT-Grundschutz 目錄。 此目錄包含跨 17 個網域的 114 個需求 (例如資訊安全性與實際安全性的組織)，其中包含所有雲端服務提供者的基本安全性需求，以及處理高度機密資料的其他需求和需要高可用性的情況。
 
 BSI 也強調透明度。 在審核過程中，雲端提供者必須包含詳細的系統描述，並公開環境參數 (例如管轄權和資料處理位置、服務的佈建，以及其他發給雲端服務的認證)，以及雲端提供者對公共機構有公開義務的相關資訊。 這可協助潛在的雲端客戶決定雲端服務是否符合其基本需求，例如符合法律需求 (如資料保護、公司政策)，或能夠應付工業間諜的威脅。
 

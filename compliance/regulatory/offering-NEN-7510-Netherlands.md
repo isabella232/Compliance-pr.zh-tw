@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 68d9a7a3906ae848dacc515a00464f15ca9d09fb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3688ffe46405e6c8eea8f6896a94d8470151bb4d
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507552"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012969"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -31,7 +31,7 @@ ms.locfileid: "49507552"
 
 ## <a name="microsoft-and-nen-75102011"></a>Microsoft 和 NEN 7510:2011
 
-Microsoft 已經分析我們目前的認證與保證聲明，並建立 [NEN 7510 涵蓋範圍報告](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=3285c45c-921c-49ad-b881-be43e0b70490&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides) (可在服務信任平台上取得)，這會針對 Microsoft 身為雲端服務提供者而負責的 NEN 7510 控制措施，對應這些認證和保證聲明。 本文件可協助客戶判斷他們必須實作其他哪些控制措施，以確保他們使用 Microsoft 雲端服務儲存或處理的患者健康狀況資訊符合 NEN 7510。
+Microsoft 已經分析我們目前的認證與保證聲明，並建立 [NEN 7510 涵蓋範圍報告](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=3285c45c-921c-49ad-b881-be43e0b70490&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides) (可在服務信任平台上取得)，這會針對 Microsoft 身為雲端服務提供者而負責的 NEN 7510 控制措施，對應這些認證和保證聲明。 本文件可協助客戶判斷他們必須實作哪些其他控制措施，以確保他們使用 Microsoft 雲端服務儲存或處理的患者健康狀況資訊符合 NEN 7510。
 
 了解如何使用 Azure 安全性與合規性藍圖加快 NEN 7510 部署：[下載 Microsoft Cloud — Azure 和 Office 365 NEN7510-2011 標準涵蓋範圍使用者指南 \(英文\)](https://aka.ms/Azure-NEN7510-2011)
 
@@ -49,11 +49,11 @@ Microsoft 已經分析我們目前的認證與保證聲明，並建立 [NEN 7510
 
 **使用 Microsoft 雲端服務的客戶是否符合 NEN 7510 規範？**
 
-證明 NEN 合規性是醫療保健組織 (「客戶」)的責任。 使用雲端服務廠商時，客戶通常需要廠商的保證，並加入自己的 (額外) 技術和組織決策、選擇和流程。 這會導致客戶對其 NEN 7510 合規性的整體評估，可以將其提交給第三方稽核者以進行檢閱或認證。 NEN 7510 涵蓋範圍報告可深入了解 Microsoft 雲端服務所涵蓋的 NEN 7510 控制措施，但不涵蓋端對端的合規性。
+證明 NEN 合規性是醫療保健組織 (「客戶」)的責任。 使用雲端服務廠商時，客戶通常需要廠商的保證，並加入自己的 (其他) 技術和組織決策、選擇和流程。 這會導致客戶對其 NEN 7510 合規性的整體評估，可以將其提交給第三方稽核者以進行檢閱或認證。 NEN 7510 涵蓋範圍報告可深入了解 Microsoft 雲端服務所涵蓋的 NEN 7510 控制措施，但不涵蓋端對端的合規性。
 
 **Microsoft 是否符合 NEN 7510 規範？**
 
-NEN 7510 合規性的責任適用於荷蘭醫療保健組織。 它會要求組織實作資訊安全管理系統，並使用適當的技術和組織措施處理風險。 對於其角色為雲端服務提供者的 Microsoft 而言，NEN 7510 合規性並非目標，在技術上也不可行。 當客戶實作或使用 Microsoft 雲端服務時，這些服務可能處於 NEN 7510 評估範圍內。 不過，組織必須加入屬於整體 NEN 7510 評估一部分的自己的 (額外) 控制措施、選擇和流程。 此報告的目標是證明醫療保健實體可以透過符合 NEN 7510 規範的方式，採用 Microsoft 雲端服務。
+NEN 7510 合規性的責任適用於荷蘭醫療保健組織。 它會要求組織實作資訊安全管理系統，並使用適當的技術和組織措施處理風險。 對於其角色為雲端服務提供者的 Microsoft 而言，NEN 7510 合規性並非目標，在技術上也不可行。 當客戶實作或使用 Microsoft 雲端服務時，這些服務可能處於 NEN 7510 評估範圍內。 不過，組織必須加入屬於整體 NEN 7510 評估一部分的自己的 (其他) 控制措施、選擇和流程。 此報告的目標是證明醫療保健實體可以透過符合 NEN 7510 規範的方式，採用 Microsoft 雲端服務。
 
 **此報告未顯示 100% 的涵蓋範圍。NEN 7510 合規性是否不可行？**
 

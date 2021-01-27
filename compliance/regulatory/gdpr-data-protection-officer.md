@@ -17,12 +17,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: f41583c07ec5a8d1c711444b43daf0fd8de754ea
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 127528f40f5939b8fe0a5585cee7a212d35af82e
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507229"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012929"
 ---
 # <a name="microsofts-data-protection-officer"></a>Microsoft 的資料保護長
 
@@ -38,7 +38,7 @@ DPO 需適當且即時負責處理與個人資料保護相關的所有主要問�
 
 ## <a name="position-of-the-data-protection-officer"></a>資料保護長的職位
 
-歐盟 DPO 直屬 Microsoft 的隱私權長 (Microsoft 公司與法律事務部門資深主管) 管轄。DPO 角色具有自主權，可以獨立、公正的方式執行職務。DPO 可透過隱私權長的組織，視需要行使訓練及客戶回應資源來執行 DPO 職務。需透過保密合約，來約束與 DPO 工作相關的機密性。  
+歐盟 DPO 直屬 Microsoft 的隱私權長 (Microsoft 公司與法律事務部門資深主管) 管轄。DPO 角色具有自主權，可以獨立、公正的方式執行職務。DPO 可透過隱私權長的組織，視需要行使訓練及客戶回應資源來執行 DPO 職務。DPO 使用保密合約對其工作進行保密。  
 
 ## <a name="contact"></a>連絡人
 
