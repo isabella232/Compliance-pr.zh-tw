@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 7be8b0dce164dc14ff70ca3bc91b805e84eb0363
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669744"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012978"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Microsoft 支援服務與專業服務資料主體要求
 
@@ -30,7 +30,7 @@ ms.locfileid: "49669744"
 
 Microsoft 專業服務包括一組多元化的技術結構設計師、工程師、顧問師，以及致力於達成 Microsoft 任務的支援專業人員，以期讓客戶更有能力與成就。我們的專業服務小組總計包括超過 21,000 名顧問師、數位顧問、頂級支援、工程師和專業銷售人員，這些專業人員在全球 191 個國家/地區工作，可支援 46 種不同的語言，每個月管理數百萬件約定，以及透過內部部署、電話、網路、社群和自動化工具參與客戶與合作夥伴互動。該組織具備廣泛的 Microsoft 產品組合專業知識，並運用廣闊的合作夥伴、技術社群、工具、診斷及通道網路來連結我們與企業客戶。
 
-移至 [Microsoft 專業服務安全性文件網頁](https://www.microsoft.com/zh-TW/professionalservices/overview)，以深入了解 Microsoft 專業服務。 Microsoft 專業服務很認真看待其在一般資料保護規定 (GDPR) 下所需承擔的責任。 本文件中的資訊是為了回答客戶有關 Microsoft 的支援和諮詢供應項目如何根據 GDPR 回應及協助客戶回應資料主體要求 (DSR) 義務的問題。
+移至 [Microsoft 專業服務安全性文件網頁](https://www.microsoft.com/professionalservices/overview)，以深入了解 Microsoft 專業服務。 Microsoft 專業服務很認真看待其在一般資料保護規定 (GDPR) 下所需承擔的責任。 本文件中的資訊是為了回答客戶有關 Microsoft 的支援和諮詢供應項目如何根據 GDPR 回應及協助客戶回應資料主體要求 (DSR) 義務的問題。
 
 ### <a name="introduction-to-dsrs"></a>DSR 簡介 
 
@@ -96,25 +96,25 @@ Microsoft 會如何回應客戶連絡人或 IT 系統管理員的要求來執行
 
 客戶可以選擇透過一般支援或諮詢管道 (與此 DSR 不同) 對於在專業服務約定期間所收集的資料進行變更。舉例來說，經要求 Microsoft 可以協助刪除支援約定 (請參閱 *客戶所提供資料的 DSR 指南* 一節)。
 
-***僅供說明的範例** _
+*僅供說明的範例*
 
 John 是 O365 企業版客戶的專案經理，具有一個開放的諮詢約定和兩個已關閉的約定。 現在，John 即將離開公司，並希望刪除其資料。 John 聯繫將之視為專案經理的隱私權回復中心。 系統通知 John，無法從先前的 (已關閉的) 約定或開放約定中的任何資料內刪除他的名字。 不過，如果他找出替代連絡人，隱私權回復中心將會以該聯絡人取代 John 做為目前開放約定的聯絡人狀態。 John 告知 Microsoft，Jane 將是他的替代連絡人，而 Microsoft 會在所有系統上對此進行變更。
 
 ## <a name="dsr-for-an-end-user-engaging-microsoft"></a>Microsoft 使用者的 DSR
 
-_Microsoft 會如何回應客戶員工或其他資料主體的要求來執行其權利。*
+*Microsoft 會如何回應客戶員工或其他資料主體的要求來執行其權利。*
 
 如果客戶員工或其他資料主體與 Microsoft 連絡，以針對 Microsoft 以資料處理者身分收集的資料執行其權限，則該資料主體會被告知他們需要連絡 Microsoft 客戶 (資料控制者)，以執行這些權限。Microsoft 不會採取進一步的動作。
 
 如果資料主體也與 Microsoft 連絡，以針對在 Microsoft 為資料控制者 (例如家庭用戶支援、商業客戶連絡人) 情況下所收集的資料執行其權限，則 Microsoft 會分別回應個人資料的資料主體權限要求。
 
-***僅供說明的範例** _
+*僅供說明的範例*
 
 珮雯是企業客戶的員工，Contoso 已授予她 Dynamics 365 帳戶的權限。 她連絡 Microsoft 要求將其所有資料刪除，並轉介至隱私權回應中心。 珮雯填寫了要求表單。 隱私權回應中心識別其具有企業使用者身分，並告知她必須透過 Contoso 才能刪除其企業資料。 隱私權回應中心同時也識別出她是 Microsoft X-Box 使用者，並刪除其家庭用戶 Microsoft 帳戶中的資料。
 
 ## <a name="dsr-for-customer-provided-data-commercial-support"></a>客戶所提供資料的 DSR：商業支援
 
-_當客戶收到員工或其他資料主體的要求要執行權限，且該資料主體的個人資料在支援約定期間由 Microsoft 支援服務所收集，在此情況下如何接收 Microsoft 的協助。*
+*當客戶收到員工或其他資料主體的要求要執行權限，且該資料主體的個人資料在支援約定期間由 Microsoft 支援服務所收集，在此情況下如何接收 Microsoft 的協助。*
 
 當客戶與 Microsoft 支援服務約定時，Microsoft 會收集客戶的支援資料以解決需要支援約定的任何問題。 這項支援資料包含 Microsoft 與客戶的互動 (例如聊天、電話、電子郵件、網頁提交)，加上客戶傳送給 Microsoft，或 Microsoft 經客戶同意從客戶 IT 環境或線上服務租用戶擷取的任何內容檔案，用以解決支援問題。 在主要支援的情況下，這還會包含我們向您收集的任何資料，以主動預防日後問題。 不過，這會排除 Microsoft 與客戶商務關係 (例如帳單記錄) 的其他資訊。
 
@@ -132,9 +132,9 @@ _當客戶收到員工或其他資料主體的要求要執行權限，且該資�
 
 *選項 A：跨 Microsoft 支援服務客戶 DSR*。將 DSR 套用於 Microsoft 支援環境中所有客戶的支援資料。若要這麼做，客戶可以要求 Microsoft 將 DSR 套用於收集的所有支援資料。
 
-*選項 B：特定客戶參與。* 使用線上系統檢閱工單，然後找出特定的約定，其中包含相關的個人資料並向 Microsoft 報告。 如果客戶無法搜尋約定 (工單)，Microsoft 會嘗試提供協助以執行搜尋。
+*選項 B：特定客戶參與*。 使用線上系統檢閱工單，然後找出特定的約定，其中包含相關的個人資料並向 Microsoft 報告。 如果客戶無法搜尋約定 (工單)，Microsoft 會嘗試提供協助以執行搜尋。
 
-***識別出約定之後，要求將 DSR 套用於記錄的特定部分，或 Microsoft 中與該約定相關的所有項目。** _
+*識別出約定之後，要求將 DSR 套用於記錄的特定部分，或 Microsoft 中與該約定相關的所有項目。*
 
 若要找出特定的約定，客戶需要搜尋其約定。對於頂級客戶，客戶的合約服務管理員 ("CSM") 可看見在該合約排程下建立的所有支援要求 (SR)。對於非頂級客戶，則提供對等的支援約定入口網站，例如透過線上服務支援區域。
 
@@ -175,7 +175,7 @@ CSM 可移至 [服務中心](https://serviceshub.microsoft.com/support/contactsu
 
 Microsoft 的所有資料都有套用保留期與刪除原則，這些會根據風險及其他因素而有所不同。
 
-若客戶要求跨支援系統刪除資料主體的個人資料，可透過 TAM 進行或在 [服務中心] 或對等系統中填寫支援要求 (SR)。 您_必須*指出此要求是協助您在 GDPR 下的 DSR。
+若客戶要求跨支援系統刪除資料主體的個人資料，可透過 TAM 進行或在 [服務中心] 或對等系統中填寫支援要求 (SR)。 您 *必須* 指出此要求是協助您在 GDPR 下的 DSR。
 
 *選項 A：跨 Microsoft 支援客戶 DSR*。 針對跨系統 DSR，客戶必須提供 Microsoft 需要的個人資料，以識別所需資料 (例如電子郵件地址、電話號碼)。 Microsoft 不會建立相互關聯或研究記錄，而僅會在客戶所提供的識別項上直接進行搜尋。 找到資料時，Microsoft 就會刪除所有約定和所有相關資料。
 
@@ -198,7 +198,7 @@ Microsoft 的所有資料都有套用保留期與刪除原則，這些會根據�
 
 附註：匯出的資料不包含 Microsoft 的智慧財產或可能危及服務安全性或穩定性的任何資料。
 
-***僅供說明的範例** _
+*僅供說明的範例*
 
 John 是企業客戶 Contoso 的主要 CSM，Contoso 使用 O365 做為員工電子郵件並使用 Azure 裝載 Contoso SQL 資料庫。Contoso 擁有多個開放及結束的工單。最近，Microsoft 支援服務在 Contoso 的同意下，將 SQL 資料庫副本移到 DTM 中，以進行支援與疑難排解。
 
@@ -214,7 +214,7 @@ Microsoft 支援服務執行了以上所有刪除，且根據客戶要求，TAM 
 
 ## <a name="dsr-guide-for-customer-provided-data-in-consulting-services-including-migration-services"></a>諮詢服務中客戶所提供資料的 DSR 指南包括移轉服務
 
-當客戶收到員工或其他資料主體的要求要執行權限，且該資料主體的個人資料在諮詢約定期間由 Microsoft 所收集，在此情況下如何接收 Microsoft 的協助。
+*當客戶收到員工或其他資料主體的要求要執行權限，且該資料主體的個人資料在諮詢約定期間由 Microsoft 所收集，在此情況下如何接收 Microsoft 的協助。*
 
 ## <a name="microsoft-consulting-services"></a>Microsoft 諮詢服務
 
