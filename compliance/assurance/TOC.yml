@@ -76,6 +76,16 @@
   items:
     - name: 事件管理概觀
       href: assurance-incident-management.md
+    - name: Microsoft 365 安全性中心事件管理
+      href: assurance-security-incident-management.md
+    - name: 安全性事件管理準備
+      href: assurance-sim-preparation.md
+    - name: 安全性事件管理內含項目、根除、復原
+      href: assurance-sim-containment-eradication-recovery.md
+    - name: 安全性事件管理偵測和分析
+      href: assurance-sim-detection-analysis.md
+    - name: 安全性事件管理事件後續活動
+      href: assurance-sim-post-incident-activity.md
 - name: 網路安全性
   items:
     - name: 網路安全性概觀
