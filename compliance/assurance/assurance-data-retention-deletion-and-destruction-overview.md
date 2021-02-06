@@ -18,12 +18,12 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b7ddad5252278c730a73a861522e672c0c5a4717
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 025e2c422c05dbffdf5a510f93809beaed3fe09d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506192"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120652"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Microsoft 365 中的資料保留、刪除及銷毀
 
@@ -52,7 +52,7 @@ Microsoft 有一個適用于 Microsoft 365 的資料處理標準原則，可指�
 
 針對任何訂閱，訂戶可以聯繫 Microsoft 支援服務，並要求進行加急訂閱取消布建。 在此程式中，系統管理員進入 Microsoft 所提供的封鎖代碼之後，會在三天內刪除所有使用者資料。 這包括 SharePoint 線上和 Exchange Online 中的資料，保留或儲存于非使用中的信箱。
 
-如需加速取消布建的詳細資訊，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+如需加速取消布建的詳細資訊，請參閱 [取消您的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 
 ## <a name="related-links"></a>相關連結
 

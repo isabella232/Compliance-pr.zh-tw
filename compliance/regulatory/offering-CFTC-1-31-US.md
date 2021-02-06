@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 72a849b369f2d72c9b2546d73158ee9237c18b93
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 474cd04d98dc91668e48d1999f4fbd91d81523ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937038"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121752"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 
@@ -39,11 +39,11 @@ ms.locfileid: "49937038"
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
-若要評估 Azure 與 CFTC 規則1.31 的相容性 (3-d) 中，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 在產生的報告中， [CFTC 1.31 (c) – (d) 法規遵從性評估： Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)，Cohasset 使用原則鎖定選項驗證 [Azure 不可變化的 blob 儲存區](https://docs.microsoft.com/azure/storage/blobs/storage-blob-immutable-storage) ，當用來保留以不可讀寫的 blob 和不可讀寫的 blob 儲存（ (格式）時，就會符合 CFTC 規則的原則型需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以依靠 Azure 不可篡改的 Blob 存放區儲存為保留記錄的一個停止車間雲端方案。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
+若要評估 Azure 與 CFTC 規則1.31 的相容性 (3-d) 中，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 在產生的報告中， [CFTC 1.31 (c) – (d) 法規遵從性評估： Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)，Cohasset 使用原則鎖定選項驗證 [Azure 不可變化的 blob 儲存區](/azure/storage/blobs/storage-blob-immutable-storage) ，當用來保留以不可讀寫的 blob 和不可讀寫的 blob 儲存（ (格式）時，就會符合 CFTC 規則的原則型需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以依靠 Azure 不可篡改的 Blob 存放區儲存為保留記錄的一個停止車間雲端方案。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
 
 ### <a name="microsoft-365"></a>Microsoft 365
 
-針對 [CFTC 1.31 (c)  (d) ](https://docs.microsoft.com/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 需求，Cohasset 驗證 Microsoft 365 包含封存功能，可讓受管制的客戶（包括經紀人代理商）儲存資料，以協助其符合每秒記錄保留的需求。 Microsoft 365 中的保留功能可協助保留大量的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 具體說來，在 Microsoft 365 中的封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間的資料，而不是以不可重寫、不可讀寫的格式使用。
+針對 [CFTC 1.31 (c)  (d) ](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 需求，Cohasset 驗證 Microsoft 365 包含封存功能，可讓受管制的客戶（包括經紀人代理商）儲存資料，以協助其符合每秒記錄保留的需求。 Microsoft 365 中的保留功能可協助保留大量的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 具體說來，在 Microsoft 365 中的封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間的資料，而不是以不可重寫、不可讀寫的格式使用。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
@@ -56,17 +56,17 @@ ms.locfileid: "49937038"
 
 [Office 365 & CFTC 規則1.31： Office 365 中的封存、資料保留及 SEC 規則17a-4 規範
 
-## <a name="how-to-implement"></a>實作方法
+## <a name="how-to-implement"></a>實作方法：
 
 - [金融服務法規](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)：適用于雲端計算和 Microsoft online 服務之重要的 US 規章原則的符合性地圖。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
-- [金融使用案例](https://docs.microsoft.com/azure/industry/financial/)：使用案例概覽、課程及其他資源建立適用於金融服務的 Azure 解決方案。
+- [金融使用案例](/azure/industry/financial/)：使用案例概覽、課程及其他資源建立適用於金融服務的 Azure 解決方案。
 
 ## <a name="resources"></a>資源
 
 - [Microsoft 金融服務合規性計劃](https://aka.ms/FSCP-Print)
 - [Microsoft 商務用雲端服務與金融服務](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Microsoft Office 365 保留原則](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+- [Microsoft Office 365 保留原則](/office365/securitycompliance/retention-policies)
 - [Microsoft 金融服務部落格](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

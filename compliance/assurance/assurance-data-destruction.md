@@ -18,12 +18,12 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: f2b0bee1bd876eb53d5287919be7b02f5ee5ade6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d97c5f1be6bf09a772244aac14086171643af89e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507070"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120672"
 ---
 # <a name="data-destruction-in-microsoft-365"></a>Microsoft 365 中的資料銷毀
 
@@ -41,4 +41,4 @@ Microsoft 會使用資料擦除的單位從 [極端的通訊協定方案](https:
 
 ## <a name="virtual-data-destruction"></a>虛擬資料銷毀
 
-Microsoft 具有處理有效虛擬資料銷毀的資料處理原則和程式，以防範在服務租使用者間不正當的資料共用，或在服務中實刪除之後可存取的可能性。 從一個承租人中的服務刪除的資料無法存取另一個服務租使用者，即使已重新指派任何基礎實體儲存體也是一樣。 這是多種虛擬化和分散技術用來調整虛擬環境的複雜效果的結果，每個服務租使用者內之應用程式的使用中刪除行為 (例如 [分頁清零](https://docs.microsoft.com/office365/securitycompliance/office-365-exchange-online-data-deletion#page-zeroing)) ，以及所需的媒體和應用程式內容加密處理常式。
+Microsoft 具有處理有效虛擬資料銷毀的資料處理原則和程式，以防範在服務租使用者間不正當的資料共用，或在服務中實刪除之後可存取的可能性。 從一個承租人中的服務刪除的資料無法存取另一個服務租使用者，即使已重新指派任何基礎實體儲存體也是一樣。 這是多種虛擬化和分散技術用來調整虛擬環境的複雜效果的結果，每個服務租使用者內之應用程式的使用中刪除行為 (例如 [分頁清零](/office365/securitycompliance/office-365-exchange-online-data-deletion#page-zeroing)) ，以及所需的媒體和應用程式內容加密處理常式。

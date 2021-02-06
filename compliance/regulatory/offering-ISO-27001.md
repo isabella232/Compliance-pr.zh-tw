@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
-ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
+ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49759688"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120222"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 資訊安全性管理標準
 
@@ -111,7 +111,7 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 
 **我可以在哪裡取得 Microsoft 服務的 ISO/IEC 27001 稽核報告和範圍聲明？**
 
-[服務信任入口網站](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal)提供獨立稽核的合規性報告。 您可以使用入口網站要求報告，讓您的稽核員可以比較 Microsoft 的雲端服務結果與您自己的法律和法規需求。
+[服務信任入口網站](/microsoft-365/compliance/get-started-with-service-trust-portal)提供獨立稽核的合規性報告。 您可以使用入口網站要求報告，讓您的稽核員可以比較 Microsoft 的雲端服務結果與您自己的法律和法規需求。
 
 **Microsoft 是否針對基礎結構失敗，每年執行測試？**
 
@@ -130,7 +130,7 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性經理針對企業版 E5 客戶提供此法規的預先建立評估。 可在合規性管理員的 **[評估範本]** 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性經理針對企業版 E5 客戶提供此法規的預先建立評估。 可在合規性管理員的 **[評估範本]** 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

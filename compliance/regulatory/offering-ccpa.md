@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bb6f4d05461cf044eaa0c8e41335032e4110b369
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: df5b77a9ae9e5f38e695294b1180bba5a4ef8eca
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507508"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121142"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>加州消費者隱私法 (CCPA)
 
@@ -55,7 +55,7 @@ CCPA 會在 2020 年 1 月 1 日生效。 不過，加州律師一般 (AG) 會�
 
 以下是您準備 CCPA 時所採取的幾個步驟：
 
-- 開始利用 [合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) 中的 GDPR 評估做為 CCPA 隱私權計畫的一部分。
+- 開始利用 [合規性管理員](/microsoft-365/compliance/compliance-manager) 中的 GDPR 評估做為 CCPA 隱私權計畫的一部分。
 - 使用「資料主體要求」工具，建立處理常式，以有效地回應資料主體存取要求 (DSARs) 。
 - 設定標籤和原則以探索、分類並加上標籤，以及使用 Microsoft 資訊保護來保護敏感性資料。
 - 使用電子郵件加密功能進一步控制敏感性資訊。
@@ -95,9 +95,9 @@ CCPA 需要將個人資訊收集、轉移及銷售的管制企業，還有其他
 - CCPA 針對未滿 13 歲的兒童，採用符合兒童線上隱私權保護法 (The Children's Online Privacy Protection Act，COPPA) 的家長同意義務。
 - 若為13歲到16歲之間的子女，CCPA 會依據孩子的同意取得新的義務。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

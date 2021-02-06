@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: ab3fcff3d4ed3253914f5f0d0c649f7658c7c228
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: da465b850a9216dd64f8e4d9e6450c6a17f7b26d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507067"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120662"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Microsoft 365 中的資料永久性
 
@@ -44,12 +44,12 @@ ms.locfileid: "49507067"
 
 此外，Microsoft 已開發附加元件功能，以允許從其他來源中封存 [資料](https://support.office.com/article/Archiving-third-party-data-in-Office-365-0ce338d5-3666-4a18-86ab-c6910ff408cc) ，透過與協力廠商資料捕獲和管理解決方案整合。 匯入協力廠商資料後，您可以將 Microsoft 365 規範功能套用至資料，包括：
 
-- [訴訟暫止](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)
-- [In-Place eDiscovery 和保留](https://docs.microsoft.com/microsoft-365/compliance/manage-legal-investigations)
-- [合規性搜尋](https://docs.microsoft.com/microsoft-365/compliance/search-for-content)
-- [就地封存](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-- [信箱稽核](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
-- [保留原則](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [訴訟暫止](/microsoft-365/compliance/create-a-litigation-hold)
+- [In-Place eDiscovery 和保留](/microsoft-365/compliance/manage-legal-investigations)
+- [合規性搜尋](/microsoft-365/compliance/search-for-content)
+- [就地封存](/microsoft-365/compliance/enable-archive-mailboxes)
+- [信箱稽核](/microsoft-365/compliance/enable-mailbox-auditing)
+- [保留原則](/microsoft-365/compliance/retention-policies)
 
 例如，當信箱處於訴訟暫止狀態時，會保留協力廠商資料。 您可以使用 In-Place eDiscovery 或符合性搜尋來搜尋協力廠商資料。 或者，您可以將封存和保留原則套用至協力廠商資料，就像您可以使用 Microsoft 資料一樣。 在 Microsoft 365 中封存協力廠商資料可協助您的組織遵守政府和法規原則。
 

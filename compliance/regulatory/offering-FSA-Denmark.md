@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 28fec212d8ba00d2e319abf856db342c83408238
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a0e643e768d8570f1c65f19e2eec1b84bce5701a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506202"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120372"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>金融監督管理局 (FSA) 丹麥
 
@@ -58,7 +58,7 @@ Microsoft 檢查清單可協助丹麥金融公司執行 Microsoft 商務雲端�
 
 - [合規性檢查清單：丹麥](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=524cc66f-b292-49e9-aa14-04560401baa0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)：金融公司可以取得 Microsoft 商務雲端服務風險評估的協助。
 - [風險評定與合規性指南](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
-- [金融使用案例](https://docs.microsoft.com/previous-versions/azure/industry-marketing/financial/index)：使用案例概覽、課程及其他資源建立適用於金融服務的 Azure 解決方案。
+- [金融使用案例](/previous-versions/azure/industry-marketing/financial/index)：使用案例概覽、課程及其他資源建立適用於金融服務的 Azure 解決方案。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

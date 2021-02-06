@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4766d0152e2ee5b372157dd56f28690161f04045
-ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
+ms.openlocfilehash: 6f1af4cbedc681a36c50eb3f75cbeb13ed671057
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49559849"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120292"
 ---
 # <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>健康保險流通與責任 (HIPAA) & 高科技的運作
 
@@ -56,7 +56,7 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
 - [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft 雲端 App 安全性
+- Microsoft Cloud App Security
 - [適用于醫療保健的 Microsoft 雲端](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft 保健 Bot 服務
 - Microsoft 受管理的電腦
@@ -72,7 +72,7 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>加速部署 Azure 上的 HIPAA/HITRUST 解決方案
 
-透過 [Azure 安全性與合規性藍圖](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)，利用雲端針對健康情況資料解決方案的優點，取得其優勢： HIPAA/HITRUST 健康情況資料和 AI。 此藍圖提供的工具和指引，可讓您立即開始建立 HIPAA/HITRUST 解決方案。
+透過 [Azure 安全性與合規性藍圖](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)，利用雲端針對健康情況資料解決方案的優點，取得其優勢： HIPAA/HITRUST 健康情況資料和 AI。 此藍圖提供的工具和指引，可讓您立即開始建立 HIPAA/HITRUST 解決方案。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -100,13 +100,13 @@ Microsoft 為合格的公司或其供應商提供涵蓋在 Microsoft 服務範�
 
 為了協助客戶執行這項工作，Microsoft 已發佈下列指南：
 
-- [Azure](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/)及 [Dynamics 365 和 Office 365](https://go.microsoft.com/fwlink/?LinkID=257510)的 *HIPAA/高科技法案實現指導* 方針。 針對隱私權、安全性和合規性監察官，以及其他負責 HIPAA 和高科技法案實施的人員，描述您的組織可採取的具體步驟，以維護法規遵從性。
+- [Azure](/azure/governance/blueprints/samples/hipaa-hitrust/)及 [Dynamics 365 和 Office 365](https://go.microsoft.com/fwlink/?LinkID=257510)的 *HIPAA/高科技法案實現指導* 方針。 針對隱私權、安全性和合規性監察官，以及其他負責 HIPAA 和高科技法案實施的人員，描述您的組織可採取的具體步驟，以維護法規遵從性。
 - [使用 Microsoft Azure 設計安全狀況解決方案的實用指南](https://aka.ms/azureindustrysecurity) 可協助您更進一步瞭解以安全方式成功採用雲端服務所需的功能。
 - [在 Microsoft 雲端中處理 HIPAA 安全性和隱私權需求，](https://smb.blob.core.windows.net/smbproduction/Content/Microsoft_Cloud_Healthcare_HIPAA_Security_Privacy.pdf) 提供法規需求的簡短概述。 它也會詳細分析 Microsoft 的雲端服務是如何以對應至這些需求的方法來建立，以及如何建立規範準備解決方案的指導方針。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
@@ -115,5 +115,5 @@ Microsoft 為合格的公司或其供應商提供涵蓋在 Microsoft 服務範�
 - [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
 - [Microsoft 政府雲端](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [瞭解使用 Azure (的 HIPAA 相容性](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0) 5 月19日，2016) 
-- [Azure HIPAA HITRUST 藍圖範例](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/)
+- [Azure HIPAA HITRUST 藍圖範例](/azure/governance/blueprints/samples/hipaa-hitrust/)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

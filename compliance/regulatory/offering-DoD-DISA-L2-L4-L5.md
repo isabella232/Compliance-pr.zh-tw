@@ -1,7 +1,7 @@
 ---
 title: 美國國防部 (DoD) 臨時授權
 description: Microsoft 接收的國防 (DoD) 的臨時授權會影響層級的5、4和2。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3bd95648e9ae36f5ccaab25bd504524e7d1e4afa
-ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
+ms.openlocfilehash: bd3434bc2cdb421ce7ab5b9d29e42e1c20aba577
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49757818"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121262"
 ---
 # <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>美國國防部 (DoD 在影響層級（2、4、5）) 臨時授權
 
@@ -37,7 +37,7 @@ DoD 雲端服務支援定義 SRG 中的原則、安全性控制及其他需求�
 
 Microsoft 的政府雲端服務會符合美國國防部的苛刻需求（從影響等級2到5），讓美國國防機關能夠從 Microsoft 雲端的成本節約和嚴格安全性中受益。 透過部署包含 Azure 政府、Office 365 美國政府及 Dynamics 365 政府的受保護服務，國防機關可以使用一組豐富的相容性服務。
 
-- 瞭解如何利用[Azure DoD 藍圖](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)加速 DoD DISA L2 的 L4 部署
+- 瞭解如何利用[Azure DoD 藍圖](/azure/governance/blueprints/samples/dod-impact-level-4/)加速 DoD DISA L2 的 L4 部署
 
 ## <a name="dod-impact-level-5-provisional-authorization"></a>DoD 影響等級5的臨時授權
 
@@ -85,7 +85,7 @@ DISA 雲端服務支援已授與適用于 Microsoft Azure 政府的 DoD 影響�
 
 ## <a name="fast-track-your-deployment-of-dod-solutions-on-azure"></a>快速追蹤 Azure 上的 DoD 解決方案部署
 
-開始利用使用雲端的政府與 Azure 安全性與合規性藍圖中的雲端優點的開端。 此藍圖提供的工具和指引，可讓您立即開始建立 DoD 相容的解決方案。 [開始使用 Azure DoD 藍圖](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)。
+開始利用使用雲端的政府與 Azure 安全性與合規性藍圖中的雲端優點的開端。 此藍圖提供的工具和指引，可讓您立即開始建立 DoD 相容的解決方案。 [開始使用 Azure DoD 藍圖](/azure/governance/blueprints/samples/dod-impact-level-4/)。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

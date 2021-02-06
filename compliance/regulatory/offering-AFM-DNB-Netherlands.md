@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a952d33a440681acc3dd5057c8a7e175e57bfa9
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937018"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121802"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>荷蘭金融市場管理局和荷蘭中央銀行
 
@@ -64,7 +64,7 @@ Microsoft 檢查清單可協助荷蘭金融公司執行 Microsoft 商務雲端�
 
 - [合規檢查清單：荷蘭](https://aka.ms/FinServ-Guide-Netherlands)：金融公司可以在進行 Microsoft 商務雲端服務風險評定時取得協助。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
-- [金融使用案例](https://docs.microsoft.com/azure/industry/financial/)：為金融服務建立 Azure 解決方案的案例概覽、教學課程和其他資源。
+- [金融使用案例](/azure/industry/financial/)：為金融服務建立 Azure 解決方案的案例概覽、教學課程和其他資源。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

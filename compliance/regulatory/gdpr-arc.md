@@ -18,12 +18,12 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 9be40afbe9df0a3744022366119aaa7d35da992c
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e8426e0e988c2f29a5223abb7e10a205f3941cfd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507055"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121502"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>使用責任整備檢查清單支援 GDPR 計劃
 
@@ -40,7 +40,7 @@ ms.locfileid: "49507055"
 - [Azure](gdpr-arc-azure-dynamics.md)
 - [Microsoft 支援服務與專業服務](gdpr-arc-prof-services.md)
 
-您可以使用[「合規性管理員」](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)管理此檢查清單中的項目，方法是參考 GDPR 圖格中「客戶受管理控制項」底下的控制項識別碼和控制項標題。
+您可以使用[「合規性管理員」](/microsoft-365/compliance/compliance-manager)管理此檢查清單中的項目，方法是參考 GDPR 圖格中「客戶受管理控制項」底下的控制項識別碼和控制項標題。
 
 檢查清單包含以下列出之支援 GDPR 隱私計劃的四項基本考量類別，以及範例需求。
 
@@ -75,7 +75,7 @@ ms.locfileid: "49507055"
 
 ## <a name="gdpr-compliance-controls"></a>GDPR 合規性控制
 
-- **使用合規性管理員**：審閱和整合 Microsoft 用來支援 GDPR 中的義務與 [合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)的控制。
+- **使用合規性管理員**：審閱和整合 Microsoft 用來支援 GDPR 中的義務與 [合規性管理員](/microsoft-365/compliance/compliance-manager)的控制。
 - **GDPR 控制對應**：存取 Microsoft 控制的 [完整對應](https://go.microsoft.com/fwlink/p/?linkid=2052220) ，以盡 GDPR 義務。
 
 ## <a name="records-of-processing-for-processors"></a>處理器的處理記錄
@@ -86,31 +86,31 @@ ms.locfileid: "49507055"
 
 通常，客戶對活動記錄及診斷記錄感興趣：
 
-- **活動記錄**： [活動記錄](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) 提供對訂閱中資源執行的操作的深入了解。 活動記錄可協助您判斷作業的發起者、發生時間和狀態。
-- **診斷記錄**：[診斷記錄](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) 是由每個資源產生的所有記錄。 這些記錄包括 Windows 事件系統記錄、Azure 儲存空間記錄、Key Vault 稽核記錄，以及應用程式閘道存取和防火牆記錄。
+- **活動記錄**： [活動記錄](/azure/azure-monitor/platform/platform-logs-overview) 提供對訂閱中資源執行的操作的深入了解。 活動記錄可協助您判斷作業的發起者、發生時間和狀態。
+- **診斷記錄**：[診斷記錄](/azure/azure-monitor/platform/platform-logs-overview) 是由每個資源產生的所有記錄。 這些記錄包括 Windows 事件系統記錄、Azure 儲存空間記錄、Key Vault 稽核記錄，以及應用程式閘道存取和防火牆記錄。
 - **記錄封存**：所有診斷記錄都會寫入集中式加密的 Azure 儲存空間帳戶以封存。 保留期是使用者可設定的，最多 730 天，以滿足特定於組織的保留要求。 這些記錄連線到 Azure 監視器記錄，以進行處理、儲存及儀表板報告。
 
 ### <a name="other-logs"></a>其他紀錄
 
 此外，以下監視解決方案已作為此結構的一部分安裝。 客戶有責任設定這些解決方案，使其與FedRAMP 安全性控制保持一致：
 
-- [AD 評估](https://docs.microsoft.com/azure/azure-monitor/insights/ad-assessment)：Active Directory 健康情況檢查解決方案定期評估服務器環境的風險和健康狀況，並提供特定於已設定服務器基礎結構的建議的優先順序清單。
-- [反惡意程式碼評估](https://docs.microsoft.com/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-)：[反惡意程式碼] 解決方案報告惡意軟體、威脅和保護狀態。
-- [Azure 自動化](https://docs.microsoft.com/azure/automation/automation-hybrid-runbook-worker)： [Azure 自動化] 解決方案儲存、執行和管理 Runbook。
-- [安全性與稽核](https://docs.microsoft.com/azure/security-center/security-center-introduction)：[安全性與稽核] 儀錶板通過提供有關安全性網域、顯著問題、偵測、威脅情報和常見安全査詢的計量，提供對資源安全狀態的高級深入解析。
-- [SQL 評估](https://docs.microsoft.com/azure/azure-monitor/insights/sql-assessment)：[SQL 健康情況檢查] 解決方案定期評估服務器環境的風險和健康狀況，並提供特定於已設定服務器基礎結構的建議的優先順序清單。
-- [更新管理](https://docs.microsoft.com/azure/automation/update-management/update-mgmt-overview)：[更新管理] 解決方案允許客戶管理作業系統安全性更新，包括可用更新的狀態和安裝所需更新的程式。
-- [代理程式健康情況](https://docs.microsoft.com/azure/azure-monitor/insights/solution-agenthealth)：[代理程式健康情況] 決方案會報告設定多少個代理及其地理分配、有多少個無回應代理、和正在提交可執行資料的代理數目。
-- [Azure 活動記錄](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log)：[活動紀錄分析] 解決方案協助分析客戶的所有 Azure 訂閱的 Azure 活動紀錄。
-- [變更追蹤](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log)：[變更追蹤] 解決方案可讓客戶輕鬆識別環境中變更。
+- [AD 評估](/azure/azure-monitor/insights/ad-assessment)：Active Directory 健康情況檢查解決方案定期評估服務器環境的風險和健康狀況，並提供特定於已設定服務器基礎結構的建議的優先順序清單。
+- [反惡意程式碼評估](/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-)：[反惡意程式碼] 解決方案報告惡意軟體、威脅和保護狀態。
+- [Azure 自動化](/azure/automation/automation-hybrid-runbook-worker)： [Azure 自動化] 解決方案儲存、執行和管理 Runbook。
+- [安全性與稽核](/azure/security-center/security-center-introduction)：[安全性與稽核] 儀錶板通過提供有關安全性網域、顯著問題、偵測、威脅情報和常見安全査詢的計量，提供對資源安全狀態的高級深入解析。
+- [SQL 評估](/azure/azure-monitor/insights/sql-assessment)：[SQL 健康情況檢查] 解決方案定期評估服務器環境的風險和健康狀況，並提供特定於已設定服務器基礎結構的建議的優先順序清單。
+- [更新管理](/azure/automation/update-management/update-mgmt-overview)：[更新管理] 解決方案允許客戶管理作業系統安全性更新，包括可用更新的狀態和安裝所需更新的程式。
+- [代理程式健康情況](/azure/azure-monitor/insights/solution-agenthealth)：[代理程式健康情況] 決方案會報告設定多少個代理及其地理分配、有多少個無回應代理、和正在提交可執行資料的代理數目。
+- [Azure 活動記錄](/azure/azure-monitor/platform/activity-log)：[活動紀錄分析] 解決方案協助分析客戶的所有 Azure 訂閱的 Azure 活動紀錄。
+- [變更追蹤](/azure/azure-monitor/platform/activity-log)：[變更追蹤] 解決方案可讓客戶輕鬆識別環境中變更。
 
-有關 Azure 技術與安全性措施的資訊，控制者客戶應造訪[Azure 全性文件](https://docs.microsoft.com/azure/security/)。 由於 Microsoft 不知道客戶資料是否是個人資料，所以 Azure 處理所有客戶資料就像處理個人資料一樣，因此客戶可能會認為所有的資料都是相關的。
+有關 Azure 技術與安全性措施的資訊，控制者客戶應造訪[Azure 全性文件](/azure/security/)。 由於 Microsoft 不知道客戶資料是否是個人資料，所以 Azure 處理所有客戶資料就像處理個人資料一樣，因此客戶可能會認為所有的資料都是相關的。
 
 ### <a name="processor-information"></a>處理者資訊
 
-另一個客戶可能需要處理者處理資訊記錄的產品是 Office 365。 若要查看與 Office 365 相關的資訊，請參閱 [在安全性與合規性中心中搜尋稽核記錄](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)一文。
+另一個客戶可能需要處理者處理資訊記錄的產品是 Office 365。 若要查看與 Office 365 相關的資訊，請參閱 [在安全性與合規性中心中搜尋稽核記錄](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)一文。
 
-您也可以使用安全性與合規性中心查看Dynamics 365 的資訊。  若要查看安全性與合規性中心頁面，請確保您具有正確的授權。 通過[安全性與合規性中心服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)文章了解有關授權的更多資訊。 要搜尋 Dynamics 365 事件，請訪問[安全性與合規性中心](https://protection.office.com/unifiedauditlog)中的整合稽核記錄。
+您也可以使用安全性與合規性中心查看Dynamics 365 的資訊。  若要查看安全性與合規性中心頁面，請確保您具有正確的授權。 通過[安全性與合規性中心服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)文章了解有關授權的更多資訊。 要搜尋 Dynamics 365 事件，請訪問[安全性與合規性中心](https://protection.office.com/unifiedauditlog)中的整合稽核記錄。
 
 ### <a name="professional-services-information"></a>專業服務資訊
 

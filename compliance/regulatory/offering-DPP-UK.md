@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 57f64e38947874385d514e1e2f8be296237d8f6c
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5ff8d881602014821149ee1263ab7b88e796919a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506220"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121672"
 ---
 # <a name="digital-production-partnership-dpp-united-kingdom"></a>數位生產合作 (DPP) 英國
 
@@ -48,10 +48,10 @@ Azure 廣播標記的有效期為一年，每年更新一次。
 - [Azure NABA DPP 電視臺安全需求檢查清單](https://aka.ms/Azure-CTS-Broadcast-Checklist)
 - [DPP 承諾為安全性公司獎勵這種標記](https://aka.ms/Azure-Asset-Mgmt)
 
-## <a name="how-to-implement"></a>實作方法
+## <a name="how-to-implement"></a>實作方法：
 
 - [資產管理強化指南](https://aka.ms/Azure-Asset-Mgmt)： Azure 中的最佳作法會防止未經授權的披露、變更或刪除的發行前內容。
-- [Azure 媒體服務](https://docs.microsoft.com/azure/media-services/)：建立可實現高清晰度影片編碼及廣播品質影片的解決方案。
+- [Azure 媒體服務](/azure/media-services/)：建立可實現高清晰度影片編碼及廣播品質影片的解決方案。
 
 ## <a name="resources"></a>資源
 

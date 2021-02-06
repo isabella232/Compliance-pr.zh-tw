@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 5d6e7d88894673d30b6f2c7bdf0ab02ac933588b
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 67aadb6e9ccda3a84a06b39570c680c8b30ce775
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574845"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121492"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-security--compliance-center"></a>使用 Security & 合規性中心的 DSR 案例工具管理 GDPR 資料主體要求
 
@@ -79,7 +79,7 @@ ms.locfileid: "49574845"
 
 根據預設，全域管理員可以存取 Security & 合規性中心的 DSR 案例工具。 根據設計，其他使用者（例如資料隱私權監察官、人力資源管理員或其他與 DSR 調查相關的人員）無法存取 DSR 案例工具，因此必須獲指派適當的許可權，才能存取工具。 若要這麼做，最簡單的方法是移至 [安全性 & 規範中心] 中的 [ **許可權** ] 頁面，並將使用者新增至「eDiscovery 管理員」角色群組。 您也必須指派這些許可權，以便將其新增為您在步驟2中建立的 DSR 案例成員。 
   
-如需逐步指示，請參閱 [在 Office 365 安全性 & 規範中心指派 eDiscovery 許可權](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)。
+如需逐步指示，請參閱 [在 Office 365 安全性 & 規範中心指派 eDiscovery 許可權](/microsoft-365/compliance/assign-ediscovery-permissions)。
   
 > [!NOTE]
 > 根據預設，全域管理員 (或其他組織管理角色群組的成員，安全性 & 規範中心沒有匯出內容搜尋結果所需的許可權 (請參閱本文中的步驟 4) 。 若要解決此情況，系統管理員可以將自己新增為 eDiscovery 管理員角色群組的成員。 
@@ -157,10 +157,10 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
     
     當您開啟查詢時，搜尋會開始，並會在幾分鐘後完成。 
     
-3. 當搜尋完成時，按一下 [ **預覽結果** ] 以預覽搜尋結果。 如需詳細資訊，請參閱 [預覽搜尋結果](https://docs.microsoft.com/microsoft-365/compliance/content-search#preview-search-results)。
+3. 當搜尋完成時，按一下 [ **預覽結果** ] 以預覽搜尋結果。 如需詳細資訊，請參閱 [預覽搜尋結果](/microsoft-365/compliance/content-search#preview-search-results)。
     
     > [!TIP]
-    > 您也可以查看搜尋查詢統計資料，以查看搜尋所傳回的信箱和網站專案數目，以及包含符合搜尋查詢之專案的頂端內容位置。 如需詳細資訊，請參閱 [查看有關搜尋的資訊和統計資料](https://docs.microsoft.com/microsoft-365/compliance/content-search#view-information-and-statistics-about-a-search)。 
+    > 您也可以查看搜尋查詢統計資料，以查看搜尋所傳回的信箱和網站專案數目，以及包含符合搜尋查詢之專案的頂端內容位置。 如需詳細資訊，請參閱 [查看有關搜尋的資訊和統計資料](/microsoft-365/compliance/content-search#view-information-and-statistics-about-a-search)。 
   
 您可以編輯內建的搜尋查詢、變更所搜尋的內容位置，然後重新執行搜尋。 如需詳細資訊，請參閱 [步驟 5](#optional-step-5-revise-the-built-in-search-query) 。 
   
@@ -168,7 +168,7 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
 
 在您執行內建搜尋之後，您可以匯出搜尋結果。 或者，在您匯出資料之前，您可能會想要修改查詢以減少搜尋結果的數目。 如需縮小搜尋結果的詳細資訊，請參閱步驟5。
   
-當您匯出搜尋結果時，信箱專案可以下載 PST 檔案或個別郵件。 當您從 SharePoint 和 OneDrive 帳戶匯出內容時，會匯出原生 Office 檔和其他檔的副本。 包含每個匯出專案相關資訊的結果檔會包含在搜尋結果中。 如需匯出的詳細資訊，請參閱 [匯出內容搜尋結果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
+當您匯出搜尋結果時，信箱專案可以下載 PST 檔案或個別郵件。 當您從 SharePoint 和 OneDrive 帳戶匯出內容時，會匯出原生 Office 檔和其他檔的副本。 包含每個匯出專案相關資訊的結果檔會包含在搜尋結果中。 如需匯出的詳細資訊，請參閱 [匯出內容搜尋結果](/microsoft-365/compliance/export-search-results)。
   
 > [!NOTE]
 > 根據預設，全域管理員 (或其他組織管理角色群組的成員的安全性 & 規範中心) 沒有匯出內容搜尋結果所需的許可權。 若要解決此情況，系統管理員可以將自己新增為 eDiscovery 管理員角色群組的成員。 
@@ -233,7 +233,7 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
   
 13. 按一下 [開始] 將搜尋結果下載至您的電腦。 
     
-    **EDiscovery 匯出工具** 會顯示匯出程式的狀態資訊，包括估計要下載之其餘專案的數位 (和大小) 。 匯出程式完成後，您可以在下載檔案的位置存取檔案。 如需下載內容搜尋結果時所包含報告的詳細資訊，請參閱「匯出內容搜尋結果」中的 [詳細資訊](https://docs.microsoft.com/microsoft-365/compliance/export-search-results#more-information) 一節。 
+    **EDiscovery 匯出工具** 會顯示匯出程式的狀態資訊，包括估計要下載之其餘專案的數位 (和大小) 。 匯出程式完成後，您可以在下載檔案的位置存取檔案。 如需下載內容搜尋結果時所包含報告的詳細資訊，請參閱「匯出內容搜尋結果」中的 [詳細資訊](/microsoft-365/compliance/export-search-results#more-information) 一節。 
     
 匯出資料後，搜尋結果和匯出報告都位於與 DSR 案例同名的資料夾中。 包含信箱專案的 PST 檔案位於名為 **Exchange** 的子資料夾中。 網站中的檔和其他專案位於名為 **SharePoint** 的子資料夾中。 
   
@@ -247,9 +247,9 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
     
 - **郵件類型 ( `kind`)** –指定要搜尋的電子郵件專案類型。 例如，您可以使用此語法，  `kind:email OR kind:im` 只傳回電子郵件、商務用 Skype 交談或 Microsoft 小組中的一對一聊天。 
     
-- **合規性標記 (`compliancetag`)** –指定指派給電子郵件或檔的標籤。 此條件會傳回以特定標籤分類的專案。 標籤可用來分類電子郵件和檔，以進行資料控管，並根據標籤定義的分類強制執行保留規則。 這是 DSR 調查的有用條件，因為您的組織可能會使用標籤來分類與資料隱私權相關的內容，或包含個人資料或機密資訊的內容。 針對此狀況的值，請使用完整的標籤名稱或標籤名稱的第一個部分搭配萬用字元。 如需詳細資訊，請參閱 [瞭解 Office 365 中的保留原則和保留標籤](https://docs.microsoft.com/microsoft-365/compliance/retention)。
+- **合規性標記 (`compliancetag`)** –指定指派給電子郵件或檔的標籤。 此條件會傳回以特定標籤分類的專案。 標籤可用來分類電子郵件和檔，以進行資料控管，並根據標籤定義的分類強制執行保留規則。 這是 DSR 調查的有用條件，因為您的組織可能會使用標籤來分類與資料隱私權相關的內容，或包含個人資料或機密資訊的內容。 針對此狀況的值，請使用完整的標籤名稱或標籤名稱的第一個部分搭配萬用字元。 如需詳細資訊，請參閱 [瞭解 Office 365 中的保留原則和保留標籤](/microsoft-365/compliance/retention)。
     
-如需 DSR 案例工具中所有可用條件的清單和描述，請參閱「內容搜尋的關鍵字查詢和搜尋條件」文章中的 [搜尋條件](https://docs.microsoft.com/microsoft-365/compliance/keyword-queries-and-search-conditions#search-conditions) 。 
+如需 DSR 案例工具中所有可用條件的清單和描述，請參閱「內容搜尋的關鍵字查詢和搜尋條件」文章中的 [搜尋條件](/microsoft-365/compliance/keyword-queries-and-search-conditions#search-conditions) 。 
   
 ### <a name="changing-the-content-locations-that-are-searched"></a>變更搜尋的內容位置
 
@@ -276,7 +276,7 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
 3. 如果您修改內建搜尋中的內容位置，請按一下 [ **儲存 &amp; 執行** ] 以重新開機搜尋。 
 
 > [!NOTE]
-> 當您搜尋所有信箱位置或僅限特定信箱時，當您匯出搜尋結果時，會包含儲存至使用者信箱之其他 Office 365 應用程式中的資料。 此資料不會包含在估計的搜尋結果中，並且無法提供預覽。 但會包含在您匯出及下載搜尋結果時。 如需將資料儲存在使用者信箱中的應用程式的詳細資訊，請參閱 [儲存在 Exchange Online 信箱中的內容](https://docs.microsoft.com/microsoft-365/compliance/what-is-stored-in-exo-mailbox)。
+> 當您搜尋所有信箱位置或僅限特定信箱時，當您匯出搜尋結果時，會包含儲存至使用者信箱之其他 Office 365 應用程式中的資料。 此資料不會包含在估計的搜尋結果中，並且無法提供預覽。 但會包含在您匯出及下載搜尋結果時。 如需將資料儲存在使用者信箱中的應用程式的詳細資訊，請參閱 [儲存在 Exchange Online 信箱中的內容](/microsoft-365/compliance/what-is-stored-in-exo-mailbox)。
   
 ## <a name="more-information-about-using-the-dsr-case-tool"></a>使用 DSR case 工具的詳細資訊
 
@@ -327,7 +327,7 @@ Office 漫遊服務中的資料會儲存在非人際郵件中的隱藏資料夾�
     
  **若要匯出 Office 漫遊服務資料：**
   
-1. 當您在上一個步驟中建立的搜尋完成時，請按一下頁面頂端的 [ **搜尋** ] 索引標籤，然後按一下搜尋旁邊的核取方塊。 您可能需要按一下 [重新整理] 重新整理 ![ ](../media/165fb3ad-38a8-4dd9-9e76-296aefd96334.png) **Refresh** ，以顯示搜尋。 
+1. 當您在上一個步驟中建立的搜尋完成時，請按一下頁面頂端的 [ **搜尋** ] 索引標籤，然後按一下搜尋旁邊的核取方塊。 您可能需要按一下 [重新整理] 重新整理 ![ ](../media/165fb3ad-38a8-4dd9-9e76-296aefd96334.png)  ，以顯示搜尋。 
     
 2. 在 [搜尋飛出] 頁面上，按一下 [ ![ 更多匯出搜尋結果圖示] ](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) ****，然後從下拉式清單中選取 [ **匯出結果** ]。 
     
@@ -392,9 +392,9 @@ Office 漫遊服務中的資料會儲存在非人際郵件中的隱藏資料夾�
     
 如需部分索引項目目的詳細資訊，請參閱： 
   
-- [位於 Office 365 中內容搜尋的已局部編製索引項目](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search)
+- [位於 Office 365 中內容搜尋的已局部編製索引項目](/microsoft-365/compliance/partially-indexed-items-in-content-search)
 
-- [匯出部分索引項目目](https://docs.microsoft.com/microsoft-365/compliance/export-search-results#exporting-partially-indexed-items)
+- [匯出部分索引項目目](/microsoft-365/compliance/export-search-results#exporting-partially-indexed-items)
 
 ### <a name="searching-and-exporting-data-from-microsoft-teams-and-microsoft-365-groups"></a>從 Microsoft 團隊和 Microsoft 365 群組搜尋及匯出資料
 
@@ -404,7 +404,7 @@ Office 漫遊服務中的資料會儲存在非人際郵件中的隱藏資料夾�
   
 同樣地，在內建搜尋中也會包含對應至 Microsoft 365 群組的信箱和 SharePoint 網站。 這表示會傳回由資料主體所傳送或接收的電子郵件，以及資料主體所建立或上傳的檔案。 
   
-如需使用內容搜尋來搜尋 Microsoft 團隊和 Microsoft 365 群組中的專案，或若要瞭解如何取得成員清單的詳細資訊，請參閱 [microsoft 365 中內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/content-search#searching-microsoft-teams-and-microsoft-365-groups)中的「搜尋 Microsoft 團隊和 Microsoft 365 群組」一節。 
+如需使用內容搜尋來搜尋 Microsoft 團隊和 Microsoft 365 群組中的專案，或若要瞭解如何取得成員清單的詳細資訊，請參閱 [microsoft 365 中內容搜尋](/microsoft-365/compliance/content-search#searching-microsoft-teams-and-microsoft-365-groups)中的「搜尋 Microsoft 團隊和 Microsoft 365 群組」一節。 
   
 ### <a name="searching-exchange-public-folders"></a>搜尋 Exchange 公用資料夾
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1229dba8c5106c48e431c0bdf09e86e65bb402cc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507334"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121402"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>金融管理局 (AMF) 與審慎管理局 (ACPR) 法國
 
@@ -59,7 +59,7 @@ Microsoft 檢查清單可協助法國金融公司執行 Microsoft 商務雲端�
 
 - [合規性檢查清單：法國](https://aka.ms/FinServ-Guide-France)：金融公司可以取得 Microsoft 商務雲端服務風險評估的協助。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
-- [金融使用案例](https://docs.microsoft.com/azure/industry/financial/)：使用案例概觀、教學課程及其他資源建立適用於金融服務的 Azure 解決方案。
+- [金融使用案例](/azure/industry/financial/)：使用案例概觀、教學課程及其他資源建立適用於金融服務的 Azure 解決方案。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 972cd483c4976e683e359c52a78067e3d3faeb3a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506342"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120082"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>比利時國家銀行 (NBB) 與金融服務和市場管理局 (FSMA)
 
@@ -31,7 +31,7 @@ ms.locfileid: "49506342"
 
 NBB 負責審慎監督信貸機構、保險公司、股票經紀人及其他金融組織。 身為比利時的中央銀行，NBB 會執行比利時的貨幣原則，致力於其金融系統的穩定性。 FSMA 與 NBB 一起監督比利時的金融市場、金融服務提供者，包括投資公司和補充退休金。 它的工作包括監督公司傳播的金融資訊、他們提供給消費者的產品，以及他們對於商務執行規則的合規性。
 
-NBB 和 FSMA 與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐盟機關，確保對整個歐洲銀行業進行有效且一致的審慎規範與監督。」 為此，EBA 概述了歐盟金融機構使用雲端計算的全方位措施，[外包給雲端服務提供者的建議](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)。
+NBB 和 FSMA 與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐盟機關，確保對整個歐洲銀行業進行有效且一致的審慎規範與監督。」 為此，EBA 概述了歐盟金融機構使用雲端計算的全方為措施，[外包給雲端服務提供者的建議](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)。
 
 在將商務功能移到雲端時，比利時的金融機構應注意以下要求和規範，包括：
 
@@ -60,7 +60,7 @@ Microsoft 檢查清單可協助比利時金融公司執行 Microsoft 商務雲�
 
 - [合規性檢查清單：比利時](https://aka.ms/FinServ-Guide-Belgium)：金融機構可以取得 Microsoft 雲端服務風險評估的協助。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
-- [金融使用案例](https://docs.microsoft.com/azure/industry/financial/)：使用案例概覽、課程及其他資源建立適用於金融服務的 Azure 解決方案。
+- [金融使用案例](/azure/industry/financial/)：使用案例概覽、課程及其他資源建立適用於金融服務的 Azure 解決方案。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -74,7 +74,7 @@ Microsoft 檢查清單可協助比利時金融公司執行 Microsoft 商務雲�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

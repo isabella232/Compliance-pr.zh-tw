@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ec70c3cd09302445d3e7b4e2ac394837cdabe557
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fbc8166770a3ad2539264bbf76319116a2c306a9
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506315"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120002"
 ---
 # <a name="us-export-administration-regulations-ear"></a> (EAR) 美國出口管理條例
 
@@ -90,7 +90,7 @@ Microsoft 技術、產品和服務受到美國出口管理條例 (EAR) 的制約
 - [匯出 Microsoft 產品：簡介](https://www.microsoft.com/exporting/overview.aspx)
 - [匯出 Microsoft 產品： FAQ](https://www.microsoft.com/exporting/faq.aspx)
 - [匯出 Microsoft 產品：產品查閱](https://www.microsoft.com/exporting/exporting-information.aspx)
-- [匯出密碼編譯限制](https://docs.microsoft.com/windows/uwp/security/export-restrictions-on-cryptography)
+- [匯出密碼編譯限制](/windows/uwp/security/export-restrictions-on-cryptography)
 - [Microsoft 和 FIPS 140-2](offering-fips-140-2.md)
 - [Microsoft 和 ITAR](offering-itar.md)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

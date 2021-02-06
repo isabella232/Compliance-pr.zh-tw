@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0d6997e39e89f8dca07e7aef05fff758b83c4e66
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 596abcfddd9ae8c3aa42a2f4189c168a54633077
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507567"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120102"
 ---
 # <a name="motion-picture-association-of-america-mpaa"></a>美國電影協會 (MPAA)
 
@@ -41,7 +41,7 @@ Azure 合規性的正式評定代表與主要工作室業務往來的公司能�
 
 - [Azure 遵守 MPAA 最佳做法指導方針](https://aka.ms/AzureCompliance)
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 - [Azure MPAA 通用指導方針](https://aka.ms/AzureMPAACommonGuidelines)
 - [Azure MPAA 應用程式與雲端安全性指導方針](https://aka.ms/AzureMPAAApplicationandCloudSecurityGuidelines)
@@ -64,7 +64,7 @@ MPAA 指導方針提供主要工作室廠商和合作夥伴一組最佳做法，
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

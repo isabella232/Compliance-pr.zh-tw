@@ -18,12 +18,12 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d44bead3627ed9b99c93bcffc9f29f87731f7407
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 916f26d5f2defdfb21cb9babe3a64cf618e8cd4a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506367"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120362"
 ---
 # <a name="yammer-enterprise-access-controls"></a>Yammer 企業存取控制 
 
@@ -31,4 +31,4 @@ ms.locfileid: "49506367"
 
 與其他 Microsoft 365 服務一樣，所有的 Yammer 實際執行環境存取都會使用多重要素驗證。 所有存取和命令歷史記錄都是由 Yammer 安全小組所交為使用者，並定期登入及檢查。
 
-如需 Yammer 管理和管理的詳細資訊，請參閱 [Yammer 系統管理](https://docs.microsoft.com/yammer/yammer-landing-page)說明。
+如需 Yammer 管理和管理的詳細資訊，請參閱 [Yammer 系統管理](/yammer/yammer-landing-page)說明。

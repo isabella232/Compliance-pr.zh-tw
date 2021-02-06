@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 44308d7184f6633ab58a4971fe4e9c70717f8591
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b5921a0535b9fe3dd84f4faf57dca4d7d117498e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507648"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121302"
 ---
 # <a name="canadian-privacy-laws"></a>加拿大隱私權法
 
@@ -52,7 +52,7 @@ Microsoft Azure 和 Microsoft Intune 以建立的 ISO/IEC 安全性標準為考�
 
 - [Microsoft 的隱私權](https://www.microsoft.com/download/details.aspx?id=55710)：取得有關 Microsoft 隱私權原則和標準，以及有關加拿大特定隱私權法的詳細資訊。
 - [加拿大適用的合規性檢查清單](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=626fb641-9dca-45c0-abaf-0a7849c15f81&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)：深入了解可協助符合加拿大隱私權法的 Azure 和 Intune 功能。
-- [Azure 資料保護](https://docs.microsoft.com/azure/security/fundamentals/protection-customer-data)：Azure 根據預設和客戶選項，提供強大的資料安全性。
+- [Azure 資料保護](/azure/security/fundamentals/protection-customer-data)：Azure 根據預設和客戶選項，提供強大的資料安全性。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

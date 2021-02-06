@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 2d4c319bd5c0d3d264ae67179dc4d55e0a0e4fe8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507343"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121432"
 ---
 # <a name="general-data-protection-regulation-summary"></a>一般資料保護摘要
 
@@ -60,7 +60,7 @@ GDPR 提供人員管理組織中收集之個人資料的權限。 透過資料�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性經理針對企業版 E5 客戶提供此法規的預先建立評估。 可在合規性管理員的 **[評估範本]** 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性經理針對企業版 E5 客戶提供此法規的預先建立評估。 可在合規性管理員的 **[評估範本]** 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="data-subject-request-dsr"></a>資料主體要求 (DSR)
 
@@ -74,7 +74,7 @@ DSR 涉及六種動作：探索、存取、改正、限制、匯出和刪除。
 
 **資料來源為何？**
 
-大部分的組織資料在 [Office 應用程式](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)中產生，例如 Excel 和 Outlook。 您還可以在 Microsoft 產品和服務產生的[深入解析](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)和[系統產生的記錄](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)中找到 DSR 相關資料。
+大部分的組織資料在 [Office 應用程式](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)中產生，例如 Excel 和 Outlook。 您還可以在 Microsoft 產品和服務產生的[深入解析](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)和[系統產生的記錄](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)中找到 DSR 相關資料。
 
 **需要搜尋何種資料？**
 
@@ -82,7 +82,7 @@ DSR 涉及六種動作：探索、存取、改正、限制、匯出和刪除。
 
 **如何搜尋個人資料？**
 
-搜尋的個人資料可能會因 Microsoft 產品和服務而有所不同。 搜尋工具包含[內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)，或[應用程式內搜尋](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs)容量。 系統管理員可以存取使用者活動相關聯之[系統產生的記錄](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)。  
+搜尋的個人資料可能會因 Microsoft 產品和服務而有所不同。 搜尋工具包含[內容搜尋](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)，或[應用程式內搜尋](/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs)容量。 系統管理員可以存取使用者活動相關聯之[系統產生的記錄](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)。  
 
 **個人資料該以何種格式呈現？**
 
@@ -109,13 +109,13 @@ GDPR「資料可攜帶權」允許資料主體以「經過結構化、常用的�
 
 ## <a name="data-protection-impact-assessment"></a>資料保護影響評估
 
-GDPR 規範下，資料控制者需要為「可能導致自然人之權利和自由高風險」的處理作業準備[資料保護影響評估](gdpr-data-protection-impact-assessments.md) (DPIA)。 Microsoft 產品和服務中沒有需要 DPIA 建立的項目。 而是取決於您 Microsoft 設定的詳細資料。 [DPIA 內容](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)中可找到 Office 中必須考量的詳細資訊清單
+GDPR 規範下，資料控制者需要為「可能導致自然人之權利和自由高風險」的處理作業準備[資料保護影響評估](gdpr-data-protection-impact-assessments.md) (DPIA)。 Microsoft 產品和服務中沒有需要 DPIA 建立的項目。 而是取決於您 Microsoft 設定的詳細資料。 [DPIA 內容](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)中可找到 Office 中必須考量的詳細資訊清單
 
 ### <a name="dpia-faqs"></a>DPIA 常見問題集
 
 **何時必須進行 DPIA？**
 
-控制者需要執行 DPIA 來解決個人資料安全風險，或因資料外洩而造成的風險。 Office 中特定風險因素的範例可在[判斷是否需要 DPIA](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed)中得到解決。  
+控制者需要執行 DPIA 來解決個人資料安全風險，或因資料外洩而造成的風險。 Office 中特定風險因素的範例可在[判斷是否需要 DPIA](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed)中得到解決。  
 
 **完成 DPIA 的必要項目？**
 
@@ -182,7 +182,7 @@ Microsoft 具備適當原則和程序可立即通知您。 為滿足您對 DPA �
 
 ## <a name="accountability-readiness-checklists-for-the-gdpr"></a>符合 GDPR 的責任整備檢查清單
 
-這些[檢查清單](gdpr-arc.md) 提供使用 Microsoft 產品時，便於存取支援 GDPR 所需資訊的方式。 您可以使用 [[Microsoft 合規性管理員]](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) 管理檢查清單項目，方法是參考 GDPR 動態磚中 [客戶管理控制措施] 底下的控制措施識別碼和控制措施標題。
+這些[檢查清單](gdpr-arc.md) 提供使用 Microsoft 產品時，便於存取支援 GDPR 所需資訊的方式。 您可以使用 [[Microsoft 合規性管理員]](/microsoft-365/compliance/compliance-manager) 管理檢查清單項目，方法是參考 GDPR 動態磚中 [客戶管理控制措施] 底下的控制措施識別碼和控制措施標題。
 
 ## <a name="gdpr-faqs"></a>GDPR 常見問題集
 

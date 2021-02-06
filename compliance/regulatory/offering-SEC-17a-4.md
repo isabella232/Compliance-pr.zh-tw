@@ -1,7 +1,7 @@
 ---
 title: 證券和 Exchange 傭金 (SEC) Rule 17a-4 (f) 美國
 description: 獨立評估事務所驗證，Azure 和 Office 365 可協助財務公司符合 SEC Rule 17a-4 (f) 記錄保留和不可改變的儲存需求。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8f47359d23aa9399f36053e1ea6b1df91e181d59
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: f877bbec76cc0d760f2f908975b3818b88551829
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669764"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121202"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>證券和 Exchange 傭金 (SEC) Rule 17a-4 (f) 美國
 
@@ -41,8 +41,8 @@ Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （
 
 為了評估 Azure 與 Office 365 的相容性，以 SEC Rule 17a-4 (f) ，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 在結果報告中：
 
-- **Azure**： [SEC 17a-4 (f) 法規遵從性評估： Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)，Cohasset 使用原則鎖定選項驗證 [Azure 不可變化的 blob 儲存](https://docs.microsoft.com/azure/storage/blobs/storage-blob-immutable-storage) ，當用來保留非擦除和不可讀寫 (WORM 的時間內的 blob 時，) 格式可滿足 SEC 規則的不可變的儲存需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以依靠 Azure 不可變化的 Blob 儲存為 onestop 雲端方案，以進行記錄保留和不可變的儲存。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
-- **Microsoft 365**：針對 [SEC 17a-4 (f)](https://docs.microsoft.com/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 需求，Cohasset 驗證 Microsoft 365 包含封存功能，可讓受管制的客戶（包括經紀人代理商）以一種方式來儲存資料，以協助其遵守記錄保留的 SEC 需求。 Microsoft 365 中的保留功能可協助保留大量的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 具體說來，在 Microsoft 365 中的封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間的資料，而不是以不可重寫、不可讀寫的格式使用。
+- **Azure**： [SEC 17a-4 (f) 法規遵從性評估： Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)，Cohasset 使用原則鎖定選項驗證 [Azure 不可變化的 blob 儲存](/azure/storage/blobs/storage-blob-immutable-storage) ，當用來保留非擦除和不可讀寫 (WORM 的時間內的 blob 時，) 格式可滿足 SEC 規則的不可變的儲存需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以依靠 Azure 不可變化的 Blob 儲存為 onestop 雲端方案，以進行記錄保留和不可變的儲存。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
+- **Microsoft 365**：針對 [SEC 17a-4 (f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 需求，Cohasset 驗證 Microsoft 365 包含封存功能，可讓受管制的客戶（包括經紀人代理商）以一種方式來儲存資料，以協助其遵守記錄保留的 SEC 需求。 Microsoft 365 中的保留功能可協助保留大量的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 具體說來，在 Microsoft 365 中的封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間的資料，而不是以不可重寫、不可讀寫的格式使用。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
@@ -59,7 +59,7 @@ Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （
 
 [SEC 17a-4 (f) 法規遵從性評估： Microsoft Security & 合規性中心，含 SharePoint、OneDrive、小組、Exchange 和商務用 Skype](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
-## <a name="how-to-implement"></a>實作方法
+## <a name="how-to-implement"></a>實作方法：
 
 ### <a name="financial-services-regulation"></a>金融服務法規
 
@@ -71,11 +71,11 @@ Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （
 
 ### <a name="financial-use-cases"></a>財務使用案例
 
-使用案例概述、教學課程及其他資源，建立用於金融服務的 Azure 解決方案。 [深入了解](https://docs.microsoft.com/azure/industry/financial/)
+使用案例概述、教學課程及其他資源，建立用於金融服務的 Azure 解決方案。 [深入了解](/azure/industry/financial/)
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
@@ -84,6 +84,6 @@ Microsoft Azure 永恆 Blob 儲存 with Policy Lock 和 Microsoft Office 365 （
 - [規範計畫 Microsoft business cloud 服務和金融服務](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Azure 金融服務雲端風險評定工具](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Microsoft Office 365 保留原則](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+- [Microsoft Office 365 保留原則](/office365/securitycompliance/retention-policies)
 - [Microsoft 金融服務社區](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

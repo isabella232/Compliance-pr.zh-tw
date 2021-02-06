@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b786b2b5204a98d8a5471eb733e1948709f0b035
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507559"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120088"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>新加坡多層雲端安全性 (MTCS) 標準
 
@@ -60,7 +60,7 @@ MTCS 是第一個具有不同安全性層級的雲端安全性標準，因此，
 - Microsoft Stream
 - [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 認證的有效期為三年，每年進行一次監視稽核。
 
@@ -79,7 +79,7 @@ MTCS 是第一個具有不同安全性層級的雲端安全性標準，因此，
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
-**該標準的適用對象？**
+**該標準適用於誰？**
 
 它適用於在新加坡購買需要符合 MTCS 標準之雲端服務的企業。
 
@@ -95,13 +95,13 @@ MTCS 共有 535 個控制措施，涵蓋三個安全性層級：
 
 [MTCS 認證配置](https://go.microsoft.com/fwlink/p/?linkid=2099490)提供稽核控制和安全性需求的指導方針。
 
-**我是否可以在組織的認證程序中使用 Microsoft 合規性？**
+**我是否可以在組織的憑證程序中使用 Microsoft 合規性？**
 
-是。 如果您需要驗證基於這些 Microsoft 雲端服務構建的服務，則可以使用 MTCS 認證來減少稽核 IT 基礎結構的影響 (如果它仰賴於 IT 基礎結構)。 不過，您有責任確保邀集評估者來評估合規性的實作，以及組織內的控制和程序。
+可以。 如果您需要驗證基於這些 Microsoft 雲端服務構建的服務，則可以使用 MTCS 認證來減少稽核 IT 基礎結構的影響 (如果它仰賴於 IT 基礎結構)。 不過，您有責任確保處理者有參與評估合規性的實作，以及組織中的控制和程序。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

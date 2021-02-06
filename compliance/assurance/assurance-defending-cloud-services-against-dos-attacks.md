@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 44fd9b1e6ea4494895372648c8c729f8c744521a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e632c1524d5cc8c21aec9dab3d95d285a3b8801e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506302"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120572"
 ---
 # <a name="defending-microsoft-365-cloud-services-against-denial-of-service-attacks"></a>防禦拒絕服務攻擊的 Microsoft 365 雲端服務
 
@@ -34,7 +34,7 @@ ms.locfileid: "49506302"
 
 Microsoft 的雲端服務受到來自多個來源的攻擊威脅。 為了緩解和保護不同的 DoS 威脅，已開發高擴充性和動態 Azure 威脅偵測和緩解系統，其主要目標是保護底層基礎結構免受 DoS 攻擊，並協助避免雲端服務客戶的服務中斷。 Azure DoS 緩解系統會保護輸入、輸出及地區對區域的流量。
 
-在網路上 (L3) 和傳輸 (L4) DoS 的目標 [互連](https://docs.microsoft.com/windows-hardware/drivers/network/windows-network-architecture-and-the-osi-model) (OSI) 模型上，會針對目標發起大多數的攻擊。 位於 L3 和 L4 層的攻擊是專門用來淹沒網路介面或服務，其攻擊流量會淹沒資源，並拒絕回應合法流量的能力。 具體而言，L3 和 L4 攻擊會嘗試將網路連結、裝置或服務的容量飽和，或在支援應用程式的伺服器或虛擬機器 CPUs 中不堪重負。
+在網路上 (L3) 和傳輸 (L4) DoS 的目標 [互連](/windows-hardware/drivers/network/windows-network-architecture-and-the-osi-model) (OSI) 模型上，會針對目標發起大多數的攻擊。 位於 L3 和 L4 層的攻擊是專門用來淹沒網路介面或服務，其攻擊流量會淹沒資源，並拒絕回應合法流量的能力。 具體而言，L3 和 L4 攻擊會嘗試將網路連結、裝置或服務的容量飽和，或在支援應用程式的伺服器或虛擬機器 CPUs 中不堪重負。
 
 為了防範 L3 和 L4 遭受的攻擊，Microsoft 已設計、開發及部署的解決方案，都是以保護這些層級，以保護受到攻擊的基礎結構和客戶目標。 保護基礎結構可確保針對某位客戶的攻擊流量不會造成其他客戶的宣傳資料損毀或降低網路服務品質。 此解決方案會使用來自資料中心路由器的流量採樣資料。 網路監控服務會分析此資料，以偵測攻擊。 偵測到攻擊時，自動防護機制開始。
 

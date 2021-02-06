@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937008"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120012"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>加拿大金融機構監理總署 (OSFI)
 
@@ -55,7 +55,7 @@ Microsoft 檢查清單可協助加拿大金融公司執行 Microsoft 商務用�
 - [合規檢查清單：加拿大](https://aka.ms/Azure-Canada-Compliance)：金融公司可以取得 Microsoft 商務雲端服務風險評估的協助。
 - [Microsoft 雲端中的隱私權](https://aka.ms/MCSPrivacy)：取得有關 Microsoft 隱私權原則和標準，以及有關加拿大特定隱私權法的詳細資訊。
 - [風險評估與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評估的監管模型和調整通知。
-- [Azure 的業界使用案例](https://docs.microsoft.com/azure/industry/financial/)：使用案例概述、教程及其他資源建立適用於金融服務的 Azure 解決方案。
+- [Azure 的業界使用案例](/azure/industry/financial/)：使用案例概述、教程及其他資源建立適用於金融服務的 Azure 解決方案。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -71,7 +71,7 @@ Microsoft 檢查清單可協助加拿大金融公司執行 Microsoft 商務用�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

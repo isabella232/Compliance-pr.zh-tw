@@ -1,7 +1,7 @@
 ---
 title: NIST SP 800-171
 description: Microsoft 雲端服務遵循 NIST SP 800-171 指導方針，以保護 nonfederal 資訊系統中受控制的未分類資訊 (CUI) 。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
-ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
+ms.openlocfilehash: da5e2621969ff9cd4ce2778fa7f075522454aef7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49712081"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121112"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -56,9 +56,9 @@ NIST SP 800-171 的需求是 NIST SP 800-53 （FedRAMP 使用的標準）的子�
 
 - [與 NIST SP 800-171 相容性的 Azure 政府證明](https://aka.ms/Azure-NIST-800-171)
 
-## <a name="how-to-implement"></a>實作方法
+## <a name="how-to-implement"></a>實作方法：
 
-- [Azure 藍圖範例](https://docs.microsoft.com/azure/governance/blueprints/samples/)：取得支援以 NIST 為基礎的控制項的實施工作負載。
+- [Azure 藍圖範例](/azure/governance/blueprints/samples/)：取得支援以 NIST 為基礎的控制項的實施工作負載。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -66,9 +66,9 @@ NIST SP 800-171 的需求是 NIST SP 800-53 （FedRAMP 使用的標準）的子�
 
 是。 Microsoft 客戶可以使用來自獨立協力廠商評估組織的報告中所述的審核控制項， (3PAO) FedRAMP 標準的一部分 FedRAMP 及 NIST 風險分析和資格工作。 這些報告證明 Microsoft 已在其範圍內雲端服務中實施之控制項的效能。 客戶負責確保其 CUI 工作負載符合 NIST SP 800-171 指導方針。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

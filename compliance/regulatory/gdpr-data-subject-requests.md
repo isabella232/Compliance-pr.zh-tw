@@ -17,12 +17,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: 了解如何使用 Microsoft 產品和服務來完成一般資料保護規定 (GPDR) 和加州消費者隱私法 (CCPA) 底下的 DSR。
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: ce2be94fec6b2e48a9e7052a1b01302966eb42a3
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507226"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121032"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>GDPR 與 CCPA 和資料主體要求
 
@@ -68,7 +68,7 @@ ms.locfileid: "49507226"
 
 ### <a name="insights-generated-by-microsoft-products-or-services"></a>Microsoft 產品或服務產生的深入資訊
 
-[深入資訊](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)可能由服務 (MyAnalytics 等) 產生。Office 365 包含的線上服務可為其使用其服務的使用者和組織提供深入資訊。 這些服務所產生的資料可能會產生與 DSR 相關的個人資料。 請遵循下列連結來取得有關特定服務 DSR 程序的詳細資料。  
+[深入資訊](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)可能由服務 (MyAnalytics 等) 產生。Office 365 包含的線上服務可為其使用其服務的使用者和組織提供深入資訊。 這些服務所產生的資料可能會產生與 DSR 相關的個人資料。 請遵循下列連結來取得有關特定服務 DSR 程序的詳細資料。  
 
 ### <a name="dsrs-for-system-generated-logs"></a>系統產生的記錄檔的 DSR
 
@@ -82,8 +82,8 @@ Microsoft 產生的記錄檔和相關資料可能包含依據 GDPR 的「個人�
 
 刪除使用者的帳戶不會移除系統針對 Yammer 和 Kaizala 產生的記錄。 若要移除這些應用程式中的資料，請參閱下列其中一項資源：
 
-- [管理 Yammer Enterprise 中的 GDPR 資料主體要求](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
-- [在 Kaizala 中匯出或刪除使用者的組織資料](https://docs.microsoft.com/office365/kaizala/export-or-delete-a-user-s-data)
+- [管理 Yammer Enterprise 中的 GDPR 資料主體要求](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
+- [在 Kaizala 中匯出或刪除使用者的組織資料](/office365/kaizala/export-or-delete-a-user-s-data)
 
 ### <a name="national-clouds"></a>國家/地區雲端
 

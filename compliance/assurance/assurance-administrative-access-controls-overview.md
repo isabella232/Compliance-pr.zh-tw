@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 6298e027b891edb0729474ea9b6052be2bf6b056
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d3d6cd30fbe682de979d5c04943c57cedc86552f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507130"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120712"
 ---
 # <a name="administrative-access-controls-in-microsoft-365"></a>Microsoft 365 中的管理存取控制 
 
@@ -40,13 +40,13 @@ Microsoft 提供使用多種形式的雲端傳遞的線上服務：
 
 基於本文的目的，Microsoft 365 服務包括：
 
-- [Exchange Online](https://docs.microsoft.com/Exchange/exchange-online)
-- [Exchange Online Protection](https://docs.microsoft.com/Office365/SecurityCompliance/eop/exchange-online-protection-overview)
-- [SharePoint Online](https://docs.microsoft.com/sharepoint/sharepoint-online)
-- [商務用 OneDrive](https://docs.microsoft.com/OneDrive/onedrive)
-- [商務用 Skype](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online)
-- [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/Teams-overview)
-- [Yammer](https://docs.microsoft.com/yammer/yammer-landing-page)
+- [Exchange Online](/Exchange/exchange-online)
+- [Exchange Online Protection](/Office365/SecurityCompliance/eop/exchange-online-protection-overview)
+- [SharePoint Online](/sharepoint/sharepoint-online)
+- [商務用 OneDrive](/OneDrive/onedrive)
+- [商務用 Skype](/SkypeForBusiness/skype-for-business-online)
+- [Microsoft Teams](/MicrosoftTeams/Teams-overview)
+- [Yammer](/yammer/yammer-landing-page)
 
 ## <a name="microsoft-365-access-controls"></a>Microsoft 365 存取控制
 
@@ -93,12 +93,12 @@ Microsoft 365 可讓您在內部部署環境中管理資料的方式相同。 �
 
 建議每個組織至少要設定兩個系統管理員帳戶。 對於大型企業組織，我們建議針對不同功能的特殊系統管理員帳戶。
 
-如需指派系統管理員角色和許可權的相關資訊，請參閱 [指派系統管理員角色](https://docs.microsoft.com/microsoft-365/admin/add-users/assign-admin-roles) 及 [關於系統管理員角色](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)。
+如需指派系統管理員角色和許可權的相關資訊，請參閱 [指派系統管理員角色](/microsoft-365/admin/add-users/assign-admin-roles) 及 [關於系統管理員角色](/microsoft-365/admin/add-users/about-admin-roles)。
 
 ## <a name="related-links"></a>相關連結
 
 - [Microsoft 365 中的隔離](assurance-isolation-in-microsoft-365.md)
-- [Microsoft 雇用預先篩選](assurance-pre-employment-screening.md)
-- [Microsoft cloud 背景檢查](assurance-cloud-background-check.md)
+- [Microsoft 職前檢測](assurance-pre-employment-screening.md)
+- [Microsoft 雲端背景檢查](assurance-cloud-background-check.md)
 - [監視及稽核的存取控制](assurance-monitoring-and-auditing-access-controls.md)
 - [Yammer 企業存取控制](assurance-yammer-enterprise-access-controls.md)

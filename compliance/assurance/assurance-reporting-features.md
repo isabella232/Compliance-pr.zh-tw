@@ -18,12 +18,12 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: cbbeda134d30c25eea935d89eb49a2a68df0ad96
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a745c470dc30703f438258985169431c1053e65d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506251"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120782"
 ---
 # <a name="microsoft-365-reporting-features"></a>Microsoft 365 報告功能
 
@@ -40,10 +40,10 @@ Microsoft 365 系統管理中心預覽中的 [報告] 儀表板會顯示跨 Micr
 - [SharePoint 線上網站使用量報告](https://support.office.com/article/Office-365-Reports-in-the-admin-center-preview--SharePoint-site-usage-4ecfb843-e5d5-464d-8bf6-7ed512a9b213)
 - [商務流量報告 OneDrive](https://support.office.com/article/Office-365-Reports-in-the-Admin-Center-Preview--OneDrive-for-Business-usage-0de3b312-c4e8-4e4b-a02d-32b2f726a680)
 - [Yammer 活動報告](https://support.office.com/article/View-the-Yammer-Activity-report-in-the-Office-365-admin-center-preview-c7c9f938-5b8e-4d52-b1a2-c7c32cb2312a)
-- [商務用 Skype 活動報告](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/activity-report)
-- [商務用 Skype Peer-to-Peer 活動報告](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report)
-- [商務用 Skype 會議召集人報告](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report)
-- [商務用 Skype 會議參與者活動報告](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report)
+- [商務用 Skype 活動報告](/SkypeForBusiness/skype-for-business-online-reporting/activity-report)
+- [商務用 Skype Peer-to-Peer 活動報告](/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report)
+- [商務用 Skype 會議召集人報告](/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report)
+- [商務用 Skype 會議參與者活動報告](/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report)
 
 如需詳細資訊，請參閱 [Microsoft 365 系統管理中心的活動報告](https://support.office.com/article/activity-reports-in-the-office-365-admin-center-0d6dfb17-8582-4172-a9a9-aed798150263)。
 
@@ -51,7 +51,7 @@ Microsoft 365 系統管理中心預覽中的 [報告] 儀表板會顯示跨 Micr
 
 Microsoft 365 使用 Azure AD 進行驗證和身分識別管理。 Microsoft 365 系統管理員會使用 Azure 所產生的報告，識別不尋常的活動，並對其資料進行未經授權的存取。 您可以在 Azure AD 中使用 access 和使用方式報告，以深入瞭解您組織的目錄完整性及安全性。 使用此資訊，您可以找出並緩解可能的安全性風險。
 
-Azure AD 報告可以匯出至 Microsoft Excel，並與 Microsoft 365 中的其他資料相關聯。 例如，審核記錄搜尋的結果可讓您瞭解存取、驗證及應用層級的活動。 您可以使用 Azure AD Premium 的高級反常和資源使用狀況報告。 這些高級報告可協助您改善安全性狀況，並透過應用裝置存取和應用程式使用方式的分析來協助您回應潛在威脅。 如需詳細資訊，請參閱 [Azure Active Directory 報告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports/)。
+Azure AD 報告可以匯出至 Microsoft Excel，並與 Microsoft 365 中的其他資料相關聯。 例如，審核記錄搜尋的結果可讓您瞭解存取、驗證及應用層級的活動。 您可以使用 Azure AD Premium 的高級反常和資源使用狀況報告。 這些高級報告可協助您改善安全性狀況，並透過應用裝置存取和應用程式使用方式的分析來協助您回應潛在威脅。 如需詳細資訊，請參閱 [Azure Active Directory 報告](/azure/active-directory/reports-monitoring/overview-reports/)。
 
 ## <a name="exchange-online-audit-reports"></a>Exchange Online 審核報告
 
@@ -62,14 +62,14 @@ Exchange Online 審核報告包含信箱存取的詳細資料，以及系統管�
 
 | 工作 | 描述 |
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [執行非擁有者信箱存取報告](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/non-owner-mailbox-access-report) | 顯示其他人員存取的信箱清單，而非信箱的擁有者。 報告包含誰存取信箱的相關資訊、他們在信箱中採取的動作，以及動作是否成功。 |
-| [匯出信箱稽核記錄](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/export-mailbox-audit-logs) | 信箱審核記錄檔包含信箱擁有者以外的使用者所採取之信箱中存取和動作的資訊。 管理員可以指定信箱，並在日期範圍內產生報告。 這些記錄會以 XML 形式匯出，並附加至郵件，並傳送給特定使用者，如系統管理員所決定。 |
-| [執行系統管理員角色群組報告](https://docs.microsoft.com/Office365/SecurityCompliance/eop/run-an-administrator-role-group-report-in-eop-eop) | 系統管理員角色群組會指派系統管理許可權給使用者。 這些許可權可讓使用者執行系統管理工作，例如重設密碼、建立或修改信箱，以及將系統管理員許可權指派給其他使用者。 系統管理員角色群組報告會顯示對角色群組所做的變更，包括新增或移除成員。 |
-| [查看系統管理員審核記錄檔](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/view-administrator-audit-log) | 系統管理員審核記錄報告會列出系統管理員在 Exchange Online 中所執行的所有建立、更新和刪除功能。 記錄專案提供已執行 Cmdlet 的資訊、使用的參數、執行 Cmdlet 的執行者，以及受影響的物件。 |
-| [信箱內容搜尋和保留](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) | 提供 In-Place eDiscovery 或信箱上 In-Place 保留設定之任何變更的詳細資料。 |
-| [匯出系統管理員審核記錄檔](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/search-role-group-changes) | 系統管理員審核記錄檔會記錄在 Exchange Online 中建立、更新和刪除等特定的管理動作。 記錄的結果會匯出為 XML，管理員可以選擇將此記錄傳送給一組使用者。 |
-| [執行每個信箱的訴訟資料暫留報告](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/per-mailbox-litigation-hold-report) | 提供信箱的訴訟暫止設定變更的詳細資料。 |
-| [查看和匯出外部系統管理員審核記錄](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/view-external-admin-audit-log) | 包含外部管理員執行之動作的詳細資料。 這些專案會提供已執行 Cmdlet 的資訊、所使用的參數，以及在 Exchange Online 中建立、修改或刪除物件的任何動作。 |
+| [執行非擁有者信箱存取報告](/exchange/security-and-compliance/exchange-auditing-reports/non-owner-mailbox-access-report) | 顯示其他人員存取的信箱清單，而非信箱的擁有者。 報告包含誰存取信箱的相關資訊、他們在信箱中採取的動作，以及動作是否成功。 |
+| [匯出信箱稽核記錄](/exchange/security-and-compliance/exchange-auditing-reports/export-mailbox-audit-logs) | 信箱審核記錄檔包含信箱擁有者以外的使用者所採取之信箱中存取和動作的資訊。 管理員可以指定信箱，並在日期範圍內產生報告。 這些記錄會以 XML 形式匯出，並附加至郵件，並傳送給特定使用者，如系統管理員所決定。 |
+| [執行系統管理員角色群組報告](/Office365/SecurityCompliance/eop/run-an-administrator-role-group-report-in-eop-eop) | 系統管理員角色群組會指派系統管理許可權給使用者。 這些許可權可讓使用者執行系統管理工作，例如重設密碼、建立或修改信箱，以及將系統管理員許可權指派給其他使用者。 系統管理員角色群組報告會顯示對角色群組所做的變更，包括新增或移除成員。 |
+| [查看系統管理員審核記錄檔](/exchange/security-and-compliance/exchange-auditing-reports/view-administrator-audit-log) | 系統管理員審核記錄報告會列出系統管理員在 Exchange Online 中所執行的所有建立、更新和刪除功能。 記錄專案提供已執行 Cmdlet 的資訊、使用的參數、執行 Cmdlet 的執行者，以及受影響的物件。 |
+| [信箱內容搜尋和保留](/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) | 提供 In-Place eDiscovery 或信箱上 In-Place 保留設定之任何變更的詳細資料。 |
+| [匯出系統管理員審核記錄檔](/exchange/security-and-compliance/exchange-auditing-reports/search-role-group-changes) | 系統管理員審核記錄檔會記錄在 Exchange Online 中建立、更新和刪除等特定的管理動作。 記錄的結果會匯出為 XML，管理員可以選擇將此記錄傳送給一組使用者。 |
+| [執行每個信箱的訴訟資料暫留報告](/exchange/security-and-compliance/exchange-auditing-reports/per-mailbox-litigation-hold-report) | 提供信箱的訴訟暫止設定變更的詳細資料。 |
+| [查看和匯出外部系統管理員審核記錄](/exchange/security-and-compliance/exchange-auditing-reports/view-external-admin-audit-log) | 包含外部管理員執行之動作的詳細資料。 這些專案會提供已執行 Cmdlet 的資訊、所使用的參數，以及在 Exchange Online 中建立、修改或刪除物件的任何動作。 |
 
 ## <a name="device-compliance-reports"></a>裝置合規性報告
 
@@ -81,7 +81,7 @@ Exchange Online 審核報告包含信箱存取的詳細資料，以及系統管�
 
 DLP 原則可協助管理組織中資訊的安全性和流程。 您可以設定原則，以封鎖存取內容、加密資料，或使用隨應用程式中的 DLP 原則提示來通知使用者原則及原則違規。 DLP 報告可提供原則和規則相符專案、覆寫和誤報的洞察力。
 
-您可以使用 Microsoft 365 系統管理中心，查看 DLP 原則所偵測到的郵件數目資訊。 DLP 報告可提供傳送和接收郵件的原則和規則相符專案的見解。 您也可以使用 Exchange 系統管理中心，查看過去24小時內每個原則的相符、覆寫和誤報數目。 如果您下載 Excel 報告，您可以查看更多詳細資料，例如誰傳送哪一封郵件、哪一天，以及哪些原則相符已觸發。 如需詳細資訊，請參閱 [查看有關 DLP 原則](https://docs.microsoft.com/previous-versions/exchange-server/exchange-150/jj889415(v=exchg.150))偵測的報告。
+您可以使用 Microsoft 365 系統管理中心，查看 DLP 原則所偵測到的郵件數目資訊。 DLP 報告可提供傳送和接收郵件的原則和規則相符專案的見解。 您也可以使用 Exchange 系統管理中心，查看過去24小時內每個原則的相符、覆寫和誤報數目。 如果您下載 Excel 報告，您可以查看更多詳細資料，例如誰傳送哪一封郵件、哪一天，以及哪些原則相符已觸發。 如需詳細資訊，請參閱 [查看有關 DLP 原則](/previous-versions/exchange-server/exchange-150/jj889415(v=exchg.150))偵測的報告。
 
 ## <a name="auditing-in-yammer-enterprise"></a>Yammer Enterprise 中的審計
 

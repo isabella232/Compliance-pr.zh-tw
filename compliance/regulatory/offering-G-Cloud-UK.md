@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27d4fd3a274e272110bb502b30684b97cf592ef5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 1d769597d957896f699a6231891eea14bd77ca04
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506201"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120312"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>英國 Government-Cloud (G-Cloud) 
 
@@ -105,7 +105,7 @@ UK 中的 Microsoft 雲端提供與英國的資料派駐所結合的可靠性和
 
 **如何取得審計員報表的複本？**
 
-[服務信任入口網站](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal)提供獨立稽核的合規性報告。 您可以使用入口網站來要求審核報告，讓審計員能夠比較 Microsoft 結果與您自己的法律和法規需求。
+[服務信任入口網站](/microsoft-365/compliance/get-started-with-service-trust-portal)提供獨立稽核的合規性報告。 您可以使用入口網站來要求審核報告，讓審計員能夠比較 Microsoft 結果與您自己的法律和法規需求。
 
 ## <a name="resources"></a>資源
 

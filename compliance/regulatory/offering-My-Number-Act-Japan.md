@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b4a006fbbcd4a1af3a8ff118ea7cacaecb2ceadc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507556"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120072"
 ---
 # <a name="my-number-act-japan"></a>個人編號法案 (日本)
 
@@ -60,11 +60,11 @@ Microsoft 商務雲端服務在 [Microsoft Online Services 條款](https://www.m
 
 - [Office 365 中的隱私權](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)：Microsoft 如何在 Office 365 中建構強大的隱私權保護。
 
-- [Office 365 中系統管理存取](https://docs.microsoft.com/office365/SecurityCompliance/office-365-administrative-access-controls-overview)：Microsoft 如何管理對客戶資料的系統管理存取。
+- [Office 365 中系統管理存取](/office365/SecurityCompliance/office-365-administrative-access-controls-overview)：Microsoft 如何管理對客戶資料的系統管理存取。
 
-- [Office 365 中的稽核與報告](https://docs.microsoft.com/office365/SecurityCompliance/office-365-auditing-and-reporting-overview)：探索客戶可用來追蹤其租用戶中使用者和系統管理活動的功能。
+- [Office 365 中的稽核與報告](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview)：探索客戶可用來追蹤其租用戶中使用者和系統管理活動的功能。
 
-- [Office 365 中的資料保留](https://docs.microsoft.com/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview)：了解刪除資料後，客戶資料保留時間之資料處理原則。
+- [Office 365 中的資料保留](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview)：了解刪除資料後，客戶資料保留時間之資料處理原則。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

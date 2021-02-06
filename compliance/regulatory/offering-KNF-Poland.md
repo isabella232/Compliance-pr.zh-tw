@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a9bf00ea9fe791f72f73df1d1ccb16d6bd256ed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507571"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120152"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>金融監督管理局 (KNF) 波蘭
 
@@ -60,7 +60,7 @@ Microsoft 檢查清單可協助波蘭金融公司執行 Microsoft 商務雲端�
 
 - [合規性檢查清單：波蘭](https://aka.ms/FinServ-Guide-Poland)：金融公司可以取得 Microsoft 商務雲端服務風險評估的協助。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
-- [金融使用案例](https://docs.microsoft.com/azure/industry/financial/)：使用案例概觀、教學課程及其他資源建立適用於金融服務的 Azure 解決方案。
+- [金融使用案例](/azure/industry/financial/)：使用案例概觀、教學課程及其他資源建立適用於金融服務的 Azure 解決方案。
 - [Microsoft 雲端中的隱私權](https://aka.ms/MCSPrivacy)：取得有關 Microsoft 隱私權原則和標準，以及有關波蘭特定隱私權法的詳細資訊。
 
 ## <a name="frequently-asked-questions"></a>常見問題集

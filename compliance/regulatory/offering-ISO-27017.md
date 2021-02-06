@@ -1,5 +1,5 @@
 ---
-title: 資訊安全性控制的 ISO/IEC 27017:2015 工作條例規定
+title: ISO/IEC 27017:2015 資訊安全性控制的工作條例規定
 description: Microsoft 雲端服務已實作此「資訊安全性控制的工作條例規定」。
 keywords: Microsoft 365, 合規性, 方案
 localization_priority: Priority
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b51d7879b0b20773f76ed194a0080b2ae88c1fb8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ef439ccb7c95698a8d7d4f5bc8b6d96bc42694a2
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507596"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120122"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>資訊安全性控制的 ISO/IEC 27017:2015 工作條例規定
 
@@ -81,7 +81,7 @@ Microsoft 雲端服務會每年隨著 ISO/IEC 27001:2013 的認證程序，針�
 
 **我是否可以在組織的認證程序中使用 Microsoft 服務的 ISO/IEC 27017 合規性？**
 
-是。 如果貴公司正在尋求用於在任何 Microsoft 範圍內企業雲端服務上所部署實作的認證，則可以在您的合規性評定中使用 Microsoft 的相關認證。 不過，您有責任確保處理者有參與評估合規性的實作，以及組織中的控制和程序。
+是的。 如果貴公司正在尋求用於在任何 Microsoft 範圍內企業雲端服務上所部署實作的認證，則可以在您的合規性評定中使用 Microsoft 的相關認證。 不過，您有責任確保評定者有參與評估合規性的實作，以及組織中的控制和程序。
 
 **如何取得適用稽核報告的複本？**
 
@@ -89,7 +89,7 @@ Microsoft 雲端服務會每年隨著 ISO/IEC 27001:2013 的認證程序，針�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b86c855a113706731ac6037a2851ae0f1adaccb9
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: 527fb2d7ca1536c549990b0c7a4615e4fe3e8436
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012959"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120492"
 ---
 # <a name="exchange-online-data-deletion-in-microsoft-365"></a>Microsoft 365 中的 Exchange Online 資料刪除
 
@@ -48,9 +48,9 @@ ms.locfileid: "50012959"
 
 ## <a name="soft-deleted-and-hard-deleted-items"></a>虛刪除和實刪除的專案
 
-當使用者刪除信箱專案 (例如電子郵件、連絡人、行事曆約會或工作) 時，該專案會移至 [可復原的專案] 資料夾，以及名為 "delete" 的子資料夾中。 這稱為虛刪除。 刪除的專案保留在「刪除」資料夾中的時間，取決於為該信箱設定的已刪除專案保留期間。 Exchange Online 信箱預設會將刪除的專案保留14天，但是 Exchange Online 系統管理員可以變更此設定，使其最多可增加30天。  (如需增加 Exchange Online 信箱刪除專案保留期間的詳細步驟，請參閱 [變更為 Exchange online 信箱保留永久刪除的專案的時間長度](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention)。 ) 使用者可以復原或清除已刪除專案的保留時間到期的專案。 若要這樣做，他們會使用 Microsoft Outlook 中的 [復原刪除的郵件] 功能或網頁上的 Outlook。
+當使用者刪除信箱專案 (例如電子郵件、連絡人、行事曆約會或工作) 時，該專案會移至 [可復原的專案] 資料夾，以及名為 "delete" 的子資料夾中。 這稱為虛刪除。 刪除的專案保留在「刪除」資料夾中的時間，取決於為該信箱設定的已刪除專案保留期間。 Exchange Online 信箱預設會將刪除的專案保留14天，但是 Exchange Online 系統管理員可以變更此設定，使其最多可增加30天。  (如需增加 Exchange Online 信箱刪除專案保留期間的詳細步驟，請參閱 [變更為 Exchange online 信箱保留永久刪除的專案的時間長度](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention)。 ) 使用者可以復原或清除已刪除專案的保留時間到期的專案。 若要這樣做，他們會使用 Microsoft Outlook 中的 [復原刪除的郵件] 功能或網頁上的 Outlook。
 
-如果使用者使用 Outlook 或 web 上的 Outlook 中的 [復原刪除的郵件] 功能來清除已刪除的專案，則這稱為實刪除。 在 Exchange Online 中，預設會在建立新的信箱時啟用單一專案復原，因此，管理員仍可在刪除的專案保留期間到期之前，先 [復原](https://docs.microsoft.com/Exchange/recipients/user-mailboxes/recover-deleted-messages) 已刪除的郵件。 此外，如果使用者或程式變更了郵件，則在啟用單一專案復原時，也會保留原始專案的副本。
+如果使用者使用 Outlook 或 web 上的 Outlook 中的 [復原刪除的郵件] 功能來清除已刪除的專案，則這稱為實刪除。 在 Exchange Online 中，預設會在建立新的信箱時啟用單一專案復原，因此，管理員仍可在刪除的專案保留期間到期之前，先 [復原](/Exchange/recipients/user-mailboxes/recover-deleted-messages) 已刪除的郵件。 此外，如果使用者或程式變更了郵件，則在啟用單一專案復原時，也會保留原始專案的副本。
 
 ## <a name="page-zeroing"></a>清空頁面
 

@@ -19,12 +19,12 @@ f1.keywords:
 ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 03bd74401c944f47e02fbfffc91387afd6e039fd
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2c02e1739f6d3b5981e4327139477a12f987ed68
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506959"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120732"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Microsoft 365 的技術控制措施 
 
@@ -45,7 +45,7 @@ Microsoft 365 工程師在存取 Microsoft 365 客戶資料時，都有零。 �
 
 在 Microsoft service 工程師需要存取資料的少數情況下，您只會將存取權授與解決問題所需的資料，並限制一段時間。 如果您拒絕存取要求，Microsoft 工程師無法存取您的內容，也無法完成服務作業。 如果您核准要求，Microsoft 工程師會透過受監控和限制的管理介面，以即時存取您的內容。
 
-支援工程師採取的動作會記錄下來以供審核之用，並可透過 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/get-started-with-office-365-management-apis) 與 [安全性與合規性中心](https://protection.office.com/)存取。
+支援工程師採取的動作會記錄下來以供審核之用，並可透過 [Office 365 管理活動 API](/office/office-365-management-api/get-started-with-office-365-management-apis) 與 [安全性與合規性中心](https://protection.office.com/)存取。
 
 >[!NOTE]
 > 客戶加密箱可在 [Microsoft 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) 中作為附加元件購買。 如需詳細資訊，請參閱 [Microsoft 365 客戶加密箱要求](https://support.office.com/article/Office-365-Customer-Lockbox-Requests-36f9cdd1-e64c-421b-a7e4-4a54d16440a2)。

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4555553c4da1bece5e27f0905aa60504102b1eb1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d7d1f47d7f76f9fc6d3cefa6cac5be807af98cbc
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506204"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120832"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>聯邦資訊處理標準 (FIPS) 發佈140-2
 
@@ -41,9 +41,9 @@ Microsoft 會維持積極的承諾，以滿足140-2 需求，因為標準是在2
 
 目前的 CMVP FIPS 140-2 實現指導方針會排除雲端服務本身的 FIPS 140-2 驗證，但雲端服務提供者可以選擇針對組成其雲端服務的計算元素，選擇取得並運作 FIPS 140 驗證的密碼模組。 Microsoft online services （包括已驗證 FIPS 140-2 的元件）包含下列各種：
 
-- [Azure 和 Azure Government](https://docs.microsoft.com/azure/azure-government/documentation-government-plan-security)
-- [Dynamics 365 和 Dynamics 365 政府](https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
-- [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-risks-and-protections)
+- [Azure 和 Azure Government](/azure/azure-government/documentation-government-plan-security)
+- [Dynamics 365 和 Dynamics 365 政府](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
+- [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -87,5 +87,5 @@ Azure 是以硬體、商用作業系統 (Linux 和 Windows) 和 Azure 特有版�
 
 - [FIPS Pub 140-2 加密模組的安全性需求](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [NIST 加密模組驗證程式](https://csrc.nist.gov/groups/STM/cmvp/index.html)
-- [Windows、Windows Server 及 FIPS 140-2](https://docs.microsoft.com/windows/security/threat-protection/fips-140-validation)
+- [Windows、Windows Server 及 FIPS 140-2](/windows/security/threat-protection/fips-140-validation)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

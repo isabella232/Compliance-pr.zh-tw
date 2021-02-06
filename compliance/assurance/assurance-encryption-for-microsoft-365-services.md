@@ -20,12 +20,12 @@ ms.collection:
 - SPO_Content
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 8f76a8a7c8b9d579128dffab67a8a2aedf26fc20
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9317b112d1fa759b1f90e072203e7b8093a432fd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506287"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120542"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>商務用 Skype、商務用 OneDrive SharePoint 線上、Microsoft 團隊和 Exchange Online 的加密
 
@@ -39,7 +39,7 @@ Microsoft 365 是高度安全的環境，可提供多層的廣泛保護：實體
 
 在 SharePoint Online 中的所有客戶檔案，都是以唯一的、每個副檔名為單一租使用者的金鑰保護。 這些機碼是由 SharePoint 線上服務建立及管理，或由客戶使用、建立及管理客戶金鑰。 上載檔案時，會在上傳要求的內容中 SharePoint 線上執行加密，然後再將其傳送至 Azure 儲存體。 下載檔案時，SharePoint 線上會根據唯一的檔識別碼從 Azure 儲存體檢索加密的客戶資料，並在將客戶資料傳送給使用者前解密客戶資料。 Azure 儲存區沒有能力解密，甚至可識別或瞭解客戶資料。 所有的加密和解密都會發生在強制租使用者隔離的相同系統中，也就是 Azure Active Directory 和 SharePoint Online。
 
-Microsoft 365 中的數個工作負載會在線上 SharePoint，包括 Microsoft 團隊，可將所有檔案儲存在 SharePoint Online 中，並為商務 OneDrive 使用 SharePoint 線上存放。 所有儲存在 SharePoint Online 中的客戶資料都是以一或多個 AES 256 位金鑰) 和分散于整個資料中心的方式進行加密 (，如下所示。  (此加密處理常式的每一個步驟都是驗證 FIPS 140-2 層級2。 如需有關 FIPS 140-2 規範的詳細資訊，請參閱 [fips 140-2 相容性](https://docs.microsoft.com/previous-versions/sql/sql-server-2008-r2/bb326611(v=sql.105))。 ) 
+Microsoft 365 中的數個工作負載會在線上 SharePoint，包括 Microsoft 團隊，可將所有檔案儲存在 SharePoint Online 中，並為商務 OneDrive 使用 SharePoint 線上存放。 所有儲存在 SharePoint Online 中的客戶資料都是以一或多個 AES 256 位金鑰) 和分散于整個資料中心的方式進行加密 (，如下所示。  (此加密處理常式的每一個步驟都是驗證 FIPS 140-2 層級2。 如需有關 FIPS 140-2 規範的詳細資訊，請參閱 [fips 140-2 相容性](/previous-versions/sql/sql-server-2008-r2/bb326611(v=sql.105))。 ) 
 
 - 每個檔案都會分割成一或多個區塊，視檔案大小而定。 每個區塊都會以其專屬唯一的 AES 256 位金鑰加密。
 - 更新檔案時，會以相同的方式處理更新：此變更會分割成一或多個區塊，而且每個區塊都會以個別的唯一金鑰加密。
@@ -47,7 +47,7 @@ Microsoft 365 中的數個工作負載會在線上 SharePoint，包括 Microsoft
 - 這兩個客戶資料區塊的加密金鑰集也會加密。
 
     - 用來加密 blob 的金鑰會儲存在 SharePoint 線上內容資料庫中。
-    - 內容資料庫是由資料庫存取控制和靜止加密所保護。 使用) [AZURE SQL Database](https://docs.microsoft.com/azure/sql-database/sql-database-technical-overview)中的[透明資料加密](https://docs.microsoft.com/sql/relational-databases/security/encryption/transparent-data-encryption-tde) (TDE，就會執行加密。 在 Microsoft Azure 中 (Azure SQL Database 是一般用途的關係資料庫服務，可支援關聯式資料、JSON、空間和 XML 等結構。 ) 這些機密位於 SharePoint 線上的服務層級，而不是在租使用者層級。 這些機密 (有時候稱為主要金鑰) 儲存在個別的安全存放庫中，稱為機碼存放區。 TDE 為使用中的資料庫與資料庫備份和交易記錄，提供了靜止的安全性。
+    - 內容資料庫是由資料庫存取控制和靜止加密所保護。 使用) [AZURE SQL Database](/azure/sql-database/sql-database-technical-overview)中的[透明資料加密](/sql/relational-databases/security/encryption/transparent-data-encryption-tde) (TDE，就會執行加密。 在 Microsoft Azure 中 (Azure SQL Database 是一般用途的關係資料庫服務，可支援關聯式資料、JSON、空間和 XML 等結構。 ) 這些機密位於 SharePoint 線上的服務層級，而不是在租使用者層級。 這些機密 (有時候稱為主要金鑰) 儲存在個別的安全存放庫中，稱為機碼存放區。 TDE 為使用中的資料庫與資料庫備份和交易記錄，提供了靜止的安全性。
     - 當客戶提供選用的金鑰時，客戶金鑰會儲存在 Azure Key Vault 中，而且服務會使用金鑰來加密租使用者金鑰（用來加密網站機碼，然後用來加密檔層級金鑰）。 實質上，當客戶提供金鑰時，會引入新的主要階層。
 - 用來重新裝配檔案的對應，會與加密金鑰一起儲存在內容資料庫中，並與解密所需的主金鑰分開。
 - 每個 Azure 儲存體帳戶每一種存取類型都有自己的唯一認證 (讀取、寫入、列舉和刪除) 。 每個認證集都會保留在安全的金鑰存放區中，且會定期重新整理。 如以上所述，有三種不同類型的存放區，各有不同的功能：
@@ -84,7 +84,7 @@ BitLocker 憑證，用來保護資料中心內電腦上的實體磁片區，會�
 
 ## <a name="exchange-online"></a>Exchange Online
 
-Exchange Online 會使用 BitLocker 用於所有信箱資料，而 BitLocker 設定會在 [BitLocker 進行加密](https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption)中描述。 服務層級加密會加密信箱層級的所有信箱資料。 
+Exchange Online 會使用 BitLocker 用於所有信箱資料，而 BitLocker 設定會在 [BitLocker 進行加密](/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption)中描述。 服務層級加密會加密信箱層級的所有信箱資料。 
 
 除了服務加密之外，Microsoft 365 還支援客戶金鑰，這是以服務加密為基礎。 客戶金鑰是 Microsoft 管理的金鑰選項，用於 Exchange Online 服務加密，也就是在 Microsoft 藍圖上。 這種加密方法可提供 BitLocker 所提供的增強保護，因為它提供伺服器管理員的隔離和解密資料所需的加密金鑰，而且因為加密是以直接方式套用至資料 (BitLocker，因此會在邏輯磁片磁片區上套用加密，) 從 Exchange 伺服器複製的任何客戶資料仍保持加密。
 
@@ -113,4 +113,4 @@ Exchange Online 服務加密的範圍是在 Exchange Online 中儲存在 rest �
 
 #### <a name="fips"></a>Fips
 
-小組使用 FIPS (聯邦資訊處理標準) 相容演算法，以進行加密金鑰交換。 如需實施 FIPS 的詳細資訊，請參閱 [聯邦資訊處理標準 (FIPS) 發佈 140-2](https://docs.microsoft.com/microsoft-365/compliance/offering-fips-140-2)。
+小組使用 FIPS (聯邦資訊處理標準) 相容演算法，以進行加密金鑰交換。 如需實施 FIPS 的詳細資訊，請參閱 [聯邦資訊處理標準 (FIPS) 發佈 140-2](/microsoft-365/compliance/offering-fips-140-2)。

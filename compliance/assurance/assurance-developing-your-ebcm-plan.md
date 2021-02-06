@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b43b3d272196007f4fa5015ade36055187a2db33
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 74bbca3ff8b179208288651e5a8b4f4a9eac09e8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574795"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120562"
 ---
 # <a name="developing-your-business-continuity-plan"></a>開發您的業務持續性計畫
 
@@ -64,7 +64,7 @@ ms.locfileid: "49574795"
 
 接下來，您要在商務程序之間巡視，以查看是否有任何階層式相依性關聯存在。 根據結果，您優先處理並且形式復原策略，然後再進行支援您策略的標準作業程序。
 
-您可以使用 [Microsoft Service Map](https://docs.microsoft.com/azure/azure-monitor/insights/service-map) 協助您進行這個對應。 Microsoft Service Map 會自動探索 Windows 和 Linux 系統上的應用程式元件，並且對應所有 TCP 相依性、識別連線和應用程式相依的遠端第三方系統。 它也會將相依性對應至通常是陰暗的網路區域，例如 Active Directory。
+您可以使用 [Microsoft Service Map](/azure/azure-monitor/insights/service-map) 協助您進行這個對應。 Microsoft Service Map 會自動探索 Windows 和 Linux 系統上的應用程式元件，並且對應所有 TCP 相依性、識別連線和應用程式相依的遠端第三方系統。 它也會將相依性對應至通常是陰暗的網路區域，例如 Active Directory。
 
 以下是您可以作為起點的範例相依性分析 (DA)。 在您的相依性分析 (DA) 中，您會識別及檢查程序相依性。 確定您包括人員、供應商、客戶、合作關係和設施。 此分析的資料將用來識別程序的復原需求與支援相依性的復原功能之間的差距。
 

@@ -1,7 +1,7 @@
 ---
 title: GDPR 和 CCPA 的 Azure 資料主體要求
 description: 了解如何使用 Azure 產品、 服務及系統管理工具，以尋找並處理個人資料以回應 DSR 要求。
-keywords: Microsoft 365、Microsoft 365 教育版、Microsoft 365 文件、GDPR、CCPA
+keywords: Microsoft 365, Microsoft 365 教育版, Microsoft 365 文件, GDPR, CCPA
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: cc71af74f88592e13f5dacf78d92193cea8ea356
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507181"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121002"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Azure 資料主體要求
 
@@ -151,11 +151,11 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
     ![選取使用者](../media/gdpr-azure-dsr-azure-all-users.png)
 
-4. 在 **[所有使用者]** 刀鋒視窗中，從清單中選取使用者；然後在所選使用者的刀鋒視窗中，選取 **[設定檔]** 以檢視需要更正或更新的使用者設定檔資訊。
+4. 在 [所有使用者] 刀鋒視窗中，從清單中選取使用者；然後在所選使用者的刀鋒視窗中，選取 [設定檔] 以檢視需要更正或更新的使用者設定檔資訊。
 
     ![選取使用者設定檔](../media/gdpr-azure-dsr-azure-user-profile.png)
 
-5. 在命令列中選取 **[編輯]** 更正或更新包括公司資訊等使用者設定檔資訊，然後在變更之後選取  **[儲存]**。
+5. 在命令列中選取 [編輯] 更正或更新包括公司資訊等使用者設定檔資訊，然後在變更之後選取 [儲存] ****。
 
     ![選取編輯](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
@@ -301,7 +301,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 - **使用者。** 請輸入要求匯出的 Azure Active Directory 使用者的電子郵件地址。
 - **訂用帳戶。** 請選取用於報告資源使用量和計算服務費用的帳戶。這也是您 Azure 儲存體帳戶的所在位置。
-- **儲存體帳戶。** 請選取您的 Azure 儲存體 (Blob) 所在的位置。 如需詳細資訊，請參閱 [Microsoft Azure 儲存體 - Blob 儲存體簡介](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage)文件。
+- **儲存體帳戶。** 請選取您的 Azure 儲存體 (Blob) 所在的位置。 如需詳細資訊，請參閱 [Microsoft Azure 儲存體 - Blob 儲存體簡介](/azure/storage/common/storage-introduction#blob-storage)文件。
 - **容器。** 請建立新的 (或選取現有的) 容器，作為使用者所匯出隱私權資料的儲存位置。
 
 4. 選取 [建立]。

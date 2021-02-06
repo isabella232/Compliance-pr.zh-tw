@@ -19,16 +19,16 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 1511b3ab3022c105babebd9b3083e8d240691786
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 89281b32dbc577f935224396fd358ed753348ea1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507280"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120742"
 ---
 # <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>在 Microsoft 365 中 SharePoint 線上資料刪除
 
-SharePoint 線上將物件儲存為應用程式資料庫中的抽象程式碼。 當使用者將檔案上傳至 SharePoint 線上時，該檔案會被反彙編並轉譯成應用程式代碼，並儲存在多個資料庫的多個資料表中。 在線上 SharePoint 中，客戶上傳的所有內容都會分割成區塊、加密 (可能會有多個 AES 256 位金鑰) ，以及跨資料中心散佈。 如需有關區塊和加密程式的特定詳細資料，請參閱 [Microsoft Cloud 中的加密](https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview)。 
+SharePoint 線上將物件儲存為應用程式資料庫中的抽象程式碼。 當使用者將檔案上傳至 SharePoint 線上時，該檔案會被反彙編並轉譯成應用程式代碼，並儲存在多個資料庫的多個資料表中。 在線上 SharePoint 中，客戶上傳的所有內容都會分割成區塊、加密 (可能會有多個 AES 256 位金鑰) ，以及跨資料中心散佈。 如需有關區塊和加密程式的特定詳細資料，請參閱 [Microsoft Cloud 中的加密](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview)。 
 
 在線上 SharePoint 中，專案會從您從原始位置刪除時起的93天內保留。 除非某人從該回收站刪除或清除該回收站，否則它們會一直保留在網站回收站中。 在此情況下，這些專案會移至網站集合的回收站，而這些專案會在剩餘的93天內保留。 如需還原已刪除專案的詳細資訊，請參閱 [還原 SharePoint 網站回收站中的專案](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online
 ) ，以及 [從網站集合回收站還原已刪除的專案](https://support.office.com/article/5fa924ee-16d7-487b-9a0a-021b9062d14b)。 在 SharePoint Online 中無法設定回收站保留時間。
@@ -45,4 +45,4 @@ SharePoint 線上將物件儲存為應用程式資料庫中的抽象程式碼。
 
 已刪除的網站集合會保留93天。 在 93 天之後，將會永久刪除網站及其所有內容和設定，包括清單、文件庫、頁面及所有子網站。
 
-當使用者從網站集合回收站清除已刪除的專案、保留和備份期間到期時，或系統管理員使用 [Remove-SPODeletedSite Cmdlet](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-spodeletedsite)永久刪除網站集合時，就會發生實刪除。 當使用者硬性刪除 (會永久刪除或清除 SharePoint Online 中的) 內容，所有已刪除區塊的加密金鑰也會同時刪除。 先前儲存已刪除之區塊的磁片區塊會標示為未使用，且可重複使用。
+當使用者從網站集合回收站清除已刪除的專案、保留和備份期間到期時，或系統管理員使用 [Remove-SPODeletedSite Cmdlet](/powershell/module/sharepoint-online/remove-spodeletedsite)永久刪除網站集合時，就會發生實刪除。 當使用者硬性刪除 (會永久刪除或清除 SharePoint Online 中的) 內容，所有已刪除區塊的加密金鑰也會同時刪除。 先前儲存已刪除之區塊的磁片區塊會標示為未使用，且可重複使用。

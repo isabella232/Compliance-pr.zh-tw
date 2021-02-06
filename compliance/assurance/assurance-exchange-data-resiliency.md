@@ -19,30 +19,30 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 2cdd37d34612421cc7a9e4687134e2a1e2b1aeec
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: 044bd637241c566a5e44df6522fca4dcab8b8534
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012939"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120522"
 ---
 # <a name="exchange-online-data-resiliency-in-microsoft-365"></a>Microsoft 365 中的 Exchange Online 資料恢復功能
 
 >[!IMPORTANT]
->當我們繼續以保留信箱內容的不同方式投資，我們宣佈 exchange 系統管理中心的封存 In-Place 封存 (EAC) 在 Exchange Online 中。 從2020年7月1日開始，您將無法建立新的 In-Place 保留。 不過，您仍然可以管理 EAC 中的 In-Place，或是使用 Exchange Online PowerShell 中的 **Set-MailboxSearch** Cmdlet 來管理。 不過，從2020年10月1日開始，您將無法管理 In-Place 保留。 您只能在 EAC 或使用 **Remove-MailboxSearch** Cmdlet 中移除它們。 仍支援在 Exchange Server 和 Exchange 混合式部署中使用 In-Place 的保留。 如需 Exchange Online 中退休的 In-Place 封存的詳細資訊，請參閱 [舊版 eDiscovery tools 的退休](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)。
+>當我們繼續以保留信箱內容的不同方式投資，我們宣佈 exchange 系統管理中心的封存 In-Place 封存 (EAC) 在 Exchange Online 中。 從2020年7月1日開始，您將無法建立新的 In-Place 保留。 不過，您仍然可以管理 EAC 中的 In-Place，或是使用 Exchange Online PowerShell 中的 **Set-MailboxSearch** Cmdlet 來管理。 不過，從2020年10月1日開始，您將無法管理 In-Place 保留。 您只能在 EAC 或使用 **Remove-MailboxSearch** Cmdlet 中移除它們。 仍支援在 Exchange Server 和 Exchange 混合式部署中使用 In-Place 的保留。 如需 Exchange Online 中退休的 In-Place 封存的詳細資訊，請參閱 [舊版 eDiscovery tools 的退休](/microsoft-365/compliance/legacy-ediscovery-retirement)。
 
-原有範圍暫止 會保留所有的信箱內容，包括刪除的項目和修改項目的原始版本。 [就地 eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)搜尋時會傳回這類信箱項目。 當您設定使用者信箱的 In-Place 時，對應的封存信箱中的內容 (若啟用) 也會保留，並在 eDiscovery 搜尋中傳回。
+原有範圍暫止 會保留所有的信箱內容，包括刪除的項目和修改項目的原始版本。 [就地 eDiscovery](/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)搜尋時會傳回這類信箱項目。 當您設定使用者信箱的 In-Place 時，對應的封存信箱中的內容 (若啟用) 也會保留，並在 eDiscovery 搜尋中傳回。
 
 有兩種類型的損毀可能會影響 Exchange 資料庫：實體損毀通常是由硬體 (所造成，尤其是由於其他因素而發生的儲存硬體) 問題和邏輯損毀。 一般來說，有兩種類型的邏輯損毀可能會發生于 Exchange 資料庫中：
 
 - **資料庫邏輯損毀** -資料庫頁面校驗和相符，但是頁面上的資料在邏輯上有錯誤。 當資料庫引擎 (可延伸儲存引擎 (ESE) # A3 嘗試寫入資料庫頁面時，即使作業系統會傳回成功訊息，也不會將資料寫入磁片或寫入錯誤的位置，就會發生這種情況。 這稱為 *遺失的清除*。 ESE 包含許多功能和保護措施，其設計目的是為了避免資料庫的實體損毀及其他資料遺失案例。 為了避免遺失的刷新遺失資料，ESE 會在資料庫中包含遺失的清除偵測機制，以及 (單一分頁還原的功能) 修正此機制。
-- **儲存邏輯損毀** -資料會以使用者未預期的方式新增、刪除或操控。 這兩種情況是由協力廠商應用程式所造成。 使用者將它視為損毀，通常會損毀。 Exchange 存放區會將產生邏輯損毀的交易視為一系列有效的 MAPI 作業。 Exchange Online 中的 [In-Place 保留](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) 功能可讓您避免因使用者或應用程式) 而永久刪除的內容，對儲存邏輯損毀 (造成保護。 
+- **儲存邏輯損毀** -資料會以使用者未預期的方式新增、刪除或操控。 這兩種情況是由協力廠商應用程式所造成。 使用者將它視為損毀，通常會損毀。 Exchange 存放區會將產生邏輯損毀的交易視為一系列有效的 MAPI 作業。 Exchange Online 中的 [In-Place 保留](/exchange/security-and-compliance/create-or-remove-in-place-holds) 功能可讓您避免因使用者或應用程式) 而永久刪除的內容，對儲存邏輯損毀 (造成保護。 
 
 Exchange Online 會在記錄檔檢查和記錄檔重播期間，對複寫的記錄檔執行數種一致性檢查。 這些一致性檢查會防止系統複製實體損毀。 例如，在記錄檢查期間，會有實體完整性檢查可驗證記錄檔，並驗證記錄檔中記錄的檢查碼是否符合記憶體中產生的 checksum。 此外，會檢查記錄檔標頭，確定記錄檔中記錄的記錄檔簽名與記錄檔的記錄檔相符。 在記錄檔重播期間，記錄檔會進一步進行審查。 例如，資料庫標頭也包含與記錄檔的簽名進行比較的記錄簽章，以確保它們相符。 
 
 保護 Exchange Online 中的信箱資料損毀是使用 Exchange 原生資料保護，這是一種修復原則，可利用跨多部伺服器與多個資料中心的應用層級複寫，以及協助防止資料因損毀或其他原因而遺失的其他功能。 這些功能包括由 Microsoft 或 Exchange Online 應用程式本身所管理的原生功能，例如：
 
-- [資料可用性群組](https://docs.microsoft.com/exchange/back-up-email)
+- [資料可用性群組](/exchange/back-up-email)
 - 單一位修正 
 - 線上資料庫掃描 
 - 遺失的刷新偵測 
@@ -52,14 +52,14 @@ Exchange Online 會在記錄檔檢查和記錄檔重播期間，對複寫的記�
 - 在彈性檔案系統上部署 
 
 如需先前所列的原生功能的詳細資訊，請選取超連結，並查看下列相關資訊，以及有關沒有超連結之專案的詳細資訊。 除了這些原生功能之外，Exchange Online 也包含客戶可管理的資料恢復功能，例如： 
-- [預設會啟用單一專案復原 () ](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages) 
-- [就地保留與訴訟資料暫留](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds) 
-- [已刪除的郵件保留和 Soft-Deleted 信箱 (預設為啟用) ](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes) 
+- [預設會啟用單一專案復原 () ](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages) 
+- [就地保留與訴訟資料暫留](/exchange/security-and-compliance/in-place-and-litigation-holds) 
+- [已刪除的郵件保留和 Soft-Deleted 信箱 (預設為啟用) ](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes) 
 
 ## <a name="database-availability-groups"></a>資料庫可用性群組 
-Microsoft 365 中的每個信箱資料庫都主控于 [資料庫可用性群組中 (DAG) ](https://docs.microsoft.com/exchange/back-up-email) 並複寫到相同地區內地理位置不同的資料中心。 最常見的設定是四個資料中心內的四個資料庫副本;不過，有些地區所用的資料中心， (資料庫會複寫至三個資料中心，而在澳大利亞和日本) 有兩個資料中心。 但在所有的情況下，每個信箱資料庫都有四個副本分散在多個資料中心，因此可確保信箱資料受到軟體、硬體甚至資料中心失敗的保護。 
+Microsoft 365 中的每個信箱資料庫都主控于 [資料庫可用性群組中 (DAG) ](/exchange/back-up-email) 並複寫到相同地區內地理位置不同的資料中心。 最常見的設定是四個資料中心內的四個資料庫副本;不過，有些地區所用的資料中心， (資料庫會複寫至三個資料中心，而在澳大利亞和日本) 有兩個資料中心。 但在所有的情況下，每個信箱資料庫都有四個副本分散在多個資料中心，因此可確保信箱資料受到軟體、硬體甚至資料中心失敗的保護。 
 
-這四個副本中，有三個是設定為高可用性。 第四個副本已設定為 [延遲資料庫副本](https://docs.microsoft.com/Exchange/high-availability/manage-ha/activate-lagged-db-copies)。 延遲資料庫副本不適用於個別的信箱復原或訊息項目復原。 其目的是為了提供復原機制，以進行極少的系統嚴重損壞邏輯損毀的事件。 
+這四個副本中，有三個是設定為高可用性。 第四個副本已設定為 [延遲資料庫副本](/Exchange/high-availability/manage-ha/activate-lagged-db-copies)。 延遲資料庫副本不適用於個別的信箱復原或訊息項目復原。 其目的是為了提供復原機制，以進行極少的系統嚴重損壞邏輯損毀的事件。 
 
 Exchange Online 中的延遲資料庫副本會設定7天的記錄檔重新顯示延遲時間。 此外，Exchange 重新顯示延遲管理員已啟用，可為延遲副本提供動態記錄檔，以允許延遲資料庫副本自行修復並記錄管理檔成長。 雖然在 Exchange Online 中使用延遲資料庫副本，但是請務必瞭解它們不是一個有保證的時間點備份。 Exchange Online 中的延遲資料庫副本具有可用性閥值（通常是90%），因為因為磁片故障，包含延遲副本的磁片已遺失，所以延遲副本會變成高可用性的副本 (，因為這是因為自動) ，也就是延遲資料庫副本重新產生記錄檔重新顯示佇列的期限。 
 

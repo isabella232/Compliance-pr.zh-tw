@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c14d32a172dc5d6ea934abb20c7df956d43d3bb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507500"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119912"
 ---
 # <a name="personal-data-protection-act-pdpa-argentina"></a>個人資料保護法 (PDPA) 阿根廷
 
@@ -50,7 +50,7 @@ Microsoft 資料傳輸協議是針對線上服務條款中的資料處理條款�
 ## <a name="how-to-implement"></a>實作方法
 
 - [Microsoft 雲端服務中的隱私權](https://www.microsoft.com/download/details.aspx?id=55710)：取得有關 Microsoft 隱私權原則和標準，以及有關阿根廷特定隱私權法的詳細資料。  
-- [Azure 資料保護](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data)：Azure 根據預設和客戶選項，提供強大的資料安全性。
+- [Azure 資料保護](/azure/security/azure-protection-of-customer-data)：Azure 根據預設和客戶選項，提供強大的資料安全性。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -58,9 +58,9 @@ Microsoft 資料傳輸協議是針對線上服務條款中的資料處理條款�
 
 在 2018 年末，阿根廷尚未頒布與 GDPR 相關的法規，但已起草了新的資料保護議案 (已由行政機關提交國會並由眾議院修改) 以使其資料保護法與 GDPR 保持一致。 該議案解決了諸如資料主體的定義和個人資訊跨傳輸顧慮的差異。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

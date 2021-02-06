@@ -12,12 +12,12 @@ ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
-ms.openlocfilehash: 7a3739afc42ba6397bb0b465b6f4a9c5806d2c16
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 15d59569102a5e39ac8641df6003b2999362e0bd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507370"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121472"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>適用於商務用 Skype Server 和 Lync Server 的 GDPR
 
@@ -35,8 +35,8 @@ ms.locfileid: "49507370"
 
 -   使用者可以自行匯出連絡人，方法是以滑鼠右鍵按一下群組標頭，然後選取 [複製]。這樣會將該群組中的所有連絡人複製到剪貼簿，然後貼入任何應用程式。
 
--   您可以使用 [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) Cmdlet 來匯出此資料。
+-   您可以使用 [Export-CsUserData](/powershell/module/skype/export-csuserdata) Cmdlet 來匯出此資料。
 
 上傳至會議的內容 (例如 PowerPoint 檔案或講義) 或會議中產生的內容 (例如白板、投票或 Q/A) 會儲存在檔案管理工具中。如果使用者重新登入未過期的任何會議並且下載任何已上傳內容，或者擷取已產生內容的螢幕擷取畫面，那麼這個項目也可以匯出。
 
-不在 Exchange 行事曆和連絡人清單和連絡人權限 (家人、同事等等) 的 MeetNow 會議是在使用者資料庫中。在 Lync Server 2013 及更新版本中，您可以使用 [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) Cmdlet 來匯出此資料。
+不在 Exchange 行事曆和連絡人清單和連絡人權限 (家人、同事等等) 的 MeetNow 會議是在使用者資料庫中。在 Lync Server 2013 及更新版本中，您可以使用 [Export-CsUserData](/powershell/module/skype/export-csuserdata) Cmdlet 來匯出此資料。

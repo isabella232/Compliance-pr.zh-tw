@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 9918046fc0e76bdfbccd5e199f4e576c77f4ca67
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: ec2152d2039b7626c0562869a9a549f0361f7270
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574825"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121902"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Azure DevOps Services 資料主體要求
 
@@ -68,7 +68,7 @@ Microsoft 會竭盡所能確保 Azure DevOps Services 資料保持安全且隱�
 
 ## <a name="see-also"></a>另請參閱
 
-- [Microsoft 對公開發行企業軟體產品客戶的 GDPR 承諾](https://docs.microsoft.com/legal/gdpr)
+- [Microsoft 對公開發行企業軟體產品客戶的 GDPR 承諾](/legal/gdpr)
 - [Microsoft 信任中心](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [服務信任入口網站](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Microsoft 隱私權儀表板](https://account.microsoft.com/privacy)

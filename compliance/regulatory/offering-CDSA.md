@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4cbf17248b3a9ba573962a7147a9001b2d1442f4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a4fa459add6569dfdbcfdbda9719b9a3a00cab50
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507331"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121362"
 ---
 # <a name="content-delivery--security-association-cdsa-content-protection--security-cps-standard"></a>內容傳遞與安全性關聯 (CDSA) 內容保護與安全性 (CPS) 標準
 
@@ -68,11 +68,11 @@ Microsoft 已成功完成 CDSA CPS 認證的六個月續約，而 Azure 目前�
 
 **可以在組織的認證程序中使用 Microsoft 合規性？**
 
-是。 您可以使用 Azure 中的安全性和加密功能，在自己的 CPS 認證工作中建立 Azure CPS 認證。
+可以。 您可以使用 Azure 中的安全性和加密功能，在自己的 CPS 認證工作中建立 Azure CPS 認證。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

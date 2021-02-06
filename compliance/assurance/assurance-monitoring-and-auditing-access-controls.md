@@ -18,12 +18,12 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 138c2664a5771d15ad9177a56f0f7cb766f4ef5e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3021ce1dd59d5d071edec22286ae9c63833f1277
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506266"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120442"
 ---
 # <a name="monitoring-and-auditing-access-controls-in-microsoft-365"></a>在 Microsoft 365 中監控和審計存取控制
 
@@ -37,4 +37,4 @@ Microsoft 對 Microsoft 365 內所有的委派、許可權和作業執行大量�
 
 偵測到可疑活動時（例如短期間內的多個失敗的登入），會觸發自動提醒。 Microsoft 365 安全性回應小組使用電腦學習和大量資料分析，以查看和分析活動、尋找不規則的存取模式，以及主動回應反常和違法的活動。 Microsoft 也採用一支專門的滲透測試小組，並在週期性的紅色小組和藍色小組練習中尋找，以找出服務中的安全性和存取控制問題。 客戶可以使用「審核報告」和 Microsoft 365 提供的管理活動 API，來驗證存取控制系統的效能。
 
-如需詳細資訊，請參閱 Microsoft 365 中的 [Office 365 管理活動 API 參考](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 和 [審核與報告](assurance-auditing-and-reporting-overview.md)。
+如需詳細資訊，請參閱 Microsoft 365 中的 [Office 365 管理活動 API 參考](/office/office-365-management-api/office-365-management-activity-api-reference) 和 [審核與報告](assurance-auditing-and-reporting-overview.md)。

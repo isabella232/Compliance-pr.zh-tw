@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 59effc9009903d36cfc260441999b67eff5bf02e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 58d6b7c1d819a8d8eba94a376f735f09823df8aa
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506974"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119902"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>國家標準和技術研究院 (NIST) Cybersecurity Framework (CSF) 
 
@@ -39,7 +39,7 @@ NIST Cybersecurity Framework (CSF) 是一種自願架構，由標準、指導方
 
 瞭解如何使用合規性分數和我們的 Azure 安全性與合規性藍圖，加速您的 NIST Cybersecurity Framework 部署：
 
-- [NIST SP 800-53 R4 藍圖範例概述](https://docs.microsoft.com/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
+- [NIST SP 800-53 R4 藍圖範例概述](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [深入瞭解 Office 365 的 NIST CSF 評估（遵循合規性分數）](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
@@ -64,7 +64,7 @@ NIST Cybersecurity Framework (CSF) standard 可能是雲端的挑戰。 幸運�
 
 在數位轉換的時代，Cybersecurity 仍是一個重要的管理問題。 為了協助您為 Office 365 租使用者實施及驗證安全性控制，Microsoft 會在合規性分數中提供 NIST CSF 評估中的建議客戶動作。
 
-- [開始使用合規性分數](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+- [開始使用合規性分數](/microsoft-365/compliance/compliance-manager)
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -99,9 +99,9 @@ NIST CSF 認證的範圍內服務是 Exchange Online 封存、Exchange Online Pr
 
 Microsoft 提供最全面的選項，與其他雲端服務提供者相較。 為了維持跨地區和行業的廣泛合規性服務，我們根據市場需求、客戶意見反應及產品生命週期，在我們的保證工作範圍內加入服務。 如果服務並未包含在特定規范產品的目前範圍內，則您的組織有責任根據您的合規性義務評估風險，並決定處理該服務中資料的方式。 我們會持續收集客戶的意見反應，與管理機構和審計員合作，以擴大我們的安全性和合規性需求。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

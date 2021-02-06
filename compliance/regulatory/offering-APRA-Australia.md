@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 14a9215a99f3c445a9b9095d9a2b96b8c5fbd133
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4ce72587ea044a3f50aa35c87b7c620c8617d059
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507004"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121762"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>澳大利亞 Prudential 規章核證機關 (APRA) 
 
@@ -90,9 +90,9 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 是。 一般隱私權法規 (適用于所有部門，而不只是金融機構) 在某些情況下允許以澳大利亞以外的方式轉讓。 Microsoft 同意以澳大利亞隱私權原則為依據的合約，讓您在使用 Microsoft 雲端服務時，允許從澳大利亞以外的資料轉移。 不過，我們的許多澳大利亞金融服務客戶都利用了我們澳大利亞資料中心提供的雲端服務，我們會在澳大利亞地理位置進行特定的合約承諾，以存放資料類別的資料。 在 [規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)中，將會進一步列出這些承諾。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
@@ -103,7 +103,7 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 - [Microsoft 對雲端上 APRA 資訊紙張的回應](https://aka.ms/navigatecloudaustralia)
 - [Microsoft cloud services：澳大利亞金融機構的規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 - [Microsoft cloud services：符合 APRA Prudential Standard CPS 234](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OsZg)
-- [Microsoft 澳大利亞：在金融服務中的雲端](https://www.microsoft.com/en-sg/apac/trustedcloud/australia-financial-service.aspx)
+- [Microsoft 澳大利亞：在金融服務中的雲端](https://www.microsoft.com/apac/trustedcloud/australia-financial-service.aspx)
 - [Microsoft 金融服務合規性計劃](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 商務用雲端服務與金融服務](https://www.microsoft.com/trustcenter/cloudservices/financialservices)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4fe114483c8225824fd55309ea48d4fafb750e61
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 87d74d3e8c6a23c17ac0515601cbe140b760efcf
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507668"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121352"
 ---
 # <a name="committee-on-national-security-systems-instruction-no-1253-cnssi-1253"></a>全國安全性系統的委員會說明否。 1253 (CNSSI 1253) 
 
@@ -49,9 +49,9 @@ Azure 政府目前擁有 FedRAMP 高的臨時授權來執行 (P-ATO 由聯合授
 
 Azure 政府 CNSSI 1253 與 CNSSI 1253 高高基準的相容性證明
 
-## <a name="how-to-implement"></a>實作方法
+## <a name="how-to-implement"></a>實作方法：
 
-- [Azure 政府檔](https://docs.microsoft.com/azure/azure-government/)：教學課程和操作方法指南可協助開發人員使用 Azure 政府部署及管理服務。
+- [Azure 政府檔](/azure/azure-government/)：教學課程和操作方法指南可協助開發人員使用 Azure 政府部署及管理服務。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -65,7 +65,7 @@ Azure 政府 (FedRAMP 套件識別碼 F1603087869) 已再次測試這些控制�
 
 ## <a name="resources"></a>資源
 
-- [何謂 Azure 政府？](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)
+- [何謂 Azure 政府？](/azure/azure-government/documentation-government-welcome)
 - [Azure 政府](https://aka.ms/Azure-Government)
 - [Microsoft 和 FedRAMP](offering-fedramp.md)
 - [Microsoft 和 DoD 的臨時授權](offering-DoD-DISA-L2-L4-L5.md)

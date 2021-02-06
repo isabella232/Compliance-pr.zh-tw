@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3c167ac9a0b98157c51abaf284c2d6277c8150ef
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506213"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121232"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>歐盟美國和瑞士美國隱私權護盾架構
 
@@ -61,7 +61,7 @@ Microsoft 雲端中的隱私權 — 取得有關 Microsoft 隱私權原則和標
     - [深入了解](https://www.microsoft.com/download/details.aspx?id=55710)
 
 Azure 中的資料保護 — Azure 根據預設和客戶選項，提供強大的資料安全性。  
-    - [深入了解](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data)
+    - [深入了解](/azure/security/azure-protection-of-customer-data)
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

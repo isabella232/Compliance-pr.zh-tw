@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07dbfce49dc202ed23a4f2fed6336e00dcec95e1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6ee6dc8a6132e76bd39487fbb51e03509e7d2a95
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507483"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119892"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>俄文個人資料當地語系化需求
 
@@ -41,11 +41,11 @@ Microsoft 邀請客戶考慮訂閱 Microsoft 服務;Microsoft Azure、Microsoft 
 
 ### <a name="managing-user-identity-and-access-for-microsoft-services"></a>管理 Microsoft 服務的使用者身分識別和存取
 
-針對 microsoft Azure、Microsoft 365、Dynamics 365 及 Power Platform 等 Microsoft 服務，使用者驗證和存取管理是透過 [Azure Active directory (Azure Active directory) ](https://azure.microsoft.com/services/active-directory/)進行。 在 Microsoft 客戶使用本機身分識別管理系統進行 Microsoft 雲端服務時 (例如 Windows Server Active Directory (AD) 或任何其他 ID 管理系統) 時，客戶有機會透過 azure AD Connect，透過 Azure active directory (Azure Active Directory) ，將這類系統迅速整合。 如需詳細資訊，請參閱 [AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/cloud-provisioning/)。 Microsoft 客戶也可以考慮使用協力廠商廠商的應用程式和解決方案來管理其使用者，並將其本機識別系統與 Azure AD 整合。
+針對 microsoft Azure、Microsoft 365、Dynamics 365 及 Power Platform 等 Microsoft 服務，使用者驗證和存取管理是透過 [Azure Active directory (Azure Active directory) ](https://azure.microsoft.com/services/active-directory/)進行。 在 Microsoft 客戶使用本機身分識別管理系統進行 Microsoft 雲端服務時 (例如 Windows Server Active Directory (AD) 或任何其他 ID 管理系統) 時，客戶有機會透過 azure AD Connect，透過 Azure active directory (Azure Active Directory) ，將這類系統迅速整合。 如需詳細資訊，請參閱 [AZURE AD Connect](/azure/active-directory/cloud-provisioning/)。 Microsoft 客戶也可以考慮使用協力廠商廠商的應用程式和解決方案來管理其使用者，並將其本機識別系統與 Azure AD 整合。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="questions-and-support"></a>問題及支援
 
@@ -74,7 +74,7 @@ Microsoft 邀請客戶考慮訂閱 Microsoft 服務;Microsoft Azure、Microsoft 
 
 - 免費 **電話**： 8 10 800 2548 1044
 - **本機電話**： 499 922 8623
-- **線上支援**：透過 [電源平臺支援](https://docs.microsoft.com/power-platform/admin/get-help-support)提交查詢
+- **線上支援**：透過 [電源平臺支援](/power-platform/admin/get-help-support)提交查詢
 
 > [!NOTE]
 > <sup>1</sup> 聯邦法律否。 242-FZ (edition) "輸入修正案中的特定法律作用中的俄語同盟，以表示在資訊和電信網路中的資料處理過程 <br>

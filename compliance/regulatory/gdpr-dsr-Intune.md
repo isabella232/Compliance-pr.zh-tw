@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d6b0a96cfa82f9e0d841703d2124c0e9dda7fe1f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507169"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120932"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Intune 資料主體要求
 
@@ -86,9 +86,9 @@ Microsoft 透過 Azure 入口網站，提供了存取、刪除及匯出特定客
 
 找到資料後，接著您可以執行特定動作來滿足資料主體的要求。如需詳細資訊，請參閱下列資源：
 
-- [資料收集](https://docs.microsoft.com/intune/privacy-data-collect)
-- [資料儲存和處理](https://docs.microsoft.com/intune/privacy-data-store-process)
-- [檢視個人資料](https://docs.microsoft.com/intune/privacy-data-view-correct#view-personal-data)
+- [資料收集](/intune/privacy-data-collect)
+- [資料儲存和處理](/intune/privacy-data-store-process)
+- [檢視個人資料](/intune/privacy-data-view-correct#view-personal-data)
 
 ### <a name="step-2-access"></a>步驟 2：存取
 
@@ -114,15 +114,15 @@ Microsoft Intune 能夠透過使用者介面 (UI) 或既有的應用程式開發
 
 ### <a name="step-4-restrict"></a>步驟 4：限制
 
-資料主體可能會要求您只能處理他們的個人資料。 我們提供 Azure 入口網站與既有的應用程式開發介面 (API) 兩者，或使用者介面 (UI)。 這些體驗能夠讓企業客戶的租用戶系統管理員，透過匯出資料和刪除資料的組合功能管理這類 DSR。 如需詳細資訊，請參閱[處理個人資料](https://docs.microsoft.com/intune/privacy-data-store-process#processing-personal-data)。
+資料主體可能會要求您只能處理他們的個人資料。 我們提供 Azure 入口網站與既有的應用程式開發介面 (API) 兩者，或使用者介面 (UI)。 這些體驗能夠讓企業客戶的租用戶系統管理員，透過匯出資料和刪除資料的組合功能管理這類 DSR。 如需詳細資訊，請參閱[處理個人資料](/intune/privacy-data-store-process#processing-personal-data)。
 
 ### <a name="step-5-delete"></a>步驟 5：刪除
 
-從組織的客戶資料中移除其個人資料的「抹除的權利」，是 GDPR 中的關鍵保護機制。這是指移除個人資料，包括移除稽核記錄資訊以外的所有個人資料和系統所產生的記錄。如需詳細資訊，請參閱[刪除使用者個人資料](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#delete-end-user-personal-data)。
+從組織的客戶資料中移除其個人資料的「抹除的權利」，是 GDPR 中的關鍵保護機制。這是指移除個人資料，包括移除稽核記錄資訊以外的所有個人資料和系統所產生的記錄。如需詳細資訊，請參閱[刪除使用者個人資料](/intune/privacy-data-audit-export-delete#delete-end-user-personal-data)。
 
 ## <a name="part-2-system-generated-logs"></a>第 2 部分：系統所產生的記錄檔
 
-稽核記錄會向租用戶系統管理員提供活動記錄，其會在 Microsoft Intune 中產生變更。稽核記錄可供許多管理活動使用，且通常會建立、更新 (編輯)、刪除及指派動作。還可以檢閱產生稽核事件的遠端工作。這些稽核記錄可能包含使用者個人資料，而這些使用者的裝置已在 Intune 中加以註冊。系統管理員無法刪除稽核記錄。如需詳細資訊，請參閱[稽核個人資料](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#audit-personal-data)。
+稽核記錄會向租用戶系統管理員提供活動記錄，其會在 Microsoft Intune 中產生變更。稽核記錄可供許多管理活動使用，且通常會建立、更新 (編輯)、刪除及指派動作。還可以檢閱產生稽核事件的遠端工作。這些稽核記錄可能包含使用者個人資料，而這些使用者的裝置已在 Intune 中加以註冊。系統管理員無法刪除稽核記錄。如需詳細資訊，請參閱[稽核個人資料](/intune/privacy-data-audit-export-delete#audit-personal-data)。
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>匯出或刪除問題的通知
 

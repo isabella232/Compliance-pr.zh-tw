@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dac20dd42fcaf4946c023e75421bf1e1a3451f96
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a969d446296605fd3ea9b1d7b9225009e99f4471
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507647"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121282"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>國防聯邦購置法規補充 (DFARS) 
 
@@ -77,9 +77,9 @@ CDI 是控制的技術資訊或其他資訊 (，如 CUI 登錄) 所述，需要�
 
 此外，在 FedRAMP 認證的界限之外，可供 DoD 承包商處理、儲存或傳輸「涵蓋的防護資訊」所使用的 Microsoft 服務，都在進行審閱，以符合2017年12月31日的合規性期限。 Microsoft 正致力於記錄這些內部及客戶對等服務如何符合 NIST SP 800-171 或可接受的安全性對等專案，以符合 DFARS 相關條款。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。合規性管理員會提供特優範本以為此法規建立評定。在合規性管理員的 **[評定範本]** 頁面中尋找範本。了解如何 [在合規性管理員中建立評定](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

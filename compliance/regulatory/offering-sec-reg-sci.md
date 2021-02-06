@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9d833cfde69d9cb2c76ee49b600f3defb49fa1ac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 049f0516598209411b0c5ca47eea39140762fd3d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507475"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119872"
 ---
 # <a name="securities-and-exchange-commission-regulation-systems-compliance-and-integrity-sci"></a>證券和 Exchange 傭金：規定系統合規性和完整性 (SCI) 
 
@@ -49,11 +49,11 @@ SCI 規則適用于 SCI 實體，包含這類自助組織 (SROs) 為股票和選
 
 - [Azure](https://aka.ms/AzureCompliance)
 
-## <a name="how-to-implement"></a>實作方法
+## <a name="how-to-implement"></a>實作方法：
 
 - [規章 SCI 實施指南](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a69ce0c1-7b7e-44e9-9143-867241e6b2f9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)：對應 Azure 功能與法規的對應，並詳述法規遵從性的共用責任。
-- [設計可靠的 Azure 應用程式](https://docs.microsoft.com/azure/architecture/resiliency/)：如何在 Azure 應用程式設計的每一個步驟中建立可靠性的簡短概述。
-- [設計高可用性的應用程式](https://docs.microsoft.com/azure/storage/common/storage-designing-ha-apps-with-ragrs)：開發人員如何協助確保其 Azure 儲存應用程式具有高可用性。
+- [設計可靠的 Azure 應用程式](/azure/architecture/resiliency/)：如何在 Azure 應用程式設計的每一個步驟中建立可靠性的簡短概述。
+- [設計高可用性的應用程式](/azure/storage/common/storage-designing-ha-apps-with-ragrs)：開發人員如何協助確保其 Azure 儲存應用程式具有高可用性。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
@@ -69,7 +69,7 @@ SCI 規則適用于 SCI 實體，包含這類自助組織 (SROs) 為股票和選
 ## <a name="resources"></a>資源
 
 - [每秒有關法規 SCI 的常見問題解答回應](https://www.sec.gov/divisions/marketreg/regulation-sci-faq.shtml)
-- [Business 持續性及嚴重損壞修復 (BCDR) ： Azure 成對區域](https://docs.microsoft.com/azure/best-practices-availability-paired-regions)
+- [Business 持續性及嚴重損壞修復 (BCDR) ： Azure 成對區域](/azure/best-practices-availability-paired-regions)
 - [雲端計演算法規原則和 Microsoft Online Services 的合規性地圖](https://aka.ms/FinServ-Guide-US)
 - [Microsoft 雲端財務服務合規性計畫](https://aka.ms/FSCP-Print)
 - [Azure 的金融服務合規性](https://aka.ms/FinServ-Compliance-Azure)
