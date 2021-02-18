@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4de465bbb17f5609af376920052d6abd366e5429
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 0a8cc37a24d3a51d79fb1ac34c92d96fc7e76fdd
+ms.sourcegitcommit: 66a26facea6ec9a95e5e61f1b5b69402f03db481
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121722"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279840"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a> (CJIS) 安全性原則的刑事審判資訊服務
 
@@ -42,8 +42,6 @@ Microsoft 會以含 CJIS 資訊協定的狀態，簽署 CJIS 安全性附錄。 
 Microsoft 已評估 Microsoft Azure 政府、Microsoft Office 365 美國政府和 Microsoft Dynamics 365 美國政府的運作原則和程式，並將證明其在適當服務合約中的能力，以符合使用範圍內服務的 FBI 需求。
 
 深入瞭解 Microsoft Cloud 上的 CJIS 安全性原則的優點： [閱讀 Genetec 如何清除刑事調查](https://customers.microsoft.com/story/genetec)
-
-瞭解如何使用 Azure 安全性和合規性藍圖加速您的 CJIS 安全性原則： [下載 Microsoft 政府雲端服務的 CJIS 實施指導方針](https://gallery.technet.microsoft.com/CJIS-Implementation-62af7c27)
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
@@ -82,7 +80,7 @@ Microsoft 會以州 CJIS 系統代理商 (CSA) 來簽署資訊協定;您可以�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
