@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 893bdc6f4fd854718db9fce56e92436c0d9384fc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 953bf5587f621bb46c086ff8138b5519edd8d9fe
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507599"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276051"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 資訊技術服務管理
 
@@ -45,14 +45,14 @@ ISO 20000-1:2011 在 2005 年的聯合 ISO/IEC 小組委員會中發佈並於 20
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - 由 21Vianet 運作的 Office 365
 - Microsoft PowerApps
 - Power Automate (之前稱為 Microsoft Flow)
 - Power BI
 - Power BI Embedded
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 ISO 20000-1 文件如下：
 

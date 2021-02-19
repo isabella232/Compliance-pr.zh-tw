@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f0ad19fdeb794d281342367ad9313ac159b9acf0
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120142"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276031"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 品質管理系統標準
 
@@ -42,7 +42,7 @@ ISO 9001:2015 是為品質管理系統建立準則的一項國際標準。 它�
 - Intune
 - Microsoft Defender 進階威脅防護
 - Microsoft Healthcare Bot
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中

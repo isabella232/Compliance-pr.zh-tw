@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ece30846546e9857bfd0700b5555766a2da81fd2
-ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
+ms.openlocfilehash: 0d8c455842b07f3cbb41ee5979b1393a6c40dd3a
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49527792"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276081"
 ---
 # <a name="association-of-banks-in-singapore-abs-outsourced-service-providers-audit-report-ospar"></a>新加坡銀行協會 (ABS) 外包服務提供者稽核報告 (OSPAR)
 
@@ -46,7 +46,7 @@ ms.locfileid: "49527792"
 - Intune
 - Microsoft 雲端應用程式安全性
 - Microsoft Graph
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Stream
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - 電源自動化：可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中

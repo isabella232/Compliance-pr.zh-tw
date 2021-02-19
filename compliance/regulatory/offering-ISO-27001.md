@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f6024f19c0557531d8d933bd1266f04219c2c2d9
+ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120222"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50290892"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 資訊安全性管理標準
 
@@ -49,7 +49,7 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - Office 365 德國
@@ -77,11 +77,11 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 
 ### <a name="azure-devops-services"></a>Azure DevOps Services
 
-- [Azure DevOps Services](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dVisual%2bStudio%2bOnline&licencenumber=IS%20619017)
+- [Azure DevOps Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 ### <a name="microsoft-professional-services"></a>Microsoft 專業服務
 
-- [Microsoft 專業服務](https://www.bsigroup.com/Our-services/Certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
+- [Microsoft 專業服務](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
 
 ## <a name="assessments-and-reports"></a>評定和報告
 
@@ -99,7 +99,7 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 
 ### <a name="azure-devops-services"></a>Azure DevOps Services
 
-- [Azure DevOps Services ISO 27001 認證 IS 619017](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dVisual%2bStudio%2bTeam%2bServices&licencenumber=IS%20619017)
+- [Azure DevOps Services ISO 27001 認證 IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 [查看其他稽核報告](https://aka.ms/auditreports)
 
@@ -118,7 +118,7 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 是。 適用於 Microsoft 雲端基礎結構和營運群組的年度 ISO/IEC 27001 認證程序包含營運復原能力的稽核。 若要預覽最新的認證，請按一下下方的連結。
 
 - Microsoft Azure：[適用於 Microsoft 雲端基礎結構和營運的 ISO/IEC 27001：2013 認證](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
-- Azure 德國
+- Azure 德國：[適用於 Microsoft 雲端基礎結構和營運的 ISO/IEC 27001：2013 認證](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 
 **我要從何處著手組織自身的 ISO/IEC 27001 合規性工作？**
 

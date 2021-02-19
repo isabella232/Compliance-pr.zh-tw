@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2fec2c20a4d2d2ddbf5a39b7cda1ff67a19e5830
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 9a75bf130ff6a34ffc44df2f60c682c0d5e77d4b
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119932"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276141"
 ---
 # <a name="service-organization-controls-soc"></a>服務組織控制 (SOC)
 
@@ -54,7 +54,7 @@ Microsoft 已取得 SOC 1 Type 2、SOC 2 Type 2 和 SOC 3 報告。 通常，SOC
 - [Dynamics 365 和 Dynamics 365 美國政府](https://aka.ms/d365-compliance-list)
 - Microsoft Graph
 - Intune
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
@@ -68,7 +68,7 @@ Microsoft 已取得 SOC 1 Type 2、SOC 2 Type 2 和 SOC 3 報告。 通常，SOC
 - Microsoft Cloud App Security
 - Microsoft Graph
 - Intune
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
@@ -125,7 +125,7 @@ Azure、Microsoft Cloud App Security、Flow、Microsoft Graph、Intune、Power B
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

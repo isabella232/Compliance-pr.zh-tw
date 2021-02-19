@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e4907cabfc1dededfafd83ea4c2924c97651246f
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 652665db2fffecd6826695619b89e0b833637279
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120212"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276101"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>ISO 22301:2012 商務持續性管理標準
 
@@ -44,7 +44,7 @@ Microsoft 是獲得商務持續性管理 ISO 22301 認證的第一個超大規�
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - [Office 365 商業版、政府版和教育版](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
@@ -75,7 +75,7 @@ ISO 22301 是企業及政府組織所用的認證，讓他們透過達到商務�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

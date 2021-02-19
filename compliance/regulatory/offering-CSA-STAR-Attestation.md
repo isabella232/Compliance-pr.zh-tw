@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb73d95d25327220b9c2dc2769703101ba2c60e9
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a2ca0cf98216e2caf6e8d7057f6dea5241f2842a
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121308"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276201"
 ---
 # <a name="cloud-security-alliance-csa-star-attestation"></a>雲端安全性聯盟 (CSA) STAR 證明
 
@@ -41,12 +41,12 @@ SOC 2 類型 2 稽核是根據美國註冊會計師協會 (AICPA) 信任服務�
 
 Microsoft Azure 和 Microsoft Intune 獲得 CSA STAR 證明。 STAR 證明可在 Microsoft 雲端服務中針對 SOC 2 控制措施的設計適用性和操作有效性，提供稽核員的研究結果。
 
-- [Azure 與 Azure Government](https://aka.ms/AzureCompliance)
+- [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
 - [Azure 德國](https://aka.ms/AzureCompliance)
 - Microsoft 雲端 App 安全性
 - Microsoft Graph
 - Intune
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中 
 - Power BI
@@ -73,7 +73,7 @@ CCM 符合產業公認的安全性標準、規定及控制措施架構，例如�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

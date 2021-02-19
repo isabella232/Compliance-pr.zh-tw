@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ddb9fd3af311c0c1fa66be1cbdd547e4d582d9b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9c808a80aa2d2ab358378cfb0e50ef28f023bbf7
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506222"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276181"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>雲端安全性聯盟 (CSA) STAR 認證
 
@@ -48,7 +48,7 @@ Microsoft Azure、Microsoft Intune 和 Microsoft Power BI 均已獲得 STAR 認�
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft 受管理的電腦
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Defender 進階威脅防護
 - OMS 服務對應
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
@@ -57,7 +57,7 @@ Microsoft Azure、Microsoft Intune 和 Microsoft Power BI 均已獲得 STAR 認�
 - Power BI Embedded
 - Microsoft Stream
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 - [Azure、Dynamics 365 和線上服務 – CSA STAR 認證](https://aka.ms/azurecsastarcert)
 
