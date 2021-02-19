@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 16135ae18d0b0a2a91a61652fed3d1b34d5db124
+ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121432"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50290928"
 ---
 # <a name="general-data-protection-regulation-summary"></a>一般資料保護摘要
 
@@ -141,7 +141,6 @@ Microsoft 根據預設會在其工程與商業功能依設計和隱私權實施�
 
 這些隱私權檢閱通常很細微 — 特定服務可能會收到數十或數百個檢閱。 Microsoft 會將這些細微的隱私權檢閱累積為資料保護影響評估 (DPIA)，涵蓋主要的處理群組，而 Microsoft 歐盟資料保護長 (DPO) 會再加以檢閱。 DPO 會評估與資料處理相關的風險，以確保有足夠的防護功能。 如果 DPO 發現未防護的風險，建議變更回工程群組。 在資料保護風險變更時，將對 DPIA 進行檢閱及更新。
 
-
 Microsoft 身為處理者，有責任協助控制者確保 GDPR 配置中展示 DPIA 需求之合規性。 為了要支援我們的客戶，我們提供 Microsoft DPIA 相關章節的摘要，並在未來的更新中透過這個區段提供，目的是讓控制者仰賴 Microsoft 服務來運用摘要，以建立自己的 DPIA。
 
 ## <a name="breach-notification"></a>外洩通知
@@ -210,7 +209,7 @@ Microsoft GDPR 條款反映第 28 條規定處理者應履行的承諾。 第 28
 
 **Microsoft 在什麼基礎下協助在歐盟以外傳輸個人資料？**
 
-Microsoft 長期以來一直使用標準合同條款 (也稱為示範條款) 作為其企業線上服務資料傳輸的基礎。 標準合約條款是歐洲委員會所提供的標準條款，可用來以合規方式在歐洲經濟區以外傳輸資料。 Microsoft 已透過[線上服務條款](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)，將標準合約條款納入我們的所有大量授權合約中。 第 29 條工作方認為 Microsoft 遵守了標準合約條款。 當歐盟-美國隱私護盾推出時，微軟是第一家獲得認證的公司。 請參閱 [Microsoft 的隱私護盾認證](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active)，並閱讀[線上服務條款](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)。 歐盟-美國隱私護盾可協助想要將其資料慱輸至美國的客戶，採用與將其資料保護責任一致的方式。
+Microsoft 長期以來一直使用標準合同條款 (也稱為示範條款) 作為其企業線上服務資料傳輸的基礎。 標準合約條款是歐洲委員會所提供的標準條款，可用來以合規方式在歐洲經濟區以外傳輸資料。 Microsoft 已透過[線上服務條款](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)，將標準合約條款納入我們的所有大量授權合約中。 針對來自歐洲經濟區、瑞士和英國的個人資料，Microsoft 會確保個人資料傳輸給第三個國家/地區或國際組織時會受限於 GDPR 第 46 條所述的適當保護措施。 除了 Microsoft 承諾 (在處理程式和其他模型協定的標準契約條款下)，Microsoft 持續遵守 [隱私盾架構](https://www.privacyshield.gov/) 的條款，但是將不會再從歐盟/EEA 將個人資料傳輸到美國。
 
 **有哪些其他 Microsoft 合規性方案？**
 
@@ -269,9 +268,9 @@ GDPR 提供歐盟派駐人員，透過一組「資料主體權限」控制個人
 
 GDPR 會規範個人資料的收集、儲存、使用和共用。 依據 GDPR，個人資料的定義很廣泛，舉凡與已識別或可識別自然人相關的任何資料皆屬之。
 
-個人資料可以包括 (但不限於) 線上識別碼 (例如 IP 位址)、員工資訊、銷售資料庫、客戶服務資料、客戶意見反應表、位置資料、生物特徵辨識資料、CCTV 片段、忠誠計劃記錄、健康情況，以及財務資訊等等。 其甚至可以包含似乎不是個人的資訊，例如一張沒有人的風景照，其中該資訊是以帳戶號碼或唯一代碼連結至可辨識的個人。 甚至，如果筆名可以連結至特定個人，則具有筆名的個人資料可以是個人資料。 
+個人資料可以包括 (但不限於) 線上識別碼 (例如 IP 位址)、員工資訊、銷售資料庫、客戶服務資料、客戶意見反應表、位置資料、生物特徵辨識資料、CCTV 片段、忠誠計劃記錄、健康情況，以及財務資訊等等。 其甚至可以包含似乎不是個人的資訊，例如一張沒有人的風景照，其中該資訊是以帳戶號碼或唯一代碼連結至可辨識的個人。 甚至，如果筆名可以連結至特定個人，則具有筆名的個人資料可以是個人資料。
 
-處理某些「特殊」類別的個人資料 (例如，顯示某人種族或血統或與其健康或性向有關的個人資料) 要比處理「普通」個人資料受到更嚴格的規範。 評估個人資料是高度以事實為依歸，因此建議讓專家參與來評估您的特定狀況。
+處理某些「特殊」類別的個人資料 (例如會揭露個人種族或血統或與其健康或性向有關的個人資料)，將受限於較處理「普通」個人資料更嚴格的規則。 評估個人資料是高度以事實為依歸，因此建議讓專家參與來評估您的特定狀況。
 
 **我的組織只代表他人處理資料。是否仍需要遵守 GDPR？**
 
@@ -325,6 +324,5 @@ Microsoft 產品和服務 (例如 Azure、Dynamics 365、Enterprise Mobility + S
 
 - [使用我們全球合作夥伴提供的其中一個 Microsoft 解決方案，滿足您對 GDPR 的需求](https://aka.ms/findgdprpartner)
 - [了解 Microsoft 如何管理您的資料、其位在何處、誰可以存取，以及條款等等。](https://www.microsoft.com/trust-center/privacy)
-- [了解 Microsoft 如何遵守歐盟 -美國隱私護盾的原則](https://blogs.microsoft.com/eupolicy/2016/07/11/eu-u-s-privacy-shield-progress-for-privacy-rights/)
 - [Microsoft 如何偵測及回應個人資料外洩，並在 GDPR 下通知您](https://www.microsoft.com/trust-center/privacy/gdpr-data-breach)
 - [立即評估您的 GDPR 整備狀況](https://discover.microsoft.com/gdpr-readiness-assessment/)
