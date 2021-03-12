@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7e502188d8c3f43906aff31728f9c3b9f8d23ea0
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 340d805c3b339eaa8082f7be00ad20ef54e3e8e4
+ms.sourcegitcommit: 68d927bc03a6e03aecdeac25aba9ae0265d7baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276171"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50715035"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>澳大利亞政府資訊安全性註冊 Assessor 程式 (IRAP) 
 
@@ -73,7 +73,7 @@ IRAP 適用于所有使用雲端服務的澳大利亞聯邦、州及地方政府
 
 **我是否可以在組織的風險評估與核准程式中使用 Microsoft 的符合性？**
 
-是。 如果您的組織需要或正在尋求核准，以與 ISM 一起運作，您可以在風險評估中使用 Azure、Dynamics 365、Microsoft 受管理的桌面和 Office 365 的 IRAP 安全性評估。 您也是不過，負責接洽 assessor，以評估在 Microsoft 平臺上部署的實施，以及您自己組織中的控制項和流程。
+是。 如果您的組織需要或正在尋求核准，以與 ISM 一起運作，您可以在風險評估中使用 Azure、Dynamics 365、Microsoft 受管理的桌面和 Office 365 的 IRAP 安全性評估。 不過，您已負責接洽 assessor，以評估 Microsoft 平臺上部署的實施，以及您自己組織中的控制項和流程。
 
 **從組織自身的風險評估和核准開始，我要從何處開始？**
 
