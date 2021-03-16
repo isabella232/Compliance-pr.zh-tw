@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: fb982899fb5159abecc07b90700134b6247b6fee
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
+ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121942"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "50822516"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Office 365 資料主體要求
 
@@ -727,7 +727,7 @@ Bookings 會收集並儲存下列類型的資料：
 
 ##### <a name="export"></a>匯出
 
-若要匯出企業主、員工和客戶的對應資料，您可以使用商務中心隱私權入口網站。請參閱[使用商務中心隱私權入口網站匯出或刪除使用者資料](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)。
+若要匯出企業主、員工和客戶的對應資料，您可以使用[商務中心隱私權入口網站](https://businessaccount.microsoft.com/)。
 
 ##### <a name="delete"></a>刪除
 
@@ -738,7 +738,7 @@ Bookings 會收集並儲存下列類型的資料：
 - **Bookings 事件：** 您可以從 Bookings 行事曆中刪除 Bookings 事件，這會移除客戶的資訊。
 - **會議要求、電子郵件確認/取消/更新以及電子郵件提醒：** 您可以從 Bookings 行事曆中刪除這些項目，這會移除客戶的資訊。
 
-企業主和系統管理員也可以使用商務中心隱私權入口網站來刪除其客戶的資料。請參閱[使用商務中心隱私權入口網站匯出或刪除使用者資料](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)。
+若要匯出企業主、員工和客戶的對應資料，您可以使用[商務中心隱私權入口網站](https://businessaccount.microsoft.com/)。
 
 此外，您可以刪除企業主和員工資料，也可以刪除對應的使用者帳戶。請參閱[刪除使用者](#deleting-a-user)一節。
 
@@ -760,7 +760,7 @@ Listings 擁有者可以登入 Listings 儀表板來查看其評論和評分。
 
 ##### <a name="export"></a>匯出
 
-若要匯出企業主、員工和客戶資料，請使用商務中心隱私權入口網站。請參閱[使用商務中心隱私權入口網站匯出或刪除使用者資料](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)。
+若要匯出企業主、員工和客戶的對應資料，您可以使用[商務中心隱私權入口網站](https://businessaccount.microsoft.com/)。
 
 ##### <a name="delete"></a>刪除
 
@@ -784,7 +784,7 @@ Connections 擁有者可以登入 Connections 儀表板，並查看他們所傳�
 
 ##### <a name="export"></a>匯出
 
-若要匯出企業主、員工和客戶資料，請使用商務中心隱私權入口網站。請參閱[使用商務中心隱私權入口網站匯出或刪除使用者資料](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)。
+若要匯出企業主、員工和客戶的對應資料，您可以使用[商務中心隱私權入口網站](https://businessaccount.microsoft.com/)。
 
 ##### <a name="delete"></a>刪除
 
@@ -920,7 +920,7 @@ Connections 擁有者可以登入 Connections 儀表板，並查看他們所傳�
 
 自訂連接器可讓組織連線至現成連接器無法使用的系統，來擴充 Flow 的功能。 自訂連接器作者可將其連接器與組織中的其他人[共用](/flow/register-custom-api)。 在收到 DSR 刪除要求後，系統管理員應該考慮重新指派這些連接器的擁有權，以避免業務中斷。 若要加快此程序，系統管理員可以使用 PowerShell Cmdlet，來列出、重新指派或刪除自訂連接器。
 
-### <a name="forms"></a>Forms
+### <a name="forms"></a>表單
 
 下列各節說明如何使用 Microsoft Forms 中的應用程式內功能，來尋找、存取、匯出及刪除個人資料。
 
