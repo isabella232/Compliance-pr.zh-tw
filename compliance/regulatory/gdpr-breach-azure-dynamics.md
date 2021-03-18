@@ -16,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 39e5d666519bac120169f79824173cd0ee63f437
-ms.sourcegitcommit: f37d6ac660910f1cc2204f5ceebd390f7abbdfbf
+ms.openlocfilehash: 1ed40e2a6cd960c4538439f5f34897037e0881cd
+ms.sourcegitcommit: 55a156a6b74ed8c438ae51cdae0654db2806e008
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50175427"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50831068"
 ---
 # <a name="azure-and-dynamics-365-breach-notification-under-the-gdpr"></a>GDPR 規定的 Azure 和 Dynamics 365 外洩通知
 
@@ -47,7 +47,7 @@ Azure 會根據安全性事故回應程序 (也就是 Microsoft Azure 事故管�
 | ***4：穩定及復原*** | 事件回應小組會建立復原計劃，以降低問題的風險。危機抑制步驟 (例如隔離受影響的系統) 可能會立即與診斷同步進行。長期風險降低預計要等到眼前的風險過後才會進行規劃。 |
 | ***5：結案與檢討*** | 事件回應小組會建立概述事件詳細資訊的檢討，目的是修改原則、步驟和流程，以避免該事件再次發生。 |
 
-《[Microsoft Azure 在雲端的安全性回應](https://gallery.technet.microsoft.com/Azure-Security-Response-in-dd18c678)》白皮書進一步詳述 Microsoft 在 Azure 中調查、管理以及回應安全性事件的方式。
+[用於保護全球公部門雲端採用的 Azure](/azure/azure-government/documentation-government-overview-wwps#breach-notification-process) 主題中詳細說明 Microsoft 如何調查、管理及回應 Azure 內的安全性事件。
 
 Microsoft Azure 使用的偵測程序旨在探索會讓 Azure 服務的機密性、完整性和可用性遭受風險的事件。有數種事件可能會觸發調查：
 
