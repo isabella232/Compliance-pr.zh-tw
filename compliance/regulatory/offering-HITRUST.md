@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f2686156a1cc51aefd28865642f5bc637a463062
-ms.sourcegitcommit: 68d927bc03a6e03aecdeac25aba9ae0265d7baf4
+ms.openlocfilehash: b13af6be98f0a5c25e6a2c38e5f6dff9c923e665
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50715045"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002173"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>狀況資訊信任同盟 (HITRUST) 常見的安全性架構 (CSF) 
 
@@ -45,7 +45,7 @@ HITRUST 提供三種確定性或評估等級：自我評估、CSF 驗證及 CSF 
 
 - [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
 - Intune
-- [Microsoft 受管理的電腦](https://docs.microsoft.com/microsoft-365/managed-desktop/intro/compliance)
+- [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365 和 Office 365 美國政府](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
@@ -59,13 +59,13 @@ Azure 和 Office 365 的 HITRUST CSF 憑證是兩年有效。
 
 透過 Azure 安全性與合規性藍圖，利用雲端針對健康情況資料解決方案的優點，HIPAA/HITRUST 健康情況資料和 AI。 此藍圖提供的工具和指引，可讓您立即開始建立 HIPAA/HITRUST 解決方案。
 
-[HIPAA HITRUST 9.2 藍圖範例](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+[HIPAA HITRUST 9.2 藍圖範例](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
 
 ## <a name="accelerate-your-hipaahitrust-compliance-when-using-office-365"></a>使用 Office 365 時，加速您的 HIPAA/HITRUST 合規性
 
 使用 Office 365，以符合合規性分數的安全且相容的方式來管理健康情況資訊，這可讓您針對類似 HIPAA 和安全性控制架構（如 NIST CSF 和 NIST 800-53）的健康情況規定執行風險評估。 您可以依照逐步指導方針，瞭解如何實施及維護資料保護控制，以協助您符合醫療保健規範義務。
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)
 
 ## <a name="collaborate-with-microsoft-in-the-hitrust-shared-responsibility-program"></a>在 HITRUST 共用責任計畫中與 Microsoft 共同作業
 
@@ -100,7 +100,7 @@ Microsoft 提供最全面的選項，與其他雲端服務提供者相較。 為
 
 **使用 Office 365 時，Microsoft 是否會為我的組織提供指導，以執行適當的控制項？**
 
-是的，您可以在合規性分數中尋找建議的客戶動作，以協助您的組織在使用雲端服務時符合複雜的合規性義務。 具體說來，針對 HITRUST CSF，我們建議您使用 NIST 800-53 和 NIST CSF 評估遵循合規性分數來執行風險評估。 在評估中，我們為您提供逐步指導方針，以及您可以用來實施資料保護控制的 Microsoft 解決方案。 您可以深入瞭解 [Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)中的合規性分數。
+是的，您可以在合規性分數中尋找建議的客戶動作，以協助您的組織在使用雲端服務時符合複雜的合規性義務。 具體說來，針對 HITRUST CSF，我們建議您使用 NIST 800-53 和 NIST CSF 評估遵循合規性分數來執行風險評估。 在評估中，我們為您提供逐步指導方針，以及您可以用來實施資料保護控制的 Microsoft 解決方案。 您可以深入瞭解 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)中的合規性分數。
 
 **如何與 Microsoft 接洽？**
 
@@ -108,7 +108,7 @@ Microsoft 提供最全面的選項，與其他雲端服務提供者相較。 為
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何 [在合規性管理員中建立及管理評估](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何 [在合規性管理員中建立及管理評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

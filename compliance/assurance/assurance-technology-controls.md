@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft 365 的技術控制措施 '
+title: Microsoft 365 的技術控制措施
 description: 本文概述 microsoft 365 中 Microsoft for 技術控制項使用的工具和技術。
 ms.author: robmazz
 author: robmazz
@@ -19,12 +19,12 @@ f1.keywords:
 ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 2c02e1739f6d3b5981e4327139477a12f987ed68
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: c3b443505c78832af47719e6840c8b7011f9dfe1
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120732"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002163"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Microsoft 365 的技術控制措施 
 

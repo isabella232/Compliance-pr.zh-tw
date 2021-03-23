@@ -1,5 +1,5 @@
 ---
-title: 資料中心安全性綜述
+title: 資料中心安全性概觀
 description: 深入瞭解 Microsoft 365 中的資料中心安全性
 ms.author: robmazz
 author: robmazz
@@ -21,14 +21,14 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 185f926db524f64851e715fecee31e699942fa22
-ms.sourcegitcommit: 247ee66ab59d06d2e1b0a3f4dba301c334ebfe71
+ms.openlocfilehash: d0fc10ea2d3aabf49aaf8833385a70ba62898141
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601267"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002143"
 ---
-# <a name="datacenter-security-overview"></a>資料中心安全性綜述
+# <a name="datacenter-security-overview"></a>資料中心安全性概觀
 
 ## <a name="how-does-microsoft-host-its-online-services"></a>Microsoft 如何主控其線上服務？
 
@@ -60,6 +60,6 @@ Microsoft 的線上服務會定期進行審核，以符合外部法規和認證�
 
 | **外部審計** | **Section** | **最新報告日期** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27001/27002 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=3383676c-b365-4288-a3c0-086ed8d737e3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=4e5d7afb-2cee-4704-95cc-bb8c95a8e52a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 11：實體和環境安全性 | 2020年5月13日 |
+| [ISO 27001/27002 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 11：實體和環境安全性 | 2020 年 12 月 2 日 |
 | [SOC 1 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=66043614-5628-4e26-83be-057eb3bb026c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1：資料中心實體存取配 <br> PE-2：資料中心安全性驗證 <br> PE-3：資料中心使用者存取權檢查 <br> PE-4：資料中心實體存取機制 <br> PE-5：資料中心實體監控監控 <br> PE-6：資料中心重要環境維護 <br> PE-7：資料中心環境控制項 <br> PE-8：資料中心事件回應 | 2020年10月30日 |
 | [SOC 2 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=ce5bfbea-3514-40ae-a8a6-3617106a0b56&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1：資料中心實體存取配 <br> PE-2：資料中心安全性驗證 <br> PE-3：資料中心使用者存取權檢查 <br> PE-4：資料中心實體存取機制 <br> PE-5：資料中心實體監控監控 <br> PE-6：資料中心重要環境維護 <br> PE-7：資料中心環境控制項 <br> PE-8：資料中心事件回應 | 2020年10月30日 |
