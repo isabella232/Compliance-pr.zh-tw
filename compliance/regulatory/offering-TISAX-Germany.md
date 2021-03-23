@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f751777f527a13d4dc572ef58e82ffcbd6ce1b3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 420f95b0a7f7625ff10d76baf5f1c9d9efb69c6a
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121172"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002193"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>可信資訊安全評估交換體系 (TISAX) 德國
 
@@ -35,27 +35,18 @@ VDA 成員公司使用這種檢測來進行內部安全性評定以及供應商�
 
 ## <a name="microsoft-and-tisax"></a>Microsoft 和 TISAX
 
-歐洲汽車公司依賴信任來開發、建立及經營新車。 他們使用「可信資訊安全評估交換體系 (TISAX)」來提供一般資訊安全性評定，以便進行內部分析、評估供應商，並作為資訊交換機制。 獨立 ENX 認證稽核員 PwC，已根據 TISAX 規格和 IT 安全性需求，完成 Microsoft 資料中心和操作中心的 TISAX 評定。
+歐洲汽車公司依賴信任來開發、建立及經營新車。 他們使用「可信資訊安全評估交換體系 (TISAX)」來提供一般資訊安全性評定，以便進行內部分析、評估供應商，並作為資訊交換機制。 獨立 ENX 認證稽核員已根據 TISAX 規格和 IT 安全性需求，完成 Microsoft 資料中心和操作中心的 TISAX 評定。 這些 TISAX 認證的資料中心為評定報告中所述的 Microsoft 線上服務提供實體基礎結構。 這些服務包括 Azure、Dynamics 365 和 Microsoft 365。
 
-全世界的汽車公司現在可以評估 Microsoft 雲端服務的 TISAX 評定，以建立整合強大資訊安全性與資料保護的雲端解決方案。 公司可以使用 Microsoft 雲端服務的 TISAX 評定，有信心地與使用工作站 (以 Microsoft 365 雲端服務為基礎) 的供應商交換資料。
+全世界的汽車公司現在可以評估 Microsoft TISAX 評定，以建立整合強大資訊安全性與資料保護的雲端解決方案。 公司可以使用 Microsoft TISAX 評定，有信心地與使用工作站 (以 Microsoft 365 雲端服務為基礎) 的供應商交換資料。
 
 Microsoft 提供其雲端服務的自我評定，且稽核員根據該評定執行了兩個等級的評定。 (評定等級決定評估深度和稽核員使用的方法。)
 
-- 位於北歐 (都柏林區域，愛爾蘭) 和西歐 (阿姆斯特丹區域，荷蘭) 的 Microsoft 資料中心，是在第 3 級 (AL3) 進行評估。 稽核包括安全性程序的徹底驗證、全面現場檢查，以及人員採訪。 對於有高度保護需求的資料需要 AL3 評定，例如分類為嚴格保密或祕密的資料，來自碰撞測試和流動模擬及 AI (人工智慧) 系統的資料。
+- 位於北歐 (都柏林區域，愛爾蘭)、西歐 (阿姆斯特丹區域，荷蘭)、德國 (柏林，法蘭克福) 和韓國 (釜山，首爾) 的 Microsoft 資料中心，是在第 3 級 (AL3) 進行評估。 稽核包括安全性程序的徹底驗證、全面現場檢查，以及人員採訪。 對於有高度保護需求的資料需要 AL3 評定，例如分類為嚴格保密或祕密的資料，來自碰撞測試和流動模擬及 AI (人工智慧) 系統的資料。
 - 所選 Microsoft 全域資料中心是根據遠端採訪，在第 2 級 (AL2) 進行評估。 具有高度保護需求的資料需要 AL2 評定，例如分類為機密的資料。
-
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
-
-TISAX 評定著重在下列 Microsoft 服務：
-
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- Intune
-- [無論您是在 Office 365 或 Microsoft Dynamics 365 品牌方案或套件中單獨註冊或包含 Microsoft Power BI](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
-已註冊 ENX 的產業代表，可以在 [ENX 入口網站](https://portal.enx.com/zh-TW/)上找到範圍內 Microsoft 雲端服務的 TISAX 評定詳細資料。 若要搜尋 Microsoft 評定結果，請登入您現有的 TISAX 帳戶，然後搜尋 Microsoft。 或者，您可以使用下列資訊來縮小搜尋範圍：
+已註冊 ENX 的產業代表，可以在 [ENX 入口網站](https://portal.enx.com/zh-TW/) 上的 Microsoft TISAX 評定中找到詳細資料。 若要搜尋 Microsoft 評定結果，請登入您現有的 TISAX 帳戶，然後搜尋 Microsoft。 或者，您可以使用下列資訊來縮小搜尋範圍：
 
 - Microsoft 參與者識別碼：PGKYK0
 - Microsoft Corp. 歐盟評定等級 (AL) 3 範圍識別碼：SY869K
@@ -77,7 +68,7 @@ ENX 僅對已註冊的產業代表，透過 ENX 入口網站提供認證確認�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
