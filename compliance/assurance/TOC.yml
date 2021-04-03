@@ -92,12 +92,8 @@
   items:
     - name: 網路安全性概觀
       href: assurance-network-security.md
-    - name: 阻絕服務攻擊
-      href: assurance-defending-cloud-services-against-dos-attacks.md
     - name: 阻絕服務攻擊策略
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: 核心阻絕服務攻擊原則
-      href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Microsoft 365 服務中的病毒偵測
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 隱私權
@@ -116,6 +112,10 @@
       href: assurance-sharepoint-online-data-deletion.md
     - name: Microsoft 365 資料永久性
       href: assurance-data-immutability.md
+    - name: 資料分類和敏感度標籤
+      href: assurance-data-classification-and-labels.md
+    - name: 建立資料分類架構
+      href: assurance-create-data-classification-framework.md
 - name: 復原和連續性
   items:
     - name: 復原和連續性概觀
