@@ -19,12 +19,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 6e32e089a5b42f846a332e32218959fef5103615
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: dc56d0413811d59309c974931e1fa50ee184e94a
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787502"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497686"
 ---
 # <a name="audit-logging-overview"></a>稽核記錄概觀
 

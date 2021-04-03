@@ -19,12 +19,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 044bd637241c566a5e44df6522fca4dcab8b8534
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 4782cb47bcd5da86daf11f01cb3a443a9b637c49
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120522"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497207"
 ---
 # <a name="exchange-online-data-resiliency-in-microsoft-365"></a>Microsoft 365 中的 Exchange Online 資料恢復功能
 
@@ -35,7 +36,7 @@ ms.locfileid: "50120522"
 
 有兩種類型的損毀可能會影響 Exchange 資料庫：實體損毀通常是由硬體 (所造成，尤其是由於其他因素而發生的儲存硬體) 問題和邏輯損毀。 一般來說，有兩種類型的邏輯損毀可能會發生于 Exchange 資料庫中：
 
-- **資料庫邏輯損毀** -資料庫頁面校驗和相符，但是頁面上的資料在邏輯上有錯誤。 當資料庫引擎 (可延伸儲存引擎 (ESE) # A3 嘗試寫入資料庫頁面時，即使作業系統會傳回成功訊息，也不會將資料寫入磁片或寫入錯誤的位置，就會發生這種情況。 這稱為 *遺失的清除*。 ESE 包含許多功能和保護措施，其設計目的是為了避免資料庫的實體損毀及其他資料遺失案例。 為了避免遺失的刷新遺失資料，ESE 會在資料庫中包含遺失的清除偵測機制，以及 (單一分頁還原的功能) 修正此機制。
+- **資料庫邏輯損毀** -資料庫頁面校驗和相符，但是頁面上的資料在邏輯上有錯誤。 當資料庫引擎 (可延伸儲存引擎 (ESE) ) 嘗試寫入資料庫頁面時，即使作業系統會傳回成功訊息，資料也不會寫入到磁片或寫入錯誤的位置，就會發生這種情況。 這稱為 *遺失的清除*。 ESE 包含許多功能和保護措施，其設計目的是為了避免資料庫的實體損毀及其他資料遺失案例。 為了避免遺失的刷新遺失資料，ESE 會在資料庫中包含遺失的清除偵測機制，以及 (單一分頁還原的功能) 修正此機制。
 - **儲存邏輯損毀** -資料會以使用者未預期的方式新增、刪除或操控。 這兩種情況是由協力廠商應用程式所造成。 使用者將它視為損毀，通常會損毀。 Exchange 存放區會將產生邏輯損毀的交易視為一系列有效的 MAPI 作業。 Exchange Online 中的 [In-Place 保留](/exchange/security-and-compliance/create-or-remove-in-place-holds) 功能可讓您避免因使用者或應用程式) 而永久刪除的內容，對儲存邏輯損毀 (造成保護。 
 
 Exchange Online 會在記錄檔檢查和記錄檔重播期間，對複寫的記錄檔執行數種一致性檢查。 這些一致性檢查會防止系統複製實體損毀。 例如，在記錄檢查期間，會有實體完整性檢查可驗證記錄檔，並驗證記錄檔中記錄的檢查碼是否符合記憶體中產生的 checksum。 此外，會檢查記錄檔標頭，確定記錄檔中記錄的記錄檔簽名與記錄檔的記錄檔相符。 在記錄檔重播期間，記錄檔會進一步進行審查。 例如，資料庫標頭也包含與記錄檔的簽名進行比較的記錄簽章，以確保它們相符。 

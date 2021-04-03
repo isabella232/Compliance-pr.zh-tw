@@ -18,12 +18,13 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d97c5f1be6bf09a772244aac14086171643af89e
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 1b9d410422e22fe67cb27617ba16e2ddbbaec0fd
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120672"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497644"
 ---
 # <a name="data-destruction-in-microsoft-365"></a>Microsoft 365 中的資料銷毀
 

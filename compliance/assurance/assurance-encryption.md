@@ -19,12 +19,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: ca13c5dfb229acd46ef0dd027b537afc2ac20b5a
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: 48fe5dd495dceb53b60cb83710566b63d09b80bf
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787342"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497218"
 ---
 # <a name="encryption-and-key-management-overview"></a>加密和金鑰管理概觀
 

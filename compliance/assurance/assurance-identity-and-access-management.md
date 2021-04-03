@@ -19,12 +19,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: c07801fe5ef571ddb4c9efcbfe04a7b3e5faedb6
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: d431a7f04b156b003f5f4e213aef9bb9792874fe
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787472"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497161"
 ---
 # <a name="identity-and-access-management-overview"></a>身分識別和存取管理概觀
 

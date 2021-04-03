@@ -17,12 +17,13 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 7bb7ca2b3a3d02be91930f4309ffed6ac1c79fca
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: e9b80265542ee580ba729e53906db4e726bdd4d1
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121612"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496493"
 ---
 # <a name="microsoft-365-gdpr-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Microsoft 365 GDPR 行動計畫 — 前 30 天、90 天及過後的首要工作
 
@@ -56,7 +57,7 @@ GDPR 引入新的規則，供向歐盟 (EU) 人員提供產品及服務，或收
 |**適用範圍**|**工作**|
 |:-----|:-----|
 | **開始使用 Microsoft 365 資料控管和合規性功能，實作合規性需求。** |* 使用 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)中的 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)，管理您的 GDPR 合規性。<br>* 協助使用者識別及分類個人資料，如同 GDPR 所定義，方法是對 Exchange 電子郵件、SharePoint 網站、商務用 OneDrive 網站及 Microsoft 365 群組使用分類結構描述以及相關聯的 Office 365 標籤。 請參閱 [GDPR 的 Office 365 資訊保護](/microsoft-365/compliance/office-365-information-protection-for-gdpr)。|
-| **使用 Microsoft 365 的安全性功能來防止資料外洩，並為個人資料實作保護。** |* 藉由針對所有使用者帳戶啟用[多重要素驗證](/azure/active-directory/authentication/concept-mfa-howitworks)，以及針對所有應用程式啟用[新式驗證](/microsoft-365/enterprise/modern-auth-for-office-2013-and-2016)，在 Microsoft Cloud 中改善系統管理員和使用者的驗證。 如需建議的原則組態，請參閱[身分識別與裝置存取設定](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations)。<br>* 將 [Windows Defender 進階威脅防護](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection) (ATP) 部署至所有桌上型電腦以防範惡意程式碼、資料外洩防護和回應。<br>* 針對所有 Exchange 信箱啟用[稽核記錄](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (部分機器翻譯) 和[信箱稽核](/microsoft-365/compliance/enable-mailbox-auditing) (部分機器翻譯)，以監視潛在的惡意活動，並啟用資料外洩的鑑識調查分析。<br>* 設定、測試及部署 [Office 365 資料外洩防護 (DLP) 原則](/microsoft-365/compliance/data-loss-prevention-policies) (部分機器翻譯)，以在文件和電子郵件內識別、監視及[自動保護](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365)超過 80 個常見的敏感性資料類型，包括財務、醫療及個人識別資訊。<br>* 實作 [Office 365 進階威脅防護 (ATP)](/microsoft-365/security/office-365-security/office-365-atp) (部分機器翻譯)，協助防範最常見的攻擊，包括網路釣魚電子郵件和包含惡意連結和附件的 Office 文件。|
+| **使用 Microsoft 365 的安全性功能來防止資料外洩，並為個人資料實作保護。** |* 藉由針對所有使用者帳戶啟用[多重要素驗證](/azure/active-directory/authentication/concept-mfa-howitworks)，以及針對所有應用程式啟用[新式驗證](/microsoft-365/enterprise/modern-auth-for-office-2013-and-2016)，在 Microsoft Cloud 中改善系統管理員和使用者的驗證。 如需建議的原則組態，請參閱[身分識別與裝置存取設定](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations)。<br>* 將 [Microsoft Defender 進階威脅防護](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection)部署至所有桌上型電腦以防範惡意程式碼、資料外洩防護和回應。<br>* 針對所有 Exchange 信箱啟用[稽核記錄](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (部分機器翻譯) 和[信箱稽核](/microsoft-365/compliance/enable-mailbox-auditing) (部分機器翻譯)，以監視潛在的惡意活動，並啟用資料外洩的鑑識調查分析。<br>* 設定、測試及部署 [Office 365 資料外洩防護 (DLP) 原則](/microsoft-365/compliance/data-loss-prevention-policies) (部分機器翻譯)，以在文件和電子郵件內識別、監視及[自動保護](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365)超過 80 個常見的敏感性資料類型，包括財務、醫療及個人識別資訊。<br>* 實作 [Office 365 進階威脅防護](/microsoft-365/security/office-365-security/office-365-atp) ，協助防範最常見的攻擊媒介，包括網路釣魚電子郵件和包含惡意連結和附件的 Office 文件。|
 
 ## <a name="beyond-90-days--ongoing-security-data-governance-and-reporting"></a>超過 90 天 - 持續的安全性、資料控管及報告
 

@@ -19,12 +19,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: aa5c7c01b39feba21b3efa2a99267743379d8cec
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: 69f23af93f6b41563fb3694436bf7272ac2d5b75
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787332"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497186"
 ---
 # <a name="human-resources-overview"></a>人力資源概觀
 

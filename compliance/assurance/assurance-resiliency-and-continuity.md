@@ -18,12 +18,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 405c7b40a9dec01e2729b6c344dfd67502dab728
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: 9f63630ac0e9c7a1b68d65c738e88b55f351a3ef
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787392"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496887"
 ---
 # <a name="resiliency-and-continuity-overview"></a>復原和連續性概觀
 

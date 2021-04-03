@@ -18,12 +18,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b14a9fa236cd71cff7dd02baf04a30c249bc4346
-ms.sourcegitcommit: 2973d25e9e0185b84d281f963553a332eac1c1a3
+hideEdit: true
+ms.openlocfilehash: b3f16620564d525245c21c375bbc9a3f5b0923b7
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50040336"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497393"
 ---
 # <a name="microsoft-365-security-incident-management-preparation"></a>Microsoft 365 安全性事件管理：準備
 
@@ -91,7 +92,7 @@ Microsoft 員工會將全時紅色小組和藍色小組分開，各部門的各�
 
 ## <a name="related-articles"></a>相關文章
 
-- [Microsoft 365 安全性事件管理](assurance-security-incident-management.md)
+- [Microsoft 365 安全性中心事件管理](assurance-security-incident-management.md)
 - [Microsoft 365 安全性事件管理偵測和分析](assurance-sim-detection-analysis.md)
 - [Microsoft 365 的安全性事件管理包容、eradication 及恢復](assurance-sim-containment-eradication-recovery.md)
 - [Microsoft 365 安全性事件管理後置事件活動](assurance-sim-post-incident-activity.md)

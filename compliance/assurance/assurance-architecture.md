@@ -19,12 +19,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: e1b4e9701e76c1e758f683750c8ebfeda2bc1f1f
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: 423e90164b3c13c53d45ca98c2e1a981968f23a8
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787483"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497688"
 ---
 # <a name="architecture-overview"></a>架構概觀
 

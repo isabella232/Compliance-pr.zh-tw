@@ -20,12 +20,13 @@ ms.collection:
 - SPO_Content
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 9317b112d1fa759b1f90e072203e7b8093a432fd
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 3907a9a3f085af3d778daa2a385209f4dc9699a4
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120542"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497547"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>商務用 Skype、商務用 OneDrive SharePoint 線上、Microsoft 團隊和 Exchange Online 的加密
 

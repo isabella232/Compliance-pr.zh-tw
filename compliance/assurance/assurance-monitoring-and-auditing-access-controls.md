@@ -18,12 +18,13 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 3021ce1dd59d5d071edec22286ae9c63833f1277
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: e9a9ea713afbf7568c1ae67d31a57dd9dce51fc3
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120442"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497546"
 ---
 # <a name="monitoring-and-auditing-access-controls-in-microsoft-365"></a>在 Microsoft 365 中監控和審計存取控制
 

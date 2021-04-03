@@ -19,12 +19,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 361400bf6330fb82d34f384d17e4d4ee438ccf08
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+hideEdit: true
+ms.openlocfilehash: 6e990facde47b07d50f594afb55353a5ef81dd78
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012899"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497618"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Microsoft 365 的資料恢復功能
 
@@ -46,7 +47,7 @@ ms.locfileid: "50012899"
 恢復性指的是雲端架構服務可經受某些類型的失敗，但仍可從客戶的觀點完全運作的能力。 資料恢復意味著不論 Microsoft 365 中發生的失敗為何，重要的客戶資料會保持不變且不會受到影響。 為做到這一點，Microsoft 365 服務的設計是圍繞五個特定的恢復原則：
 
 - 有重要且非重要的資料。 非重要資料 (例如，郵件是否已讀取) 可以在少見的失敗案例中刪除。 重要資料 (例如，客戶資料) （例如電子郵件訊息）應以極高的成本加以保護。 在設計目標中，傳遞的郵件訊息永遠很重要，也就是郵件已讀取的情況不重要。
-- 客戶資料的複本必須分割成不同的容錯區域，或盡可能多的容錯網域 (例如，資料中心可由單一認證 (程式、伺服器或操作員存取) # A3，以提供失敗隔離。 
+- 客戶資料的複本必須分割成不同的容錯區域，或盡可能多的容錯網域 (例如，資料中心，可透過單一認證 (程式、伺服器或操作員) ) 進行存取，以提供失敗隔離。 
 - 必須監視重要的客戶資料，以失敗任何原子性、一致性、隔離性、耐用性 (ACID) 部分。
 - 客戶資料必須受到保護，避免損毀。 必須主動掃描或監視、修復和恢復。
 - 客戶動作中大部分的資料遺失結果，讓客戶可以使用 GUI 自行進行復原，讓他們能夠還原意外刪除的專案。

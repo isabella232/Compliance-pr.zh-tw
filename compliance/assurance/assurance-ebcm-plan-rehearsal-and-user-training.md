@@ -16,12 +16,13 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 7eb4be06eef8ded455f906b7b9757365bfe03010
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+hideEdit: true
+ms.openlocfilehash: 032e9046db5b7cd6bea2c2ad68bc63079bfbef78
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574815"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497563"
 ---
 # <a name="train-for-business-continuity-in-your-organization"></a>訓練組織中的商務持續性
 

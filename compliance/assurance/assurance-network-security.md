@@ -19,12 +19,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: e246cc3c84a17fe697baea29eda285599832b0fa
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: a2b153b2f2f57a011c28ee65cbe03019cbaa27a1
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787424"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496919"
 ---
 # <a name="network-security-overview"></a>網路安全性概觀
 

@@ -19,12 +19,13 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d3d6cd30fbe682de979d5c04943c57cedc86552f
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: e7dc9d73b6eb1961387d85910bb558e85498ffae
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120712"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497706"
 ---
 # <a name="administrative-access-controls-in-microsoft-365"></a>Microsoft 365 中的管理存取控制 
 
@@ -61,7 +62,7 @@ Microsoft 提供使用多種形式的雲端傳遞的線上服務：
 - 立即訊息
 - 行事曆專案
 - 文件
-- 聯絡人
+- Contacts
 - 使用者識別資訊 (EUII () 使用者特有或 linkable 個別使用者的資料，但不包括客戶內容) 
 
 ### <a name="other-types-of-data"></a>其他類型的資料

@@ -18,12 +18,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 916303ff2a65777785c89c6ccae70bea9a0bfda9
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: b63c73b54cb16389d071945a8fcf849f8b1d58a9
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787302"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497450"
 ---
 # <a name="security-development-and-operations-overview"></a>安全性開發和作業概述
 

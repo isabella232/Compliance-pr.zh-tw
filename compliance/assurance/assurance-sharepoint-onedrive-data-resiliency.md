@@ -1,5 +1,5 @@
 ---
-title: 在 Microsoft 365 中 SharePoint 和 OneDrive 資料恢復功能
+title: Microsoft 365 中的 SharePoint 和 OneDrive 資料復原
 description: 本文提供 Microsoft 365 中 SharePoint 和 OneDrive 資料恢復功能的概覽。
 ms.author: robmazz
 author: robmazz
@@ -18,14 +18,15 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 26281e076ea2500a0a4071233b88c2a1f23fe9c5
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: c267551f26b4dd96e3762b0edc2942a3cb22eb5c
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120452"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496751"
 ---
-# <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>在 Microsoft 365 中 SharePoint 和 OneDrive 資料恢復功能
+# <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Microsoft 365 中的 SharePoint 和 OneDrive 資料復原
 
 在 Microsoft 365 內，OneDrive 是以 SharePoint 檔案平臺為基礎。 在本文中，只會使用 SharePoint 來指代這兩種產品。 本文內容適用于 Microsoft 365，不適用於消費者服務。
 
@@ -42,6 +43,8 @@ SharePoint 有一個自訂的解決方案，用來儲存 Azure Storage 中的客
 
 SharePoint 會使用 Append-Only 儲存區。 此程式可確保檔案在初始儲存後無法變更或損毀，但也可以使用產品版本的版本設定，即可檢索任何先前版本的檔內容。
 
+![Blob 儲存恢復](../media/assurance-blob-storage-resiliency-diagram.png)
+
 任一資料中心的 SharePoint 環境都可以存取兩個 Azure 區域中的儲存體容器。 基於效能原因，相同本地資料中心內的儲存容器永遠都是可取的，但是在所需閾值內，未看到結果的讀取要求將會有相同的遠端資料中心要求的內容，以確保資料永遠可用。
 
 ## <a name="metadata-resilience"></a>中繼資料恢復
@@ -49,6 +52,8 @@ SharePoint 會使用 Append-Only 儲存區。 此程式可確保檔案在初始�
 SharePoint 中繼資料在儲存使用者內容的位置和存取機碼儲存于 Azure Storage 中儲存的內容時也很重要。 這些資料庫是儲存在 Azure SQL 中，其具有大量的 [業務持續性計畫](/azure/sql-database/sql-database-business-continuity)。
 
 SharePoint 使用 Azure SQL 所提供的複寫模型，並已建立專屬的自動化技術，以判斷是否需要容錯移轉，並視需要啟動作業。 如此一來，它會從 Azure SQL 的觀點降至「手動資料庫容錯移轉」類別。 Azure SQL database 可恢復性的最新指標可于 [這裡](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)取得。
+
+![中繼資料恢復](../media/assurance-metadata-resiliency-diagram.png)
 
 SharePoint 使用 Azure SQL 的備份系統來啟用時間點還原 (PITR) 最多14天。 PITR 會在[稍後的章節](#deletion-backup-and-point-in-time-restore)中涵蓋。
 

@@ -18,12 +18,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 1fbdca0c0b08c793732ba31414bedd943d4dc115
-ms.sourcegitcommit: d67e4d4fdc664f1da450c8ef2f6732e19bdd403a
+hideEdit: true
+ms.openlocfilehash: 433b8da98e25c4f465473143074eda055419234d
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037585"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497398"
 ---
 # <a name="microsoft-365-security-incident-management-detection-and-analysis"></a>Microsoft 365 安全性事件管理：偵測和分析
 
@@ -84,7 +85,7 @@ Microsoft 365 服務小組也會使用透過安全性監控和登入在趨勢分
 
 ## <a name="related-articles"></a>相關文章
 
-- [Microsoft 365 安全性事件管理](assurance-security-incident-management.md)
+- [Microsoft 365 安全性中心事件管理](assurance-security-incident-management.md)
 - [Microsoft 365 的安全性事件管理準備](assurance-sim-preparation.md)
 - [Microsoft 365 的安全性事件管理包容、eradication 及恢復](assurance-sim-containment-eradication-recovery.md)
 - [Microsoft 365 安全性事件管理後置事件活動](assurance-sim-post-incident-activity.md)

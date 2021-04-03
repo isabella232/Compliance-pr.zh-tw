@@ -21,12 +21,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 4cb9f68f2c5861905a4246582a3b4530c30988ca
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 295e4d1d52e251f7c5de463d890d538201f2e5b2
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120702"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497673"
 ---
 # <a name="auditing-and-reporting-in-microsoft-cloud-services"></a>Microsoft 雲端服務中的審計和報告
 

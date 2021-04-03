@@ -19,12 +19,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: e2d5e0362ce5bea8412d6f3d5017aff9670ae7e4
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: 2ccbd650a2d97af8ea0774e6272fae819e8c732f
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787522"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497196"
 ---
 # <a name="governance-overview"></a>控管概觀
 
@@ -34,7 +35,7 @@ Microsoft 知道有效的安全性原則必須在整個企業中一致地實施�
 
 MSP 會組織 Microsoft 的安全性原則、標準及需求，使其可在所有 Microsoft 工程群組和業務單位中實施。 個人業務單位負責 Microsoft 安全性原則的特定實施。 例如，Microsoft 365 會將其安全性實施檔放在 Microsoft 365 資訊安全性原則和相關的 Microsoft 365 控制項架構中。 這些安全性實施方式會與 MSP 的目標和目標相符。
 
-Microsoft 的安全性管理計畫會得到通知，並與各種法規和合規性框架對齊。 安全性需求會持續演變，以取得新的技術、法規和規範需求，以及安全性威脅。 因此，Microsoft 會定期更新我們的安全性原則及支援檔，以保護 Microsoft 系統和客戶、達成承諾，以及維護客戶信任。
+Microsoft 的安全控管計畫會得到通知，並與各種規章和合規性框架搭配。 安全性需求會持續演變，以取得新的技術、法規和規範需求，以及安全性威脅。 由於這些變更，Microsoft 會定期更新我們的安全性原則及支援檔，以保護 Microsoft 系統和客戶、達成承諾，以及維護客戶信任。
 
 ## <a name="how-does-microsoft-365-implement-the-microsoft-security-policy-msp"></a>365 Microsoft Security Policy (MSP) 的實施方式？
 
@@ -54,6 +55,10 @@ Microsoft 365 資訊安全性原則是由 Microsoft 365 控制架構補充。 Mi
 
 Microsoft 365 資訊安全性原則的所有例外狀況，都必須具備合法的商業理由，並由 Microsoft 365 中適當的控管實體核准。 例外狀況也必須具有「服務小組管理」核准，並記錄在 Microsoft 365 風險管理工具中。 根據例外範圍及其所代表的潛在風險，可能需要從公司副總裁或更高版本取得例外批准。 在 Microsoft 365 風險管理工具中追蹤例外狀況，而這些例外狀況會經過檢查和核准，以繼續相關性。
 
+## <a name="how-does-microsoft-365-keep-security-and-compliance-requirements-updated"></a>Microsoft 365 如何更新安全性和合規性需求？
+
+Microsoft 365 信任小組可以即時維護內部的 Microsoft 365 控制架構。 有幾個案例可能要求信任小組更新控制架構，包括：相關規章或法律中的變更、新興威脅、滲透測試結果、安全性事件、審核回饋及新的規範需求。 在需要架構變更時，信任團隊會識別負責核准及實施變更的主要利益關係人，以確保這種方式可行，而且不會造成 Microsoft 365 服務的意想不到問題。 一旦信任小組和相關的利益相關者同意所做的變更，負責執行變更集目標完成日期的工作負載，以及在各自的服務中實施變更的工作負載。 達到實現目標之後，信任團隊會以新的或更新的控制項更新控制項框架。
+
 ## <a name="related-external-regulations--certifications"></a>相關的外部法規 & 認證
 
 Microsoft 的線上服務會定期進行審核，以符合外部法規和認證。 請參閱下表，以驗證與管理相關的控制項。
@@ -65,3 +70,8 @@ Microsoft 的線上服務會定期進行審核，以符合外部法規和認證�
 | [ISO 27017 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 18.1：符合法律和合約需求 | 2020 年 2 月 22 日 |
 | [ISO 27018 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 2.1：公用雲端 PII 處理器的用途 | 2018年11月10日 |
 | [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-11：原則框架更新 <br> CA-12：服務等級協定 (Sla)  <br> CA-17： Microsoft 安全性原則 <br> CA-25：控制架構更新 | 2020月24日 |
+
+## <a name="resources"></a>資源
+
+- [Microsoft 安全性原則](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=bc35aefb-ec41-4a0e-bfc7-10aa5169ca88&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Microsoft 安全計畫原則](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=4b010ac5-2861-4d20-b8ff-db77875b43a9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)

@@ -16,12 +16,13 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 01bdba8a9634baf537a435301dbc46b1d5dce985
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+hideEdit: true
+ms.openlocfilehash: 28ffe8113d76d74b9cb5e81034535930f158d4ef
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012949"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497575"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>企業業務連續性法律免責聲明
 

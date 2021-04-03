@@ -18,12 +18,13 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 025e2c422c05dbffdf5a510f93809beaed3fe09d
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: f7026d0b9fe27e3818b7b31ed7b4d1e07b62471e
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120652"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497615"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Microsoft 365 中的資料保留、刪除及銷毀
 

@@ -19,12 +19,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 9d38131a6ec8f3213c288d76dc3b176ceaa3aace
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+hideEdit: true
+ms.openlocfilehash: b37ca23fa403bd0a4a657be78654a02bf23721b3
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012889"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497527"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Microsoft 365 中的攻擊模擬
 

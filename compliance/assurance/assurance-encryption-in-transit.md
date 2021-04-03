@@ -20,12 +20,13 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b6d6ae53ef2ade842e0e9205c01b44fe17891a97
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 227f74140ecd9b6283b92e8b0e87bd70912ec8e3
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120532"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497255"
 ---
 # <a name="encryption-for-data-in-transit"></a>資料內傳輸的加密
 

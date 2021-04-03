@@ -19,12 +19,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: da465b850a9216dd64f8e4d9e6450c6a17f7b26d
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 2e86cdfe082ec35fd7fd111a13a4def6f1b01806
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120662"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497633"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Microsoft 365 中的資料永久性
 

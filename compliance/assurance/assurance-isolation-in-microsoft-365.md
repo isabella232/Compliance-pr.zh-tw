@@ -19,12 +19,13 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 88ca5abc1997da01c32c7fdf9b286f71702d86cf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: f1166ce766c2b1158d50242b9411f051992bf121
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506179"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497055"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>Microsoft 365 中的隔離與存取控制
 

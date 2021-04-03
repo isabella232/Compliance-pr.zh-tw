@@ -18,12 +18,13 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b67a327d8451dca212cd265aae7619924d419f5a
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: 8f36cc657bcb2de7df6fcc8c072b4a5ed4a7a5ac
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787362"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496827"
 ---
 # <a name="risk-management-overview"></a>風險管理概觀
 

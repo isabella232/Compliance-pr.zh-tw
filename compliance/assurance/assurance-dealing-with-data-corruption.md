@@ -19,12 +19,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b56c31e40d35a90a04488d718462592200ad97aa
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 9e9f0951f7e349cc70bc96bb6a2d62275848cf04
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506299"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497587"
 ---
 # <a name="dealing-with-data-corruption-in-microsoft-365"></a>處理 Microsoft 365 中的資料損毀
 

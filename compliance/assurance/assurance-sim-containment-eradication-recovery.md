@@ -18,12 +18,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 702735ed2ba35a4f3b0a02123f0c58b5fb4d397e
-ms.sourcegitcommit: d67e4d4fdc664f1da450c8ef2f6732e19bdd403a
+hideEdit: true
+ms.openlocfilehash: 7fff9c1909f0acd076945e3d569b143fe2324c0f
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037586"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496723"
 ---
 # <a name="microsoft-365-security-incident-management-containment-eradication-and-recovery"></a>Microsoft 365 安全性事件管理：包容、eradication 及恢復
 
@@ -56,7 +57,7 @@ Eradication 是以高信心程度消除安全性事件根本原因的處理常�
 
 ## <a name="related-articles"></a>相關文章
 
-- [Microsoft 365 安全性事件管理](assurance-security-incident-management.md)
+- [Microsoft 365 安全性中心事件管理](assurance-security-incident-management.md)
 - [Microsoft 365 的安全性事件管理準備](assurance-sim-preparation.md)
 - [Microsoft 365 安全性事件管理偵測和分析](assurance-sim-detection-analysis.md)
 - [Microsoft 365 安全性事件管理後置事件活動](assurance-sim-post-incident-activity.md)

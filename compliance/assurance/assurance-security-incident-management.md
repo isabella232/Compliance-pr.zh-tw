@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 安全性事件管理
+title: Microsoft 365 安全性中心事件管理
 description: 本文概要說明 Microsoft 365 中的安全性事件管理程式。
 ms.author: robmazz
 author: robmazz
@@ -18,14 +18,15 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance0
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 9a76a258edf77708786cf19b160c4c5ee7af7ee6
-ms.sourcegitcommit: 2973d25e9e0185b84d281f963553a332eac1c1a3
+hideEdit: true
+ms.openlocfilehash: a61a4406c4951c4d4584831cf58030545955fd35
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50040356"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496783"
 ---
-# <a name="microsoft-365-security-incident-management"></a>Microsoft 365 安全性事件管理
+# <a name="microsoft-365-security-incident-management"></a>Microsoft 365 安全性中心事件管理
 
 Microsoft 繼續致力於為 Microsoft 365 客戶提供高安全性的企業級服務。 本檔說明 Microsoft 如何處理 Microsoft 365 中的安全性事件。 安全性事件指的是對儲存在 Microsoft 設備或 Microsoft 設施中客戶資料的任何非法存取，或未經授權存取客戶資料的遺失、披露或變更的設備或設施。 當回應安全性事件時，Microsoft 的目標是保護客戶資料和 Microsoft 365 服務。
 

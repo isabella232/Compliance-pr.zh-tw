@@ -18,12 +18,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: a745c470dc30703f438258985169431c1053e65d
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 2cc91f650dcaf5fdafd9f32f3c6991976b49ea04
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120782"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497507"
 ---
 # <a name="microsoft-365-reporting-features"></a>Microsoft 365 報告功能
 

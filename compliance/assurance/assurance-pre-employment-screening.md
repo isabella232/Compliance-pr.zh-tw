@@ -19,12 +19,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 6b285f6b0370966cc66a4fed1309a88aec89e839
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+hideEdit: true
+ms.openlocfilehash: 0656438579fcecb2337bcf4285fb7d6a069e7929
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012909"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497525"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Microsoft 職前檢測
 

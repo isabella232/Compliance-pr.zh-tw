@@ -18,12 +18,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 66c25503ac574de512f5201981112a0e54714968
-ms.sourcegitcommit: 2973d25e9e0185b84d281f963553a332eac1c1a3
+hideEdit: true
+ms.openlocfilehash: 4ebd31c16f8abb3eddd6ed924a045d88597aba40
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50040346"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496717"
 ---
 # <a name="microsoft-365-security-incident-management-post-incident-activity"></a>Microsoft 365 安全性事件管理：事件後活動
 
@@ -47,7 +48,7 @@ ms.locfileid: "50040346"
 
 ## <a name="related-articles"></a>相關文章
 
-- [Microsoft 365 安全性事件管理](assurance-security-incident-management.md)
+- [Microsoft 365 安全性中心事件管理](assurance-security-incident-management.md)
 - [Microsoft 365 的安全性事件管理準備](assurance-sim-preparation.md)
 - [Microsoft 365 安全性事件管理偵測和分析](assurance-sim-detection-analysis.md)
 - [Microsoft 365 的安全性事件管理包容、eradication 及恢復](assurance-sim-containment-eradication-recovery.md)

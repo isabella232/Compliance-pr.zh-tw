@@ -19,12 +19,13 @@ ms.collection:
 - MS-Compliance
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 67aadb6e9ccda3a84a06b39570c680c8b30ce775
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: f89faf915e31e375674020fda1fe56fe7cd78410
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121492"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496066"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-security--compliance-center"></a>使用 Security & 合規性中心的 DSR 案例工具管理 GDPR 資料主體要求
 

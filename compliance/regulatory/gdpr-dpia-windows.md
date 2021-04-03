@@ -17,12 +17,13 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: b0f23f9143d96ddc1f22f1bc1014769384838531
-ms.sourcegitcommit: b366fb7c148b4da40f8c5d8ff41adbff0bcb850e
+hideEdit: true
+ms.openlocfilehash: 69c2eaed3d4a84fa11337fe5ec9b6be94c2e814b
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49585378"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496254"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-data-processor-service-for-windows-enterprise"></a>資料保護影響評估：給使用 Microsoft 企業版的 Windows 資料處理者服務之資料控制器的指引
 

@@ -20,12 +20,13 @@ f1.keywords:
 ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 0898cb7e02f0f77cda14d85aaa79e8d2ff7e31e4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: baf73746fff5e4866c36975e082c84017e0b3083
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506167"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496945"
 ---
 # <a name="data-monitoring-and-self-healing-in-microsoft-365"></a>Microsoft 365 中的資料監控和自我修復
 

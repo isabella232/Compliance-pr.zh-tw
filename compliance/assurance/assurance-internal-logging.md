@@ -19,12 +19,13 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 1ecc0b3cbbdc03dee764aeec2ff0cd96b56ea55d
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 110a61c27a00380eede4d4f2303acfb025a27a1f
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506185"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497067"
 ---
 # <a name="internal-logging-for-microsoft-365-engineering"></a>Microsoft 365 工程內部記錄
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f2574ff4c660d8aee1229856cf776c397c80561e
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: dbd05b64deb7b74a590a09f81004968e6cf3a84d
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276191"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497779"
 ---
 # <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>健康保險流通與責任 (HIPAA) & 高科技的運作
 
@@ -80,7 +80,7 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 
 Microsoft 為合格的公司或其供應商提供涵蓋在 Microsoft 服務範圍內的 BAA。
 
-針對 Microsoft cloud services：針對所有已涵蓋 HIPAA 的實體或業務夥伴的客戶，以線上服務條款提供 [HIPAA 業務關聯協定](https://aka.ms/BAA) 。 請參閱此網頁上的「Microsoft in 範圍內的雲端服務」，以取得此 BAA 所涵蓋的雲端服務清單。
+針對 Microsoft cloud services：針對所有已涵蓋 HIPAA 的實體或業務夥伴的客戶，以線上服務條款提供 [HIPAA 業務關聯協定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) 。 請參閱此網頁上的「Microsoft in 範圍內的雲端服務」，以取得此 BAA 所涵蓋的雲端服務清單。
 
 針對 Microsoft 專業服務服務：向您的 Microsoft 服務代表提出要求時，可在範圍內的 Microsoft 專業服務中取得 HIPAA 業務關聯修正功能。
 

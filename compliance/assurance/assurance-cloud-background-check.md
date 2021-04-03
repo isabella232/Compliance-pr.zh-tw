@@ -1,5 +1,5 @@
 ---
-title: Microsoft cloud 背景檢查
+title: Microsoft 雲端背景檢查
 description: 在本文中，您可以找到 microsoft 365 的 Microsoft 人員濾入實踐的概述。
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,15 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d86fd7ca92113b538bef72213976b1a10eed85fa
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 2347d524bf1561b60eb40020636196332e2accd7
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507094"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497658"
 ---
-# <a name="microsoft-cloud-background-check"></a>Microsoft cloud 背景檢查
+# <a name="microsoft-cloud-background-check"></a>Microsoft 雲端背景檢查
 
 若員工聘用的候選人是美國的 Microsoft 365 相關服務，則必須使用 Microsoft 雲端背景檢查。 在美國，具有客戶資料存取權的 microsoft 員工，必須遵循所有 Microsoft 365 服務所需的 Microsoft 雲端背景檢查程式。 在美國境外，程式會有所不同。 例如，針對德國的 Microsoft 雲端使用資料受信者核准模型，其設計目的是為了確保資料受信者 (德國公司) ，而不是 Microsoft，以控制客戶資料的存取權。 德國的 Microsoft 雲端是從德國送出的資料中心，而包含資料受信者的技術人員 (OC) 中也有德國的作業中心。 資料受信者均可運作、維護及控制資料中心與 OC 功能。
 
