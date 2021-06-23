@@ -1,6 +1,6 @@
 ---
 title: 俄文個人資料當地語系化需求
-description: 瞭解如何在位於俄羅斯的 Microsoft 服務和資料庫中收集個人資料、俄語員工的個人資料記錄、systematization、積累、儲存、澄清及解壓縮。
+description: 瞭解如何在俄羅斯的 Microsoft 服務和資料庫中收集個人資料、俄語公民的個人資料記錄、systematization、累積、儲存、澄清及解壓縮。
 keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6ee6dc8a6132e76bd39487fbb51e03509e7d2a95
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 1dff74da16ca0a58dd7c11445ee4b435d8737855
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119892"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088902"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>俄文個人資料當地語系化需求
 
 從2015年9月1日到，被視為個人資料操作員的組織必須確保在收集個人資料、俄語公民的個人資料記錄、systematization、積累、儲存、澄清 (更新、變更) 及解壓縮時，都是透過位於俄羅斯 ( ' 個人資料當地語系化需求」 ) 中的資料庫來執行。<sup>1</sup>
 
-可供組織使用的 Microsoft 服務 (包括（但不限於）教育機構)  (hereinafter 稱為「客戶」 ) （包括那些啟用個人資料處理的資訊，例如 Microsoft Azure、Microsoft 365、Dynamics 365 及 Power Platform）是從俄羅斯以外的資料處理中心提供，以取得有關詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center) (。
+Microsoft 服務可供組織使用 (包括（但不限於）教育機構)  (hereinafter 稱為「客戶」 ) （包括啟用個人資料處理的功能，例如 Microsoft Azure、Microsoft 365、Dynamics 365 及 Power Platform）是從俄羅斯以外的資料處理中心提供，如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center) (。
 
-根據客戶資訊系統所處理的資訊類型和內容（包括使用 Microsoft 雲端產品的系統），可能會被視為個人資料資訊系統 ( ' PDIS '、' ISPD ' ) 。 在客戶想要在 PDIS 透過其架構及已處理之資訊類型來限定為的系統中使用 Microsoft 服務時，Microsoft 會邀請其客戶考慮下列各項所指定的可用解決方案。 所有提供的案例均可供客戶做為標準商務產品的額外選項。
+根據客戶資訊系統所處理的資訊類型和內容（包括使用 Microsoft 雲端產品的系統），可能會被視為個人資料資訊系統 ( ' PDIS '、' ISPD ' ) 。 在客戶想要在 PDIS 中使用 Microsoft 服務，透過其架構和處理的資訊類型來限定為的系統中，Microsoft 會邀請客戶考慮下列所指定的可用解決方案。 所有提供的案例均可供客戶做為標準商務產品的額外選項。
 
 請注意，此客戶是 PDIS 的個人資料操作員（負責遵循法規遵從性），它會針對個人資料當地語系化分析和評估適用的法律需求，並自行判斷，以確保在 PDIS 中處理個人資料的功能符合俄文個人資料法律。<sup>2</sup>
 
@@ -37,15 +37,15 @@ ms.locfileid: "50119892"
 
 ### <a name="microsoft-id-management"></a>Microsoft ID 管理
 
-Microsoft 邀請客戶考慮訂閱 Microsoft 服務;Microsoft Azure、Microsoft 365、Dynamics 365 及 Power Platform-透過 Microsoft 雲端解決方案提供者 (CSP) partner。 如需詳細資訊，請參閱下列 [CSP 合作夥伴清單](https://pinpoint.microsoft.com/search?type=services&campaign=691)。
+Microsoft 邀請客戶考慮訂閱 Microsoft 服務;透過 Microsoft 雲端解決方案提供者 (CSP) partner Microsoft Azure、Microsoft 365、Dynamics 365 及 Power Platform。 如需詳細資訊，請參閱下列 [CSP 合作夥伴清單](https://pinpoint.microsoft.com/search?type=services&campaign=691)。
 
 ### <a name="managing-user-identity-and-access-for-microsoft-services"></a>管理 Microsoft 服務的使用者身分識別和存取
 
-針對 microsoft Azure、Microsoft 365、Dynamics 365 及 Power Platform 等 Microsoft 服務，使用者驗證和存取管理是透過 [Azure Active directory (Azure Active directory) ](https://azure.microsoft.com/services/active-directory/)進行。 在 Microsoft 客戶使用本機身分識別管理系統進行 Microsoft 雲端服務時 (例如 Windows Server Active Directory (AD) 或任何其他 ID 管理系統) 時，客戶有機會透過 azure AD Connect，透過 Azure active directory (Azure Active Directory) ，將這類系統迅速整合。 如需詳細資訊，請參閱 [AZURE AD Connect](/azure/active-directory/cloud-provisioning/)。 Microsoft 客戶也可以考慮使用協力廠商廠商的應用程式和解決方案來管理其使用者，並將其本機識別系統與 Azure AD 整合。
+針對 Microsoft Azure、Microsoft 365、Dynamics 365 及電源平臺等 Microsoft 服務，使用者驗證和存取管理是透過[Azure Active Directory (Azure Active Directory) ](https://azure.microsoft.com/services/active-directory/)來執行。 在 microsoft 客戶使用 microsoft 雲端服務的本機識別管理系統 (例如 Windows Server Active Directory (AD) 或任何其他 ID 管理系統) 時，客戶有機會快速整合這類系統與 Azure Active Directory (Azure Active Directory 透過 Azure AD) 。 如需詳細資訊，請參閱[AZURE AD 連線](/azure/active-directory/cloud-provisioning/)。 Microsoft 客戶也可以考慮使用協力廠商廠商的應用程式和解決方案來管理其使用者，並將其本機識別系統與 Azure AD 整合。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="questions-and-support"></a>問題及支援
 

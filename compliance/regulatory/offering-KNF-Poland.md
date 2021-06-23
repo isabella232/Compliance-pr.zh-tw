@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 68d5fc100ac504eaed07f45dabbfe37c82e1c66a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120152"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089586"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>金融監督管理局 (KNF) 波蘭
 
@@ -67,7 +67,7 @@ Microsoft 檢查清單可協助波蘭金融公司執行 Microsoft 商務雲端�
 
 **需要法規批准嗎？**
 
-否。 但是，根據 1997 年銀行法，若服務提供者位於歐洲經濟區 (EEA) 之外，或者若外包作業在 EEA 之外進行，則銀行在簽訂合約之前必須獲得 KNF 批准。
+否。但是，根據 1997 年銀行法，若服務提供者位於歐洲經濟區 (EEA) 之外，或者若外包作業在 EEA 之外進行，則銀行在簽訂合約之前必須獲得 KNF 批准。
 
 **在與雲端服務提供者的合約中，是否必須包含任何強制性條款？**
 

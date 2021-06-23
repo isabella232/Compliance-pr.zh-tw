@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b8835b605ef41336828acbf2f60da71b9f8ac641
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: ef6b2fd3c7254251831b84fbfd3c4d5e1648f9c7
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496506"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089717"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>聯邦風險與授權管理計畫 (FedRAMP)
 
@@ -29,7 +29,7 @@ ms.locfileid: "51496506"
 
 US 聯邦風險和授權管理計畫 (FedRAMP) ，以提供一種標準化的方法，用以評估、監控及授權《聯邦資訊安全性管理法案 (FISMA) 下的雲端計算產品和服務，並加速聯邦代理商採用安全的雲端解決方案。
 
-「管理」和「預算」的 Office 現在需要所有的執行聯邦代理商使用 FedRAMP 來驗證雲端服務的安全性。  (其他機構也採用這種方式，所以也可用於公用部門的其他區域。 ) 國家標準和技術研究院 (NIST) SP 800-53 會設定必要的標準、建立資訊系統的安全性類別（機密性、完整性和可用性），以評估組織的潛在影響是否應該危及組織的資訊和資訊系統。 FedRAMP 是一種程式，可證明雲端服務提供者 (CSP) 符合這些標準。
+管理和預算的 Office 現在需要所有的執行聯邦代理商使用 FedRAMP 驗證雲端服務的安全性。  (其他機構也採用這種方式，所以也可用於公用部門的其他區域。 ) 國家標準和技術研究院 (NIST) SP 800-53 會設定必要的標準、建立資訊系統的安全性類別（機密性、完整性和可用性），以評估組織的潛在影響是否應該危及組織的資訊和資訊系統。 FedRAMP 是一種程式，可證明雲端服務提供者 (CSP) 符合這些標準。
 
 向聯邦代理商銷售服務的 Csp desiring 可採用三個路徑，以示範 FedRAMP 合規性：
 
@@ -37,17 +37,17 @@ US 聯邦風險和授權管理計畫 (FedRAMP) ，以提供一種標準化的方
 - 從聯邦代理商那裡接收 (ATO) 的授權。
 - 或者，您可以個別合作，以開發符合程式需求的 CSP 提供套件。
 
-這兩種路徑都需要由「FedRAMP Program Management Office (PMO) 進行嚴格的技術檢查，並由程式所獲得的獨立協力廠商組織進行評估。
+這兩種路徑都需要由「FedRAMP 計畫管理」 Office (PMO) 以及由程式所獲得的獨立協力廠商組織進行評估，以進行嚴格的技術審查。
 
 根據 NIST 指導方針，以三個影響層級授與 FedRAMP 授權：低、中和高。 這些層級會影響可能對組織造成的機密性、完整性或可用性喪失的影響：低 (有限的效果) 、中 (嚴重的不利影響) ，以及高 (嚴重或嚴重影響) 。
 
 ## <a name="microsoft-and-fedramp"></a>Microsoft 和 FedRAMP
 
-Microsoft 的政府雲端服務（包括 Azure 政府、Dynamics 365 政府和 Office 365 美國政府）會符合 US 聯邦風險和授權管理計畫的苛刻需求 (FedRAMP) ，使美國聯邦代理商能夠從 Microsoft 雲端的成本節約和嚴格安全性中受益。
+microsoft 的政府雲端服務（包括 Azure 政府、Dynamics 365 政府和 Office 365 美國政府 (FedRAMP) ，符合美國聯邦風險和授權管理計畫的苛刻需求，使美國聯邦代理商能夠從 Microsoft 雲端的成本節約和嚴格安全性中受益。
 
 Microsoft 政府雲端服務提供 public tool 客戶與 FedRAMP 及強大的指導方針和執行工具（包括 [FedRAMP 高藍圖](https://aka.ms/fedrampblueprint)）相容，可協助客戶針對必須執行 FedRAMP 高控制措施的任何 Azure 部署架構，部署一組核心原則。
 
-## <a name="microsoft-azure-p-atos"></a>Microsoft Azure P-ATOs
+## <a name="microsoft-azure-p-atos"></a>Microsoft AzureP-ATOs
 
 Azure 和 Azure 政府已從聯合授權板取得「高影響」層級的 P-ATO，其最大的 FedRAMP 資格鑒定，可授權 Azure 和 Azure 政府使用以處理高度機密的資料。
 
@@ -57,26 +57,26 @@ Azure 在 FedRAMP 高影響層級繼續支援較多的服務，而不是任何�
 
 ## <a name="microsoft-dynamics-365-us-government-ato"></a>Microsoft Dynamics 365 美國政府 ATO
 
-Dynamics 365 美國政府已授與 ATO (HUD) 的「美國機架」和「城市開發」高影響層級的 FedRAMP 機關。 雖然憑證的範圍限制為政府系 Cloud，但 Dynamics 365 美國政府商務和企業方案卻是在相同組嚴格的 FedRAMP 控制項之後運作。
+Dynamics 365 美國政府已授與 ATO (HUD) 的「美國機架」和「城市開發」高影響層級的 FedRAMP 機關。 雖然憑證的範圍已限制為政府社群雲端，但 Dynamics 365 美國政府商務和企業方案則會在相同的嚴格 FedRAMP 控制群組的情況下運作。
 
 ## <a name="microsoft-office-365-and-office-365-us-government-atos"></a>Microsoft Office 365 和 Office 365 美國政府 ATOs
 
-- Office 365 和 Office 365 美國政府已從美國衛生部門的健康情況及人事服務 (DHHS) 中 ATO。
-- Office 365 美國政府國防版已 P-ATO 美國國防資訊系統代理商 (DISA) 。 任何想要部署 Office 365 美國政府國防版的客戶，都可能會使用 DISA P-ATO 產生代理商 ATO，以記錄其接受。
-- Office 365 (enterprise and business 方案) 和 Office 365 美國政府在 Inspector 的 DHHS Office 中的「中級」影響層級擁有 FedRAMP Agency ATO。 Office 365 美國政府是第一個以雲端為基礎的電子郵件和共同作業服務，可取得這種授權。
+- Office 365 和 Office 365 美國政府的健康情況和人力服務 (DHHS) 的 ATO。
+- Office 365美國政府國防版已 P-ATO 美國國防資訊系統代理商 (DISA) 。 任何想要部署 Office 365 美國政府國防版的客戶都可以使用 DISA P-ATO 產生代理商 ATO，以記錄其接受。
+- Office 365 (enterprise and business 方案) 和 Office 365 美國政府都有 FedRAMP 機關 ATO，其 DHHS Office 的一般影響層級。 Office 365「美國政府」是第一個以雲端為基礎的電子郵件和共同作業服務，可取得這種授權。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
 - [Azure 和 Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2095323)
 - [美國政府的 Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365 和 Office 365 美國 Governmen](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- [Office 365 和 Office 365 U.S. Governmen](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - Office 365 美國政府國防版
 - Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
 - 適用於端點的 Microsoft Defender
 
 > [!NOTE]
-> Azure 政府中使用 Azure Active Directory 需要使用 azure public 雲端上部署于 Azure 政府以外的元件。
+> 在 azure 政府內使用 Azure Active Directory，需要使用 azure public 雲端上的 azure 政府以外部署的元件。
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 

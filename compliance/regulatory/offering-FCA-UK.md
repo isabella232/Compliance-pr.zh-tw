@@ -1,7 +1,7 @@
 ---
 title: '英國金融籌辦授權 (FCA) '
 description: 英國金融公司的 Microsoft 指導方針，遵循金融行為與雲端外包的指導方針。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fe7572c8b9f5d8d73d09e57c873a092a97c3226c
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 95d2bcbf1ce7a5114f94c514a53018c75e6f209d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669754"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089556"
 ---
 # <a name="united-kingdom-financial-conduct-authority-fca"></a>英國金融籌辦授權 (FCA) 
 
@@ -29,7 +29,7 @@ ms.locfileid: "49669754"
 
 [金融籌辦機關](https://www.fca.org.uk/) (FCA) ，這是一種獨立公開的公開公開的公開公開，其適用于財政部，會規定英國的58000財務公司和市場，並做為 over 18000 以上組織的 prudential 調節器。 [Prudential 規章機關](https://www.bankofengland.co.uk/pra/pages/default.aspx) (PRA) ，也就是作為新英格蘭銀行的 Prudential 調節器，並規定較大型金融服務中心（如銀行、組建 societies、信用單位、保險公司和投資公司）的1500。  (FCA 為不屬於 PRA 匯款之公司挑選 prudential 法規。 ) 
 
-FCA 收到的回饋表明金融機構和雲端服務提供者不清楚如何針對外包至雲端，將其原則套用至雲端（即雲端使用的潛在障礙）。 假設 FCA 要求包含提升有效的競爭 (，其創新可以是驅動程式) ，FCA 會想要支援使用雲端服務，這表示「以符合我們的規則的方式，我們不會看到雲端服務 (（包括公用雲端) 服務，但不是必須考慮）的基本原因。 因此，FCA 會闡明其外包至雲端的需求、在公司外包至雲端的指導方針中發佈最後的2016指導方針， [以及其他協力廠商 IT 服務](https://www.fca.org.uk/publication/finalised-guidance/fg16-5.pdf) ，以協助財務公司和雲端服務提供者瞭解當公司外包至雲端 (或計畫) 執行此作業時所需的 FCA 期望。 雖然本指南並未系結，但 FCA 預期公司會在適當的地方使用它。  (請注意，PRA 有不同的法定目標，所以公司 it 規定必須使用 PRA 來確認其方法。 ) 這是一項詳細的檔，可提供特定指導，以供協力廠商在交付 IT 服務時使用、評估和進行監視。 將考慮劃分為13個重要方面，包括法律、法規考慮和風險管理，以及持續性規劃，以及現有外包安排的計畫
+FCA 收到的回饋表明金融機構和雲端服務提供者不清楚如何針對外包至雲端，將其原則套用至雲端（即雲端使用的潛在障礙）。 假設 FCA 要求包含提升有效的競爭 (，其創新可以是驅動程式) ，FCA 會想要支援使用雲端服務，指出「不能以符合我們規則的方式」來執行雲端服務 (包括公用雲端服務) 的基本原因。 因此，FCA 會闡明其外包至雲端的需求、在公司外包至雲端的指導方針中發佈最後的2016指導方針， [以及其他協力廠商 IT 服務](https://www.fca.org.uk/publication/finalised-guidance/fg16-5.pdf) ，以協助財務公司和雲端服務提供者瞭解當公司外包至雲端 (或計畫) 執行此作業時所需的 FCA 期望。 雖然本指南並未系結，但 FCA 預期公司會在適當的地方使用它。  (請注意，PRA 有不同的法定目標，所以公司 it 規定必須使用 PRA 來確認其方法。 ) 這是一項詳細的檔，可提供特定指導，以供協力廠商在交付 IT 服務時使用、評估和進行監視。 將考慮劃分為13個重要方面，包括法律、法規考慮和風險管理，以及持續性規劃，以及現有外包安排的計畫
 
 ## <a name="microsoft-and-fca-uk"></a>Microsoft 和 FCA (UK) 
 

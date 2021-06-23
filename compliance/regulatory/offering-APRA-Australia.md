@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4ce72587ea044a3f50aa35c87b7c620c8617d059
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e57959e6463704b1a6821ace10b9eadad1b570c1
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121762"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088842"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>澳大利亞 Prudential 規章核證機關 (APRA) 
 
@@ -37,7 +37,7 @@ ms.locfileid: "50121762"
 - [Microsoft cloud services：澳大利亞金融機構的規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 - [Microsoft cloud services：符合 APRA Prudential Standard CPS 234](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OsZg)
 
-其共同示範財務公司如何將資料和工作負載移至 Microsoft Azure，讓他們能夠滿懷信心遵循澳大利亞 Prudential 規章機關 (APRA) 法規和指導方針。
+其共同示範財務公司如何將資料和工作負載移至 Microsoft Azure，讓他們能夠信賴 Prudential 規章機關 (APRA) 規章和指導方針。
 
 若要瞭解 Azure 上 APRA 相容的融資服務帶來的好處，請閱讀 [Regtech 與 Fintech：永久和 Microsoft 轉換財務部門](https://news.microsoft.com/en-au/features/regtech-meets-fintech-perpetual-microsoft-transform-finance-sector/) 文章。
 
@@ -92,7 +92,7 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

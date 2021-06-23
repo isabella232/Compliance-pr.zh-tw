@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 74bdf63fcf704aa285a2803e5b7af7455a0291c6
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1133c5467553eb5d158230c2d6e599187e507822
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497648"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088662"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>企業商務持續性管理客戶與雲端合作夥伴責任
 
@@ -73,7 +73,7 @@ Microsoft 為客戶可以使用的服務狀態通訊保留多個通道。
 ### <a name="location"></a>位置
 
 許多組織需要員工位於特定實體或網路位置，才能連線至企業系統與雲端服務。  
-Microsoft 發佈[網路連線原則](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)，引導企業執行設定與雲端資源網路連線的最佳做法。 最佳化的範例包括實作分割通道 VPN，允許來自使用者網路的直接連線，而不是透過 VPN 通道。  雖然這些連線原則對於維護低延遲連線很重要，但是服務復原需要替代方法，針對一般共同作業連線至公司資源。
+Microsoft 發佈[網路連線原則](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)，引導企業執行設定與雲端資源網路連線的最佳做法。 優化的範例包括實施分割隧道 Vpn，以允許直接從使用者的網路連線，而不是透過 VPN 隧道進行連線。  雖然這些連線原則對於維護低延遲連線很重要，但是服務復原需要替代方法，針對一般共同作業連線至公司資源。
 
 ### <a name="systems"></a>系統
 

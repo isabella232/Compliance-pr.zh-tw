@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6e5a4f133ba996b809d879e114733a31c29ff83b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507531"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089787"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>2002 年沙賓法案 (SOX)
 
@@ -43,7 +43,7 @@ Microsoft cloud services 客戶遵循 Sarbanes-Oxley 法案 (SOX) 可使用從�
 
 在 Microsoft，我們共同分享與我們客戶相符的責任。 我們提供規範計畫的詳細資料，您可以從驗證協力廠商要求詳細的審計結果來驗證。 不過，最後，您可以決定我們的服務是否符合適用于您公司的特定法律和規定。 例如，有與 SOX 相關的安全性控制措施（例如，使用者存取雲端資源）是您的責任：您的組織必須在您的 SOX 法規遵從性的情況下，開發這些控制項的適當審核。
 
-深入瞭解如何在解決您的 SOX 合規性義務時使用 Microsoft Azure 規範報告：[下載 Sarbanes-Oxley 的 Azure 指導](https://aka.ms/Azure-SOX-Guide)方針
+深入瞭解如何在解決您的 SOX 合規性義務時使用 Microsoft Azure 合規性報告：[下載 Sarbanes-Oxley 的 Azure 指南](https://aka.ms/Azure-SOX-Guide)
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 

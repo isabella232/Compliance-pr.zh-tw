@@ -1,5 +1,5 @@
 ---
-title: '證券和 Exchange 傭金-法規系統合規性和整體性 (SCI) '
+title: '證券和 Exchange 傭金-法規系統符合性和完整性 (SCI) '
 description: SCI 規則適用于 SCI 實體，包含這類自助組織 (SROs) 為股票和選項交換、已註冊的清算代理商，以及備選交易系統 (ATSs) 。
 keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 049f0516598209411b0c5ca47eea39140762fd3d
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 06537749b60f40ab87211aa6efa65e8e88ed691b
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119872"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53087532"
 ---
-# <a name="securities-and-exchange-commission-regulation-systems-compliance-and-integrity-sci"></a>證券和 Exchange 傭金：規定系統合規性和完整性 (SCI) 
+# <a name="securities-and-exchange-commission-regulation-systems-compliance-and-integrity-sci"></a>證券和 Exchange 傭金：管理系統規範和完整性 (SCI) 
 
 ## <a name="about-regulation-sci"></a>關於法規 SCI
 
-美國證券和 Exchange 傭金 (SEC) 是美國聯邦政府政府政府的獨立代理商，以及美國證券市場的主要 overseer 和調節器。 它會 wields 透過聯邦證券法律、提出新的證券規則，以及監督證券行業之市場法規的強制執行許可權。
+us 證券和 Exchange 傭金 (SEC) 是美國聯邦政府政府政府的獨立代理商，以及美國證券市場的主要 overseer 和調節器。 它會 wields 透過聯邦證券法律、提出新的證券規則，以及監督證券行業之市場法規的強制執行許可權。
 
 在11月2014中，SEC 採用 [法規系統合規性和整體性 (SCI) ](https://www.sec.gov/rules/final/2014/34-73639.pdf) (和表單 SCI 用於報告 SCI 事件) 以加強美國證券市場的技術基礎結構。 此項管理法規的設計是為了降低系統停機頻率、在發生這類事件時提升恢復能力，並增加證券市場技術的 SEC 監督，並強制執行其規章。
 
@@ -35,9 +35,9 @@ SCI 規則適用于 SCI 實體，包含這類自助組織 (SROs) 為股票和選
 
 ## <a name="microsoft-and-sec-regulation-sci"></a>Microsoft 和 SEC 法規 SCI
 
-美國證券和 Exchange 傭金 (SEC) 採用法規 SCI，以加強運作及支援美國證券市場之金融組織的技術基礎結構。 根據 SEC 監管，其需求的設計是要確保這些系統具有高可用性、強復原能力，以及低延遲 (大宗郵件，但不需要) 。
+US 證券和 Exchange 傭金 (SEC) 採用的規章 SCI，以加強運作及支援美國證券市場之金融組織的技術基礎結構。 根據 SEC 監管，其需求的設計是要確保這些系統具有高可用性、強復原能力，以及低延遲 (大宗郵件，但不需要) 。
 
-為了協助指導我們必須遵守這種法規的金融服務客戶，Microsoft 已發佈 [Microsoft AZURE SEC 規章系統合規性和完整性雲端實施指南](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a69ce0c1-7b7e-44e9-9143-867241e6b2f9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)。 本檔中的指導方針：
+為了協助指導我們必須遵守這種法規的金融服務客戶，Microsoft 已發佈[Microsoft Azure SEC 法規系統合規性及完整性雲端實施指南](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a69ce0c1-7b7e-44e9-9143-867241e6b2f9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)。 本檔中的指導方針：
 
 - 提供支援強恢復性、高可用性和低延遲的整體 Azure 功能的概述。
 - 明確 Azure 位址的控制項區域和法規各部分。 Azure 功能和服務對 SCI 需求的這種點對點對應，會針對法規架構來測量 Azure 的規範。 它也可協助客戶瞭解他們可以將安全性責任移至 Azure，以在內部部署運作時，其已完全擁有。 這些功能是由 Microsoft 在 Azure Sla 中所做的承諾所支援。
@@ -49,11 +49,11 @@ SCI 規則適用于 SCI 實體，包含這類自助組織 (SROs) 為股票和選
 
 - [Azure](https://aka.ms/AzureCompliance)
 
-## <a name="how-to-implement"></a>實作方法：
+## <a name="how-to-implement"></a>實作方法
 
-- [規章 SCI 實施指南](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a69ce0c1-7b7e-44e9-9143-867241e6b2f9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)：對應 Azure 功能與法規的對應，並詳述法規遵從性的共用責任。
+- [規章 SCI 實施指南](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a69ce0c1-7b7e-44e9-9143-867241e6b2f9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)：根據法規地圖 Azure 功能，並詳述法規遵從性的共用責任。
 - [設計可靠的 Azure 應用程式](/azure/architecture/resiliency/)：如何在 Azure 應用程式設計的每一個步驟中建立可靠性的簡短概述。
-- [設計高可用性的應用程式](/azure/storage/common/storage-designing-ha-apps-with-ragrs)：開發人員如何協助確保其 Azure 儲存應用程式具有高可用性。
+- [設計高可用性的應用程式](/azure/storage/common/storage-designing-ha-apps-with-ragrs)：開發人員如何協助確保其 Azure 儲存體應用程式具有高可用性。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
 
 ## <a name="frequently-asked-questions"></a>常見問題集

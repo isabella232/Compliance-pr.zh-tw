@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 58d6b7c1d819a8d8eba94a376f735f09823df8aa
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: ab0e70a9dab9b1f98351556dcdf4ae597e362b64
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119902"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088912"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>國家標準和技術研究院 (NIST) Cybersecurity Framework (CSF) 
 
@@ -35,7 +35,7 @@ FICIC 參照以全域方式辨識的標準，其中包含 NIST SP 800-53，可�
 
 ## <a name="microsoft-and-the-nist-csf"></a>Microsoft 和 NIST CSF
 
-NIST Cybersecurity Framework (CSF) 是一種自願架構，由標準、指導方針和最佳作法組成，以管理 Cybersecurity 相關的風險。 Microsoft 雲端服務已經過獨立，協力廠商 FedRAMP 適度和高基準審核，且已依照 FedRAMP 標準進行驗證。 此外，透過 HITRUST 執行的已驗證評估，主要的安全性和隱私權標準的開發和資格鑒定組織，會針對 NIST CSF 中指定的目標，認證 Office 365。
+NIST Cybersecurity Framework (CSF) 是一種自願架構，由標準、指導方針和最佳作法組成，以管理 Cybersecurity 相關的風險。 Microsoft 雲端服務已經過獨立，協力廠商 FedRAMP 適度和高基準審核，且已依照 FedRAMP 標準進行驗證。 此外，透過 HITRUST 執行的已驗證評估，主要的安全性和隱私權標準的開發和資格鑒定組織 Office 365，都是透過 NIST CSF 中指定的目標認證。
 
 瞭解如何使用合規性分數和我們的 Azure 安全性與合規性藍圖，加速您的 NIST Cybersecurity Framework 部署：
 
@@ -50,9 +50,9 @@ NIST Cybersecurity Framework (CSF) 是一種自願架構，由標準、指導方
 
 ## <a name="audit-cycle-and-certification"></a>審核週期和認證
 
-Office 365 的 NIST CSF 認證為兩年有效。
+Office 365 的 NIST CSF 憑證是有效的兩年。
 
-- [Office 365 NIST CSF 認證憑證](https://aka.ms/O365NISTCSFcertification)
+- [Office 365NIST CSF 認證字母](https://aka.ms/O365NISTCSFcertification)
 
 ## <a name="quickly-build-nist-csf-solutions-on-azure"></a>在 Azure 上快速建立 NIST CSF 解決方案
 
@@ -60,7 +60,7 @@ NIST Cybersecurity Framework (CSF) standard 可能是雲端的挑戰。 幸運�
 
 - [開始使用 Azure NIST CSF 藍圖](https://aka.ms/Azure-Blueprint-DoD-NIST)
 
-## <a name="perform-risk-assessment-on-office-365-using-nist-csf-in-compliance-score"></a>使用 NIST CSF 在合規性分數中執行 Office 365 的風險評估
+## <a name="perform-risk-assessment-on-office-365-using-nist-csf-in-compliance-score"></a>使用 NIST CSF 在合規性分數中執行風險評估 Office 365
 
 在數位轉換的時代，Cybersecurity 仍是一個重要的管理問題。 為了協助您為 Office 365 租使用者實施及驗證安全性控制，Microsoft 會在合規性分數中提供 NIST CSF 評估中的建議客戶動作。
 
@@ -70,11 +70,11 @@ NIST Cybersecurity Framework (CSF) standard 可能是雲端的挑戰。 幸運�
 
 **是否有獨立的 assessor 驗證 Azure 政府、Dynamics 365 和 Office 365 是否支援 NIST CSF 需求？**
 
-是的，協力廠商評估組織已 attested Azure 政府雲端服務產品符合 NIST Cybersecurity Framework (CSF) 風險管理慣例（如架構中所定義，用以改善重要基礎結構 Cybersecurity，1.0 年2月 2014 12 日版本）。 NIST CSF 會對應至 FedRAMP 適中的控制項架構，而獨立的 assessor 已根據 FedRAMP 適中的基準評估 Dynamics 365。 此外，Office 365 會在六月2018中取得來自 HITRUST [的 NIST CSF 信](https://aka.ms/O365NISTCSFcertification) 。
+是的，協力廠商評估組織已 attested Azure 政府雲端服務產品符合 NIST Cybersecurity Framework (CSF) 風險管理慣例（如架構中所定義，用以改善重要基礎結構 Cybersecurity，1.0 年2月 2014 12 日版本）。 NIST CSF 會對應至 FedRAMP 適中的控制項架構，而獨立的 assessor 已根據 FedRAMP 適中的基準評估 Dynamics 365。 此外，Office 365 在2019年7月取得來自 HITRUST 的[NIST CSF 信](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)。
 
 **Microsoft Cloud Services 如何示範是否符合架構？**
 
-使用協力廠商準備的正式審計報告 FedRAMP 資格鑒定，Microsoft 可以示範這些報告中所述的相關控制措施，如何符合 NIST 架構，以改善重要基礎結構 Cybersecurity。 Microsoft 所執行的已審核控制項，可確保 Azure、Office 365 及 Dynamics 365 所儲存、處理及傳送的資料機密性、完整性和可用性，已識別為 Microsoft 的責任。
+使用協力廠商準備的正式審計報告 FedRAMP 資格鑒定，Microsoft 可以示範這些報告中所述的相關控制措施，如何符合 NIST 架構，以改善重要基礎結構 Cybersecurity。 microsoft 所執行的已審核控制項，可確保 Azure、Office 365 及 Dynamics 365 所儲存、處理及傳輸的資料機密性、完整性和可用性，已識別為 Microsoft 的責任。
 
 **Microsoft 對於維護此倡議的合規性負責什麼工作？**
 
@@ -90,10 +90,10 @@ NIST Cybersecurity Framework (CSF) standard 可能是雲端的挑戰。 幸運�
 
 **Office 365 的範圍內服務有哪些？**
 
-NIST CSF 認證的範圍內服務是 Exchange Online 封存、Exchange Online Protection、Exchange Online、商務用 Skype、系統管理中心、SharePoint 線上、Project Online、OneDrive for Business、Office Online、MyAnalytics、Microsoft 團隊、Microsoft 365 多承租人雲端和 Office 365 GCC 365 中的 Microsoft 應用程式。
+NIST CSF 認證的範圍內服務是 Exchange Online 封存、Exchange Online Protection、Exchange Online、商務用 Skype、系統管理中心、SharePoint 線上、Project Online、商務用 OneDrive、Office online、MyAnalytics、Microsoft Teams Microsoft 365 Apps 企業版 Office 365 多租使用者雲端和 Office 365 GCC。
 
 > [!NOTE]
-> Microsoft 365 應用程式企業版可讓您存取各種雲端服務，例如漫遊設定、授權和 OneDrive 使用者雲端儲存裝置，並可讓今後存取其他雲端服務。 漫遊設定和授權支援 HITRUST 的標準。 OneDrive 使用者雲端儲存區未提供，而且可透過 Microsoft 365 應用程式存取的其他雲端服務，以及 Microsoft 未來可能會提供的雲服務，也可能會支援這些標準。 *
+> Microsoft 365 Apps 企業版可讓您存取各種雲端服務，例如漫遊設定、授權和 OneDrive 使用者雲端儲存空間，並可讓今後存取其他雲端服務。 漫遊設定和授權支援 HITRUST 的標準。 OneDrive 使用者雲端儲存區未提供，而且可以透過 Microsoft 365 Apps 企業版存取的其他雲端服務，以及 Microsoft 未來可能會提供的其他雲服務，也可能會支援這些標準。 *
 
 **為什麼有些 Office 365 服務不在此認證的範圍內？**
 
@@ -101,7 +101,7 @@ Microsoft 提供最全面的選項，與其他雲端服務提供者相較。 為
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

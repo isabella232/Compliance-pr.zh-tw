@@ -1,6 +1,6 @@
 ---
 title: 人力資源概觀
-description: 深入瞭解 Microsoft 365 中的人力資源
+description: 深入瞭解人力資源 Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 69f23af93f6b41563fb3694436bf7272ac2d5b75
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1dc9e54b7ebbf27dc77a1814a5411002ca75ad4c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497186"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088612"
 ---
 # <a name="human-resources-overview"></a>人力資源概觀
 
@@ -44,7 +44,7 @@ Microsoft 遵循所有員工、實習生和員工的嚴格人員篩選需求。 
 
 ## <a name="what-additional-checks-are-performed-for-those-who-manage-cloud-services"></a>針對管理雲端服務的使用者，還會執行哪些其他檢查？
 
-除了預先雇用的篩選之外，在美國提供 Microsoft 365 相關服務的 Microsoft 員工，必須先進行 Microsoft Cloud 背景檢查，才能存取 Microsoft 365 系統。 背景檢查的需求會因符合適用的法律和服務傳遞模型而異。 來自 Microsoft Cloud 背景檢查的結果會儲存在員工資料庫中，至少每兩年必須更新一次。 如果 Microsoft Cloud 背景檢查到期，且員工未加以更新，將會取消對 Microsoft 365 服務的存取，且無法再使用，直到 Microsoft Cloud 背景檢查完成為止。 同樣地，當與 Microsoft 的雇用關係結束時，所有存取都會立即撤銷。
+除了預先雇用的篩選之外，在美國提供 Microsoft 365 相關服務的 microsoft 員工，必須先進行 microsoft Cloud 背景檢查，才能存取 Microsoft 365 系統。 背景檢查的需求會因符合適用的法律和服務傳遞模型而異。 來自 Microsoft Cloud 背景檢查的結果會儲存在員工資料庫中，至少每兩年必須更新一次。 如果 microsoft cloud 背景檢查到期，且員工未加以更新，將會取消對 Microsoft 365 服務的存取，且無法再使用，直到 microsoft cloud 背景檢查完成為止。 同樣地，當與 Microsoft 的雇用關係結束時，所有存取都會立即撤銷。
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skillset-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Microsoft 如何確定員工如何維持足夠的 skillset 和知識，以履行其職責並遵循 Microsoft 原則？
 
@@ -60,7 +60,7 @@ Microsoft 使用明確定義的原則和程式，在員工離開 Microsoft 或�
 
 ## <a name="how-does-microsoft-ensure-third-party-suppliers-meet-the-same-personnel-requirements-as-microsoft-employees"></a>Microsoft 如何確保協力廠商供應商符合 Microsoft 員工的相同人員需求？
 
-Microsoft 365 需要協力廠商供應商具備簽署的主廠商服務合約 (MSSA) 。 這種合約要求供應商遵循 Microsoft 的原則和程式，包括人員安全性原則與程式。 Microsoft 365 會透過直接追蹤直接濾出的結果，監控協力廠商人員的篩選性需求。 Microsoft 要求供應商直接向 Microsoft 提交協力廠商人員的篩選結果。
+Microsoft 365 需要協力廠商供應商具備簽署的主廠商服務合約 (MSSA) 。 這種合約要求供應商遵循 Microsoft 的原則和程式，包括人員安全性原則與程式。 Microsoft 365 會透過直接追蹤濾出的結果，監視協力廠商人員的篩選性需求。 Microsoft 要求供應商直接向 Microsoft 提交協力廠商人員的篩選結果。
 
 ## <a name="related-external-regulations--certifications"></a>相關的外部法規 & 認證
 
@@ -69,7 +69,7 @@ Microsoft 的線上服務會定期進行審核，以符合外部法規和認證�
 | **外部審計** | **Section** | **最新報告日期** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP (Office 365) ](https://compliance.microsoft.com/compliancemanager) | AT-2：安全性意識 <br> 于-3：以角色為基礎的安全性訓練 <br> AT-4：安全性訓練記錄 <br> PS-3：人員篩選 <br> PS-4：人員終止 <br> PS-5：人員轉接 <br> PS-7：協力廠商個人安全性 | 2020年9月24日 |
-| [ISO 27001/27002 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 7：人力資源安全性 | 2020 年 2 月 22 日 |
-| [ISO 27017 (Office 365) ](https://aka.ms/o365iso) <br><br> [適用性聲明](https://aka.ms/o365isosoa) <br> [認證](https://aka.ms/Office365ISO27017Cert) | 7：人力資源安全性 | 2020 年 2 月 22 日 |
+| [ISO 27001/27002 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 7：人力資源安全性 | 2021 年 4 月 20 日 |
+| [ISO 27017 (Office 365) ](https://aka.ms/o365iso) <br><br> [適用性聲明](https://aka.ms/o365isosoa) <br> [認證](https://aka.ms/Office365ISO27017Cert) | 7：人力資源安全性 | 2021 年 4 月 20 日 |
 | [SOC 1 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-08：背景檢查 <br> CA-43：帳戶撤銷 | 2020月24日 |
 | [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-2007： (SBC) 的商務執行標準 <br> CA-08：背景檢查 <br> CA-43：帳戶撤銷 | 2020月24日 |

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f027f0ef83272c1102433f4c7534035f27f8a483
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 3f87b4d376c43db9d8524c200cd1fd86d2791b49
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496514"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089737"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>家庭教育權利和隱私權法案 (FERPA) 
 
@@ -37,7 +37,7 @@ ms.locfileid: "51496514"
 
 FERPA 不需要或認可審核或其他憑證，所以任何受制于 FERPA 的學術機構必須自行評估其使用雲端服務是否會影響其符合 FERPA 需求的能力。 不過，Microsoft 已作出下列合約承諾，以證明其合規性：
 
-- 在其 [線上服務條款](https://aka.ms/Online-Services-Terms)中，Microsoft 同意以「FERPA」所定義的客戶資料為「學校官方」，並以「合法教育愛好」方式指派。  (客戶資料會包含透過學校使用 Microsoft 雲端服務提供的任何學生記錄。 ) 當處理學生教育記錄時，Microsoft 同意遵守 34 CFR 99.33 所強加的限制和需求， () 就如同學校的官員一樣。
+- 在其 [線上服務條款](https://aka.ms/Online-Services-Terms)中，Microsoft 同意在客戶資料中，將「學校官方」當做「合法教育愛好」，在 FERPA 下定義。  (客戶資料會包含透過學校使用 Microsoft 雲端服務提供的任何學生記錄。 ) 當處理學生教育記錄時，Microsoft 同意遵守 34 CFR 99.33 所強加的限制和需求， () 就如同學校的官員一樣。
 - 此外，Microsoft 只會承諾使用客戶資料以提供其雲端服務及相容性的目的 (例如提高惡意程式碼偵測) ，而且不會將客戶資料公佈。
 - 除了教育機構指引（如合約所述或法律所要求）之外，Microsoft 也 contractually 提交不會披露客戶資料。 透過使用 Microsoft 雲端服務為 Microsoft 提供教育記錄的學校，可確保這些記錄受到嚴格合約限制的使用和披露。
 
@@ -51,7 +51,7 @@ FERPA 不需要或認可審核或其他憑證，所以任何受制于 FERPA 的�
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI、PowerApps 及 Power (先前的 Microsoft 資料流程) 為獨立服務，或是包含在 Office 365 品牌計畫或套件中。
+- Power BI、PowerApps 及 Power Automate (先前 Microsoft Flow) 為獨立服務，或是包含在 Office 365 品牌的計畫或套件中。
 - Azure DevOps Services
 - 適用於端點的 Microsoft Defender
 
@@ -79,7 +79,7 @@ FERPA 不需要或認可的審計或認證。
 - [家庭教育權利和隱私權法案](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [電子化聯邦法規的電子化程式碼： FERPA](https://aka.ms/FERPA-GPO)
 - [聯邦收銀機： FERPA Final 規則](https://aka.ms/ferpa-reg)
-- [Microsoft Azure 的 FERPA 實施指南](https://aka.ms/azureferpa)
+- [Microsoft Azure 的 FERPA 實施手冊](https://aka.ms/azureferpa)
 - [Azure FERPA 規範架構對應](https://aka.ms/AzureFERPAMapping)
 - [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

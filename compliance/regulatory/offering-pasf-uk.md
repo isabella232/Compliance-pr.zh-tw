@@ -16,24 +16,24 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1840178db7b15c1f3207c0c33fcaf12af6e8902f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d28d224b756f79f5129b042bbc8aa0c8a27f2e6a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506158"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088982"
 ---
 # <a name="police-assured-secure-facilities-pasf-united-kingdom"></a>Police-Assured (PASF) 英國的安全設施
 
 ## <a name="about-pasf"></a>關於 PASF
 
-全國監察資訊風險管理小組 (NPIRMT) 英國家用 Office， (安全性、immigration、法律和訂單) 的系，以確保對警方資訊的儲存及存取符合其標準。 透過「 [國家監察資訊風險管理」原則](http://library.college.police.uk/docs/APP-National-Policing-Information-Risk-Management-Policy.pdf)，它會為英國的法律強制機關設定核心標準和控制，評估將警方資訊系統移至雲端的風險。 原則要求 UK 中的所有國家警方服務，以儲存及處理已標記或其他敏感法律強制執行資訊的風險評估中，需要額外的步驟：將儲存資料的資料中心的實際檢查。 成功地評估資料中心會判斷它是 PASF。
+全國監察資訊風險管理小組 (NPIRMT) 英國首頁 Office (安全性、immigration、法律和訂單) 的系，以確保警方資訊的儲存和存取符合其標準。 透過「 [國家監察資訊風險管理」原則](http://library.college.police.uk/docs/APP-National-Policing-Information-Risk-Management-Policy.pdf)，它會為英國的法律強制機關設定核心標準和控制，評估將警方資訊系統移至雲端的風險。 原則要求 UK 中的所有國家警方服務，以儲存及處理已標記或其他敏感法律強制執行資訊的風險評估中，需要額外的步驟：將儲存資料的資料中心的實際檢查。 成功地評估資料中心會判斷它是 PASF。
 
 為了協助當地警方服務與其應付的考評審核，NPIRMT 已執行 Azure 資料中心的 PASF 審計，並已判斷它們是否相容。 「本機警方服務」可以使用此 NPIRMT 評估來支援自己的審閱。 使用 NPIRMT 原則指導方針，每個警方服務的資深資訊風險擁有者負責評估個別資料中心在其特定應用程式內容中的適用性，然後將其提交至 NPIRMT 以供核准。
 
 ## <a name="microsoft-and-pasf"></a>Microsoft 和 PASF
 
-英國國家監察資訊風險管理小組 (NPIRMT) 已完成英國的 Microsoft Azure 資料中心實體基礎結構的綜合安全性評估，並結束在不含任何補救措施的情況下，遵循 NPIRMT 需求。 此次的實地審計是指 Microsoft business cloud services 現在可支援 Police-Assured 安全設施 (PASF) 在雲端中處理及儲存其資料的警方。
+英國國家監察資訊風險管理小組 (NPIRMT) 已完成 UK 中 Microsoft Azure 資料中心之實體基礎結構的綜合安全性評估，並最終導致其符合 NPIRMT 的需求，而且不需要任何補救措施。 此次的實地審計是指 Microsoft business cloud services 現在可支援 Police-Assured 安全設施 (PASF) 在雲端中處理及儲存其資料的警方。
 
 Microsoft 採用整體的縱深防禦方法來進行安全性。 我們的英國資料中心 (（如所有的 Microsoft 資料中心) ）已認證，可遵守任何雲端服務提供者的國際公認標準 [組合](https://azure.microsoft.com/overview/trusted-cloud/) ，並始終如一地符合這些需求。 這項符合性包括我們 [ISO/IEC 27001 資訊安全性管理標準](offering-iso-27001.md) 的實施憑證，以及 [保護雲端中個人資料的 ISO/IEC 27018 程式碼](offering-iso-27018.md)。
 
@@ -47,11 +47,11 @@ Microsoft 採用整體的縱深防禦方法來進行安全性。 我們的英國
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
-NPIRMT 每年會審核一個 Azure 資料中心，每年會迴圈使用英國的四個 Microsoft 資料中心。 透過具備 Azure 及其他 Microsoft 雲端服務之風險評估的法律實施客戶，可取得 Microsoft 資料中心所 PASF 的 NPIRMT 評估。
+NPIRMT 每年會審核一個 Azure 資料中心，每年會迴圈使用英國的四個 Microsoft 資料中心。 Microsoft 資料中心所 PASF 的 NPIRMT 評估是透過執行其自己的 Azure 及其他 Microsoft 雲端服務風險評估的執法客戶的家用 Office 提供。
 
 ## <a name="how-to-implement"></a>實作方法
 
-- [AZURE UK 官方藍圖](https://servicetrust.microsoft.com/ViewPage/UKBlueprints)：協助 UK 客戶加快 IaaS 和 PaaS Azure 中部署相容性工作負載的情況。
+- [AZURE UK 官方藍圖](/azure/governance/blueprints/samples/ukofficial-uknhs)：協助 UK 客戶加快 IaaS 和 PaaS Azure 中部署相容性工作負載的情況。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

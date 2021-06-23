@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9aca1e5019967db6f73de245cd75ceba88e62e64
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 1b391d3f3cd748047e24bf9e82d3c267ca7425a7
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120872"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089546"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>金融市場監督管理局 (FINMA) 瑞士
 
@@ -58,7 +58,7 @@ Microsoft 檢查清單可協助瑞士金融公司執行 Microsoft 商務雲端�
 
 **需要法規批准嗎？**
 
-否。 不需經 FINMA 核准即允許使用公用雲端計算，因為我們永遠符合上述法規和指引中規定的需求。
+否。不需經 FINMA 核准即允許使用公用雲端計算，因為我們永遠符合上述法規和指引中規定的需求。
 
 **在與雲端服務提供者的合約中，是否必須包含任何強制性條款？**
 

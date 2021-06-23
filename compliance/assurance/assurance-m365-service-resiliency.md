@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 內建的服務恢復功能
-description: Microsoft 365 服務恢復的說明
+title: Microsoft 365 中的內建服務彈性
+description: Microsoft 365 服務恢復性的描述
 author: robmazz
 ms.author: robmazz
 manager: laurawi
@@ -17,14 +17,14 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b97e8876f0ef69faefbeb5cf50a1891d36bf8795
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: fc8964f453c5a2924fc9a4b43a2c89aa1dec4271
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497027"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088572"
 ---
-# <a name="built-in-service-resiliency-in-microsoft-365"></a>Microsoft 365 內建的服務恢復功能
+# <a name="built-in-service-resiliency-in-microsoft-365"></a>Microsoft 365 中的內建服務彈性
 
 身為您的雲端共同作業提供者，Microsoft 意識到我們需要透過提供能一致地運作且您的使用者喜愛的解決方案，來持續獲得您的信任。 任何指定的服務無法使用時，即稱為停機時間。 每個 Microsoft 365 服務的停機時間定義可能不同，但它們通常會集中在使用者無法使用服務基本功能的任何一段時間。 例如，以下是從 Microsoft 365 服務等級協定所取得 SharePoint Online 停機時間的定義：
 
@@ -44,9 +44,9 @@ ms.locfileid: "51497027"
 
 - 讓每個服務的多個執行個體彼此分開
 - 以受控制、使用驗證環的漸進方式來部署更新，這樣一來，可能從更新引發的任何問題就可以在部署程序中及早偵測並緩和。 這項設計可在需要時進行必要的更新，並且第一次會發生在 Microsoft (內環) 內部的小群組中（如所有 140000 Microsoft 員工 (ring 2) ），然後針對初期的使用方式，所有客戶以全域方式 (ring 4) 。
-- 透過自動化來使得監控獲得改善。 Microsoft 365 是一種大型服務，SLA 目標的執行時間很高。 在服務事件的最開始時，如果需要人員參與偵測和回應，我們便無法以夠快的速度回應來滿足 SLA。 自動化是快速且有效的服務事件偵測和回應的關鍵。 越快找到問題，便能越快解決問題。
+- 透過自動化來使得監控獲得改善。 Microsoft 365 是大型服務，SLA 目標的執行時間很高。 在服務事件的最開始時，如果需要人員參與偵測和回應，我們便無法以夠快的速度回應來滿足 SLA。 自動化是快速且有效的服務事件偵測和回應的關鍵。 越快找到問題，便能越快解決問題。
 
-除了 Microsoft 365 服務架構內建的主動/主動功能之外，這些工作也會減輕服務事件中的嚴重性、持續時間和受影響客戶數目。  
+隨著 Microsoft 365 服務架構內建的主動/主動功能，這些努力會減輕服務事件中的嚴重性、持續時間和受影響客戶數目。  
 
 ## <a name="fault-isolation"></a>錯誤隔離
 
@@ -55,7 +55,7 @@ ms.locfileid: "51497027"
 
 Microsoft 安全性開發生命週期 (SDL) 進一步提升復原能力，並包含一組支援安全性與合規性需求的做法。 SDL 可指引我們的開發人員建立具備復原能力、安全與合規性的服務。 SDL 的重要元素包括程式碼檢閱、威脅模型、滲透測試，以及整個 Microsoft 雲端標準化的事件回應程序。
 
-Microsoft 365 服務是非常互聯的互連，但是其背後的系統和技術是以限制 spilling 到其他服務之一個服務事件影響的方式加以設計。 例如，影響 Exchange Online 的問題不會影響 Teams 中的核心功能，或是 SharePoint Online 中的搜尋功能問題不會影響使用者上傳或下載檔案的功能。
+Microsoft 365 服務是高度互連的，但是其背後的系統和技術會以一種方式來加以設計，以限制一個服務事件對其他服務之影響的 spilling。 例如，影響 Exchange Online 的問題不會影響 Teams 中的核心功能，或是 SharePoint Online 中的搜尋功能問題，也不會影響使用者上傳或下載檔案的能力。
 
 ## <a name="continuous-service-improvement"></a>持續改善服務
 

@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 8d4dc89e8733db718491fcaa7c69b51e7b6d74f2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121002"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089847"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Azure 資料主體要求
 
@@ -33,7 +33,7 @@ ms.locfileid: "50121002"
 
 同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。 CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.md)。
 
-本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出並處理個人資料，以回應 DSR。 具體而言，這包括如何尋找、存取及處理位於 Microsoft 雲端的個人資料。 以下是本指南中所述程序的快速概觀：
+本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出並對個人資料採取動作，以回應 DSR；具體而言，這包括如何找出、存取與處理位於 Microsoft 雲端的個人資料。以下是本指南中所述程序的快速概觀：
 
 - **探索**：使用搜尋和探索工具，更輕鬆地尋找可能成為 DSR 主體的客戶資料。 收集到可能的回應文件之後，您就可以執行下列步驟中所述的一或多個 DSR 動作來回應要求。 或者，您可能判定該要求不符合組織回應 DSR 的方針。
 - **存取：** 擷取在 Microsoft 雲端中常駐的個人資料，並在要求時製作可供資料主體使用的副本。
@@ -83,13 +83,13 @@ Microsoft 透過 Azure 入口網站，提供了存取、刪除及匯出特定客
 
 ### <a name="step-1-discover"></a>步驟 1：探索
 
-回應 DSR 的第一個步驟是先找出個人資料，也就是要求的主體。 第一個步驟 (尋找並檢閱上述的個人資料) 可協助您判斷 DSR 是否符合貴組織的需求，以便接受或拒絕。 例如，在找出並檢閱個人資料後，您可能因為這樣做會對其他人的權利和自由造成負面影響，而判斷要求不符合貴組織的需求。
+回應 DSR 的第一個步驟是先找出個人資料，也就是要求的主體。第一個步驟，尋找並檢閱上述的個人資料，可協助您判斷 DSR 是否符合貴組織的需求，以便接受或拒絕 DSR。例如，在找出並檢閱有問題的個人資料後，您可能因為這樣做會對其他人的權利和自由造成負面影響，而判斷要求不符合貴組織的需求。
 
 找到資料後，接著您可以執行指定的動作來滿足資料主體的要求。
 
-[Azure Active Directory Microsoft](https://azure.microsoft.com/services/active-directory/) 的雲端式、多租用戶目錄與身分識別管理服務。 您可以使用 [Azure 入口網站](https://portal.azure.com/)找出使用者的識別資訊，例如客戶和員工的使用者設定檔及使用者工作資訊，其中包含在您 [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) 環境中的個人資料。
+[Azure Active Directory](https://azure.microsoft.com/services/active-directory/) Microsoft 的雲端式、多租用戶目錄與身分識別管理服務。您可以使用 [Azure 入口網站](https://portal.azure.com/)找出使用者的識別資訊，例如客戶和員工的使用者設定檔及使用者工作資訊，其中包含在您 [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) 環境中的個人資料。
 
-這在想要尋找或變更特定使用者的個人資料時尤其有用。 您也可以新增或變更使用者設定檔與工作資訊。 您必須使用目錄的全域系統管理員帳戶來登入。
+這在想要尋找或變更特定使用者的個人資料時尤其有用。您也可以新增或變更使用者設定檔與工作資訊。您必須使用目錄的全域系統管理員帳戶來登入。
 
 #### <a name="how-do-i-locate-or-view-user-profile-and-work-information"></a>如何找出或檢視使用者設定檔及工作資訊？
 
@@ -121,7 +121,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 存取要求。 DSR 存取要求可允許針對下列使用者個人資料進行存取，包括：(a) 使用者的識別資訊和 (b) 系統產生的記錄檔。
+Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 存取要求。DSR 存取要求存取要求可允許針對下列使用者個人資料進行存取，包括：(a) 使用者的識別資訊和 (b) 服務所產生的記錄。
 
 #### <a name="service-specific-interfaces"></a>服務特定介面
 
@@ -129,7 +129,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 ### <a name="step-3-rectify"></a>步驟 3：修正
 
-如果資料主體要求您修正存在於貴組織資料內的個人資料，則您和貴組織必須判斷接受要求是否適當。 修正資料可能包含採取下列動作，例如：從文件或其他類型的項目中，編輯、刪減或移除個人資料。 修正 Microsoft 支援服務和 FastTrack 資料最方便的方式如下所示。
+若資料主體要求您修正貴組織資料中常駐的個人資料，您和貴組織需要判斷是否適合接受要求。修正資料可能包含採取下列動作，例如：從文件或其他類型的項目中，編輯、刪減或移除個人資料。修正 Microsoft 支援服務和 FastTrack 資料最方便的方式如下所示。
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
@@ -137,7 +137,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 ##### <a name="azure-active-directory-rectifycorrect-inaccurate-or-incomplete-personal-data"></a>Azure Active Directory：修正/更正不正確或不完整的個人資料
 
-您可以使用 [Azure 入口網站](https://portal.azure.com/)來更正、更新或刪除使用者的識別資訊，例如客戶和員工的使用者設定檔及使用者工作資訊，其中包含在您 [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) 環境中的個人資料，例如使用者名稱、工作職稱、地址或電話號碼。您必須使用目錄的全域系統管理員帳戶來登入。 您必須使用目錄的全域系統管理員帳戶來登入。
+您可以使用 [Azure 入口網站](https://portal.azure.com/)來更正、更新或刪除使用者的識別資訊，例如客戶和員工的使用者設定檔及使用者工作資訊，其中包含在您 [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) 環境中的個人資料，例如使用者名稱、工作職稱、地址或電話號碼。您必須使用目錄的全域系統管理員帳戶來登入。
 
 ###### <a name="how-do-i-correct-or-update-user-profile-and-work-information-in-azure-active-directory"></a>如何更正或更新 Azure Active Directory 中的使用者設定檔及工作資訊？
 
@@ -165,7 +165,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 ### <a name="step-4-restrict"></a>步驟 4：限制
 
-資料主體可能會要求您只能處理他們的個人資料。 我們提供 Azure 入口網站與既有的應用程式開發介面 (API) 兩者，或使用者介面 (UI)。 這些體驗能夠讓企業客戶的租用戶系統管理員，透過匯出資料和刪除資料的組合功能管理這類 DSR。 客戶可以 (1) 匯出使用者個人資料的電子複本，包括 (a) 帳戶 (b) 系統所產生的記錄，以及 (c) 相關聯的記錄，之後 (2) 刪除 Microsoft 系統內的帳戶和相關資料。
+資料主體可能會要求您限制對其個人資料的處理。我們提供了 Azure 入口網站，以及既有的應用程式開發介面 (API) 或使用者介面 (UI)。這些體驗讓企業客戶的租用戶系統管理員能透過資料匯出和資料刪除的組合，來管理這樣的 DSR。客戶可 (1) 匯出使用者個人資料的電子副本，包括 (a) 帳戶、(b) 系統所產生的記錄檔，和 (c) 相關的記錄檔；以及 (2) 刪除帳戶和 Microsoft 系統中常駐相關的資料。
 
 ### <a name="step-5-delete"></a>步驟 5：刪除
 
@@ -184,7 +184,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 1. 移至 Azure 入口網站並找出該使用者。
 
-2. 刪除使用者。 一開始刪除使用者時，該使用者的帳戶會傳送至資源回收筒。 **此時，只是對使用者進行虛刪除，這表示該帳戶已停用，但是尚未從 Azure Active Directory 中抹去。**
+2. 刪除使用者。一開始刪除使用者時，該使用者的帳戶會傳送至資源回收筒。**此時，只是對使用者進行虛刪除，這表示該帳戶已停用，但是尚未從 Azure Active Directory 中抹去。**
 
 3. 請移至最近刪除的使用者清單，並永久刪除該使用者。**此時使用者就會永久刪除 (也稱為實刪除)，這表示帳戶已從 Azure Active directory 中抹去**
 
@@ -211,7 +211,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 4. 再次選取相同的使用者、在命令列中選取  **[永久刪除]**，然後在詢問您是否確定的方塊中選取  **[是]** 。
 
 >[!IMPORTANT]  
->請注意，按一下 **[是]** 代表您會永久刪除使用者和所有相關的資料，以及系統所產生的記錄檔，而且無可挽回。 若您不慎誤刪，就必須手動將使用者新增回租用戶中。 相關聯的資料和系統所產生的記錄檔則無法復原。
+>請注意，按一下 **[是]** 代表您會永久刪除使用者和所有相關的資料，以及系統所產生的記錄檔，而且無可挽回。若您不慎誤刪，就必須手動將使用者新增回租用戶中。相關聯的資料和系統所產生的記錄檔則無法復原。
 
    ![檢視使用者工作資訊](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
@@ -221,7 +221,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 ## <a name="step-6-export"></a>步驟 6：匯出
 
-「資料可攜性權利」允許資料主體以電子格式 (即「結構化、常用、機器可讀取格式」)，要求其個人資料的複本，並可傳輸給其他資料控制者。 Azure 可支援這點；我們讓貴組織能以原生 JSON 格式，將資料匯出到您指定的 Azure 儲存體容器。
+「資料可攜帶權」允許資料主體以 (「經過結構化、常用的、機器可讀取的、互通的」) 電子格式，要求其個人資料的副本，並可傳輸給其他資料控制者。Azure 可支援這點；我們讓貴組織能以原生 JSON 格式，將資料匯出到您指定的 Azure 儲存體容器。
 
 >[!IMPORTANT]
 >您必須是租用戶系統管理員，才能從租用戶中匯出使用者資料。
@@ -243,18 +243,18 @@ Microsoft 也讓您能夠存取、刪除及匯出特定與使用者的 Azure 使
 
 ### <a name="executing-dsrs-against-system-generated-logs"></a>針對系統所產生的記錄檔執行 DSR
 
-Microsoft 透過 Azure 入口網站，提供了存取、刪除及匯出特定由系統所產生記錄檔的功能；您也可直接透過特定服務的程式開發介面或使用者介面，來執行上述功能。 在上述服務各自的參考文件中有詳細資料說明。
+Microsoft 透過 Azure 入口網站，提供了存取、刪除及匯出特定由系統所產生記錄檔的功能；您也可直接透過特定服務的程式開發介面或使用者介面，來執行上述功能。在上述服務各自的參考文件中有詳細資料說明。
 
 >[!IMPORTANT]  
-> 支援產品內 DSR 的服務需要直接使用服務的應用程式開發介面 (API) 或使用者介面 (UI)。 因此，除了在 Azure 入口網站中執行 DSR 以外，**還必須另外在指定的服務中執行 DSR，才能完成指定資料主體的完整要求。請參閱特定服務的參考文件，以獲得進一步的詳細資料。**
+> 支援產品內 DSR 的服務需要直接使用服務的應用程式開發介面 (API) 或使用者介面 (UI)。因此，除了在 Azure 入口網站中執行 DSR 以外，還 **必須另外在指定的服務中執行 DSR，才能完成指定資料主體的完整要求。請參閱特定服務的參考文件，以獲得進一步的詳細資料。**
 
 ### <a name="step-1-access"></a>步驟 1：存取
 
-貴組織內與特定使用者的 Azure 使用方式相關聯、並由系統所產生的記錄檔，只能由租用戶管理員存取。 針對存取要求所擷取的資料會以機器可讀取的格式提供；且會以檔案的形式提供，讓使用者知道與資料相關聯的是哪些服務。 如上所述，所擷取的資料不會包含可能造成服務安全性受損的資料。
+貴組織內與特定使用者的 Azure 使用方式相關聯、並由系統所產生的記錄檔，只能由租用戶管理員存取。針對存取要求所擷取的資料會以機器可讀取的格式提供；且會以檔案的形式提供，讓使用者知道與資料相關聯的是哪些服務。如上所述，所擷取的資料不會包含可能造成服務安全性受損的資料。
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理存取要求。 存取要求可允許針對下列使用者個人資料進行存取，包括：(a) 使用者的識別資訊和 (b) 服務所產生的記錄。 程序與「第 1 部分步驟 2：存取」中 Azure Active Directory 一節所述的相同。
+Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 存取要求。存取要求可允許針對下列使用者個人資料進行存取，包括：(a) 使用者的識別資訊和 (b) 服務所產生的記錄。程序與「第 1 部分步驟 2：存取」中 Azure Active Directory 一節所述的相同。
 
 #### <a name="service-specific-interfaces"></a>服務特定介面
 
@@ -266,7 +266,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 刪除要求。 DSR 刪除要求遵循與「第 1 部分步驟 5：刪除」中＜透過 Azure 入口網站刪除使用者帳戶及其相關的資料＞一節所述的相同步驟。
+Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 刪除要求。DSR 刪除要求遵循與「第 1 部分步驟 5：刪除」中＜透過 Azure 入口網站刪除使用者帳戶及其相關的資料＞一節所述的相同步驟。
 
 #### <a name="service-specific-interfaces"></a>服務特定介面
 
@@ -274,7 +274,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 ### <a name="step-3-export"></a>步驟 3：匯出
 
-貴組織內與特定使用者的 Azure 使用方式相關聯、並由系統所產生的記錄檔，只能由租用戶管理員存取。 針對匯出要求所擷取的資料會以機器可讀取的格式提供；且會以檔案的形式提供，讓使用者知道與資料相關聯的是哪些服務。 如上所述，所擷取的資料不會包含可能造成服務安全性或穩定性受損的資料。
+貴組織內與特定使用者的 Azure 使用方式相關聯、並由系統所產生的記錄檔，只能由租用戶管理員存取。針對匯出要求所擷取的資料會以機器可讀取的格式提供；且會以檔案的形式提供，讓使用者知道與資料相關聯的是哪些服務。如上所述，所擷取的資料不會包含可能造成安全性或服務穩定性受損的資料。
 
 #### <a name="export-system-generated-logs-using-the-azure-portal"></a>使用 Azure 入口網站匯出系統所產生的記錄檔
 
@@ -301,12 +301,12 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 - **使用者。** 請輸入要求匯出的 Azure Active Directory 使用者的電子郵件地址。
 - **訂用帳戶。** 請選取用於報告資源使用量和計算服務費用的帳戶。這也是您 Azure 儲存體帳戶的所在位置。
-- **儲存體帳戶。** 請選取您的 Azure 儲存體 (Blob) 所在的位置。 如需詳細資訊，請參閱 [Microsoft Azure 儲存體 - Blob 儲存體簡介](/azure/storage/common/storage-introduction#blob-storage)文件。
+- **儲存體帳戶。** 請選取您的 Azure 儲存體 (Blob) 所在的位置。如需詳細資訊，請參閱 [Microsoft Azure 儲存體 - Blob 儲存體簡介](/azure/storage/common/storage-introduction#blob-storage)文件。
 - **容器。** 請建立新的 (或選取現有的) 容器，作為使用者所匯出隱私權資料的儲存位置。
 
-4. 選取 [建立]。
+4. 選取 **[建立]**。
 
-匯出要求會進入 **擱置** 狀態。 您可以在 [使用者隱私權 - 概觀] 刀鋒視窗上，檢視報告狀態。
+匯出要求會進入 **擱置** 狀態。您可以在 **[使用者隱私權 - 概觀]** 刀鋒視窗上，檢視報告狀態。
 
 >[!IMPORTANT]  
 >因為個人資料可能來自多個系統，有可能匯出程序需要長達 1 個月才能完成。
@@ -317,7 +317,7 @@ Microsoft 提供直接透過既有的應用程式開發介面 (API) 或特定服
 
 ### <a name="notify-about-exporting-or-deleting-issues"></a>匯出或刪除問題的通知
 
-如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 [協助 + 支援] 刀鋒視窗，並在 [訂閱管理 > 其他安全性和法規遵循要求> 隱私權刀鋒視窗和 GDPR 要求] 下提交新票證。
+如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 **[協助 + 支援]** 刀鋒視窗，並在 **[訂閱管理 > 訂閱的隱私權和法規遵循要求> 隱私權刀鋒視窗和 GDPR 要求]** 下提交新票證。
 
 ## <a name="learn-more"></a>深入了解
 

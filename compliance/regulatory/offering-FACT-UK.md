@@ -1,6 +1,6 @@
 ---
 title: 針對著作權盜竊 (事實) 的同盟
-description: Microsoft Azure 已取得同盟的憑證，以防範 UK 中的著作權盜竊。
+description: Microsoft Azure 于英國的同盟中取得的認證免受著作權盜竊。
 keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 82d3672bd8d07f99bfd741d7a8bac74b24300e21
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 10e96993f6e063ccdf0a7f23fc188a37f422adca
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507636"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089062"
 ---
 # <a name="federation-against-copyright-theft-fact"></a>針對著作權盜竊 (事實) 的同盟
 
@@ -31,7 +31,7 @@ ms.locfileid: "49507636"
 
 ## <a name="microsoft-and-federation-against-copyright-theft-fact"></a>針對著作權盜竊 (事實) 的 Microsoft 和同盟
 
-若要在 Microsoft 對客戶 entrust 這類資產的承諾時，對客戶進行保護的底線，microsoft Azure 已經過同盟的認可 (事實) 在英國。 事實證明是以 ISO 27001 為基礎，其重點是實體和數位安全性、人員篩選和訓練，以及存取控制。 事實內容保護和安全性計畫包含各種法律執行、技術合作夥伴和行業關聯的專業知識，以抵禦侵犯著作權和內容盜竊的情況，例如對等共用、非法的光碟重複，以及信號竊取。
+若要在 Microsoft 對客戶 entrust 這類資產的承諾時，對客戶進行保護的底線，請 (事實) 在英國驗證 Microsoft Azure。 事實證明是以 ISO 27001 為基礎，其重點是實體和數位安全性、人員篩選和訓練，以及存取控制。 事實內容保護和安全性計畫包含各種法律執行、技術合作夥伴和行業關聯的專業知識，以抵禦侵犯著作權和內容盜竊的情況，例如對等共用、非法的光碟重複，以及信號竊取。
 
 根據 Microsoft 對事實審核的自願提交，事實審計員認可型 Azure。 Azure 是第一個用於取得事實證明的多承租人公用雲端服務，新增至 Azure 的媒體相關憑證組合，包括 CDSA 憑證和 MPAA 的正式評估。
 

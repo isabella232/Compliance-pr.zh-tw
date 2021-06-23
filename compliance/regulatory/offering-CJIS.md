@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0a8cc37a24d3a51d79fb1ac34c92d96fc7e76fdd
-ms.sourcegitcommit: 66a26facea6ec9a95e5e61f1b5b69402f03db481
+ms.openlocfilehash: fe96da8b7a8ef89f9dd8ce14573e3489c75f93e7
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50279840"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53087612"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a> (CJIS) 安全性原則的刑事審判資訊服務
 
@@ -39,7 +39,7 @@ CJIS 安全性原則定義13個私人承包商（如雲端服務提供者）必�
 
 Microsoft 會以含 CJIS 資訊協定的狀態，簽署 CJIS 安全性附錄。 這些指示州法律強制執行機構負責遵循 CJIS 安全性原則 Microsoft 的雲端安全性控制措施可協助保護整個資料生命週期，並確保適當的後臺篩選工作人員，以存取 CJI。 Microsoft 繼續與州政府合作，以輸入 CJIS 資訊協定。
 
-Microsoft 已評估 Microsoft Azure 政府、Microsoft Office 365 美國政府和 Microsoft Dynamics 365 美國政府的運作原則和程式，並將證明其在適當服務合約中的能力，以符合使用範圍內服務的 FBI 需求。
+Microsoft 已評估 Microsoft Azure 政府、Microsoft Office 365 美國政府和 Microsoft Dynamics 365 美國政府的運作原則和程式，並將證明其在適當服務合約中的能力，以符合使用內部範圍內服務的 FBI 需求。
 
 深入瞭解 Microsoft Cloud 上的 CJIS 安全性原則的優點： [閱讀 Genetec 如何清除刑事調查](https://customers.microsoft.com/story/genetec)
 
@@ -47,7 +47,7 @@ Microsoft 已評估 Microsoft Azure 政府、Microsoft Office 365 美國政府�
 
 - [Azure 政府](/azure/azure-government/documentation-government-welcome)
 - [美國政府的 Dynamics 365](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
-- [Office 365 美國政府版](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
+- [Office 365美國政府](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
 - Power BI 雲端服務，以獨立服務形式提供或包含在 Office 365 品牌方案或套件中
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
@@ -58,11 +58,11 @@ FBI 不會提供符合 CJIS 需求的 Microsoft 認證。 相反地，microsoft 
 
 ## <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>美國 (目前為11/5/2020 的州的 CJIS 狀態) 
 
-44州和哥倫比亞含管理合約的地區，在綠色地圖上以綠色反白顯示：
+45州和哥倫比亞含管理合約的地區，在綠色地圖上以綠色反白顯示：
 
-Alabama，阿拉斯加，亞利桑那，Arkansas，加州，科羅拉多，Connecticut，佛羅里達，格魯吉亞，夏威夷，Idaho，Illinois，印地安那項、Iowa、Kansas、Kentucky、Maine、麻塞諸塞州、密歇根、Minnesota、Mississippi、Missouri、Montana、Nebraska、Nevada、New Hampshire、New Jersey、紐約、北卡羅萊納州、北 Dakota、Oklahoma、德克薩斯、賓夕法尼亞、Rhode、Tennessee、華盛頓、華盛頓、德克薩斯、Vermont、弗吉尼亞州、華盛頓、華盛頓州、Wisconsin、
+Alabama，阿拉斯加，亞利桑那，Arkansas，加州，科羅拉多，Connecticut，佛羅里達，格魯吉亞，夏威夷，Idaho，Illinois，印地安那州 Iowa、Kansas、Kentucky、Maine、麻塞諸塞、密歇根、Minnesota、Mississippi、Missouri、Montana、Nebraska、Nevada、New Hampshire、New Jersey、New 墨西哥、紐約、北卡羅萊納州、北 Dakota、Oklahoma、德克薩斯、猶他州、Rhode、南部卡羅萊納州、華盛頓、德克薩斯、Tennessee、Vermont、Wisconsin、、
 
-Microsoft 致力於會議適用的 CJIS 管制控制措施，允許刑事審判組織執行雲端式方案，並符合 CJIS 安全性原則 V 5.8。
+Microsoft 致力於會議適用的 CJIS 管制控制措施，允許刑事審判組織執行雲端式方案，並遵循 CJIS 安全性原則5.9。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

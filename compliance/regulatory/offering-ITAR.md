@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dbc69c59b2f6a0a5df266ea0fe0694f3c4ac609e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5ee31d5d61048593eec53a6bb72f8af538d2c3b3
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507576"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088922"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Arm 規章中的國際流量 (ITAR) 
 
@@ -33,11 +33,11 @@ ms.locfileid: "49507576"
 
 Microsoft 提供某些可以支援 ITAR 義務之客戶的雲端服務或服務功能。 雖然 ITAR 未提供相容性認證，但 Microsoft 會運作並設計出範圍內的服務，以支援客戶的 ITAR 義務和合規性計畫。  
   
-Microsoft Azure 政府和 Microsoft Office 365 美國政府 for 國防可透過其他合約承諾向客戶提供有關所儲存資料位置的 ITAR，以及將這些資料存取至 US 人員的能力限制。 Microsoft 為這些政府雲端服務的基礎結構和操作元件提供這些保證，但客戶最終負責其環境中其應用程式的保護和架構。  
+Microsoft Azure政府和 Microsoft Office 365 美國政府針對國防公司透過其他合約承諾給客戶 ITAR，以提供有關儲存資料位置的其他合約承諾，以及對 US 人員存取這類資料的能力限制。 Microsoft 為這些政府雲端服務的基礎結構和操作元件提供這些保證，但客戶最終負責其環境中其應用程式的保護和架構。  
   
 客戶必須為其他合約簽署其他合約，以將 Microsoft 的意圖儲存 ITAR 控制的資料，讓 Microsoft 能夠遵守我們對客戶及美國政府的責任。  
   
-ITAR 對舉報違規有特定責任，可提供某些風險降低的效益。 Microsoft Enterprise 合約修正可讓 Microsoft 與客戶一起運作，以舉報這類違規行為。  
+ITAR 對舉報違規有特定責任，可提供某些風險降低的效益。 microsoft Enterprise 合約修正功能可讓 microsoft 與客戶一起運作，以舉報這類違規行為。  
   
 尋找主控 ITAR 管制資料的客戶應使用其 Microsoft 帳戶和授權小組來深入瞭解、取得正確的協定，以及存取相關的系統架構資訊。
 
@@ -58,5 +58,5 @@ ITAR 對舉報違規有特定責任，可提供某些風險降低的效益。 Mi
 - [ITAR Title 22 CFR 120-130](https://aka.ms/itar)
 - [搭配使用 Azure 政府與 ITAR 控制的資料](https://aka.ms/azure-itar-guide)
 - [Azure 政府](https://azure.microsoft.com/features/gov/)
-- [Office 365 美國政府版](https://products.office.com/government/office-365-web-services-for-government)
+- [Office 365美國政府](https://products.office.com/government/office-365-web-services-for-government)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

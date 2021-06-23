@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fbc8166770a3ad2539264bbf76319116a2c306a9
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 0c05010d43ea345024b63e2653e37eb0f42443f4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120002"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089767"
 ---
 # <a name="us-export-administration-regulations-ear"></a> (EAR) 美國出口管理條例
 
 ## <a name="about-the-ear"></a>關於 EAR
 
-華南商務系會透過 [工業和 Security (BIS) 的局， ](https://www.bis.doc.gov/)強制實施 (EAR) 的出口管理條例。 EAR 對大多數商業商品、軟體及技術（包括可用於商業和軍事的目的和某些防護專案）的出口和重新出口，都有廣泛的控制和強加控制。
+華南商務系會透過 [工業和 Security (BIS) 的局， ](https://www.bis.doc.gov/)強制實施 (EAR) 的出口管理條例。 EAR 對大多數商業商品、軟體及技術（包括可用於商業和軍事的目的和某些防護專案）的出口和重新出口，廣泛控制並強加控制。
 
 BIS 指導方針：將資料或軟體上傳至雲端或在使用者節點之間傳輸時，客戶（而非雲端提供者）是「匯出者」，其負責確保資料或軟體的轉移、儲存和存取權符合 EAR。
 
@@ -43,18 +43,18 @@ BIS 指導方針：將資料或軟體上傳至雲端或在使用者節點之間�
 
 ## <a name="microsoft-and-the-ear"></a>Microsoft 和 EAR
 
-Microsoft 技術、產品和服務受到美國出口管理條例 (EAR) 的制約。 雖然沒有 EAR 的相容性認證，但 Microsoft Azure、Microsoft Azure 政府和 Microsoft Office 365 政府 (GCCHigh 和 DoD 環境) 提供重要的功能和工具，以協助符合 EAR 管理出口控制風險和符合其符合性需求的合格客戶。
+Microsoft 技術、產品和服務受到美國出口管理條例 (EAR) 的制約。 在沒有 EAR 的相容性認證時，Microsoft Azure、Microsoft Azure 政府和 Microsoft Office 365 政府 (GCCHigh 及 DoD 環境會提供一些重要的功能和工具，以協助符合 EAR 管理出口控制風險和符合其符合性需求的使用者。
 
-強制執行 EAR 的 US 商務部門，已將客戶（而非雲端服務提供者，例如 Microsoft）的位置視為 exporters 自身的客戶資料。 雖然大多數客戶資料不會被視為「技術」或「技術資料」受 EAR 出口控制，但 Microsoft 範圍內的雲端服務會加以組織，以協助客戶管理並大幅緩解其所面臨的潛在出口控制風險。 Microsoft 通常（但非獨佔）建議使用其適用于合格客戶的政府雲端服務。 透過適當的規劃，客戶可以使用下列工具和自己的內部程式，協助確保完全符合美國出口控制項。
+強制執行 EAR 的 US 商務部門，已將客戶（而非雲端服務提供者，例如 Microsoft）的位置視為 exporters 自身的客戶資料。 雖然大部分的客戶資料不會被視為「技術」或「技術資料」（適用于 EAR 出口控制項），但是 Microsoft 範圍內的雲端服務會加以組織，以協助客戶管理並大幅緩解其所面臨的潛在出口控制風險。 Microsoft 通常（但非獨佔）建議使用其適用于合格客戶的政府雲端服務。 透過適當的規劃，客戶可以使用下列工具和自己的內部程式，協助確保完全符合美國出口控制項。
 
-- **資料位置上的控制項**。 客戶可以查看其資料的儲存位置，並存取強健的工具來限制其儲存空間。 因此，他們可能會確定其資料儲存在美國，並最小化美國境外的受控技術或技術資料的轉接。 此外，客戶資料不會儲存在不相容的位置，與 EAR prohibitions （資料是「特意儲存」）一致：沒有任何 Azure 資料中心位於25群組 D:5 國家或俄文同盟中的任何一個。
+- **資料位置上的控制項**。 客戶可以查看其資料的儲存位置，並存取強健的工具來限制其儲存空間。 因此，他們可能會確定其資料儲存在美國，並最小化美國境外的受控技術或技術資料的轉接。 此外，客戶資料不會儲存在不相容的位置，可與 EAR prohibitions 在資料「特意儲存」上保持一致：沒有任何 Azure 資料中心位於25群組 D:5 國家或俄文同盟中的任何一個。
 - **端對端加密**。 透過利用 EAR 中所指定實體儲存位置的端對端加密安全實體，Microsoft in 範圍雲端服務會提供可協助防範出口控制風險的加密功能。 他們也為客戶提供 [廣泛的選項](https://aka.ms/Azure-Encryption-Overview) ，可在傳輸和靜止中加密資料，以及在加密選項之間選擇的彈性。
-- **工具和通訊協定，可防止未經授權的人認定匯出**。 使用加密，也有助於防範可能受到認定的匯出 (或被視為在 EAR 下重新匯出) ，因為即使非 US 人員可以存取加密的資料，也不會發現或在加密時無法讀取或瞭解資料時，什麼都不會顯示。因此，控制的資料沒有「發行」。
+- **工具和通訊協定，可防止未經授權的人認定匯出**。 使用加密，也有助於防範可能受到認定的匯出 (或被視為在 EAR 下重新匯出) ，因為即使非 US 人員可以存取加密的資料，也不會發現或在加密時無法讀取或瞭解資料時，什麼都不會顯示。因此，控制的資料不會「發行」。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
 - [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365 政府 (GCC-高和 DoD) ](https://aka.ms/Office-365-Export-Controls)
+- [Office 365 政府版 (GCC-高及 DoD) ](https://aka.ms/Office-365-Export-Controls)
 - Intune
 
 ## <a name="how-to-implement"></a>實作方法
@@ -68,7 +68,7 @@ Microsoft 技術、產品和服務受到美國出口管理條例 (EAR) 的制約
 
 **使用 Microsoft 雲端服務時，應如何遵守匯出控制項？**
 
-在 EAR 下，當資料上傳至雲端伺服器（例如 Microsoft 雲端）時，擁有資料的客戶（而非雲端服務提供者）會被視為匯出程式。 因此，資料擁有者（也就是 Microsoft 客戶）必須認真評估其使用 Microsoft 雲端的方式。我們可以 implicate US export 控制項，並判斷是否有任何想要使用或儲存的資料可能會受到 EAR 控制，如果是的話，也可以套用哪些控制項。 深入瞭解 [Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=c24c11f2-2cd4-444a-9160-19762855ad3a&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers) 和 [Office 365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1s5kI) 雲端服務可如何協助客戶確保其與美國出口控制項完全相容。
+在 EAR 下，當資料上傳至雲端伺服器（例如 Microsoft 雲端）時，擁有資料的客戶（而非雲端服務提供者）會被視為匯出程式。 因此，資料擁有者（也就是 Microsoft 客戶）必須認真評估其使用 Microsoft 雲端的方式。我們可以 implicate US export 控制項，並判斷是否有任何想要使用或儲存的資料可能會受到 EAR 控制，如果是的話，也可以套用哪些控制項。 深入瞭解[Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=c24c11f2-2cd4-444a-9160-19762855ad3a&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)和[Office 365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1s5kI)雲端服務可如何協助客戶確保其與美國出口控制項完全相容。
 
 **Microsoft 技術、產品及服務是否受 EAR 的制約？**
 
@@ -83,7 +83,7 @@ Microsoft 技術、產品和服務受到美國出口管理條例 (EAR) 的制約
 
 主要美國的美國出口控制，其應用程式是由美國商務系公司管理的耳。 這種 EAR 適用于同時具有商業性和軍事應用程式的雙用途專案，以及純商業應用程式的專案。
 
-美國還有個別的和更多專用的出口控制法規（如 ITAR），可控制最機密的專案和技術。 由美國的省/州（美國）系所管理，可對許多軍用、國防和智慧 (專案（也稱為「國防文章」） ) （包括相關的技術資料）進行出口、暫時匯入、重新匯出及傳輸。
+美國還有個別的和更多專用的出口控制法規（如 ITAR），可控制最機密的專案和技術。 由美國的省/州（美國）系所管理，可對許多軍用、國防和智慧 (專案（也稱為「國防文章」） ) （包括相關的技術資料）進行「匯出」、「暫時匯入」、「重新匯出」和「傳輸」的控制。
 
 ## <a name="resources"></a>資源
 

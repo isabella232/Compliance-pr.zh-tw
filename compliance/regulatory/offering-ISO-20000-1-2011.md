@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 9995a237a82d41bfbb6740dbbe448f1ef3ae750a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497767"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088992"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 資訊技術服務管理
 
 ## <a name="isoiec-20000-12011-overview"></a>ISO/IEC 20000-1:2011 概觀
 
-國際標準組織 (ISO) 是獨立的非政府組織，以及全球最大的自願性國際標準開發者。 國際電工委員會 (IEC) 是準備和出版適用於電氣、電子及相關技術國際標準的全球領導組織。  
+國際標準組織 (ISO) 是獨立的非政府組織，以及全球最大的自願性國際標準開發者。 國際電子電機委員會 (IEC) 是準備和出版適用於電氣、電子及相關技術國際標準的世界領導組織。  
   
 ISO 20000-1:2011 在 2005 年的聯合 ISO/IEC 小組委員會中發佈並於 2011 年修正，它是一項國際標準，用於資訊技術服務管理系統 (SMS) 的建立、實作、操作、監視及檢閱。 它是 ISO 20000 系列中唯一產生正式認證的標準。 該標準係根據設計、轉換、交付及改善服務的需求，以履行約定的服務需求，並同時為客戶與服務提供者提供價值。 ISO 20000-1 可協助組織向客戶保證，其服務需求將會履行。
 
@@ -70,7 +70,7 @@ ISO 20000-1 文件如下：
 
 是的。 ISO 20000-1:2011 年度評定包含基礎的實體基礎結構資料中心。 請檢閱認證，以取得涵蓋範圍的詳細資訊。
 
-**可以在何處檢視 Microsoft 的 ISO 20000-1:2011 合規性資訊？**
+**我可以在何處檢視 ISO 20000-1:2011 的 Microsoft 合規性資訊？**
 
 您可以為此評定範圍內的 Azure 和其他服務下載 ISO 20000-1:2011 認證。
 

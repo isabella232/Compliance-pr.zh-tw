@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 87d74d3e8c6a23c17ac0515601cbe140b760efcf
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 67d596faea5e531d22289e2ad744a7aeff9c9441
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121352"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088502"
 ---
 # <a name="committee-on-national-security-systems-instruction-no-1253-cnssi-1253"></a>全國安全性系統的委員會說明否。 1253 (CNSSI 1253) 
 
 ## <a name="about-cnss-instruction-1253"></a>關於 CNSS 指令1253
 
-全國安全系統 (CNSS) 的委員會是一個政府組織，為美國政府部門和代理商設定國家 cybersecurity 原則。 [CNSS 指令不是 1253](https://www.dss.mil/Portals/69/documents/io/rmf/CNSSI_No1253.pdf)，「地區安全性系統的安全性分類及控制選取範圍」會提供聯邦機關應套用的安全性標準的指導方針，以適當的安全性層級將國家安全性資訊和系統分類。  
+全國安全系統 (CNSS) 的委員會是一個政府組織，為美國政府部門和代理商設定國家 cybersecurity 原則。 [CNSS 指令不是 1253](https://www.dss.mil/Portals/69/documents/io/rmf/CNSSI_No1253.pdf)，「國家/地區安全性系統的安全性分類及控制選取」，提供聯邦機關應套用的安全性標準指導方針，以適當的安全性層級將國家安全性資訊和系統分類。  
   
 CNSSI 1253 是在 NIST SP 800-53 上建立，可提供 FedRAMP 高授權的控制基準。 不過，CNSSI 1253 和 NIST 出版物之間有一些重要差異。  
   
@@ -35,7 +35,7 @@ CNSSI 1253 是在 NIST SP 800-53 上建立，可提供 FedRAMP 高授權的控�
 
 ## <a name="microsoft-and-cnssi-1253"></a>Microsoft 和 CNSSI 1253
 
-FedRAMP 核准的協力廠商評定組織 (3PAO) ，Kratos SecureInfo，已獨立驗證具有 CNSSI 1253 高高基準的 Microsoft Azure 政府系統的合規性。 Kratos SecureInfo 會證實 CNSSI 1253 安全性評估報告 (SAR) Azure 政府會在安全性評估計畫 (SAP) 中，為適當的安全性控制 stipulated 提供完整的評估。 SAR 檔針對需要高機密性、高完整性和高可用性之系統的 CNSSI 1253 安全性控制，針對驗證 Azure 政府所進行的測試。  
+FedRAMP 核准的協力廠商評定組織 (3PAO) ，Kratos SecureInfo，已獨立驗證 Microsoft Azure 政府系統與 CNSSI 1253 高高基準的相容性。 Kratos SecureInfo 會證實 CNSSI 1253 安全性評估報告 (SAR) Azure 政府會在安全性評估計畫 (SAP) 中，為適當的安全性控制 stipulated 提供完整的評估。 SAR 檔針對需要高機密性、高完整性和高可用性之系統的 CNSSI 1253 安全性控制，針對驗證 Azure 政府所進行的測試。  
   
 Azure 政府目前擁有 FedRAMP 高的臨時授權來執行 (P-ATO 由聯合授權委員會 (JAB) 所發行的) ，以及國防版臨時授權 (PA) 的「雲端計算安全性需求」指南 (的「SRG) 。 在使用這些授權時，Kratos SecureInfo 會分析先前評估中已測試的安全性控制，以判斷要測試的其他 CNSSI 1253 安全性控制，以確保符合 CNSSI 1253 高高的基準。 Kratos SecureInfo 會檢查證據並進行面試，以驗證是否成功實施43適用的安全性控制，並在 CNSSI 1253 SAR 中發佈其完整測試的結果。  
   
@@ -49,7 +49,7 @@ Azure 政府目前擁有 FedRAMP 高的臨時授權來執行 (P-ATO 由聯合授
 
 Azure 政府 CNSSI 1253 與 CNSSI 1253 高高基準的相容性證明
 
-## <a name="how-to-implement"></a>實作方法：
+## <a name="how-to-implement"></a>實作方法
 
 - [Azure 政府檔](/azure/azure-government/)：教學課程和操作方法指南可協助開發人員使用 Azure 政府部署及管理服務。
 

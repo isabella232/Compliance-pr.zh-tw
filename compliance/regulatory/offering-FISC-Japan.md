@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27f0072091520317a6780e00331e0997022941a0
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507616"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088942"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>金融業資訊系統中心 (FISC)
 
@@ -37,7 +37,7 @@ FISC 與其成員機構、日本銀行和金融服務局 (負責監督日本銀�
 
 ## <a name="microsoft-and-fisc"></a>Microsoft 和 FISC
 
-Microsoft 已聘雇外部評估員來驗證 Microsoft Azure、Dynamics 365 和 Microsoft Office 365 是否符合 FISC 金融機構電腦系統安全性準則第 9 版修訂版的需求。 Microsoft 已在下列每一個區域提供合規性證據：
+Microsoft 已聘雇外部評估員來驗證 Microsoft Azure、Dynamics 365 和 Microsoft Office 365 是否符合 FISC 金融機構電腦系統安全性準則第 9 版修訂版的需求。Microsoft 提供下列各個領域的合規性證據：
 
 - 建築物和電腦機房、電源、空調、資料中心和設施監視的資料中心準則。
 - 組織、訓練、存取控制、系統開發和稽核的操作準則。
@@ -74,7 +74,7 @@ FISC 已發佈兩份來自其專家委員會的報告：
 
 **我是否可以在組織的資格程序中使用 Microsoft 對此架構的回應？**
 
-是。 不過，雖然 Microsoft 對此架構的回應是由協力廠商確認，但客戶負責驗證其已在 Azure 或 Office 365 上實作的解決方案合規性。
+是的。不過，雖然 Microsoft 對此架構的回應是由協力廠商確認，但客戶負責驗證其已在 Azure 或 Office 365 上實作的解決方案合規性。
 
 ## <a name="resources"></a>資源
 

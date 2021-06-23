@@ -22,24 +22,24 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: acf244f5a8e9ab10e2fea02e2dc1c115156c0297
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 0ac1cdfb315c872e78872d144fa24d28500be096
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497603"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088652"
 ---
 # <a name="datacenter-security-overview"></a>資料中心安全性概觀
 
 ## <a name="how-does-microsoft-host-its-online-services"></a>Microsoft 如何主控其線上服務？
 
-Microsoft 提供超過200個雲端服務，包括企業服務，例如 Microsoft Azure、Microsoft 365 和 Microsoft Dynamics 365，客戶可以24x7x365 為客戶。 這些服務是由全域分散式資料中心、edge 計算節點和服務運作中心組成的 Microsoft 雲端基礎結構所主控。 它們受到世界上最大的全域網路的支援和連線，具有大量的纖程空間。
+Microsoft 提供超過200的雲服務，包括企業服務，例如 Microsoft Azure、Microsoft 365 和 Microsoft Dynamics 365，到客戶的24x7x365。 這些服務是由全域分散式資料中心、edge 計算節點和服務運作中心組成的 Microsoft 雲端基礎結構所主控。 它們受到世界上最大的全域網路的支援和連線，具有大量的纖程空間。
 
 為雲端服務提供動力的資料中心，主要是高可靠性、卓越運作、成本效益、環境可持續性，以及全球客戶和合作夥伴的信任線上體驗。 Microsoft 會定期透過內部和協力廠商的審計來測試我們的資料中心安全性。 因此，世界上最高的高管制組織會信任 Microsoft 雲端，其與其他任何雲端服務提供者的憑證相容。
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-unauthorized-access"></a>Microsoft 如何保護資料中心不會遭到未經授權的存取？
 
-存取實體資料中心設施的方式，會嚴格由外部和內部周邊伺服器控制，每個層級的安全性增加，包括周邊環境防護、安全性監察官、鎖定的伺服器機架、整合的告警系統、運作中心的全天候視頻監控，以及多重要素存取控制。 只有必要人員有權存取 Microsoft 資料中心。 Microsoft 資料中心內禁止邏輯存取 Microsoft 365 基礎結構（包括客戶資料）。
+存取實體資料中心設施的方式，會嚴格由外部和內部周邊伺服器控制，每個層級的安全性增加，包括周邊環境防護、安全性監察官、鎖定的伺服器機架、整合的告警系統、運作中心的全天候視頻監控，以及多重要素存取控制。 只有必要人員有權存取 Microsoft 資料中心。 在 Microsoft 資料中心內禁止邏輯存取 Microsoft 365 基礎結構（包括客戶資料）。
 
 我們的安全性運作中心會使用影片監控和整合式電子存取控制系統來監視資料中心網站和設施。 攝像頭的位置已策略性，可提供有效的設施周邊、入口、運送期間、伺服器 cages、內部通道及其他機密安全性點。 在多重階層式安全性狀態中，由於整合安全性系統所偵測到的任何未經授權的進入嘗試，會為安全性人員產生警示，以立即回應和修正。
 
@@ -64,3 +64,7 @@ Microsoft 的線上服務會定期進行審核，以符合外部法規和認證�
 | [ISO 27001/27002 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | 11：實體和環境安全性 | 2020 年 12 月 2 日 |
 | [SOC 1 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=66043614-5628-4e26-83be-057eb3bb026c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1：資料中心實體存取配 <br> PE-2：資料中心安全性驗證 <br> PE-3：資料中心使用者存取權檢查 <br> PE-4：資料中心實體存取機制 <br> PE-5：資料中心實體監控監控 <br> PE-6：資料中心重要環境維護 <br> PE-7：資料中心環境控制項 <br> PE-8：資料中心事件回應 | 2020年10月30日 |
 | [SOC 2 (Azure) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=ce5bfbea-3514-40ae-a8a6-3617106a0b56&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1：資料中心實體存取配 <br> PE-2：資料中心安全性驗證 <br> PE-3：資料中心使用者存取權檢查 <br> PE-4：資料中心實體存取機制 <br> PE-5：資料中心實體監控監控 <br> PE-6：資料中心重要環境維護 <br> PE-7：資料中心環境控制項 <br> PE-8：資料中心事件回應 | 2020年10月30日 |
+
+## <a name="resources"></a>資源
+
+- [Microsoft 文章實驗：我們生活于雲端](https://news.microsoft.com/stories/microsoft-datacenter-tour/)

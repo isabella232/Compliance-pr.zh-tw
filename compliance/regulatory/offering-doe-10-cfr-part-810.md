@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a09f4f6df73ef09dbbce26afd91704181886dd01
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 1a16495f5cfe3e293910ebe84e6af566aea17621
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507507"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53087542"
 ---
 # <a name="us-doe-10-cfr-part-810"></a>US DoE 10 CFR Part 810
 
 ## <a name="microsoft-and-doe-10-cfr-part-810"></a>Microsoft 和 DoE 10 CFR Part 810
 
-Microsoft Azure 政府可以透過兩個授權，協助支援客戶遵循 US (DoE) 10 CFR Part 810 的出口控制需求。
+Microsoft Azure政府可以透過兩個授權，協助客戶支援受限於 US (DoE) 10 CFR Part 810 之出口控制需求的客戶：
 
 - FedRAMP 高的臨時授權，可運作 (P-ATO 由聯合授權委員會 (JAB 所發出) 
 - 國防 (DoD) 國防資訊系統 Agency 的第4級和第5級臨時授權
@@ -47,7 +47,7 @@ FedRAMP 提供適當的基準，讓 Azure 政府能夠提供核心基礎結構�
 
 ## <a name="about-doe-10-cfr-part-810"></a>關於 DoE 10 CFR Part 810
 
-US (DoE) 出口控制管制 [10 CFR part 810](https://www.govinfo.gov/content/pkg/FR-2015-02-23/pdf/2015-03479.pdf) 管理未分類的核技術及協助出口。 協助確保從美國出口的核技術只會用於 peaceful 目的。 修訂部分 810 (Final Rule) 會在3月2015內生效，並由 [國家核安全性管理](https://www.energy.gov/nnsa/national-nuclear-security-administration)所管理。 Section 810.6：針對「一般授權」的機密核技術的提供，以及需要特定授權 (的機密技術（如協助相關的機密技術，例如豐富和繁重的實際執行) ）的協助，都需要特定的 DoE 授權。
+US (DoE) 出口控制管制 [10 CFR part 810](https://www.govinfo.gov/content/pkg/FR-2015-02-23/pdf/2015-03479.pdf) 管理未分類的核技術及協助出口。 協助確保從美國出口的核技術只會用於 peaceful 目的。 修訂部分 810 (Final Rule) 會在3月2015內生效，並由 [國家核安全性管理](https://www.energy.gov/nnsa/national-nuclear-security-administration)所管理。 Section 810.6 針對「一般授權」的敏感核技術的協助和傳輸，以及那些需要特定授權 (（如取得機密核技術如豐富和繁重的實際執行) ）的協助，都需要特定的 DoE 授權。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

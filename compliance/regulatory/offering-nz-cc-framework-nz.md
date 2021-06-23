@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: db1168d494fd5a8d0a31176ccccdff72dd096f1d
-ms.sourcegitcommit: c697549cdc5785e163bd6147cf0d95ba61b078fe
+ms.openlocfilehash: da53b5e2cdac7095e2fc3ff9b243d2863b85fdbf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528889"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088782"
 ---
 # <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>紐西蘭政府雲端計算安全性和隱私權考慮
 
@@ -31,13 +31,11 @@ ms.locfileid: "49528889"
 
 政府在評估和採用雲端服務時，期望所有紐西蘭狀態服務中心在此架構內運作。 「雲端計算需求」概述在採用雲端服務時，以及政府之雲端原則的行事病史時，各機關都必須執行的工作。
 
-為了協助 NZ 政府機構在處理潛在的雲端解決方案時進行一致且可靠的應付，GCIO 已發佈「雲端計算：資訊安全性和隱私權考慮」 (「雲端計算 ISPC」 ) 。 這份檔包含超過100個問題的重點，主要是資料主權、隱私權、安全性、控管、機密性、資料完整性、可用性和事件回應和管理。 「Cloud 計算 IPSC ' 未定義雲端政府標準，雲端服務提供者必須示範正規符合性。 不過，在檔中所設定的許多問題，都是指如何瞭解雲端服務提供者如何符合相關標準的廣泛陣列。
+為了協助 NZ 政府機構在對潛在的雲端解決方案進行一致且可靠的應付時，GCIO 已發佈 [雲端計算：資訊安全性和隱私權考慮 (ISPC) ](https://www.digital.govt.nz/dmsdocument/1~cloud-computing-information-security-and-privacy-considerations/html)。 這份檔包含超過100個問題的重點，主要是資料主權、隱私權、安全性、控管、機密性、資料完整性、可用性和事件回應和管理。 ISPC 未定義雲端政府標準，讓雲端服務提供者必須示範正規符合性。 不過，在檔中所設定的許多問題，都是指如何瞭解雲端服務提供者如何符合相關標準的廣泛陣列。
 
-Microsoft 和紐西蘭政府雲端計算安全性和隱私權考慮
+## <a name="microsoft-and-new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Microsoft 和紐西蘭政府雲端計算安全性和隱私權考慮
 
-為了協助組織取得 Microsoft enterprise 雲端服務的分析和評估，Microsoft 紐西蘭已產生檔，顯示其 enterprise 雲端服務如何解決「雲端計算 ISPC」中所設定的問題，方法是將其連結至 Microsoft 雲端服務所驗證的標準。 這些認證是 Microsoft 如何保證公開和私人部門客戶的核心服務，其雲端服務的設計、建立與運作方式，可有效地減輕隱私權和安全性風險，並解決資料主權方面的問題。
-
-深入瞭解如何利用 Azure 安全性和合規性藍圖加速您的紐西蘭 CC 架構部署：將 [Azure 回應下載至 NZ Cc framework](https://gallery.technet.microsoft.com/Response-to-GCIO-Cloud-e117bbb9)
+為了協助組織取得 Microsoft enterprise 雲端服務的分析和評估，Microsoft 紐西蘭已產生檔，顯示其 enterprise 雲端服務如何解決「雲端計算 ISPC」中所設定的問題，方法是將其連結至 Microsoft 雲端服務所驗證的標準。 這些認證是 Microsoft 如何保證公開和私人部門客戶的核心服務，其雲端服務的設計、建立與運作方式，可有效地減輕隱私權和安全性風險，並解決資料主權方面的問題。 客戶可以下載 [Azure 回應至雲端計算 ISPC](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) 。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
 
@@ -46,7 +44,7 @@ Microsoft 和紐西蘭政府雲端計算安全性和隱私權考慮
 - Intune
 - Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
 - [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Exchange Online、SharePoint 線上和 Microsoft 團隊。 Microsoft NZ 已與 GCIO 小組合作，以開發整合 Exchange Online 和 SEEMail 的參考架構。
+- Exchange Online、SharePoint 線上及 Microsoft Teams。 Microsoft NZ 已與 GCIO 小組合作，以開發整合 Exchange Online 和 SEEMail 的參考架構。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -60,10 +58,8 @@ Microsoft 和紐西蘭政府雲端計算安全性和隱私權考慮
 
 ## <a name="resources"></a>資源
 
-- [Offshore 主控的 Office 生產力服務的安全性需求： Office 365 的規範指南](https://aka.ms/o365-gcio-conformance-guidance)
-- [Microsoft Azure 在紐西蘭安全性和隱私權需求方面的合規性](https://aka.ms/azurecompliancenewzealand)
+- [offshore 主控 Office 生產力服務的安全性需求： Office 365 的符合性指南](https://aka.ms/o365-gcio-conformance-guidance)
 - [紐西蘭政府 ICT 策略2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
-- [Cloud 計算的 NZ 政府需求](https://aka.ms/NZ-Cloud-Requirements)
 - [雲端計算： (ISPC) 的資訊安全性和隱私權考慮 ](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
@@ -71,7 +67,6 @@ Microsoft 和紐西蘭政府雲端計算安全性和隱私權考慮
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Microsoft 對「Cloud 計算 IPSC ' 的回應
 
 - [Azure](https://aka.ms/Azure-NZ-response)
-- [Dynamics 365](https://aka.ms/d365-nz-response)
 - [Intune](https://aka.ms/Intune-NZ-response)
 - [Office 365](https://aka.ms/O365-NZ-Response)
 - [Power BI](https://download.microsoft.com/download/5/1/7/51726B9B-2E76-49C4-9D4F-A36BF025CB93/Response-to-GCIO-105-questions-Power-BI.pdf)
