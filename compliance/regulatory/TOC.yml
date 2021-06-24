@@ -7,15 +7,15 @@
         - name: CIS 基準
           href: offering-cis-benchmark.md
         - name: CSA-STAR 證明
-          href: offering-csa-star-attestation.md
+          href: /azure/compliance/offerings/offering-csa-star-attestation?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: CSA-STAR 認證
-          href: offering-csa-star-certification.md
+          href: /azure/compliance/offerings/offering-csa-star-certification?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: CSA STAR 自我評估
-          href: offering-csa-star-self-assessment.md
+          href: /azure/compliance/offerings/offering-csa-star-self-assessment?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: ISO - 建議的行動計劃
           href: iso-action-plan.md
         - name: ISO 20000-1-2011
-          href: offering-iso-20000-1-2011.md
+          href: /azure/compliance/offerings/offering-iso-20000-1?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: ISO 22301
           href: offering-iso-22301.md
         - name: ISO 27001
@@ -25,9 +25,9 @@
         - name: ISO 27018
           href: offering-iso-27018.md
         - name: ISO 27701
-          href: offering-iso-27701.md
+          href: /azure/compliance/offerings/offering-iso-27701?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: ISO-9001
-          href: offering-iso-9001.md
+          href: /azure/compliance/offerings/offering-iso-9001?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: SOC
           href: offering-soc.md
         - name: WCAG
@@ -37,14 +37,14 @@
         - name: CJIS
           href: offering-cjis.md
         - name: CNSSI 1253
-          href: offering-cnssi-1253.md
+          href: /azure/compliance/offerings/offering-cnssi-1253?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: DFARS
           href: offering-dfars.md
         - name: DoD DISA L2、L4、L5
           href: offering-dod-disa-l2-l4-l5.md
         - name: DoE 10 CFR Part 810
-          href: offering-doe-10-cfr-part-810.md
-        - name: EAR (美國出口管制條例)
+          href: /azure/compliance/offerings/offering-doe-10-cfr-part-810?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+        - name: EAR
           href: offering-ear.md
         - name: FedRAMP
           href: offering-fedramp.md
@@ -54,40 +54,50 @@
           href: offering-irs-1075.md
         - name: ITAR
           href: offering-itar.md
-        - name: NIST - 建議的行動計劃
-          href: nist-action-plan.md
+        - name: NDAA 章節 889
+          href: /azure/compliance/offerings/offering-ndaa-section-889?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+        - name: NIST 800-161
+          href: /azure/compliance/offerings/offering-nist-800-161?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: NIST 800-171
           href: offering-nist-sp-800-171.md
+        - name: NIST 800-53
+          href: /azure/compliance/offerings/offering-nist-800-53?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+        - name: NIST 800-63
+          href: /azure/compliance/offerings/offering-nist-800-63?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: NIST CSF
           href: offering-nist-csf.md
-        - name: Section 508 VPATS
+        - name: Section 508 VPATs
           href: offering-section-508-vpats.md
     - name: 產業
       items:
+        - name: 汽車
+          items:
+            - name: TISAX (德國)
+              href: /azure/compliance/offerings/offering-tisax?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: 教育版
           items:
-            - name: FERPA
+            - name: FERPA (美國)
               href: offering-ferpa.md
         - name: 能源業
           items:
             - name: NERC
-              href: offering-nerc-cip.md
-        - name: 金融業
+              href: /azure/compliance/offerings/offering-nerc?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+        - name: 金融服務
           items:
             - name: 23 NYCRR Part 500
               href: offering-23-nycrr-part-500.md
             - name: AFM + DNB (荷蘭)
               href: offering-afm-dnb-netherlands.md
+            - name: AMF + ACPR (法國)
+              href: offering-amf-acpr-france.md
             - name: APRA (澳洲)
               href: offering-apra-australia.md
-            - name: AMF 和 ACPR (法國)
-              href: offering-amf-acpr-france.md
             - name: CFTC 1.31 (美國)
               href: offering-cftc-1-31-us.md
             - name: EBA (歐盟)
               href: offering-eba-eu.md
-            - name: FCA (英國)
-              href: offering-fca-uk.md
+            - name: FCA + PRA (英國)
+              href: /azure/compliance/offerings/offering-fca-pra-uk?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: FFIEC (美國)
               href: offering-ffiec-us.md
             - name: FINMA (瑞士)
@@ -108,192 +118,122 @@
               href: offering-nbb-fsma-belgium.md
             - name: OSFI (加拿大)
               href: offering-osfi-canada.md
+            - name: OSPAR (新加坡)
+              href: /azure/compliance/offerings/offering-ospar-singapore?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: PCI 3DS
+              href: /azure/compliance/offerings/offering-pci-3ds?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: PCI DSS
-              href: offering-pci-dss.md
+              href: offering-PCI-DSS.md
             - name: RBI + IRDAI (印度)
               href: offering-rbi-irdai-india.md
-            - name: SEC 17a-4
+            - name: SEC 17a-4 (美國)
               href: offering-sec-17a-4.md
-            - name: SEC 法規 SCI
-              href: offering-sec-reg-sci.md
-            - name: SOC
-              href: offering-soc.md
-            - name: SOX
+            - name: SEC 法規 SCI (美國)
+              href: /azure/compliance/offerings/offering-sec-reg-sci-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: 共用評估
+              href: /azure/compliance/offerings/offering-shared-assessments?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: SOX (美國)
               href: offering-sox.md
             - name: TruSight
               href: offering-trusight.md
-        - name: 健康情況
+        - name: 醫療保健與生命科學
           items:
-            - name: HDS (法國)
+            - name: ASIP HDS (法國)
               href: offering-hds-france.md
-            - name: HIPAA/HITECH
-              href: offering-hipaa-hitech.md
-            - name: HITRUST
-              href: offering-hitrust.md
-            - name: MARS-E
-              href: offering-mars-e.md
-            - name: NEN-7510 (荷蘭)
-              href: offering-nen-7510-netherlands.md
-        - name: 製造業
-          items:
+            - name: EPCS (美國)
+              href: /azure/compliance/offerings/offering-epcs-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: FDA CFR Title 21 Part 11
               href: offering-fda-cfr-title-21-part-11.md
             - name: GxP
               href: offering-gxp.md
-            - name: TISAX (德國)
-              href: offering-tisax-germany.md
-        - name: 媒體
-          items:
-            - name: CDSA
-              href: offering-cdsa.md
-            - name: DPP (英國)
-              href: offering-dpp-uk.md
-            - name: FACT (英國)
-              href: offering-fact-uk.md
-            - name: MPAA
-              href: offering-mpaa.md
-        - name: 零售業
-          items:
-            - name: 23 NYCRR Part 500
-              href: offering-23-nycrr-part-500.md
-            - name: AFM + DNB (荷蘭)
-              href: offering-afm-dnb-netherlands.md
-            - name: AMF 和 ACPR (法國)
-              href: offering-amf-acpr-france.md
-            - name: CDSA
-              href: offering-cdsa.md
-            - name: CIS 基準
-              href: offering-cis-benchmark.md
-            - name: CSA-STAR 證明
-              href: offering-csa-star-attestation.md
-            - name: DoE 10 CFR Part 810
-              href: offering-doe-10-cfr-part-810.md
-            - name: DPP (英國)
-              href: offering-dpp-uk.md
-            - name: EAR (美國出口管制條例)
-              href: offering-ear.md
-            - name: ENISA IAF (EU)
-              href: offering-enisa.md
-            - name: 歐盟示範條款
-              href: offering-eu-model-clauses.md
-            - name: EBA (歐盟)
-              href: offering-eba-eu.md
-            - name: 歐盟–美國隱私保護盾
-              href: offering-eu-us-privacy-shield.md
-            - name: FACT (英國)
-              href: offering-fact-uk.md
-            - name: FCA (英國)
-              href: offering-fca-uk.md
-            - name: FFIEC (美國)
-              href: offering-ffiec-us.md
-            - name: FINMA (瑞士)
-              href: offering-finma-switzerland.md
-            - name: GLBA
-              href: offering-glba.md
+            - name: HIPAA/HITECH (美國)
+              href: offering-hipaa-hitech.md
             - name: HITRUST
               href: offering-hitrust.md
-            - name: IRS 1075
-              href: offering-irs-1075.md
-            - name: ISO 27018
-              href: offering-iso-27018.md
-            - name: ISO-9001
-              href: offering-iso-9001.md
-            - name: ITAR
-              href: offering-itar.md
-            - name: KNF (波蘭)
-              href: offering-knf-poland.md
-            - name: MARS-E
-              href: offering-mars-e.md
-            - name: MPAA
-              href: offering-mpaa.md
-            - name: NBB + FSMA (比利時)
-              href: offering-nbb-fsma-belgium.md
-            - name: NIST CSF
-              href: offering-nist-csf.md
-            - name: PCI DSS
-              href: offering-pci-dss.md
-            - name: Section 508 VPATS
-              href: offering-section-508-vpats.md
-            - name: 共用評估
-              href: offering-shared-assessments.md
-            - name: SOC
-              href: offering-soc.md
-            - name: LOPD (西班牙)
-              href: offering-lopd-spain.md
-            - name: Cyber Essentials Plus (英國)
-              href: offering-cyber-essentials-plus-uk.md
-            - name: G-Cloud (英國)
-              href: offering-g-cloud-uk.md
+            - name: MARS-E (美國)
+              href: /azure/compliance/offerings/offering-mars-e-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: NEN-7510 (荷蘭)
+              href: offering-nen-7510-netherlands.md
+        - name: 媒體與娛樂
+          items:
+            - name: CDSA
+              href: /azure/compliance/offerings/offering-cdsa?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: DPP (英國)
+              href: /azure/compliance/offerings/offering-dpp-uk?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: FACT (英國)
+              href: /azure/compliance/offerings/offering-fact-uk?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: MPA
+              href: /azure/compliance/offerings/offering-mpa?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+        - name: 電信
+          items:
+            - name: GSMA
+              href: /azure/compliance/offerings/offering-gsma?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
     - name: 地區
       items:
-        - name: 亞洲
+        - name: 美洲地區
           items:
-            - name: ABS OSPAR (新加坡)
-              href: offering-abs-ospar.md
-            - name: CS Mark (Gold) (日本)
-              href: offering-cs-mark-gold-japan.md
-            - name: DJCP (中國)
-              href: 'https://www.trustcenter.cn/compliance/default.html#DJCP'
-            - name: GB 18030 (中國)
-              href: 'https://www.trustcenter.cn/compliance/default.html#GB18030'
-            - name: ISMS (韓國)
-              href: offering-ISMS-korea.md
-            - name: MeitY (印度)
-              href: offering-meity-india.md
-            - name: MTCS (新加坡)
-              href: offering-mtcs-singapore.md
-            - name: My Number (日本)
-              href: offering-my-number-act-japan.md
-            - name: TRUCS (中國)
-              href: 'https://aka.ms/TRUCS-Compliance'
-        - name: 澳洲/太平洋
+            - name: 阿根廷 PDPA
+              href: offering-pdpa-argentina.md
+            - name: 加拿大隱私權法
+              href: /azure/compliance/offerings/offering-canada-privacy-laws?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: 美國 CCPA
+              href: offering-ccpa.md
+        - name: 亞太地區
           items:
-            - name: APRA (澳洲)
-              href: offering-APRA-Australia.md
-            - name: IRAP (澳洲)
+            - name: 澳洲 IRAP
               href: offering-IRAP-Australia.md
-            - name: NZ CC Framework (紐西蘭)
+            - name: 中國 GB 18030
+              href: 'https://www.trustcenter.cn/compliance/default.html#GB18030'
+            - name: 中國 DJCP (MLPS)
+              href: 'https://www.trustcenter.cn/compliance/default.html#DJCP'
+            - name: 中國 TCS
+              href: 'https://aka.ms/TRUCS-Compliance'
+            - name: 印度 Meity
+              href: offering-meity-india.md
+            - name: 日本 CS Mark (Gold)
+              href: offering-cs-mark-gold-japan.md
+            - name: 日本 ISMAP
+              href: offering-ismap.md
+            - name: 日本個人編號法案
+              href: offering-my-number-act-japan.md
+            - name: 韓國 K-ISMS
+              href: /azure/compliance/offerings/offering-korea-k-isms?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: 紐西蘭 ISPC
               href: offering-nz-cc-framework-nz.md
-        - name: 歐洲
+            - name: 新加坡 MTCS
+              href: offering-mtcs-singapore.md
+        - name: EMEA
           items:
-            - name: BIR 2012 (荷蘭)
-              href: offering-bir-2012-netherlands.md
-            - name: C5 (德國)
-              href: offering-c5-germany.md
-            - name: Cyber Essentials Plus (英國)
-              href: offering-cyber-essentials-plus-uk.md
-            - name: EN 301 549 (歐盟)
+            - name: 歐盟 EN 301 549
               href: offering-en-301-549-eu.md
-            - name: ENS (西班牙)
-              href: offering-ens-spain.md
-            - name: ENISA IAF (EU)
-              href: offering-enisa.md
+            - name: 歐盟 ENISA IAF
+              href: /azure/compliance/offerings/offering-eu-enisa-iaf?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: 歐盟 GDPR
+              href: gdpr.md
             - name: 歐盟示範條款
               href: offering-eu-model-clauses.md
-            - name: 歐盟–美國隱私保護盾
-              href: offering-eu-us-privacy-shield.md
-            - name: G-Cloud (英國)
-              href: offering-g-cloud-uk.md
-            - name: IDW PS 951 (德國)
+            - name: 德國 C5
+              href: offering-c5-germany.md
+            - name: 德國 IDW PS 951
               href: 'https://www.idw.de/the-idw/about-the-idw'
-            - name: IT Grundschutz Workbook (德國)
-              href: offering-it-grundschutz-workbook-germany.md
-            - name: LOPD (西班牙)
-              href: offering-lopd-spain.md
-            - name: PASF (英國)
-              href: offering-pasf-uk.md
-            - name: 個人資料當地語系化 (俄羅斯)
+            - name: 德國 IT-Grundschutz Workbook
+              href: /azure/compliance/offerings/offering-germany-it-grundschutz-workbook?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: 荷蘭 BIR 2012
+              href: offering-bir-2012-netherlands.md
+            - name: 俄羅斯個人資料當地語系化
               href: offering-russia-data-localization.md
-        - name: 北美
-          items:
-            - name: 加州消費者隱私法 (CCPA)
-              href: offering-ccpa.md
-            - name: 加拿大隱私權法
-              href: offering-canadian-privacy-laws.md
-        - name: 南美洲
-          items:
-            - name: PDPA (阿根廷)
-              href: offering-pdpa-argentina.md
+            - name: 西班牙 ENS High
+              href: offering-ens-spain.md
+            - name: 西班牙 LOPD
+              href: offering-lopd-spain.md
+            - name: 阿拉伯聯合大公國 DESC
+              href: /azure/compliance/offerings/offering-uae-desc?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: 英國 Cyber Essentials Plus
+              href: /azure/compliance/offerings/offering-uk-cyber-essentials-plus?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: 英國 G-Cloud
+              href: offering-g-cloud-uk.md
+            - name: 英國 PASF
+              href: /azure/compliance/offerings/offering-uk-pasf?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
 - name: 一般資料保護規定 (GDPR)
   items:
     - name: GDPR 概觀
