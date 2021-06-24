@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496116"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089506"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>提交刪除要求的 FASTTRACK 移轉工具組
 
@@ -35,9 +35,9 @@ ms.locfileid: "51496116"
 
 Microsoft 在 Windows 平台和 PowerShell 主控台支援此工具組的最初版本。此工具組支援下列已知平台：
 
-***表格 1 - 此工具組支援的平台***
+***表格 1 - 此工具組支援的平台** _
 
-****
+_***
 
 |PowerShell 版本|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -53,7 +53,7 @@ PowerShell 主控台應用程式的 PowerShell 資源庫中提供此工具組。
 
 ![PowerShell - 允許應用程式進行變更](../media/fasttrack-run-powershell_image.png)
 
-開啟主控台之後，您必須設定權限來執行指令碼。 輸入下列命令來允許執行指令碼：
+主控台現已開啟，您必須設定指令碼執行的權限。輸入下列命令以允許指令碼執行：
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 系統會提示您確認執行此動作，因為系統管理員可以隨時變更範圍。
 
-***設定執行原則***
+**_設定執行原則_* _
 
 ![在 PowerShell 中設定執行原則變更](../media/powershell-set-execution-policy_image.png)
 
@@ -75,7 +75,7 @@ Install-Module -Name Microsoft.FastTrack -Repository PSGallery -WarningAction Si
 
 若要順利執行此模組，您可能必須安裝相關模組，以便在尚未安裝這些模組時可供使用。您可能必須重新啟動 PowerShell。
 
-若要提交 DSR，您必須先使用 Office 365 認證登入。 輸入正確的認證將會驗證您的全域系統管理員狀態，並收集租用戶資訊。
+若要提交 DSR，您必須先使用 Office 365 認證登入，輸入適當的認證會驗證您的全域系統管理員狀態，並收集租用資訊。
 
 ```powershell
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 一旦順利登入後，系統會儲存認證和金鑰，以供與目前 PowerShell 工作階段其餘部分的 FastTrack 模組搭配使用。
 
-如果您需要連線到雲端環境，而不是商業環境，必須在下列其中一個有效的環境中，將 *-Environment* 新增至 *Log in* 命令：
+如果您需要連線到雲端環境，而不是商業環境，必須在下列其中一個有效的環境中，將 _-Environment 新增至 *Log in* 命令：
 
 - AzureCloud
 - AzureChinaCloud
@@ -100,7 +100,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM> -Environment 
 Submit-FastTrackGdprDsrRequest -DsrRequestUserEmail SubjectUserEmail@mycompany.com
 ```
 
-成功後，Cmdlet 就會傳回交易識別碼物件。 請保留交易識別碼。
+一旦成功後 – cmdlet 就會傳回交易識別碼物件。請保留交易識別碼。
 
 #### <a name="checking-the-status-of-a-request-transaction"></a>檢查要求交易的狀態
 

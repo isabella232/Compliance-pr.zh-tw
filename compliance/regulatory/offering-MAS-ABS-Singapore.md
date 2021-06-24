@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a076f51bbbefe60b1bdb41e656398da9e6d41825
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 379720a1769048fea6abc22f850a6ef54f601351
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507564"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089052"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>新加坡金融管理局 (MAS) 和新加坡銀行協會 (ABS)
 
@@ -78,9 +78,9 @@ MAS 外包風險管理指導方針發佈後不久，代表在新加坡營運的�
 
 **需要法規批准嗎？**
 
-否，不需要事先通知、諮詢或核准外包安排。 不過，MAS 希望金融機構做好準備，證明他們是如何遵守，並儘快將金融機構的外包安排 (例如資料外洩事件) 所產生的不利發展情況通知 MAS。
+否，不需要事先通知、諮詢或核准外包安排。不過，MAS 希望金融機構做好準備，證明他們是如何遵守，並儘快將金融機構的外包安排 (例如資料外洩事件) 所產生的不利發展情況通知 MAS。
 
-**什麼是「重大」外包安排，為什麼定義很重要？**
+**什麼是「材料」外包安排，為什麼定義很重要？**
 
 如果服務失敗或外洩有可能對金融公司的業務營運或管理風險和遵守相關法律和法規的能力產生重大影響，則是「重大」外包安排；或涉及客戶資訊，且如果發生未經授權的存取或揭露、遺失或竊取客戶資訊，會對公司的客戶造成重大影響。 「客戶資訊」的定義明確排除了安全加密的資訊。
 

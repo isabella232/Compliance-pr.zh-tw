@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: b047b4ccf7fa9745a7237de79bbaa198e079865e
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496023"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089012"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>適用於 Office Web Apps Server 和 Office Online Server 的 GDPR
 
