@@ -8,6 +8,8 @@
       href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: AAD 中的隔離和存取控制項
       href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: 保護 Microsoft 365 基礎結構
+      href: assurance-securing-microsoft-365-infrastructure.md
 - name: 稽核記錄
   items:
     - name: 稽核記錄概觀
@@ -62,6 +64,8 @@
       href: assurance-pre-employment-screening.md
     - name: Microsoft 雲端背景檢查
       href: assurance-cloud-background-check.md
+    - name: Microsoft 員工調職和離職
+      href: assurance-employee-transfer-termination.md
 - name: 身分識別與存取管理
   items:
     - name: 身分識別和存取管理概觀
@@ -150,6 +154,8 @@
   items:
     - name: 風險管理概觀
       href: assurance-risk-management.md
+    - name: Microsoft 365 風險管理計劃
+      href: assurance-risk-management-program.md
 - name: 安全性開發與作業
   items:
     - name: 安全性開發與作業概觀

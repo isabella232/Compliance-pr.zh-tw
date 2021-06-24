@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 702a51589a3ce7118b8d3a8dafb6c96db247232f
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1c677e2877142c866f82c00df6c1b3957231ae99
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496185"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088732"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>適用於 GDPR 和 CCPA 的 Windows 企業版資料主體要求的資料處理者服務 
 
@@ -34,15 +34,15 @@ ms.locfileid: "51496185"
 
 歐盟一般資料保護規定 (GDPR) 賦予人們 (在此法規中稱為 _資料主體_) 權利來管理雇主或其他類型的代理機構或組織 (稱為 _資料控制者_ 或僅稱為 _控制者_) 所收集的個人資料。 依據 GDPR，個人資料的定義很廣泛，舉凡與已識別或可識別自然人相關的任何資料皆屬之。 GDPR 為資料主體提供其個人資料的特定權限；這些權限包括取得個人資料副本、要求對該資料進行更正、限制對該資料的處理、刪除該資料，或是以電子格式接收該資料以移至另一個控制者。 由資料主體向控制者提出以對其個人資料採取行動的正式要求，稱為 _資料主體要求_ 或 DSR。 
 
-同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。 CCPA 也提供特定接露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](/microsoft-365/compliance/offering-ccpa)和[常見問題集](/microsoft-365/compliance/ccpa-faq)。
+同樣地，加州消費者隱私法 (CCPA) 為加州消費者提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如，刪除、存取和接收 (可攜性) 其個人資訊的權利。 CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](/microsoft-365/compliance/offering-ccpa)和[常見問題集](/microsoft-365/compliance/ccpa-faq)。
 
-本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出並對個人資料採取動作，以回應 DSR；尤其是針對如何找出、存取與處理在 Microsoft 雲端中常駐的個人資料。以下是本指南中所述程序的快速概觀： 
+本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出並對個人資料採取動作，以回應 DSR；具體而言，這包括如何找出、存取與處理位於 Microsoft 雲端的個人資料。以下是本指南中所述程序的快速概觀： 
 
 1. **存取**—擷取在 Microsoft 雲端中常駐的個人資料，若有要求，請製作可供資料主體使用的副本。 
 2. **刪除**—將會永久移除 Microsoft 雲端中常駐的個人資料。 
 3. **匯出**—將個人資料的電子副本 (以機器可讀取的格式) 提供給資料主體。 CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。
 
-CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。 個人的私人、公開或公司角色之間沒有區別。 定義的「個人資訊」一詞大致與 GDPR 下的「個人資料」對應。 不過，CCPA 也包含家庭和家用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](/microsoft-365/compliance/offering-ccpa)和[常見問題集](/microsoft-365/compliance/ccpa-faq)。
+CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。 個人的私人、公開或工作角色之間沒有區別。 定義的「個人資訊」一詞大致與 GDPR 下的「個人資料」對應。 不過，CCPA 也包含家庭和家用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](/microsoft-365/compliance/offering-ccpa)和[常見問題集](/microsoft-365/compliance/ccpa-faq)。
 
 本指南中的每一節說明資料控制者組織可以採取的程序，以回應對 Microsoft 雲端中個人資料的 DSR。 
 
@@ -77,7 +77,7 @@ Microsoft 透過 Azure 入口網站以及直接透過現有的應用程式開發
 
 ### <a name="step-1-access"></a>步驟 1：存取 
 
-租用戶系統管理員是組織中唯一能夠存取 Windows 診斷資料的人，該資料與特定使用者對 Windows 企業版註冊裝置的資料處理者服務的使用狀況有關。 針對存取要求所擷取的資料會透過匯出，以機器可讀取的格式提供；且會以檔案的形式提供，讓使用者知道與資料相關聯的是哪些裝置與服務。 如上所述，所擷取的資料不會包含可能造成 Windows 裝置安全性或穩定性受損的資料。 
+租用戶系統管理員是組織中唯一能夠存取與特定使用者對 Windows 企業版註冊裝置的資料處理者服務的使用狀況有關的 Windows 診斷資料的人。針對存取要求所擷取的資料會透過匯出，以機器可讀取的格式提供，並且會以可讓使用者知道與資料相關聯的是哪些裝置與服務的檔案形式提供。如上所述，所擷取的資料不會包含可能造成 Windows 裝置安全性或穩定性受損的資料。 
 
 Microsoft 提供入口網站體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 存取要求。 [Azure DSR，第 2 部分，步驟 3：匯出](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)說明如何透過匯出在 Azure 入口網站中執行 DSR 存取要求。
 
@@ -102,4 +102,4 @@ Microsoft 能夠直接透過現有的應用程式開發介面 (API) 匯出客戶
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>匯出或刪除問題的通知 
 
-如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 [協助 + 支援] 刀鋒視窗，並在 [訂閱管理 > 其他安全性和法規遵循要求> 隱私權刀鋒視窗和 GDPR 要求] 下提交新票證。 
+如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 **[協助 + 支援]** 刀鋒視窗，並在 **[訂閱管理 > 訂閱的隱私權和法規遵循要求> 隱私權刀鋒視窗和 GDPR 要求]** 下提交新票證。 

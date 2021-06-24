@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 36e91e0f4e1f802da84c0b4a6ff5d82ced8ab029
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120932"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088852"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Intune 資料主體要求
 
@@ -32,7 +32,7 @@ ms.locfileid: "50120932"
 
 同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。  CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.md)。
 
-本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出並處理個人資料，以回應 DSR。 具體而言，本指南包括如何尋找、存取及處理位於 Microsoft 雲端的個人資料或個人資訊。 以下是本指南中所述程序的快速概觀：
+本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出並對個人資料採取動作，以回應 DSR；具體而言，此指引包括如何找出、存取與處理位於 Microsoft 雲端的個人資料或個人資訊。以下是本指南中所述程序的快速概觀：
 
 - **探索**：使用搜尋和探索工具，更輕鬆地尋找可能成為 DSR 主體的客戶資料。 收集到可能的回應文件之後，您就可以執行下列步驟中所述的一或多個 DSR 動作來回應要求。 或者，您可能判定該要求不符合組織回應 DSR 的方針。
 - **存取：** 擷取在 Microsoft 雲端中常駐的個人資料，並在要求時製作可供資料主體使用的副本。
@@ -100,7 +100,7 @@ Microsoft 透過 Azure 入口網站，提供了存取、刪除及匯出特定客
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 存取要求。 DSR 存取要求可允許針對下列使用者個人資料進行存取，包括：(a) 使用者的識別資訊和 (b) 系統產生的記錄檔。
+Microsoft 提供入口網站與產品內體驗，讓企業客戶的租用戶系統管理員能夠管理 DSR 存取要求。DSR 存取要求存取要求可允許針對下列使用者個人資料進行存取，包括：(a) 使用者的識別資訊和 (b) 服務所產生的記錄。
 
 #### <a name="service-specific-interfaces"></a>服務特定介面
 
@@ -114,7 +114,7 @@ Microsoft Intune 能夠透過使用者介面 (UI) 或既有的應用程式開發
 
 ### <a name="step-4-restrict"></a>步驟 4：限制
 
-資料主體可能會要求您只能處理他們的個人資料。 我們提供 Azure 入口網站與既有的應用程式開發介面 (API) 兩者，或使用者介面 (UI)。 這些體驗能夠讓企業客戶的租用戶系統管理員，透過匯出資料和刪除資料的組合功能管理這類 DSR。 如需詳細資訊，請參閱[處理個人資料](/intune/privacy-data-store-process#processing-personal-data)。
+資料主體可能會要求您限制對其個人資料的處理。我們同時提供了 Azure 入口網站，以及既有的應用程式開發介面 (API) 或使用者介面 (UI)。這些體驗讓企業客戶的租用戶系統管理員能透過資料匯出和資料刪除的組合，來管理這樣的 DSR。如需詳細資訊，請參閱[處理個人資料](/intune/privacy-data-store-process#processing-personal-data)。
 
 ### <a name="step-5-delete"></a>步驟 5：刪除
 
@@ -126,7 +126,7 @@ Microsoft Intune 能夠透過使用者介面 (UI) 或既有的應用程式開發
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>匯出或刪除問題的通知
 
-如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 [協助 + 支援] 刀鋒視窗，並在 [訂閱管理 > 其他安全性和法規遵循要求> 隱私權刀鋒視窗和 GDPR 要求] 下提交新票證。
+如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 **[協助 + 支援]** 刀鋒視窗，並在 **[訂閱管理 > 訂閱的隱私權和法規遵循要求> 隱私權刀鋒視窗和 GDPR 要求]** 下提交新票證。
 
 ## <a name="learn-more"></a>深入了解
 

@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c079230e1fca6ea19248218a6ecd01eeb896fd87
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 36347cd4df74a87db2dba5977b5ed1270c29086e
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507587"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089807"
 ---
 # <a name="it-grundschutz-compliance-workbook"></a>IT-Grundschutz 合規性活頁簿
 
 ## <a name="it-grundschutz-compliance-workbook-overview"></a>IT-Grundschutz 合規性活頁簿概觀
 
-為協助組織識別和實施措施以保護 IT 系統安全，德國聯邦資訊安全辦公室 (Bundesamt für Sicherheit in der Informationstechnik 或 BSI) 建立了一套保護資訊技術的基準標準 (德文：IT-Grundschutz)。 BSI 標準包含：
+為協助組織識別和實施措施以保護 IT 系統安全，德國聯邦資訊安全辦公室 (Bundesamt für Sicherheit in der Informationstechnik 或 BSI) 建立了一套保護資訊技術的基準標準 (德文：IT-Grundschutz)。這些 BSI 標準包含：
 
 - 根據 ISO/IEC 27001 標準 (BSI 標準 100-1) 的資訊安全性管理系統 (ISMS)
 - IT-Grundschutz 方法敘述了如何設定和運作 ISMS (BSI 標準 100-2)
@@ -53,7 +53,7 @@ ms.locfileid: "49507587"
 
 **是否可以使用 Microsoft IT-Grundschutz 合規性活頁簿來幫助組織遵守 IT-Grundschutz？**
 
-是。 活頁簿的用途在於協助 Microsoft 雲端德國客戶根據 IT-Grundschutz 內容，在現有或已規劃的 ISO 27001 認證範圍內使用 Microsoft Cloud Germany 服務以實施 IT-Grundschutz 方法。
+是的。活頁簿的用途在於協助 Microsoft 雲端德國客戶根據 IT-Grundschutz 內容，在現有或已規劃的 ISO 27001 認證範圍內使用 Microsoft Cloud Germany 服務以實施 IT-Grundschutz 方法。
 
 **IT-Grundschutz 目錄與 C5 有何不同？**
 
@@ -61,7 +61,7 @@ ms.locfileid: "49507587"
 
 **什麼是 Microsoft Cloud Germany？**
 
-Microsoft Cloud Germany 實際位於德國，並遵守德國隱私權法的要求，該要求嚴格限制了將個人資料傳輸到其他國家/地區的行為，包括防止其他司法管轄機關存取可能違反國內法律的內容。 它提供公用雲端計算平台 Azure 德國以及所有服務。
+Microsoft Cloud Germany 實際位於德國，並遵守德國隱私權法的要求，該要求嚴格限制了將個人資料傳輸到其他國家/地區的行為，包括防止其他司法管轄機關存取可能違反國內法律的內容。它提供 Azure Germany、我們的公用雲端運算平台及其所有服務。
 
 ## <a name="resources"></a>資源
 
