@@ -1,5 +1,5 @@
 ---
-title: 歐盟美國和瑞士美國隱私盾架構
+title: 歐盟美國和瑞士美國隱私權護盾架構
 description: Microsoft 已通過歐盟美國和瑞士美國隱私盾架構及其承擔之承諾的認證。
 keywords: Microsoft 365, 合規性, 方案
 localization_priority: Priority
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: afe763500a4c8f3af261870af53216c6f6f95d39
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121232"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088952"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>歐盟美國和瑞士美國隱私權護盾架構
 
@@ -35,7 +35,7 @@ ms.locfileid: "50121232"
 
 ## <a name="microsoft-and-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>Microsoft 和歐盟美國與瑞士美國隱私盾架構
 
-若要加入歐盟美國和瑞士美國隱私盾架構 (這是一項自願的行動)，位於美國的公司必須公開承諾遵守架構需求，並自我認證其遵守美國商務部的要求。 一旦他們公開承諾且自我認證，根據美國法律，該承諾將可強制執行。
+若要加入歐盟美國和瑞士美國隱私盾架構 (這是一項自願的行動)，位於美國的公司必須公開承諾遵守架構需求，並自我認證其遵守美國商務部的要求。他們公開承諾並自我認證後，該承諾就會根據美國法律生效。
 
 Microsoft 已公開承諾遵守[隱私盾原則](https://www.privacyshield.gov/article?id=Requirements-of-Participation)並自我認證符合其要求。 我們的參與適用於 Microsoft 處理的所有個人資料，這些資料從歐盟、歐洲經濟區 (EEA) 和瑞士傳輸到美國。 此外，Microsoft 商務雲端服務的客戶受益於遵守 [Microsoft 線上服務條款](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)底下的標準合約條款 (也稱為 [EU 示範條款](offering-eu-model-clauses.md))，除非客戶退出宣告這些條款。
 
@@ -67,7 +67,7 @@ Azure 中的資料保護 — Azure 根據預設和客戶選項，提供強大的
 
 **根據 Microsoft 隱私盾協定，哪些資料從歐盟或瑞士傳輸到美國？**
 
-根據我們線上服務條款的規定，Microsoft 代表客戶處理的個人資料可能會在美國或 Microsoft 及其關係企業或轉包商維護設備所在的其他任何國家/地區傳輸、儲存及處理。 但是，從歐盟進行的任何這類傳輸都必須符合歐盟法律的要求。
+根據我們線上服務條款的規定，Microsoft 代表客戶處理的個人資料可能會在美國或 Microsoft 及其關係企業或轉包商維護設備所在的其他任何國家/地區傳輸、儲存及處理。不過，任何來自歐盟的此類轉移都必須符合歐盟法律的要求。
 
 透過以下方式將個人資料從歐盟傳輸到美國時：
 
