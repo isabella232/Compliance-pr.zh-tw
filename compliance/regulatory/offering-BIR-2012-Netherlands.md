@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cf7d749df05d4be1396fa988615daa5c195c51cf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506227"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089827"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>基準資訊化人民解放陣線標準 (BIR 2012)
 
@@ -33,7 +33,7 @@ BIR 涵蓋範圍報告提供了指引，指出 Microsoft 雲端服務可提供�
 
 ## <a name="microsoft-and-bir-2012"></a>Microsoft 和 BIR 2012
 
-儘管 Microsoft 不受制於 BIR 2012 合規性，政府事業尋求使用雲端服務的客戶可使用 Microsoft 現有認證來決定與此標準的合規性。 Azure 和 Office 365 經過各種定期的獨立認證和證明，其中一些與 BIR 2012 緊密相關。
+儘管 Microsoft 不受 BIR 2012 合規性的規範，來自政府部門尋求使用雲端服務的客戶可使用 Microsoft 現有憑證以其是否符合此標準。 Azure 和 Office 365 經過各種定期的獨立認證和證明，其中一些與 BIR 2012 緊密相關。
 
 [下載 Microsoft 雲端 - Azure 和 Office 365 BIR-2012 基準涵蓋範圍使用者指南](https://go.microsoft.com/fwlink/p/?linkid=2099461)
 
@@ -45,8 +45,7 @@ BIR 涵蓋範圍報告提供了指引，指出 Microsoft 雲端服務可提供�
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
-- [Azure 和 Office 365 BIR-2012 基準涵蓋範圍](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage/pdf)
-- [Azure 和 Office 365 BIR-2012 基準涵蓋範圍使用者指引 (荷蘭文)](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage%20User%20Guide_Dutch/docx)
+Microsoft 保留獨立的第三方稽核公司，以分析目前的 Azure 和 Office 365 憑證和證明 (例如 ISO/IEC 27001 和 SOC 2 Type 2) 涵蓋 Microsoft 負責的 BIR 2012 部分。 產生的報告會提供這些現有憑證和證明與 BIR 2012 標準中所列控制措施的對應。 客戶可以使用此報告做為工具，以 BIR 2012 相容的方式協助採用 Azure。 此報告清楚示範 Microsoft 涵蓋了哪些 BIR 2012 控制項，以及客戶仍要執行哪些控制措施。 'Microsoft 雲端：Azure 和 Office 365 BIR 2012 基準涵蓋範圍'報告可從 [服務信任入口網站稽核報告 - GRC 評估報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) 區段下載。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

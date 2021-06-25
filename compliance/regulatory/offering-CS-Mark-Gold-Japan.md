@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8ae3f837336b0eb79ded802d17df37fefe8d5245
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506226"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088492"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>雲端安全性金色標章 (CS 金色標章)
 
@@ -29,7 +29,7 @@ ms.locfileid: "49506226"
 
 雲端安全性標章 (CS 標章) 是日本雲端服務提供者 (CSP) 的第一項安全性標準，以 ISO/IEC 27017 (資訊安全管理的國際作業規範) 為基礎。 此標章是以 ISO/IEC 27002 做為雲端服務的基礎，應付雲端計算中的資訊安全問題，以及雲端相關資訊安全管理的實施。
 
-CS 標章是由日本資訊安全稽核協會 (JASA) (由日本總務省和經濟產業省所建立的非營利組織) 來鑑定資格，以加強日本的資訊安全。 CS 標章可促進雲端服務的使用，並提供：
+CS 標章是由日本資訊安全稽核協會 (JASA) (由日本總務省和經濟產業省所建立的非營利組織) 來鑑定資格，以加強日本的資訊安全。CS 標章可促進雲端服務的使用，並提供：
 
 - CSP 可以套用的共同標準，以解決客戶對雲端中資料的安全性和保密性，以及使用雲端服務對企業之影響的常見擔憂。
 - 客戶使用雲端服務時面臨的可驗證作業透明度和風險可見度。

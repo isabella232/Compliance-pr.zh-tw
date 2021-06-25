@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d542698eff82fa8f24a32d9f831553a9807609ce
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 43d95a4bedeca768dd6e9bf8bb4e38655382bd05
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506200"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089697"
 ---
 # <a name="korea-information-security-management-system-k-isms"></a>韓國資訊安全管理系統 (K-ISMS)
 
 ## <a name="about-k-isms"></a>關於 K-ISMS
 
-韓國政府依據《資通網路使用促進及資料保護法》([韓文](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8)和[英文](https://law.go.kr/engLsSc.do?tabMenuId=tab45)) 第 47 條，採用[韓國資訊安全管理系統](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS)。 此系統為國家/地區特定 ISMS 架構，定義一組嚴格的控制要求，旨在協助確保韓國的組織一致且安全地保護其資訊資產。
+韓國政府依據「資通網路使用促進及資料保護法」第 47 條 ([韓文](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) 和 [英文](https://law.go.kr/engLsSc.do?tabMenuId=tab45))，採用 [韓國資訊安全管理系統](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS)。 此系統為國家/地區特定 ISMS 架構，定義一組嚴格的控制要求，旨在協助確保韓國的組織一致且安全地保護其資訊資產。
 
 若要取得認證，公司必須由獨立審核員進行評估，以涵蓋資訊安全管理和安全性對策。 此系統涵蓋 104 個準則，包括資訊安全管理 5 個領域內的 12 個控制項目，以及資訊安全性對策 13 個領域內的 92 個控制項目。 其中一部分包括檢查組織的安全性管理責任、安全性原則、安全性訓練、事件回應、風險管理等。 特殊委員會會檢查審核結果及授權認證。
 
@@ -66,11 +66,11 @@ Azure 認證效期從認證日期 (2018 年 11 月 19 日) 起持續三年，每
 
 - 由《電信業務法》第 1 節第 6 條授權且在首爾和所有大城市提供資訊網路服務的網際網路服務提供者。
 
-- 《資通網路使用促進及資料保護法》第 46 條指定為「整合式資訊和通訊設備」的網際網路資料中心。
+- 《資通網路使用促進及資料保護法》第 46 條指定網際網路資料中心為「整合式資訊和通訊設備」。
 
 - 符合下列條件的任何組織：
 
-    - 《醫療法》第 4 節第 3 條分類為「高等綜合醫院」且年度銷售額或稅務收入至少 1.5 億美元的醫院。
+    - 《醫療法》第 4 節第 3 條分類為「高等綜合醫院」的院所需年度銷售額或稅務收入至少達 1.5 億美元。
     - 根據《高等教育法》第 2 條，去年 12 月 31 日前註冊學生人數至少 10,000 人的學校。
     - 資訊和通訊服務銷售額至少一千萬美元或前三個月內每日平均至少有一百萬名使用者的資訊網路服務提供者；但不包括《電子金融交易法》第 2 條第 3 項中的金融公司。
 

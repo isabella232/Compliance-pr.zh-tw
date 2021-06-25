@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c0b7a9583b8b6d2420837156e836b75326870f1d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497270"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089687"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 品質管理系統標準
 
@@ -69,7 +69,7 @@ ISO 9001:2015 是為品質管理系統建立準則的一項國際標準。 它�
 
 是的。 ISO 9001:2015 年度評定包含基礎的實體基礎結構資料中心。 請[檢閱認證](https://www.microsoft.com/?ref=aka)，以取得涵蓋範圍的詳細資訊。
 
-**可以在何處檢視 Microsoft 的 ISO 9001:2015 合規性資訊？**
+**我可以在何處檢視 ISO 9001:2015 的 Microsoft 合規性資訊？**
 
 您可以為此評估範圍內的 Azure 和其他服務下載 [ISO 9001:2015 認證](https://www.microsoft.com/?ref=aka)。
 

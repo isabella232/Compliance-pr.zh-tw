@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 13a628ee832079bd0402e5aec9969ec6e1f14cb4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121802"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089837"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>荷蘭金融市場管理局和荷蘭中央銀行
 
@@ -29,9 +29,9 @@ ms.locfileid: "50121802"
 
 荷蘭的主要金融監管者是[荷蘭金融市場管理局](https://afm.nl/en) ([Autoriteit Financiële Markten, AFM](https://afm.nl/)) 和[荷蘭中央銀行](https://www.dnb.nl/en/home/index.jsp) ([De Nederlandsche Bank, DNB](https://www.dnb.nl/home/))。 AFM 是「儲蓄、信貸、投資及保險市場的獨立主管機構」，其角色相當於 美國的 SEC。 歐洲中央銀行體系內的 DNB 可決定並施行貨幣原則，並對荷蘭的金融機構進行審慎監督。  
   
-這兩個機構與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐盟機關，確保對整個歐洲銀行業進行有效且一致的審慎規範與監督。」 為此，EBA 概述了歐盟金融機構使用雲端運算的全方位措施，[外包給雲端服務提供者的建議](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf )。  
+這兩個機構與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐盟機關，確保對整個歐洲銀行業進行有效且一致的審慎規範與監督。」 為此，EBA 概述了歐盟金融機構使用雲端計算的全方位措施，[外包給雲端服務提供者的建議](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf )。  
   
-通常，法律和準則支持以下觀點：涉及第三方服務的雲端運算可以視為一種外包形式，因此荷蘭的金融機構必須在將業務活動移至雲端之前解決相關風險。 包括：
+通常，法律和準則支持以下觀點：涉及第三方服務的雲端運算可以視為一種外包形式，因此荷蘭的金融機構必須在將業務活動移至雲端之前解決相關風險。這些包括：
 
 - 荷蘭立法機構於 2018 年發布的金融監管法 (FSA) ([荷蘭文](https://wetten.overheid.nl/BWBR0020368/2018-02-09)和[英文](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)) 為金融機構提供了條件，以控制與外包相關的風險並確保其不妨礙監管。
 - DNB 發布的 Circulaire 雲端運算 ([荷蘭文](https://www.toezicht.dnb.nl/binaries/50-224828.pdf)和[英文](https://www.toezicht.dnb.nl/en/binaries/51-224828.pdf)) 要求在受監管的荷蘭機構從事雲端運算之前，必須將其潛在外包安排告知 DNB，以確保營運流程和風險得到控制。
@@ -70,7 +70,7 @@ Microsoft 檢查清單可協助荷蘭金融公司執行 Microsoft 商務雲端�
 
 **需要法規批准嗎？**
 
-否。 不過，Circulaire 雲端運算指出 DNB 預期受監督的荷蘭機構會在參與雲端運算之前，提交有關潛在外包安排的風險分析。
+不用。不過，Circulaire 雲端運算指出 DNB 預期受監督的荷蘭機構會在參與雲端運算之前，提交有關潛在外包安排的風險分析。
 
 **在與雲端服務提供者的合約中，是否必須包含任何強制性條款？**
 

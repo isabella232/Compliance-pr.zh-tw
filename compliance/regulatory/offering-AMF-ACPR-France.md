@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e83206a9d8f0639d529b64f00c07a79a16d40f0d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121402"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088512"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>金融管理局 (AMF) 與審慎管理局 (ACPR) 法國
 
@@ -36,7 +36,7 @@ AMF 與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐盟機關�
 - AMF 一般法規 ([法文](https://amf-france.org/eli/fr/aai/amf/rg/livre/1/fr.html) 和 [英文](https://amf-france.org/eli/fr/aai/amf/rg/20180103/notes/en.pdf)) 設定規則和程序，以強制執行金融法規。 特別是第 313-75 條規定了金融機構與雲端服務提供者簽訂的合約中必須反映的條件。
 - ACPR 發佈與雲端計算相關的風險 ([法文](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-risques-associes-au-cloud-computing.pdf)和[英文](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-the-risks-associated-with-cloud-computing.pdf)) 鼓勵受 ACPR 監督的組織在將商務功能外包給雲端時採取適當的措施來管理風險。 此外，[2014 年 11 月3 日 ACPR 指令中有關受 ACPR 監督的公司內部控制的第 239 條](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029700770&categorieLien=id) (法文) 還規定了與雲端服務提供者簽訂的合約中應包含的強制性條款。
 - 在某些情況下，受監管的機構必須就材料外包安排通知 AMF 和 ACPR，尤其是在它們有可能嚴重影響其業務作業的情況下。
-- 身為法國資料保護機關，[CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l’Informatique et des Libertés) 提出了許多雲端計算指導方針，包括提供建議給規劃使用雲端計算服務的公司 ([法文](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf)和[英文](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf))。
+- 身為法國資料保護機關，[CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l’Informatique et des Libertés) 已提出了許多雲端計算指導方針，包括提供建議給規劃使用雲端計算服務的公司 ([法文](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) 和 [英文](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf))。
 
 ## <a name="microsoft-and-the-amf-and-acpr"></a>Microsoft 與 AMF 和 ACPR
 

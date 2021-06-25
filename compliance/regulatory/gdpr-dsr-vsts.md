@@ -20,12 +20,12 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: c27890900be85d951fb3a9dbfd11e4140ef955ff
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 5511888b34cd9e3eb7f4e76d86c91cea4f4924c6
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496207"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088522"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Azure DevOps Services 資料主體要求
 
@@ -43,11 +43,11 @@ ms.locfileid: "51496207"
 
 ## <a name="personal-data-we-collect"></a>我們收集的個人資料
 
-Microsoft 會收集使用者的資料以進行操作並改善 Azure DevOps Services。 Azure DevOps Services 會收集兩種類別的資料：客戶資料和系統產生的記錄。 客戶資料包含 Azure DevOps Services 運作服務所需、可識別使用者的交易資料和互動資料。 系統產生的記錄包含針對每個產品區域和功能匯總的服務使用資料。
+Microsoft 會向使用者收集資料來運作及改善 Azure DevOps Services。Azure DevOps Services 會收集兩個類型的資料：客戶資料和系統產生的記錄。客戶資料包括 Azure DevOps Services 運作服務所需的使用者識別交易式和互動式資料。系統產生的記錄包含針對每個產品區域和功能所彙總的服務使用狀況資料。
 
 ## <a name="delete-azure-devops-data"></a>刪除 Azure DevOps 資料
 
-若要刪除相關聯的 Azure DevOps Services 客戶資料以及讓系統產生的記錄中找到的個人識別資料匿名化，第一步就是關閉您的 Azure Active Directory (AAD) 身分識別帳戶或 Microsoft 帳戶 (MSA)。 您可以信賴 Azure DevOps Services，因為這是一個具備嚴格完整性、追溯性和稽核規則的記錄系統。 這些現有的責任影響我們針對 GDPR 的刪除和保留責任。 關閉身分識別帳戶並不會改變、移除或變更與 Azure DevOps 組織中個別身分識別相關聯的成品和記錄。 我們保證當整個 Azure DevOps 組織刪除後，所有相關聯的個人識別資料，以及該組織中系統產生的記錄都會從我們的系統中移除 (必須經過 Azure DevOps 組織 30 天的虛刪除期間之後)。
+若要刪除相關聯的 Azure DevOps Services 客戶資料，並將系統產生的記錄中找到的個人識別資料匿名化，第一個步驟是關閉您的 Azure Active Directory (AAD) 或 Microsoft 帳戶 (MSA)。會利用嚴格的整合性、追蹤功能與稽核規則，仰賴 Azure DevOps Services 作為記錄的系統。這些現有規範會影響我們刪除及保留 GDPR 的義務。關閉身分識別帳戶並不會修改、移除或變更與 Azure DevOps 組織中個人身分識別相關聯的成品和記錄。我們已確定在刪除整個 Azure DevOps 組織時，該帳戶中找到的所有相關聯個人識別資料和系統產生的記錄都會從我們的系統中移除 (在必要的 Azure DevOps 組織 30 天虛刪除期間結束後)。
 
 ## <a name="export-azure-devops-data"></a>匯出 Azure DevOps 資料
 
@@ -59,7 +59,7 @@ Microsoft 會收集使用者的資料以進行操作並改善 Azure DevOps Servi
 
 ## <a name="export-or-delete-issues"></a>匯出或刪除問題
 
-針對 AAD 身分識別，如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 [協助 + 支援] 刀鋒視窗，並在 [訂閱管理] > [其他安全性和法規遵循要求] > [隱私權刀鋒視窗和 GDPR 要求] 下提交新票證。
+針對 AAD 身分識別，如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 **[協助 + 支援]** 刀鋒視窗，並在 **[訂閱管理]** > **[訂閱的隱私權和合規性要求]** > **[隱私權刀鋒視窗和 GDPR 要求]** 下提交新票證。
 
 針對 MSA 身分識別，如果您從隱私權要求網站匯出資料時遇到問題，請登入[隱私權要求網站](https://www.microsoft.com/concern/privacyrequest-msa)並提交要求，以透過要求網路表格取得 Microsoft 隱私權小組提供的協助。
 
