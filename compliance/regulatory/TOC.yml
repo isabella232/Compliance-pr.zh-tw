@@ -325,4 +325,4 @@
 - name: 加州消費者隱私法 (CCPA)
   items:
     - name: CCPA - 常見問題集
-      href: ccpa-faq.md
+      href: ccpa-faq.yml
