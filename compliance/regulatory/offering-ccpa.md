@@ -1,7 +1,7 @@
 ---
 title: 加州消費者隱私法 (CCPA)
 description: Microsoft 服務和加州消費者隱私權法案 (CCPA) 。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df5b77a9ae9e5f38e695294b1180bba5a4ef8eca
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 83fa62315fa141e19c5c838c4b2961c1af364531
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121142"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141444"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>加州消費者隱私法 (CCPA)
 
@@ -37,7 +37,7 @@ CCPA 會在 2020 年 1 月 1 日生效。 不過，加州律師一般 (AG) 會�
 
 ## <a name="microsoft-and-the-ccpa"></a>Microsoft 和 CCPA
 
-針對在加州公司開展生意的商業客戶，Microsoft 將會成為我們線上服務和專業服務產品的「服務提供者」。  線上服務條款 (OST) 和 Microsoft 專業服務資料保護附錄 (MSDPA) 已符合 CCPA 下的服務提供者需求，而且通常足以允許客戶繼續將資料傳送至我們的線上服務。 如此一來，不需要額外的合約變更，客戶就能在 CCPA 中依靠 Microsoft 做為服務提供者。
+針對在加州公司開展生意的商業客戶，Microsoft 將擔當我們線上服務和 Professional 服務等方面的「服務提供者」。  線上服務條款 (OST) 和 Microsoft Professional 服務資料保護附錄 (MSDPA) 已符合 CCPA 下的服務提供者需求，而且通常足以允許客戶繼續將資料傳送至我們的線上服務。 如此一來，不需要額外的合約變更，客戶就能在 CCPA 中依靠 Microsoft 做為服務提供者。
 
 在 OST 中設定時，Microsoft 會遵守所有適用于其提供線上服務的法律和規定，包括 CCPA。  
 
@@ -48,7 +48,7 @@ CCPA 會在 2020 年 1 月 1 日生效。 不過，加州律師一般 (AG) 會�
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365](https://aka.ms/o365-compliance-framework)
-- 支援與專業服務
+- 支援和 Professional 服務
 - Visual Studio
 
 ## <a name="how-you-can-prepare-for-your-ccpa-compliance-when-using-microsoft-products-and-services"></a>使用 Microsoft 產品和服務時，如何準備 CCPA 相容性
@@ -97,12 +97,12 @@ CCPA 需要將個人資訊收集、轉移及銷售的管制企業，還有其他
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 
 - [協助您準備新的加州消費者隱私權法案的5個秘訣](https://aka.ms/M365ComplianceBlog_RSA)
 - [CCPA 指南快速入門](https://info.microsoft.com/ww-landing-Five-tips-to-help-you-prepare-for-the-California-Consumer-Privacy-Act.html)
 - [資料主體要求和 GDPR](gdpr-data-subject-requests.md)
-- [加州消費者隱私法 (CCPA) 常見問題集](ccpa-faq.md)
+- [加州消費者隱私法 (CCPA) 常見問題集](ccpa-faq.yml)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
