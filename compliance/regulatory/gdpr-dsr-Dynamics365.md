@@ -19,27 +19,27 @@ hideEdit: true
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 231021c75031a290686027f55bca868f4d7ac317
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 2fff7a2ffb6dc48e43c8a514609f0f584cb60db1
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120942"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141474"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Dynamics 365 資料主體要求
 
 歐盟[一般資料保護規定 (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) 賦予人員 (在規範中稱為「資料主體」) 權限，以管理由雇主或其他類型的公司或組織 (稱為「資料控制者」或簡稱「控制者」) 收集而來的個人資料。個人資料在 GDPR 中的定義非常廣泛，係指與已識別或可識別自然人相關的任何資料。GDPR 賦予資料主體對其個人資料的特定權限，這些權限包括取得個人資料副本、要求更正資料、限制資料的處理、刪除資料或以電子格式接收資料，以便轉交給其他控制者。由資料主體向控制者提出對其個人資料採取某項動作的正式要求，稱為「資料主體要求」或 DSR。
 
-同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。  CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.md)。
+同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。  CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.yml)。
 
-本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出並處理個人資料，以回應 DSR 要求。 具體而言，這包括如何尋找、存取和處理位於 Microsoft 雲端的個人資料或個人資訊。 以下是本指南中所述程序的快速概觀：
+本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出個人資料並對其採取動作，以回應 DSR。尤其是包括如何找出、存取與處理在 Microsoft 雲端中常駐的個人資料或個人資訊。以下是本指南中所述程序的快速概觀：
 
 - **探索**：使用搜尋和探索工具，更輕鬆地尋找可能成為 DSR 要求主體的客戶資料。 收集到可能的回應文件之後，您就可以執行下列步驟中所述的一或多個 DSR 動作來回應要求。 或者，您可能判定該要求不符合組織回應 DSR 要求的方針。
 - **存取：** 擷取在 Microsoft 雲端中常駐的個人資料，若有要求，請製作可供資料主體使用的副本。
 - **修正：** 在適用情況下，對個人資料進行變更或實行其他要求的動作。
 - **限制：** 藉由盡可能移除各種線上服務的授權或關閉所需的服務，以限制個人資料的處理。 您可以
 - **刪除：** 永久移除 Microsoft 雲端中常駐的個人資料。
-- **匯出/接收 (可攜性)：** 將個人資料或個人資訊以電子複本 (以電腦可讀取的格式) 提供給資料主體。 CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。 個人的私人、公開或工作角色之間沒有區別。 定義的「個人資訊」一詞大致與 GDPR 下的「個人資料」對應。 不過，CCPA 也包含家庭和家用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.md)。
+- **匯出/接收 (可攜性)：** 將個人資料或個人資訊以電子複本 (以電腦可讀取的格式) 提供給資料主體。 CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。 個人的私人、公開或工作角色之間沒有區別。 定義的「個人資訊」一詞大致與 GDPR 下的「個人資料」對應。 不過，CCPA 也包含家庭和家用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.yml)。
 
 本指南中的每一節概述資料控制者組織可以採取的技術程序，以回應對 Microsoft 雲端中個人資料的 DSR 要求
 
@@ -55,10 +55,10 @@ ms.locfileid: "50120942"
 
 ## <a name="how-this-guide-can-help-you-meet-your-controller-responsibilities"></a>本指南如何協助您符合您的控制者責任
 
-本指南分為兩個部分，說明如何使用 Dynamics 365 產品、服務及系統管理工具，協助您找出Microsoft 雲端中的資料並對其採取動作，以回應根據 GDPR 行使其權利的資料主體的要求。 第一部分介紹客戶資料中包含的個人資料，第二部分介紹在系統產生記錄中擷取的其他假名化個人資料。
+本指南 (分為兩部分) 說明如何使用 Dynamics 365 產品、服務及系統管理工具，來協助您尋找和處理 Microsoft 雲端中的資料，以回應根據 GDPR 行使其權利的資料主體所提出的要求。第一個部分提及的是在客戶資料中包含的個人資料，接下來的部分提及的是從系統產生的記錄檔中擷取、其他經過假名化處理的個人資料。
 
 - **第 1 部分：針對對客戶資料中包含的個人資料，回應資料主體權利 (DSR) 要求：** 本指南中的第 1 部分將討論如何存取、修正、限制、刪除個人資料，並將其從 Dynamics 365 應用程式 (軟體即服務) 中匯出；系統會將其當作您提供給線上服務的客戶資料中的一部分來處理。
-- **第 2 部分：回應假名化資料的資料主體權利要求：** 當您使用 Dynamics 365 企業服務時，Microsoft 會產生一些資訊 (亦即本文件內的 *系統產生的記錄*) 以提供服務，此資訊僅限於使用者留下而可識別他們在系統中動作的使用記錄。 在未使用其他資訊的情況下，雖然無法將這項資料歸屬於特定資料主體，但其中有部分在 GDPR 的規範下，仍可能會視為屬於個人資料。 本指南第 2 部分會討論如何存取、刪除及匯入由 Dynamics 365 所產生之系統產生的記錄。
+- **第 2 部分：針對經過假名化處理的資料，回應資料主體權利要求。** 當您使用 Dynamics 365 企業服務時，Microsoft 會產生某些資訊 (在此文件內稱為 *系統產生的記錄檔*) 以提供服務；此服務會受到使用者所剩下的使用量限制，以識別使用者在系統中的動作。在未使用其他資訊的情況下，雖然無法將這項資料歸屬於特定資料主體，但可將某些資料視為符合 GDPR 的個人資料。本指南第 2 部分將討論如何存取、刪除及匯出 Dynamics 365 所產生之系統產生的記錄。
 
 ## <a name="preparing-for-data-subject-rights-investigations"></a>準備資料主體權限調查
 
@@ -125,7 +125,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 在 ***Dynamics 365 Business Central*** 中，您可以使用兩種功能將客戶資料的副本提供給資料主體：
 
-您可以將客戶資料匯出為 Excel 檔案。 之後您可以在 Excel 中編輯要包含在可攜性要求中的客戶資料，然後儲存為經常使用的機器可讀取格式，例如 .csv 或 .xml。 如需詳細資訊，請參閱[將您的商務資料匯出至 Excel](/dynamics365/business-central/about-export-data)。
+您可以將客戶資料匯出至 Excel 檔案。在 Excel 中，您可以編輯要包含在可攜性要求中的客戶資料，然後將其儲存為常用、機器可讀取的格式 (例如 .csv 或 .xml)。如需詳細資訊，請參閱[將您的商務資料匯出至 Excel。](/dynamics365/business-central/about-export-data)
 
 在 ***Dynamics 365 for Talent*** 中，您可以使用 [擴充人員搜尋報表](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report)，來蒐集資訊以支援對資料主體之個人資料副本的要求。
 
@@ -133,7 +133,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 ***Dynamics 365 for Customer Engagement*** 提供您以下方法來修正不精準或不完整的客戶資料，或清除客戶資料：
 
-- 使用「尋找客戶資料」中所述的功能來搜尋客戶資料，並在 [客戶參與表單] 中直接編輯資料。 您可在單一資料列層級進行編輯，或直接修改多個資料列。
+- 使用「尋找客戶資料」中所述的功能來搜尋客戶資料並直接編輯 Customer Engagement 表格中的資料。您可在單一資料列層級進行編輯，或直接修改多個資料列。
 - 大量編輯多個 Customer Engagement 記錄：您可以利用 Microsoft Office 增益集將資料匯出至 Microsoft Excel、進行變更，然後將已修改的資料從 Excel 匯入至 Dynamics 365 for Customer Engagement。
 
 此外，針對 Dynamics 365 for Marketing，您還可以：
@@ -149,7 +149,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 若要快速大量編輯 Business Central 的多筆記錄，您可以使用 [Business Central Excel 增益集](/dynamics365/business-central/finance-analyze-excel#the--excel-add-in)將清單匯出至 Excel 來修正多筆記錄，然後再從 Business Central 中的 Excel 發佈已修改的資料。如需詳細資訊，請參閱[將您的商務資料匯出至 Excel](/dynamics365/business-central/about-export-data)。
 
-您可以手動編輯內含目標個人資料的資料元素，來變更在任何欄位中所儲存的客戶資料 (例如客戶卡中客戶的相關資訊)。 如需詳細資訊，請參閱[輸入資料](/dynamics365/business-central/ui-enter-data)。
+您可以手動編輯內含目標個人資料的資料元素，來變更在任何欄位中所儲存的客戶資料 (例如客戶卡片中的客戶相關資訊)。如需詳細資訊，請參閱[輸入資料](/dynamics365/business-central/ui-enter-data)。
 
 #### <a name="brief-note-about-modifying-entries-in-business-transactions"></a>修改商務交易中項目的簡短備註
 
@@ -161,7 +161,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 當您從資料主體收到限制對客戶資料處理的要求時，可輕易從線上服務擷取受影響的客戶資料，並將其儲存在個別容器 (即，內部部署儲存空間或具有資料隔離功能的個別 Web 服務) 中，與任何雲端應用程式所提供的處理功能隔離。
 
-替代機制，例如資料處理封鎖是由 ***Dynamics 365 商務中心*** 所提供，在其中，使用者能夠封鎖特定資料主體的記錄。 如需詳細資訊，請參閱[限制資料主體的資料處理](/dynamics365/business-central/admin-responding-to-requests-about-personal-data#restrict-data-processing-for-a-data-subject)。 當記錄標示為已封鎖時，Dynamics 365 Business Central 將不再繼續處理該資料主體的客戶資料。 您無法建立使用封鎖的記錄的新交易。比方說，當客戶或銷售人員遭封鎖時，您無法為客戶建立新發票。
+***Dynamics 365 Business Central*** 也提供了替代機制 (例如資料處理封鎖)，讓使用者可封鎖特定資料主體的記錄。如需詳細資訊，請參閱 [限制資料主體的資料處理](/dynamics365/business-central/admin-responding-to-requests-about-personal-data#restrict-data-processing-for-a-data-subject)。當某筆記錄已標示為封鎖時，Dynamics 365 Business Central 會停止處理該資料主體的客戶資料。您無法建立使用已封鎖記錄的新交易；例如，當客戶或銷售人員遭到封鎖時，您則無法為客戶建立新發票。
 
 ### <a name="deleting-customer-data"></a>刪除客戶資料
 
@@ -170,7 +170,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 - 大量編輯多個 Dynamics 365 記錄，您可以利用 Microsoft Office 增益集將資料匯出至 Microsoft Excel、進行變更，然後將已修改資料從 Excel 匯入至線上服務。
 - 您可以找出您想要刪除的資料，來刪除在任何欄位中儲存的客戶資料，然後手動刪除內含目標客戶資料的資料元素 (就像對代表資料主題的連絡人記錄與包含個人資料的其它記錄使用實刪除)
 
-此外，針對 Dynamics 365 Marketing，刪除連絡人將確保也會移除具有個人資訊的互動資料。 若為任何自訂欄位或實體，您必須自訂您的系統，以確定會從相關記錄中刪除所有客戶資料和/或從連絡人記錄中取消連結，以便移除所有個人資訊。 詳細資訊：[開發人員指南 (行銷)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide)。
+此外，針對 Dynamics 365 Marketing，刪除連絡人會確保同時移除與個人資訊的互動資料。針對任何自訂欄位或實體，您必須自訂系統，以確保其會刪除來自相關記錄的所有客戶資料，及/或取消其與連絡人記錄的連結，如此將會移除所有個人資訊。如需詳細資訊：[開發人員指南 (行銷)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide)。
 
 ***Dynamics 365 Customer Service Insights*** 也提供讓組織 [刪除客戶資料](/dynamics365/ai/customer-service-insights/gdpr-delete)的功能。
 
@@ -179,7 +179,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 在 ***Dynamics 365 Business Central*** 中，當資料主體要求您刪除剛好包含在您的客戶資料中的個人資料時，有數個方法可以解決此要求：
 
 - 若要快速大量編輯 Business Central 的多筆記錄，您可以使用 [Business Central Excel 增益集](/dynamics365/business-central/finance-analyze-excel#the--excel-add-in)來刪除多筆記錄，然後再從 Business Central 中的 Excel 發佈這些變更。如需詳細資訊，請參閱[將您的商務資料匯出至 Excel](/dynamics365/business-central/about-export-data)。
-- 您可以手動刪除包含目標客戶資料的資料元素，來刪除儲存在任何欄位中的客戶資料。 如需詳細資訊，請參閱[輸入資料](/dynamics365/business-central/ui-enter-data)。
+- 您可以手動刪除包含目標客戶資料的資料元素，來刪除在任何欄位中儲存的客戶資料。如需詳細資訊，請參閱[輸入資料](/dynamics365/business-central/ui-enter-data)。
 - 例如，您可以刪除連絡人，然後執行「刪除已取消的互動記錄項目」批次作業來直接刪除客戶資料，以刪除與該連絡人的互動。
 - 您可以[刪除包含客戶資料的文件](/dynamics365/business-central/admin-manage-documents)，例如備忘錄和已過帳的銷售和採購發票。
 
@@ -187,7 +187,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 ### <a name="exporting-customer-data"></a>匯出客戶資料
 
-為了回應資料可攜性要求，***Dynamics 365 for Customer Engagement*** 中的客戶資料可使用完整的實體匯出功能來匯出。 客戶資料可以匯出為靜態 Excel 檔案，以利資料可攜性要求。 之後您可以使用 Excel 來編輯要包含在可攜性要求中的個人資料，然後儲存為經常使用的機器可讀取格式，例如 .csv 或 .xml。
+若要回應資料可攜性的要求，您可以使用完整的實體匯出功能來匯出 ***Dynamics 365 for Customer Engagement*** 中的客戶資料。您可以將客戶資料匯出至靜態的 Excel 檔案，以促進資料可攜性的要求。您可以使用 Excel 來編輯要包含在可攜性要求中的個人資料，並將其儲存為 .csv 或 .xml 等常用、機器可讀取的格式。
 
 此外，針對 Dynamics 365 for Marketing，系統會提供[專用的 API](/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact)，讓客戶可建置擴充功能，以便從已擷取的客戶互動中，擷取可能內含個人資料的其他記錄。該 API 會載入後端系統中的所有相關資訊，並將其組合成單一的可攜式文件。
 
@@ -199,8 +199,8 @@ Dynamics 365 for Finance and Operations 和 ***Dynamics 365 for Talent*** 兩者
 
 ***Dynamics 365 Business Central*** 提供下列功能：
 
-- 您可以將客戶資料匯出為 Excel 檔案。 之後您可以在 Excel 中編輯要包含在可攜性要求中的客戶資料，然後儲存為經常使用的機器可讀取格式，例如 .csv 或 .xml。 如需詳細資訊，請參閱[將您的商務資料匯出至 Excel](/dynamics365/business-central/about-export-data)。
-- 您可以將客戶資料匯出為 Excel 檔案。 之後您可以在 Excel 中編輯要包含在可攜性要求中的客戶資料，然後儲存為經常使用的機器可讀取格式，例如 .csv 或 .xml。 如需詳細資訊，請參閱[將您的商務資料匯出至 Excel](/dynamics365/business-central/about-export-data)。
+- 您可以將客戶資料匯出至 Excel 檔案。在 Excel 中，您可以編輯要包含在可攜性要求中的客戶資料，然後將其儲存為常用、機器可讀取格式 (例如 .csv 或 .xml)。如需詳細資訊，請參閱[將您的商務資料匯出至 Excel](/dynamics365/business-central/about-export-data)。
+- 您可以將客戶資料匯出至 Excel 檔案。在 Excel 中，您可以編輯要包含在可攜性要求中的客戶資料，然後將其儲存為常用、機器可讀取格式 (例如 .csv 或 .xml)。如需詳細資訊，請參閱[將您的商務資料匯出至 Excel](/dynamics365/business-central/about-export-data)。
 
 
 ## <a name="part-2-responding-to-dsrs-for-system-generated-logs"></a>第 2 部分：回應系統所產生記錄的 DSR
@@ -237,7 +237,7 @@ Azure 支援此要求，我們讓貴組織能以原生 JSON 格式，將資料�
 |:----|:---|
 |**Microsoft 資料記錄檔匯出工具需要花費多少時間才能完成要求？**| 這取決於數項因素；在大多數情況下，一或兩天應可完成，但也有可能需要最長 30 天的時間。 |
 |**輸出的格式是什麼？**| 輸出會是機器可讀取的結構化檔案，例如 XML、CSV 或 JSON。 |
-|**資料記錄檔匯出工具傳回的資料為何？**| 資料記錄匯出工具會傳回 Microsoft 儲存的系統產生的記錄檔。 匯出的資料會跨越不同的 Microsoft 服務，包括 Office 365、Azure 和 Dynamics。 |
+|**資料記錄檔匯出工具傳回的資料為何？**| 「資料記錄檔匯出」工具會傳回 Microsoft 所儲存、由系統產生的記錄。所匯出的資料會橫跨各種 Microsoft 服務 (包括 Office 365、Azure 和 Dynamics)。 |
 |***誰有權存取資料記錄檔匯出工具，以提交對系統所產生記錄檔的存取要求？**| Dynamics 365 全域系統管理員將有權存取「GDPR 記錄檔管理員」公用程式。 |
 |**資料傳回給使用者的方式為何？**| 系統會將資料匯出至貴組織的 Azure 儲存體位置；貴組織的系統管理員將決定是否向使用者顯示此資料，或將此資料傳回給使用者。 |
 |**資料在系統產生的記錄檔中看起來會是麼樣子？**| 以 JSON 格式記錄的系統所產生記錄檔範例： <br><br> "DateTime": "2017-04-28T12:09:29-07:00", <br> "AppName": "SharePoint", <br> "Action": "OpenFile", <br> "IP": "154.192.13.131", <br> "DevicePlatform": "Windows 1.0.1607" |

@@ -20,24 +20,24 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: eccc07b5f40182c3dad8652f0e4c1671b5eb9843
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496226"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141464"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Visual Studio 系列資料主體要求
 
 歐盟[一般資料保護規範 (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) 賦予人員 (在規範中稱為「資料主體」) 權限，以管理他們的個人資料。個人資料在 GDPR 中的定義非常廣泛，係指與已識別或可識別之自然人相關的任何資料。GDPR 賦予資料主體對其個人資料的特定權限，這些權限包括取得個人資料副本、要求更正資料、限制資料的處理、刪除資料或以電子格式接收資料。由資料主體向資料控制者 (具有個人資料控制權的雇主或其他類型的公司或組織) 提出對該資料主體的個人資料採取某項動作的正式要求，稱為「資料主體要求」或 DSR。
 
-同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。  CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.md)。
+同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。  CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.yml)。
 
 如需關於 GDPR 的一般資訊，請參閱[服務信任入口網站的 GDPR 區段](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)。
 
 ## <a name="products-covered-by-this-guide"></a>本指南所涵蓋的產品
 
-本指南將討論如何使用 Microsoft 工具，匯出或刪除在驗證的 (登入的) 工作階段期間使用 Visual Studio 和 Visual Studio for Mac，以及這兩個產品和 Visual Studio Code 的 Microsoft 擴充功能所收集的個人資料。 本指南也涵蓋如何針對使用 Visual Studio 開發人員社群、NuGet.org 和 ASP.NET 網站時收集的個人資料進行資料主體要求。 這些產品可讓您使用非 Microsoft 工具和擴充功能，而 Microsoft 不是這些工具和擴充功能的資料處理者或控制者。 使用者應連絡工具或擴充功能提供者，以瞭解這些工具和擴充功能的個人資料和集合原則。
+本文將討論如何使用 Microsoft 工具，將 Visual Studio 和 Visual Studio for Mac 及 Microsoft 對上述兩者與 Visual Studio Code 之擴充功能的驗證 (登入) 工作階段使用期間所收集的個人資料匯出或刪除。本指南也會說明如何針對在使用 Visual Studio 開發人員社群、NuGet.org 和 ASP.NET 網站時所收集的個人資料提出資料主體要求。這些產品可讓您使用非 Microsoft 工具和擴充功能，且 Microsoft 並非這些工具和擴充功能的資料處理者或控制者。使用者必須連絡工具或擴充功能提供者，以了解個人資料與這些工具和擴充功能的集合原則。
 
 ## <a name="additional-privacy-information"></a>其他隱私權資訊
 
