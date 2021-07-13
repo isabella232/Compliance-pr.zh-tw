@@ -1,7 +1,7 @@
 ---
 title: 2002 年沙賓法案 (SOX)
 description: 金融服務公司可以使用 Microsoft 規範報告來處理其與 Sarbanes-Oxley 法案的相容性。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089787"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384343"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>2002 年沙賓法案 (SOX)
 
@@ -39,21 +39,35 @@ Microsoft cloud services 客戶遵循 Sarbanes-Oxley 法案 (SOX) 可使用從�
 
 由協力廠商審核公司所產生的「審核報告」會證實 Microsoft 控制項已正確設計，在指定日期的作業中，並在指定的時間週期內有效運作。 客戶可以查看報告，以瞭解 Microsoft control 目標和其控制項的效能，並取得補充性控制項的存取權。
 
-為了進一步協助 Azure 用戶端解決其 SOX 義務，Microsoft 已發佈 [Azure 的 Sarbanes-Oxley 的 Azure 指導](https://aka.ms/Azure-SOX-Guide)方針。 本檔提供遷移的最佳作法，包括遵循 SOX 的影響，並在將 SOX 相關應用程式（Microsoft 財政部和 Microsoft 財務）遷移至 Azure 的內部經驗上進行繪製。
-
 在 Microsoft，我們共同分享與我們客戶相符的責任。 我們提供規範計畫的詳細資料，您可以從驗證協力廠商要求詳細的審計結果來驗證。 不過，最後，您可以決定我們的服務是否符合適用于您公司的特定法律和規定。 例如，有與 SOX 相關的安全性控制措施（例如，使用者存取雲端資源）是您的責任：您的組織必須在您的 SOX 法規遵從性的情況下，開發這些控制項的適當審核。
 
-深入瞭解如何在解決您的 SOX 合規性義務時使用 Microsoft Azure 合規性報告：[下載 Sarbanes-Oxley 的 Azure 指南](https://aka.ms/Azure-SOX-Guide)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
-
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
+- Office 365
+- Power BI 雲端服務 (為獨立服務，或是包含在 Office 365 商標計畫或套件中) 
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="azure-dynamics-365-and-sox"></a>Azure、Dynamics 365 和 SOX
+
+如需 Azure、Dynamics 365 及其他線上服務規範的詳細資訊，請參閱 [AZURE SOX 服務](/azure/compliance/offerings/offering-sox-us)。
+
+## <a name="office-365-and-sox"></a>Office 365 和 SOX
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| **Office 365** | 擴充迴圈、自動替代文字、Azure 資訊保護、二進位轉換服務、預約、Delve 檔專案、編輯器、Exchange Online、表單、[插入線上媒體]、[Insights]、[Kaizala]、[microsoft Analytics]、[microsoft 預約]、[microsoft Graph]、[Microsoft Teams]、[MyAnalytics]、[Office 365 雲端 App 安全性]、Office 365 的影片、Office 365、商務用 OneDrive、Power Apps PowerApps、Power Automate、Power BI PowerPoint  |
+
+### <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 [SOC 1 Type 2](offering-SOC.md) 報告：
 
@@ -61,17 +75,15 @@ Microsoft cloud services 客戶遵循 Sarbanes-Oxley 法案 (SOX) 可使用從�
 - Dynamics 365
 - Office 365
 
-## <a name="frequently-asked-questions"></a>常見問題集
+### <a name="frequently-asked-questions"></a>常見問題集
 
 **如何使用 Microsoft SOX 法規遵從性來協助組織的規範處理常式？**
 
 當您將應用程式和資料移轉至涵蓋的 Microsoft 雲端服務時，您可以建立 Microsoft 所持的 attestations 和認證。 獨立的審計員報告證明 Microsoft 已實現的控制項效能，以協助維護資料的安全性和隱私權。 不過，您完全負責確保您的組織符合所有適用的法律和規定。
 
-## <a name="resources"></a>資源
+### <a name="resources"></a>資源
 
-- [Sarbanes-Oxley 的 Azure 指導方針](https://aka.ms/Azure-SOX-Guide)
 - [Microsoft 金融服務合規性計劃](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 商務用雲端服務與金融服務](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [共同承擔的雲端運算責任](https://aka.ms/sharedresponsibility)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

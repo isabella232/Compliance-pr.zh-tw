@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f6b0582215242dd1de187b4cd0386e44b144dba8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: b0b16b88ede35ed71cdc90b27a7e3076e51ae56b
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496483"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377810"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>使用責任整備檢查清單支援 GDPR 計劃
 
@@ -37,8 +37,9 @@ ms.locfileid: "51496483"
 四項 Microsoft 產品和服務系列的特定指南：
 
 - [Office 365](gdpr-arc-Office365.md)
-- [Dynamics 365](gdpr-arc-azure-dynamics.md)
-- [Azure](gdpr-arc-azure-dynamics.md)
+- [Dynamics 365](gdpr-arc-azure-dynamics-windows.md)
+- [Azure](gdpr-arc-azure-dynamics-windows.md)
+- [Windows](gdpr-arc-azure-dynamics-windows.md)
 - [Microsoft 支援服務與專業服務](gdpr-arc-prof-services.md)
 
 您可以使用[「合規性管理員」](/microsoft-365/compliance/compliance-manager)管理此檢查清單中的項目，方法是參考 GDPR 圖格中「客戶受管理控制項」底下的控制項識別碼和控制項標題。

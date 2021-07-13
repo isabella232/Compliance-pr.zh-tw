@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 2b98a7ab816f526a5371788df14755b998e14099
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120012"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384363"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>加拿大金融機構監理總署 (OSFI)
 
@@ -44,7 +44,7 @@ Microsoft 檢查清單可協助加拿大金融公司執行 Microsoft 商務用�
 - 內容的規章環境概述。
 - 檢查清單，其中提出要解決的問題，並根據法規規定，將 Microsoft Azure、Microsoft Dynamics 365 和 Microsoft 365 服務對應起來。 檢查清單可做為工具，以根據法規架構評定合規性，提供記錄合規性的內部結構，並協助客戶自行進行 Microsoft 商務雲端服務風險評估。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

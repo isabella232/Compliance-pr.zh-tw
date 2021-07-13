@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4ec39ccbeb9780c51ef813c1520675abb1d19cc9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2d02e7643ca554e55f4d901a95a39d1a8e5285f9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089566"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385203"
 ---
 # <a name="european-standards-en-301-549"></a>歐洲標準 EN 301 549
 
@@ -35,13 +35,13 @@ Microsoft 是針對歐洲各地的主要軟體和雲端服務提供者。 為了
 
 Microsoft 在產品與服務發展中對 EN 301 549 標準的考慮，是指向確保所有客戶都具有存取性的承諾。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure 和 Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Azure DevOps Services
 - Dynamics 365 和 Dynamics 365 美國政府
 - Intune
-- [Office 365 和 Office 365 美國政府](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365 和 Office 365 美國政府
 - Office 365 美國政府國防版
 - Windows Server 2016
 

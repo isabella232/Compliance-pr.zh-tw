@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84af03217d697f6f54db1a7d87230ae08c2b02b4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 65739fcf3b787ea50523c3195ffaf7e31d315d3f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507313"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384903"
 ---
 # <a name="health-data-hosting-hds-france"></a>法國健康資料代管 (HDS)
 
@@ -46,7 +46,7 @@ HDS 認證讓法國的醫療保健提供者使用 Microsoft 雲端服務，透�
 - Microsoft 雲端服務的 [ISO/IEC 27001:2013 資訊安全性管理](offering-iso-27001.md)認證 (每年審核是否符合合規性)。
 - 基於符合 GDPR 合規性的高層級隱私權和 [ISO/IEC 27018 實務規範以保護雲端中的個人資料](offering-iso-27018.md)。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://aka.ms/AzureCompliance)。 HDS 認證適用於所列 Azure 合規性方案中符合 ISO/IEC 27001 標準以及從法國中部、法國南部、歐洲西部和歐洲北部佈建的 Azure 服務。
 - Dynamics 365。 HDS 認證適用於從法國和歐盟地區佈建的 Dynamics 365 [Core Online Services](https://aka.ms/Online-Services-Terms)。

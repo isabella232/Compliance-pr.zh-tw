@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7154e239956c624d621977b8c9167ec5e58c5001
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7a530d78107af4f37607f90c6a93008ec695f765
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121772"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385463"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>雲端運算合規性控制目錄 (C5)
 
@@ -39,12 +39,12 @@ BSI 也強調透明度。 在審核過程中，雲端提供者必須包含詳細
 
 Microsoft 雲端服務針對 SOC 2 (AT 第 101 節) 標準，至少一年稽核一次。 根據 BSI，C5 稽核可與 SOC 2 稽核結合，以重複使用部分的系統描述和重疊控制的稽核結果。 Microsoft Azure、Azure Government 和 Azure 德國根據獨立稽核員執行的稽核評估來維護合併的報告 (C5、SOC 2 類型 2、CSA STAR 證明)，該報告展示符合 C5 的證明。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure、Azure Government 和 Azure 德國](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 德國
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 - [Azure, Azure Government, and Azure Germany SOC 2 Type II Report.pdf](https://go.microsoft.com/fwlink/p/?linkid=2093520)
 
@@ -64,7 +64,7 @@ Microsoft Cloud Germany 實際位於德國，遵守德國隱私權法的要求�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

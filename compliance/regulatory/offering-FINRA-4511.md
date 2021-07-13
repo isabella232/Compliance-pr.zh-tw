@@ -1,7 +1,7 @@
 ---
 title: 金融行業規章機關 (FINRA) 規則 4511 (c) 美國
 description: 獨立評估公司已驗證，Azure 和 Office 365 可協助財務公司符合 FINRA 規則4511記錄保留和不可變的儲存需求。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 35c24da993fd40cd787650389ab8324eca1cf828
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5db72902615eef26b45b5d4eeaa52132ee3703b1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089536"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385023"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>金融行業規章機關 (FINRA) 規則 4511 (c) 美國
 
@@ -51,7 +51,7 @@ Cohasset 使用原則鎖定選項驗證[Azure 永恆 blob 儲存體](/azure/stor
 
 針對[FINRA 規則 4511 (c) ](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)需求，Cohasset 驗證 Microsoft 365 包括可讓管制客戶（包括經紀人代理商）的封存功能，以協助其符合每秒記錄保留需求的方式來儲存資料。 Microsoft 365 中的保留功能可協助保留廣泛的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 尤其是，在 Microsoft 365 中封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間內的資料，而不是以不可重寫、不可讀寫的格式使用。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)

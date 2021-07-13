@@ -1,5 +1,5 @@
 ---
-title: Microsoft 員工轉接及終止
+title: Microsoft 員工調職和離職
 description: 深入瞭解 Microsoft 員工的轉接與終止程式 Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -19,18 +19,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b31dd13f4a6209712a9cc212ab3bcd9c5addf6b7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 862bd05a84e5144602a24ac2aca1780cffaff3fe
+ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089609"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53395613"
 ---
-# <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 員工轉接及終止
+# <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 員工調職和離職
 
-「員工轉接」和「終止」是每家組織一般商務運作的一部分。 當員工變更職位或離開公司時，請務必及時撤銷不適當的存取。 為了有利於有效的存取變更和存取 revocations，Microsoft 365 使用標準化的程式和自動化程式，協調人力資源資訊系統 (HRIS) 與身分識別管理 (IDM) System。 這兩個系統之間的自動化業務流程對於維護運作一致性、保護 Microsoft 365 的服務和資料、避免特權蔓延，以及減少與內幕威脅相關的風險而言，都是必要的。
+Microsoft 與其他所有組織一樣，處理員工轉接及終止工作，成為其正常運作的一部分。 當員工變更職位或離開公司時，請務必及時撤銷不適當的存取。 為了便於進行有效的存取變更和存取 revocations，Microsoft 使用標準化的程式和自動化的程式，以 (IDM) System 的身分識別管理，協調人力資源資訊系統 (HRIS) 。 這兩個系統之間的自動化業務流程對於維護運作一致性、保護 Microsoft 的線上服務和資料、避免特權蔓延，以及減少與內幕威脅相關的風險非常重要。
 
-Microsoft 365 的系統設計為可運作，而不需對我們的工程師進行實際執行環境的系統管理存取。 Microsoft 會使用即時 (JIT) ，只需足夠存取 (JEA) 模型，以在必要時為工程師提供必要的臨時存取，以支援其服務。 若要要求和使用服務小群組帳戶進行 JIT 存取，工程師必須透過 IDM 工具要求及維護 eligibilities。 當員工轉移或終止時，系統會自動修改其服務小群組帳戶和相關的 eligibilities，以防止不適當的存取。
+Microsoft 線上服務是設計來運作，而不會對我們的工程師進行實際執行環境的系統管理存取。 Microsoft 會使用即時 (JIT) ，只需足夠存取 (JEA) 模型，以在必要時為工程師提供必要的臨時存取，以支援其服務。 若要要求和使用服務小群組帳戶進行 JIT 存取，工程師必須透過 IDM 工具要求及維護 eligibilities。 當員工轉移或終止時，系統會自動修改其服務小群組帳戶和相關的 eligibilities，以防止不適當的存取。
 
 ## <a name="transfer-and-reassignment"></a>轉移和重新指派
 

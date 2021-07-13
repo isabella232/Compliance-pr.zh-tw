@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: ca869ce3fe1bc6111cf975296993c655040be4d1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089827"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385473"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>基準資訊化人民解放陣線標準 (BIR 2012)
 
@@ -37,11 +37,25 @@ BIR 涵蓋範圍報告提供了指引，指出 Microsoft 雲端服務可提供�
 
 [下載 Microsoft 雲端 - Azure 和 Office 365 BIR-2012 基準涵蓋範圍使用者指南](https://go.microsoft.com/fwlink/p/?linkid=2099461)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-bir-2012"></a>Office 365 和 BIR 2012
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Azure 資訊保護、Bookings、Exchange Online Protection、Exchange Online、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 雲端 App 安全性、Office 365 群組、Office 365 影片、Office Delve、商務用 OneDrive、Planner、Power Apps、Power Automate、Power BI for Office 365、PowerApps、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 

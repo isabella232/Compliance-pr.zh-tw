@@ -1,7 +1,7 @@
 ---
 title: '英國 Government-Cloud (G-Cloud) '
 description: Crown 商務服務已將 Microsoft 雲端服務分類更新為政府 Cloud v. 6。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 887d6a2be0ef4b1d9f1d22eefc53e3fc23e75e22
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088812"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384963"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>英國 Government-Cloud (G-Cloud) 
 
@@ -41,18 +41,32 @@ Microsoft 服務數位市場的約會表示 UK 政府的代理商和合作夥伴
 
  [14 cloud cloud the cloud Security Controls using Microsoft Azure](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/)提供客戶策略，將其服務移至 Azure，並協助符合 CESG/NCSC 所規定的英國義務。 白皮書可深入瞭解 Azure 如何用來協助解決雲端安全性主體中所述的14個控制項，並概述客戶在採用 Microsoft Azure 服務的情況下，如何更快地進行移動，以節約成本。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Azure
+- Microsoft 雲端 App 安全性
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- Office 365： Exchange Online、SharePoint 線上及商務用 Skype 線上
-- PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- Power BI 雲端服務，以獨立服務形式提供或包含在 Office 365 品牌方案或套件中
+- Office 365
+- Power Automate (先前 Microsoft Flow) 雲端服務， (為獨立服務，或是包含在 Office 365 或 Dynamics 365 品牌計畫或套件) 
+- PowerApps 雲端服務 (為獨立服務，或是包含在 Office 365 或 Dynamics 365 品牌計畫或套件中) 
+- Power BI 雲端服務 (為獨立服務，或是包含在 Office 365 商標計畫或套件中) 
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="office-365-and-uk-g-cloud"></a>Office 365 和 UK G-雲端
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online，SharePoint 線上，商務用 Skype |
+
+## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 若要確認 Microsoft cloud services 是否維護其與 G-Cloud 協定的相容性，GDS accreditor 可能會隨時透過判斷來查看證據。
 

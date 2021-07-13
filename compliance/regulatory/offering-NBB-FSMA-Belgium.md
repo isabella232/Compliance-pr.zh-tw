@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3e0cedef50d4ac52547c785e5a5395b8b67ca1d6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120082"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384443"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>比利時國家銀行 (NBB) 與金融服務和市場管理局 (FSMA)
 
@@ -31,7 +31,7 @@ ms.locfileid: "50120082"
 
 NBB 負責審慎監督信貸機構、保險公司、股票經紀人及其他金融組織。 身為比利時的中央銀行，NBB 會執行比利時的貨幣原則，致力於其金融系統的穩定性。 FSMA 與 NBB 一起監督比利時的金融市場、金融服務提供者，包括投資公司和補充退休金。 它的工作包括監督公司傳播的金融資訊、他們提供給消費者的產品，以及他們對於商務執行規則的合規性。
 
-NBB 和 FSMA 與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐盟機關，確保對整個歐洲銀行業進行有效且一致的審慎規範與監督。」 為此，EBA 概述了歐盟金融機構使用雲端計算的全方為措施，[外包給雲端服務提供者的建議](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)。
+NBB 和 FSMA 與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐盟機關，確保對整個歐洲銀行業進行有效且一致的審慎規範與監督。」 為此，EBA 概述了歐盟金融機構使用雲端計算的全方位措施，[外包給雲端服務提供者的建議](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)。
 
 在將商務功能移到雲端時，比利時的金融機構應注意以下要求和規範，包括：
 
@@ -45,12 +45,12 @@ NBB 和 FSMA 與歐洲銀行業管理局 (EBA) 合作。「EBA 為獨立的歐�
 
 當比利時的金融組織將商務功能委外至雲端時，他們必須遵循歐洲銀行業管理局 (EBA) 廣泛原則架構內，比利時國家銀行 (NBB) 和金融服務和市場管理局 (FSMA) 的規則和指導方針。
 
-Microsoft 檢查清單可協助比利時金融公司執行 Microsoft 商務雲端服務的審慎評估。 包括：
+Microsoft 檢查清單協助位於比利時的金融公司執行 Microsoft 商務雲端服務的審慎評估。其包含：
 
 - 內容的法規環境概觀。
 - 檢查清單，其中提出要解決的問題，並根據法規規定，將 Microsoft Azure、Microsoft Dynamics 365 和 Microsoft 365 服務對應起來。 檢查清單可做為工具，以根據法規架構評定合規性，提供記錄合規性的內部結構，並協助客戶自行進行 Microsoft 商務雲端服務風險評估。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -66,7 +66,7 @@ Microsoft 檢查清單可協助比利時金融公司執行 Microsoft 商務雲�
 
 **需要法規批准嗎？**
 
-否。 不過，如果金融機構遇到委外安排中斷的情事，可能會在物質上影響機構的商務營運、商譽或獲利率，或者其管理風險及遵循適當法律和法規的能力時，必須通知 NBB 和 FSMA。
+不需要。不過，如果金融機構遇到委外安排中斷的情事，可能會對機構的業務營運、商譽或獲利率，或者其管理風險及遵循適當法律和法規的能力時有重大影響，則必須通知 NBB 和 FSMA。
 
 **在與雲端服務提供者的合約中，是否必須包含任何強制性條款？**
 
@@ -74,7 +74,7 @@ Microsoft 檢查清單可協助比利時金融公司執行 Microsoft 商務雲�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

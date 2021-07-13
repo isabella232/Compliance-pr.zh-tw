@@ -1,7 +1,7 @@
 ---
 title: 商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 description: 獨立評估公司已驗證，Azure 和 Office 365 可協助財務公司符合 CFTC 規則1.31 記錄保留和不可變的儲存需求。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 85a8a27b1478ef3cecccd15a4f01bba563a5e1ef
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: ac17525d8368b61dfd00bfa765e5ee2d1533b3f6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087622"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385423"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 
@@ -45,7 +45,7 @@ ms.locfileid: "53087622"
 
 針對[CFTC 1.31 (c)  (d) ](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)需求，Cohasset 驗證 Microsoft 365 包含封存功能，可讓受管制的客戶（包括經紀人代理商）儲存資料，以協助其遵守記錄保留的 SEC 需求。 Microsoft 365 中的保留功能可協助保留廣泛的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 尤其是，在 Microsoft 365 中封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間內的資料，而不是以不可重寫、不可讀寫的格式使用。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)

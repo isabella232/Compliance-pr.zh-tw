@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121372"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385393"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>網際網路安全性 (CIS) 中心基準
 
@@ -50,7 +50,7 @@ CIS 基準是國際認可的安全性標準，防禦 IT 系統和資料免於網
   
 除了 Microsoft 產品和服務的基準，CIS 也發佈了[用於 Azure 虛擬機器的 CIS 強化映像](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/)，設定為符合 CIS 基準。 其中包括適用於 Microsoft Windows Server 2016 的 CIS 強化映像，經過認證可以在 Azure 上執行。 CIS 表示：「可以在 [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) 上取得的所有 CIS 強化映像都經過認證，可以在 Azure 上執行。 其已經針對整備以及與 Azure 公用雲端、服務提供者透過雲端作業系統網路主控的 Microsoft 雲端平台，以及由客戶管理的內部部署私人雲端 Windows Server Hyper-V 部署的相容性，經過預先測試」。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
 - [Office 和 Microsoft 365](https://aka.ms/o365-compliance-framework)
@@ -90,7 +90,7 @@ CIS 指出其「準則是透過主題專家、技術廠商、公用和私人 CIS
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

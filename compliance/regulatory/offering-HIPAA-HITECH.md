@@ -1,7 +1,7 @@
 ---
 title: 健康保險流通與責任法案 (HIPAA) & 狀況資訊技術以實現經濟和臨床健康情況 (高科技) 法案
 description: Microsoft 提供健康保險可攜性 & 責任法案 (Baa) 的相關業務關聯協定。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f32ebfe11debbace7783722553d37f68815a9085
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089516"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384863"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>健康保險流通與責任法案 (HIPAA) & 狀況資訊技術以實現經濟和臨床健康情況 (高科技) 法案
 
@@ -47,30 +47,42 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 
 若要瞭解 Microsoft Cloud 如何協助客戶支援 HIPAA 和高科技需求，請造訪 [Microsoft 客戶案例](https://customers.microsoft.com/)。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
-- [Azure 和 Azure 政府](https://aka.ms/AzureCompliance) (請參閱 *附錄 A* 和 *B* ，以取得 Microsoft HIPAA 商務助理相關合約的範圍中的完整服務清單) 
-- Microsoft 雲端 App 安全性
+- Azure 和 Azure Government
+- Azure DevOps Services
+- Dynamics 365 和 Dynamics 365 美國政府
+- Intune
+- Microsoft 雲端應用程式安全性
 - [適用于醫療保健的 Microsoft 雲端](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft 保健 Bot 服務
 - [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
-- Microsoft Stream
 - Microsoft 專業服務：Azure、Dynamics 365、Intune 及商務用 Microsoft 365 中型企業和企業客戶的頂級與內部部署
-- [Dynamics 365 和 Dynamics 365 美國政府](https://aka.ms/d365-compliance-list)
+- Office 365，Office 365 美國政府
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- Intune
-- [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - Power BI 雲端服務做為獨立服務，或是包含在 Office 365 或 Dynamics 365 品牌計畫或套件中。
-- Azure DevOps Services
 
-## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>加速部署 Azure 上的 HIPAA/HITRUST 解決方案
+## <a name="azure-dynamics-365-and-hipaa"></a>Azure、Dynamics 365 和 HIPAA
 
-從 [Azure 安全性與合規性藍圖](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)開始利用雲端的健康情況資料解決方案的優點，取得開端。 此藍圖提供的工具和指引，可讓您立即開始建立 HIPAA/HITRUST 解決方案。
+如需 Azure、Dynamics 365 及其他線上服務規範的詳細資訊，請參閱 [AZURE HIPAA 服務](/azure/compliance/offerings/offering-hipaa-us)。
 
-如需詳細資訊，請造訪 [Azure 和 HIPAA 服務](/azure/compliance/offerings/offering-hipaa-us) 。
+## <a name="office-365-and-hipaa"></a>Office 365 和 HIPAA
 
-## <a name="frequently-asked-questions"></a>常見問題集
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online，Azure Active Directory，Azure 通訊服務，合規性管理員，客戶加密箱，Delve，Exchange Online，Forms，Griffin，Identity Manager，密碼箱 (圓環) ，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 客戶入口網站，Office 365 Microservices (（包括但不限於 Kaizala、ObjectStore、Sway、Power Automate、PowerPoint 線上檔服務、查詢批註服務、學校資料同步處理、Siphon、語音、StaffHub、可擴展的應用程式) 、Office 365 安全性 & 規範中心、Office 線上、Office Pro Plus、Office 服務基礎結構、商務用 OneDrive、加密、PowerApps 線上 |
+| **GCC** | Azure Active Directory，Azure 通訊服務，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI，SharePoint |
+
+### <a name="frequently-asked-questions"></a>常見問題集
 
 **我的組織可以使用 Microsoft 進入 BAA 嗎？**
 
@@ -99,17 +111,13 @@ HIPAA 業務關聯協定也適用于範圍內的 Microsoft Professional 服務�
 - HIPAA/高科技法案實施指引（適用于 [Azure](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) 以供隱私權、安全性和合規性監察官和其他負責 HIPAA 和高科技法案實施的指南）說明您的組織可以採取哪些具體步驟以維護符合性。
 - [使用 Microsoft Azure 設計安全健康情況解決方案的實用指南](https://aka.ms/azureindustrysecurity)可協助您更深入瞭解成功採用雲端服務的安全方式。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
-## <a name="resources"></a>資源
+### <a name="resources"></a>資源
 
 - [Microsoft HIPAA 業務關聯協定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [Azure HIPAA 實現指導方針](https://azure.microsoft.com/resources/a-practical-guide-to-designing-secure-health-solutions-using-microsoft-azure/)
-- [Azure HIPAA/HITRUST 藍圖](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/)
 - [適用于醫療保健規範服務的 Microsoft 雲端](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- [醫療保健行業的 Azure](https://azure.microsoft.com/industries/healthcare/)
-- [健康情況與生命科學的 Azure High-Performance 計算](https://azure.microsoft.com/solutions/high-performance-computing/health-and-life-sciences/)
 - [醫療保健行業的 Microsoft 雲端](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
 - [Microsoft 信任中心的保健](https://www.microsoft.com/trust-center/cloudservices/health)

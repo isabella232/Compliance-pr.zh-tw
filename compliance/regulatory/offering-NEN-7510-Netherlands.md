@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9ae0ba0b3ad10e4b1f2d308090f05c698bce092f
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 79dc7fc209b85048189016a9bed8f5ca45b99bdb
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088482"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384453"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -35,11 +35,25 @@ Microsoft 已經分析我們目前的認證與保證聲明，並建立 [NEN 7510
 
 了解如何使用 Azure 安全性與合規性藍圖加快 NEN 7510 部署：[下載 Microsoft Cloud — Azure 和 Office 365 NEN7510-2011 標準涵蓋範圍使用者指南 \(英文\)](https://aka.ms/Azure-NEN7510-2011)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
+- Azure 和 Azure Government
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-iso-27001"></a>Office 365 和 ISO 27001
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Azure 資訊保護、Bookings、Delve、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 雲端 App 安全性、Office 365 群組、Office 365 影片、商務用 OneDrive、Planner、Power Apps、Power Automate、Power BI for Office 365、PowerApps、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 

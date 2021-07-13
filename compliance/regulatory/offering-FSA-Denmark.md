@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 55f600c7b1fa5f4573c389ca2c5fc5f3b827bb10
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2896f3dea06181ef11393a40a4822b3b6fd345a5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089526"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384933"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>金融監督管理局 (FSA) 丹麥
 
@@ -48,10 +48,10 @@ Microsoft 檢查清單可協助丹麥金融公司執行 Microsoft 商務雲端�
 - 內容的法規環境概觀。
 - 檢查清單，其中提出要解決的問題，並根據法規規定，將 Microsoft Azure、Microsoft Dynamics 365 和 Microsoft 365 服務對應起來。 檢查清單可做為工具，以根據法規架構評定合規性，提供記錄合規性的內部結構，並協助客戶自行進行 Microsoft 商務雲端服務風險評估。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Microsoft 365](https://aka.ms/RiskGovernanceGuide)
 
 ## <a name="how-to-implement"></a>實作方法

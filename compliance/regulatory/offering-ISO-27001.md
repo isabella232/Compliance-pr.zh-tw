@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a6c2a5c32e06b16f733ce00da4400d22e4da4eff
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 2571332c56d4fc7968f97d6f8ee458a67eeb9501
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497747"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384743"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 資訊安全性管理標準
 
@@ -39,19 +39,19 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 
 了解 Microsoft 雲端上 ISO/IEC 27001 的權益：[下載 ISO/IEC 27001:2013 背景資料](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=47d89200-b24b-491d-b657-7c523ddfb6f9&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure、Azure Government 和 Azure 德國](https://aka.ms/AzureCompliance)
+- Azure、Azure Government 和 Azure 德國
 - Azure DevOps Services
 - Microsoft Cloud App Security
 - 適用於端點的 Microsoft Defender
-- [Dynamics 365、Dynamics 365 Government 和 Dynamics 365 德國](https://aka.ms/d365-compliance-list)
+- Dynamics 365、Dynamics 365 Government 和 Dynamics 365 德國
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
 - [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Office 365、Office 365 美國政府和 Office 365 美國政府國防版
 - Office 365 德國
 - OMS 服務對應
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
@@ -63,76 +63,70 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 - Microsoft 威脅專家
 - Microsoft Translator
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
+## <a name="azure-dynamics-365-and-iso-27001"></a>Azure、Dynamics 365 和 ISO 27001
 
-稽核週期：Microsoft 雲端服務針對 ISO 27001：2013 標準，至少一年稽核一次。
+如需 Azure、Dynamics 365 及其他線上服務合規性的詳細資訊，請參閱 [Azure ISO 27001:2013 供應項目](/azure/compliance/offerings/offering-iso-27001)。
 
-### <a name="azure"></a>Azure
+## <a name="office-365-and-iso-27001"></a>Office 365 和 ISO 27001
 
-- [Azure、Dynamics 365 和線上服務：ISO27001 憑證](https://aka.ms/azureiso27001cert)
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
 
-### <a name="office-365"></a>Office 365
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online、Azure Active Directory、Azure Communications Service、合規性管理員、客戶加密箱、Delve、Exchange Online、Exchange Online Protection、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 客戶入口網站、Office 365 微服務 (包含但不限 Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online Document Service、Query Annotation Service、學校資料同步處理、Siphon、Speech、StaffHub、eXtensible Application Program)、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、Office Services Infrastructure、商務用 OneDrive、Planner、PowerApps、Power BI、Project Online、使用客戶金鑰的服務加密、SharePoint Online、商務用 Skype、Stream |
+| **GCC** | Azure Active Directory、Azure Communications Service、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
+| **GCC High** | Azure Active Directory、Azure Communications Service、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype |
+| **DoD** | Azure Active Directory、Azure Communications Service、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、Power BI、SharePoint Online、商務用 Skype |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
+
+Office 365 雲端服務針對 ISO 27001:2013 標準，至少一年稽核一次。
 
 - [Office 365 - 全球和德國 ISO 27001 - 資訊安全管理標準 - 認證](https://aka.ms/o365iso27001cert)
 
-### <a name="azure-devops-services"></a>Azure DevOps Services
+### <a name="office-365-assessments-and-reports"></a>Office 365 評估和報告
 
-- [Azure DevOps Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
-
-### <a name="microsoft-professional-services"></a>Microsoft 專業服務
-
-- [Microsoft 專業服務](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
-
-## <a name="assessments-and-reports"></a>評定和報告
-
-### <a name="azure"></a>Azure
-
-- [Azure、Dynamics 365 和線上服務：ISO 27001、27018 和 27701 稽核評估報告](https://aka.ms/azureiso27001report)
-- [Azure、Dynamics 365 和線上服務：27001、27018、27701 適用性聲明 (SOA)](https://aka.ms/Azureiso27001soa)
-
-### <a name="office-365"></a>Office 365
-
-- [Office 365：ISO 27001、27018 和 27017 稽核評估報告](https://aka.ms/o365isoreport)
+- [Office 365：ISO 27001、27018 和 27017 稽核評估報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
+- [Office 365：ISO 27001、27018 和 27017 授權聲明 (SOA)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 - [Office 365 資訊安全管理系統(ISMS) - 安全性和隱私權的適用性聲明](https://aka.ms/o365isosoa)
 - [Office 365 德國：ISO 27001、27017 和 27018 稽核評估報告](https://aka.ms/o365gerisoaudit)
 - [Yammer：ISO27001 稽核評估報告](https://aka.ms/yammeriso)
 
-### <a name="azure-devops-services"></a>Azure DevOps Services
+### <a name="frequently-asked-questions"></a>常見問題集
 
-- [Azure DevOps Services ISO 27001 認證 IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dAzure&licencenumber=IS%20619017)
-
-[查看其他稽核報告](https://aka.ms/auditreports)
-
-## <a name="frequently-asked-questions"></a>常見問題集
-
-**為什麼 Microsoft 的 ISO/IEC 27001 合規性很重要？**
+**為什麼 Office 365 的 ISO/IEC 27001 合規性很重要？**
 
 遵守這些標準 (由合格的稽核員確認)，展示 Microsoft 使用國際認可的程序和最佳做法來管理支援及提供服務的基礎結構和組織。 認證會驗證 Microsoft 已實作指導方針和一般原則，以起始、實作、維護及改善資訊安全性的管理。
 
-**我可以在哪裡取得 Microsoft 服務的 ISO/IEC 27001 稽核報告和範圍聲明？**
+**我可以在哪裡取得 Office 365 服務的 ISO/IEC 27001 稽核報告和範圍聲明？**
 
-[服務信任入口網站](/microsoft-365/compliance/get-started-with-service-trust-portal)提供獨立稽核的合規性報告。 您可以使用入口網站要求報告，讓您的稽核員可以比較 Microsoft 的雲端服務結果與您自己的法律和法規需求。
+[服務信任入口網站](/microsoft-365/compliance/get-started-with-service-trust-portal)提供獨立稽核的合規性報告。 您可以使用此入口網站要求報告，讓您的稽核員可以比較 Microsoft 的雲端服務結果與您自己的法律和法規需求。
 
-**Microsoft 是否針對基礎結構失敗，每年執行測試？**
+**是否針對 Office 365 基礎結構失敗執行年度測試？**
 
-是。 適用於 Microsoft 雲端基礎結構和營運群組的年度 ISO/IEC 27001 認證程序包含營運復原能力的稽核。 若要預覽最新的認證，請按一下下方的連結。
+是。 適用於 Microsoft 雲端基礎結構和營運群組的年度 ISO/IEC 27001 認證程序包含營運復原能力的稽核。 若要檢視最新的認證，請選取下方的連結。
 
-- Microsoft Azure：[適用於 Microsoft 雲端基礎結構和營運的 ISO/IEC 27001：2013 認證](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
-- Azure 德國：[適用於 Microsoft 雲端基礎結構和營運的 ISO/IEC 27001：2013 認證](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
+- Microsoft 365 和 Office 365 認證：[適用於 Microsoft 雲端基礎結構和營運的 ISO/IEC 27001：2013 認證](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 
 **我要從何處著手組織自身的 ISO/IEC 27001 合規性工作？**
 
 採用 ISO/IEC 27001 是戰略承諾。 首先，請參閱 [ISO/IEC 27000 目錄](https://www.27000.org/index.htm)。
 
-**我是否可以在組織的認證中使用 Microsoft 服務的 ISO/IEC 27001 合規性？**
+**我是否可以在組織的認證中使用 Office 365 服務的 ISO/IEC 27001 合規性？**
 
 是。 如果您的企業需要適用於在 Microsoft 服務部署實作的 ISO/IEC 27001 認證，您可以在您的合規性評定中使用適用的認證。 不過，您有責任確保評定者有參與評估組織中的控制和程序，以及 ISO/IEC 27001 合規性的實作。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性經理針對企業版 E5 客戶提供此法規的預先建立評估。 可在合規性管理員的 **[評估範本]** 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
-## <a name="resources"></a>資源
+### <a name="resources"></a>資源
 
 - [將 Microsoft 網路方案對應至：NIST 網路安全性 (CSF)、CIS 控制和 ISO27001:2013 架構](https://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf)
 - [ISO/IEC 27000 目錄](https://www.27000.org/index.htm)
@@ -141,9 +135,3 @@ ISO/IEC 27001 在國際上的接受度和適用性，是取得此標準認證為
 - [Microsoft 通用控制措施中樞合規性架構](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
 - [適用於政府的 Microsoft 雲端](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)
-- [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-
-## <a name="white-papers"></a>白皮書
-
-- [Azure DevOps Services 資料保護概觀](https://www.visualstudio.com/articles/team-services-security-whitepaper)
-- [適用於 ISO 27001 合規性的 13 項有效 Azure 安全性控制](https://aka.ms/13securitycontrolsforiso27001compliance)

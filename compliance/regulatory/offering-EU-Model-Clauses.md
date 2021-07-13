@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496527"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385153"
 ---
 # <a name="european-union-model-clauses"></a>歐盟示範條款
 
@@ -41,19 +41,33 @@ Microsoft 為歐盟的資料保護工作小組提供其標準合約條款，以�
 
 小組決定 Microsoft 合約中的佈建實作，符合其嚴格需求。 (Microsoft 是獲得小組背書和核准的第一個雲端服務提供者。)核准涵蓋在示範條款 2010/87/EU 中反映的參與項目，而不是在附錄中，描述由資料匯入者實作的資料傳輸和安全性措施。 您可以使用 DPA 來個別分析附錄。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft 雲端 App 安全性
-- Microsoft 專業服務：Azure、Dynamics 365、Intune 及商務用 Microsoft 365 中型企業和企業客戶的頂級與內部部署
+- Azure 和 Azure Government
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune：Intune 附加元件產品和適用於 Office 365 的行動裝置管理的雲端服務部分
+- Microsoft 雲端 App 安全性
+- 適用於下列雲端服務部分的適用於端點的 Microsoft Defender：端點偵測與回應、自動調查與修復、安全分數。
+- Microsoft 專業服務：Azure、Dynamics 365、Intune 及商務用 Microsoft 365 中型企業和企業客戶的頂級與內部部署
+- Office 365
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
-- Azure DevOps Services
-- 適用於下列雲端服務部分的 Microsoft Defender 進階威脅防護 ：端點偵測與回應、自動調查與修復、安全分數。
+
+## <a name="office-365-and-european-union-model-clauses"></a>Office 365 和歐盟示範條款
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | 進階威脅防護、Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 
@@ -88,7 +102,6 @@ Microsoft 會持續評估歐盟標準，並視需要更新服務。
 - [歐盟資料保護指導方針](https://aka.ms/EU-DPD)
 - [歐洲數據保護委員會](https://edpb.europa.eu/)
 - [適用於 Dynamics 365 和 Office 365 的歐盟示範條款常見問題集](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
-- [Microsoft 和歐盟美國隱私權護盾](offering-eu-us-privacy-shield.md)
 - [Microsoft 通用控制措施中樞合規性架構](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -19,12 +19,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9ac4a87670d1889e9c74e5ec6afe8920b96946fc
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 65462901c72bcda1af4e1b58bc0df2caa6cbaec9
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088772"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377560"
 ---
 # <a name="resiliency-and-continuity-overview"></a>復原和連續性概觀
 
@@ -70,7 +70,7 @@ Microsoft 的線上服務會定期進行審核，以符合外部法規和認證�
 ## <a name="resources"></a>資源
 
 - [Microsoft Enterprise 商務持續性管理計畫白皮書](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=64f922a6-d624-40dd-a8ae-6f996b5186f3&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f) 
-- [Microsoft Cloud EBCM and 災難修復計畫驗證報告： FY21 Q3](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=c072d11c-9cc9-42e1-b1cf-7281572fb1dd&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Microsoft Cloud EBCM and 嚴重損壞修復計畫驗證報告： FY21 Q4](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=83dc940a-2078-4e14-8b7d-07128e5b453d&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 
 ## <a name="legal-disclaimer"></a>法律免責聲明
 

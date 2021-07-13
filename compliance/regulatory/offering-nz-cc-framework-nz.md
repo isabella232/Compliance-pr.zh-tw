@@ -1,7 +1,7 @@
 ---
 title: 紐西蘭政府雲端計算安全性和隱私權考慮
 description: Microsoft 紐西蘭解決紐西蘭雲端計算架構中發佈的問題。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,16 +16,16 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da53b5e2cdac7095e2fc3ff9b243d2863b85fdbf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088782"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385653"
 ---
-# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>紐西蘭政府雲端計算安全性和隱私權考慮
+# <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ISPC)  (紐西蘭政府的資訊安全性和隱私權考慮
 
-## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>紐西蘭政府雲端電腦安全性性和隱私權概述
+## <a name="new-zealand-government-information-security-and-privacy-considerations-overview"></a>紐西蘭政府資訊安全性和隱私權考慮概覽
 
 在10月2015，紐西蘭政府認可已修改的所有政府 ICT 原則，以 reaffirmed 其「cloud first」原則，以在整個公用部門使用資訊技術。 修改後的策略保留在 NZ 政府首席資訊官 (GCIO) 中所開發及實施之「雲端計算風險和保證架構」的許可權。
 
@@ -37,14 +37,30 @@ ms.locfileid: "53088782"
 
 為了協助組織取得 Microsoft enterprise 雲端服務的分析和評估，Microsoft 紐西蘭已產生檔，顯示其 enterprise 雲端服務如何解決「雲端計算 ISPC」中所設定的問題，方法是將其連結至 Microsoft 雲端服務所驗證的標準。 這些認證是 Microsoft 如何保證公開和私人部門客戶的核心服務，其雲端服務的設計、建立與運作方式，可有效地減輕隱私權和安全性風險，並解決資料主權方面的問題。 客戶可以下載 [Azure 回應至雲端計算 ISPC](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) 。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
-- [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
+- Azure 和 Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
+- Office 365
 - Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Exchange Online、SharePoint 線上及 Microsoft Teams。 Microsoft NZ 已與 GCIO 小組合作，以開發整合 Exchange Online 和 SEEMail 的參考架構。
+
+## <a name="office-365-and-ispc"></a>Office 365 和 ISPC
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online，SharePoint 線上，商務用 Skype |
+
+>[!Note]
+>Microsoft NZ 已與 GCIO 小組合作，以開發 Office 365 中所述的整合 Exchange Online 和 SEEMail 的參考架構： SEEMail 整合及參考架構。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -64,7 +80,7 @@ ms.locfileid: "53088782"
 - [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Microsoft 對「Cloud 計算 IPSC ' 的回應
+## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Microsoft 對雲端計算 IPSC 的回應
 
 - [Azure](https://aka.ms/Azure-NZ-response)
 - [Intune](https://aka.ms/Intune-NZ-response)

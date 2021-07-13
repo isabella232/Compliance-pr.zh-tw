@@ -1,7 +1,7 @@
 ---
 title: 聯邦風險與授權管理計畫 (FedRAMP)
 description: Microsoft 授與 US 聯邦風險和授權管理計畫 P-ATOs 和 ATOs。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef6b2fd3c7254251831b84fbfd3c4d5e1648f9c7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089717"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384943"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>聯邦風險與授權管理計畫 (FedRAMP)
 
@@ -47,53 +47,45 @@ microsoft 的政府雲端服務（包括 Azure 政府、Dynamics 365 政府和 O
 
 Microsoft 政府雲端服務提供 public tool 客戶與 FedRAMP 及強大的指導方針和執行工具（包括 [FedRAMP 高藍圖](https://aka.ms/fedrampblueprint)）相容，可協助客戶針對必須執行 FedRAMP 高控制措施的任何 Azure 部署架構，部署一組核心原則。
 
-## <a name="microsoft-azure-p-atos"></a>Microsoft AzureP-ATOs
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
-Azure 和 Azure 政府已從聯合授權板取得「高影響」層級的 P-ATO，其最大的 FedRAMP 資格鑒定，可授權 Azure 和 Azure 政府使用以處理高度機密的資料。
+- Azure 和 Azure Government
+- [美國政府的 Dynamics 365](https://aka.ms/d365-compliance-list)
+- Intune
+- Office 365美國政府 Office 365 美國政府高、Office 365 美國政府國防版
+- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
 
-Azure 和 Azure 政府的 FedRAMP audit 包含的資訊安全性管理系統，涵蓋範圍內服務的基礎結構、開發、作業、管理及支援。 授與 P-ATO 後，CSP 仍然需要授權 (從其運作的任何政府機構 ATO) 。 針對 Azure，政府代理商可以使用其自己的安全性授權程式中的 Azure P-ATO，並依據它，作為發行同時符合 FedRAMP 需求的代理商 ATO 的基礎。
+## <a name="azure-dynamics-365-and-fedramp"></a>Azure、Dynamics 365 及 FedRAMP
 
-Azure 在 FedRAMP 高影響層級繼續支援較多的服務，而不是任何其他雲端提供者。 而且，Azure 公有雲端中 FedRAMP 高，可滿足許多美國政府客戶的需求，具有較嚴格需求的代理商會繼續依賴 Azure 政府，其可提供額外的保護措施，例如對人員的進一步篩選。 Microsoft 會列出目前在 Azure 政府中可用的所有 [azure 公用服務](/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-public-services-by-audit-scope) 至 FedRAMP 高界限，以及為當年計畫的服務。
+如需 Azure、Dynamics 365 和其他線上服務規範的詳細資訊，請參閱 [Azure FedRAMP 提供](/azure/compliance/offerings/offering-fedramp)。
 
-## <a name="microsoft-dynamics-365-us-government-ato"></a>Microsoft Dynamics 365 美國政府 ATO
-
-Dynamics 365 美國政府已授與 ATO (HUD) 的「美國機架」和「城市開發」高影響層級的 FedRAMP 機關。 雖然憑證的範圍已限制為政府社群雲端，但 Dynamics 365 美國政府商務和企業方案則會在相同的嚴格 FedRAMP 控制群組的情況下運作。
-
-## <a name="microsoft-office-365-and-office-365-us-government-atos"></a>Microsoft Office 365 和 Office 365 美國政府 ATOs
+## <a name="office-365-and-fedramp"></a>Office 365 和 FedRAMP
 
 - Office 365 和 Office 365 美國政府的健康情況和人力服務 (DHHS) 的 ATO。
 - Office 365美國政府國防版已 P-ATO 美國國防資訊系統代理商 (DISA) 。 任何想要部署 Office 365 美國政府國防版的客戶都可以使用 DISA P-ATO 產生代理商 ATO，以記錄其接受。
 - Office 365 (enterprise and business 方案) 和 Office 365 美國政府都有 FedRAMP 機關 ATO，其 DHHS Office 的一般影響層級。 Office 365「美國政府」是第一個以雲端為基礎的電子郵件和共同作業服務，可取得這種授權。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
 
-- [Azure 和 Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2095323)
-- [美國政府的 Dynamics 365](https://aka.ms/d365-compliance-list)
-- Intune
-- [Office 365 和 Office 365 U.S. Governmen](https://go.microsoft.com/fwlink/p/?linkid=2077751)
-- Office 365 美國政府國防版
-- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
-- 適用於端點的 Microsoft Defender
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-> [!NOTE]
-> 在 azure 政府內使用 Azure Active Directory，需要使用 azure public 雲端上的 azure 政府以外部署的元件。
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| **GCC** | 活動摘要服務，Bing 服務，Delve，Exchange Online，Exchange Online Protection，基礎結構，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務，Office 使用狀況報告，商務用 OneDrive，人員卡片，SharePoint 線上，商務用 Skype，Windows Ink |
+| **GCC High** | 活動摘要服務，Bing 服務，Exchange Online，Exchange Online Protection，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
+| **DoD** | 活動摘要服務，Bing 服務，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 審核、報告和憑證
 
 Microsoft 必須每年重新認證其雲端服務，以維護其 P-ATO 和 ATO。 若要這麼做，Microsoft 必須不斷監控和評估其安全性控制，並示範服務的安全性仍保持合規性。
 
-- [Microsoft cloud services FedRAMP 授權</span>](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
-- [Microsoft FedRAMP 稽核報告</span>](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
+- [Microsoft FedRAMP 稽核報告](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-若要接收其他的 FedRAMP 報告，請傳送電子郵件至 [Azure 聯邦檔](mailto:AzFedDoc@microsoft.com)。
-
-## <a name="quickly-deploy-your-fedramp-solutions-on-azure-government"></a>在 Azure 政府上快速部署您的 FedRAMP 解決方案
-
-讓 Microsoft 引導您完成 ATO 處理常式，並使用 FedRAMP 的高藍圖快速部署您的 FedRAMP 解決方案，這可協助客戶針對必須實施 FedRAMP 高控制措施的任何 Azure 部署架構，實施一組核心原則。
-
-[開始使用 Azure FedRAMP 高藍圖](https://aka.ms/fedrampblueprint)
-
-## <a name="frequently-asked-questions"></a>常見問題集
+### <a name="frequently-asked-questions"></a>常見問題集
 
 **Microsoft cloud services 是否符合《聯邦資訊安全性管理法案 (FISMA) ？**
 
@@ -111,14 +103,13 @@ FISMA 是一種聯邦法律，只需要我們的聯邦代理商和其合作夥�
 
 是。 您可以使用 Microsoft 雲端服務的認證，作為需要聯邦政府機構 ATO 之任何計畫或倡議的基礎。 不過，您必須為這些服務之外的元件達成您自己的授權。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
-## <a name="resources"></a>資源
+### <a name="resources"></a>資源
 
 - [聯邦風險和授權管理計畫](https://www.fedramp.gov/)
 - [FedRAMP 安全性評估架構](https://www.fedramp.gov/assets/resources/documents/FedRAMP_Security_Assessment_Framework.pdf)
 - [在 Microsoft 中管理雲端的合規性](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft 政府雲端](https://go.microsoft.com/fwlink/p/?linkid=2087246)
-- [Azure 規範服務](https://aka.ms/azurecompliance)

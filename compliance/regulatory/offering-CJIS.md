@@ -1,7 +1,7 @@
 ---
 title: " (CJIS) 安全性原則的刑事審判資訊服務"
 description: Microsoft 政府雲端服務遵循美國刑事審判資訊服務安全性原則。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fe96da8b7a8ef89f9dd8ce14573e3489c75f93e7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087612"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385363"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a> (CJIS) 安全性原則的刑事審判資訊服務
 
@@ -43,20 +43,38 @@ Microsoft 已評估 Microsoft Azure 政府、Microsoft Office 365 美國政府�
 
 深入瞭解 Microsoft Cloud 上的 CJIS 安全性原則的優點： [閱讀 Genetec 如何清除刑事調查](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
-- [Azure 政府](/azure/azure-government/documentation-government-welcome)
-- [美國政府的 Dynamics 365](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
-- [Office 365美國政府](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
-- Power BI 雲端服務，以獨立服務形式提供或包含在 Office 365 品牌方案或套件中
+- Azure 政府
+- 美國政府的 Dynamics 365
+- Office 365美國政府
+- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="azure-dynamics-365-and-cjis"></a>Azure、Dynamics 365 和 CJIS
+
+如需 Azure、Dynamics 365 及其他線上服務規範的詳細資訊，請參閱 [AZURE CJIS 服務](/azure/compliance/offerings/offering-cjis)。
+
+## <a name="office-365-and-cjis"></a>Office 365 和 CJIS
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 審核、報告和憑證
 
 FBI 不會提供符合 CJIS 需求的 Microsoft 認證。 相反地，microsoft 證明包含在 Microsoft 和州的 CJIS 機關，以及 Microsoft 及其客戶之間的協定中。
 
 [Microsoft CJIS 雲端需求](https://aka.ms/MicrosoftCJISCloudRequirements)
 
-## <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>美國 (目前為11/5/2020 的州的 CJIS 狀態) 
+### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>美國 (目前為11/5/2020 的州的 CJIS 狀態) 
 
 45州和哥倫比亞含管理合約的地區，在綠色地圖上以綠色反白顯示：
 
@@ -64,7 +82,7 @@ Alabama，阿拉斯加，亞利桑那，Arkansas，加州，科羅拉多，Conne
 
 Microsoft 致力於會議適用的 CJIS 管制控制措施，允許刑事審判組織執行雲端式方案，並遵循 CJIS 安全性原則5.9。
 
-## <a name="frequently-asked-questions"></a>常見問題集
+### <a name="frequently-asked-questions"></a>常見問題集
 
 **我可以在哪裡要求規範資訊？**
 
@@ -78,15 +96,14 @@ Microsoft 會以州 CJIS 系統代理商 (CSA) 來簽署資訊協定;您可以�
 
 [CJIS 安全性原則](https://aka.ms/cjis-security-policy) 涵蓋您的代理人保護 CJI 所必須採取的防範措施。 此外，您的 Microsoft 帳戶代表可讓您與熟悉司法需求的人員保持聯繫
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
-## <a name="resources"></a>資源
+### <a name="resources"></a>資源
 
 - [刑事審判資訊服務](https://aka.ms/cjis)
 - [CJIS 安全性原則](https://aka.ms/cjis-security-policy)
-- [Azure 政府的 CJIS 實施指導方針](https://aka.ms/cjisimplementationguidelines)
 - [Microsoft 通用控制措施中樞合規性架構](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft 政府雲端](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

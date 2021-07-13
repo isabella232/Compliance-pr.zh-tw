@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120088"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384513"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>新加坡多層雲端安全性 (MTCS) 標準
 
@@ -40,25 +40,37 @@ MTCS 是第一個具有不同安全性層級的雲端安全性標準，因此，
 
 ## <a name="microsoft-and-mtcs"></a>Microsoft 和 MTCS
 
-經 MTCS 認證機構進行嚴格評估，Microsoft 雲端服務獲得了所有三個服務分類的 MTCS 584:2013 認證 — 基礎結構即服務 (IaaS)、平台即服務 (PaaS) 和軟體即服務 (SaaS)。 Microsoft 是第一個在所有三個分類中獲得此認證的全球 CSP。
+經 MTCS 認證機構進行嚴格評估，Microsoft 雲端服務獲得了所有三個服務分類的 MTCS 584:2013 認證 — 基礎結構即服務 (IaaS)、平台即服務 (PaaS) 和軟體即服務 (SaaS)。Microsoft 是第一個在所有三個分類中獲得此認證的全球 CSP。
 
 授予了 Microsoft Azure 服務 (IaaS 和 PaaS)、Microsoft Dynamics 365 服務 (SaaS) 和 Microsoft Office 365 服務 (SaaS) 層級 3 的認證。 層級 3 認證表示範圍內 Microsoft 雲端服務能夠以最嚴格的安全性需求來託管受監管組織的高度影響力資料。 新加坡政府必須實作某些雲端解決方案。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure](https://go.microsoft.com/fwlink/p/?linkid=2092718)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
-- Microsoft Cloud App Security
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Genomics
+- Intune
+- Microsoft 雲端應用程式安全性
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
-- Flow
+- Office 365
 - OMS 服務對應
 - PowerApps
 - Power BI
-- Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+
+## <a name="office-365-and-mtcs"></a>Office 365 和 MTCS
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Delve、Exchange Online、Exchange Online Protection Loki、Microsoft Teams、Office 365 客戶入口網站、Office Online、Office 服務基礎結構、SharePoint Online、商務用 Skype |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
@@ -88,7 +100,7 @@ MTCS 是第一個具有不同安全性層級的雲端安全性標準，因此，
 MTCS 共有 535 個控制措施，涵蓋三個安全性層級：
 
 - 層級 1 為低成本，且所需的基準安全性控制數量最少。 適用於網站託管、測試和開發工作、模擬及非要徑商務應用程式。
-- 層級2 解決了大多數關注資料安全性之組織的需求，針對安全性風險和資料威脅制定了一套更嚴格的控制措施。 層級 2 適用於大多數雲端使用情況，包括關鍵任務的商務應用程式。
+- 層級 2 解決了大多數關注資料安全性之組織的需求，針對安全性風險和資料威脅制定了一套更嚴格的控制措施。層級 2 適用於大多數雲端使用，包括任務關鍵型業務應用程式。
 - 層級 3 專為具有特定需求的受監管組織，以及願意為更嚴格的安全性需求付費的組織而設計。 層級 3 新增了一組安全性控制措施，以補充層級 1 和 2 中的安全性控制措施。 他們會使用雲端服務 (例如託管具有敏感性資訊和受監管系統中的應用程式) 解決高度影響力資訊系統中的安全性風險和威脅。
 
 **我要從何處著手組織自身的合規性工作？**
@@ -97,11 +109,11 @@ MTCS 共有 535 個控制措施，涵蓋三個安全性層級：
 
 **我是否可以在組織的憑證程序中使用 Microsoft 合規性？**
 
-可以。 如果您需要驗證基於這些 Microsoft 雲端服務構建的服務，則可以使用 MTCS 認證來減少稽核 IT 基礎結構的影響 (如果它仰賴於 IT 基礎結構)。 不過，您有責任確保處理者有參與評估合規性的實作，以及組織中的控制和程序。
+是。 如果您需要驗證基於這些 Microsoft 雲端服務構建的服務，則可以使用 MTCS 認證來減少稽核 IT 基礎結構的影響 (如果它仰賴於 IT 基礎結構)。 不過，您有責任確保處理者有參與評估合規性的實作，以及組織中的控制和程序。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

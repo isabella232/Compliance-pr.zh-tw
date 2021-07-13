@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120072"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384463"
 ---
 # <a name="my-number-act-japan"></a>個人編號法案 (日本)
 
@@ -47,23 +47,33 @@ Microsoft 商務雲端服務在 [Microsoft Online Services 條款](https://www.m
 
 因此，Microsoft 商務雲端服務支援「個人編號法案」的需求，並不會以客戶之名建立其他義務，(例如由個人資料個別擁有者的同意權)。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-my-number-act"></a>Office 365 和個人編號法案
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>實作方法
 
 - [Microsoft 安全性原則](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=231213ea-9954-41fd-a757-ae62f3721dc7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)：Microsoft 雲端服務中處理個人和組織資訊安全性的方法。
-
 - [Office 365 中的隱私權](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)：Microsoft 如何在 Office 365 中建構強大的隱私權保護。
-
 - [Office 365 中系統管理存取](/office365/SecurityCompliance/office-365-administrative-access-controls-overview)：Microsoft 如何管理對客戶資料的系統管理存取。
-
 - [Office 365 中的稽核與報告](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview)：探索客戶可用來追蹤其租用戶中使用者和系統管理活動的功能。
-
 - [Office 365 中的資料保留](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview)：了解刪除資料後，客戶資料保留時間之資料處理原則。
 
 ## <a name="frequently-asked-questions"></a>常見問題集

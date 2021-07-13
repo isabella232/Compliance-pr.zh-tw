@@ -1,7 +1,7 @@
 ---
 title: 聯邦資訊處理標準 (FIPS) 發佈140-2
 description: Microsoft 證明其密碼模組符合聯邦資訊處理標準。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0838ce11e732f5c6e8c79c40af0e85bff9d22caf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089727"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385003"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>聯邦資訊處理標準 (FIPS) 發佈140-2
 
@@ -37,19 +37,37 @@ Microsoft 會維持積極的承諾，以滿足140-2 需求，因為標準是在2
 
 如需 Microsoft Windows 加密模組的技術資訊、每個模組的安全性原則，以及 CMVP 憑證詳細資料的目錄，請參閱[Windows 和 Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud)。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
 目前的 CMVP FIPS 140-2 實現指導方針會排除雲端服務本身的 FIPS 140-2 驗證，但雲端服務提供者可以選擇針對組成其雲端服務的計算元素，選擇取得並運作 FIPS 140 驗證的密碼模組。 Microsoft online services （包括已驗證 FIPS 140-2 的元件）包含下列各種：
 
-- [Azure 和 Azure Government](/azure/azure-government/documentation-government-plan-security)
-- [Dynamics 365 和 Dynamics 365 政府](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
-- [Office 365、Office 365 美國政府和 Office 365 美國政府國防版](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
+- Azure 和 Azure Government
+- Dynamics 365 和 Dynamics 365 政府
+- Office 365、Office 365 美國政府和 Office 365 美國政府國防版
 
-## <a name="frequently-asked-questions"></a>常見問題集
+## <a name="azure-dynamics-365-and-fips-140-2"></a>Azure、Dynamics 365 和 FIPS 140-2
 
-**「FIPS 140 驗證」與「FIPS 140 相容性」有何差異？**
+如需 Azure、Dynamics 365 及其他線上服務規範的詳細資訊，請參閱 [AZURE FIPS 140-2 產品](/azure/compliance/offerings/offering-fips-140-2)。
 
-「FIPS 140 驗證」指的是加密模組或內嵌模組的產品已驗證 ( 「已驗證」 ) 由 CMVP 為會議，以滿足 FIPS 140-2 的需求。 「FIPS 140 相容」是 IT 產品的行業術語，其適用于已驗證 FIPS 140 的產品以取得加密功能。
+## <a name="office-365-and-fips-140-2"></a>Office 365 和 FIPS 140-2
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| Office 365，GCC，GCC High，DoD | 請參閱 [FIPS 140-2 驗證](/windows/security/threat-protection/fips-140-validation) |
+
+### <a name="frequently-asked-questions"></a>常見問題集
+
+**「FIPS 140 驗證」與「FIPS 140 相容」有何差異？**
+
+「FIPS 140 驗證」表示加密模組或嵌入模組的產品已驗證 CMVP 為滿足 FIPS 140-2 的需求 ( ' 已驗證」 ) 。 「FIPS 140 相容」是 IT 產品的行業術語，其適用于已驗證 FIPS 140 的產品以取得加密功能。
 
 **Microsoft 何時使用 FIPS 140 驗證？**
 
@@ -71,10 +89,6 @@ Microsoft 會在執行 Windows 10 和 Windows 伺服器的硬體設定範例上�
 
 是的，「聯邦風險和授權管理」方案 (FedRAMP) 取決於 [NIST SP 800-53 Revision 4](https://nvd.nist.gov/800-53/Rev4/)所定義的控制基準，包含 [SC-13 加密保護](https://nvd.nist.gov/800-53/Rev4/control/SC-13) ，使用 FIPS 驗證的密碼編譯或 NSA 核准的密碼編譯。
 
-**Microsoft Azure 如何支援 FIPS 140-2？**
-
-azure 是以硬體、商業可用作業系統 (Linux 和 Windows) ，以及 Azure 特有的 Windows 版本組合所建立。 透過 Microsoft [Security 開發週期](https://www.microsoft.com/securityengineering/sdl/) (SDL) ，所有 Azure 服務都會使用 fips 140-2 核准的演算法進行資料安全性，因為作業系統會使用 fips 140-2 核准的演算法，在超大規模雲端上運作。
-
 **我是否可以在代理人的認證程式中使用 Microsoft 遵守 FIPS 140-2 的功能？**
 
 若要遵守 FIPS 140-2，您的系統必須設定為在作業的 FIPS 核准模式中執行，包括確保密碼模組只使用 FIPS 核准的演算法。 如需設定系統相容性的詳細資訊，請參閱[Windows 和 Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud)。
@@ -83,7 +97,7 @@ azure 是以硬體、商業可用作業系統 (Linux 和 Windows) ，以及 Azur
 
 這些是兩個不同的安全性標準，但相互互補。 FIPS 140-2 是專門設計用來驗證軟體和硬體密碼模組，而一般的準則是用來評估 IT 軟體和硬體產品中的安全性功能。 常見的準則評估通常會依靠 FIPS 140-2 驗證，以確保基本的加密功能已正確地執行。
 
-## <a name="resources"></a>資源
+### <a name="resources"></a>資源
 
 - [FIPS Pub 140-2 加密模組的安全性需求](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [NIST 加密模組驗證程式](https://csrc.nist.gov/groups/STM/cmvp/index.html)

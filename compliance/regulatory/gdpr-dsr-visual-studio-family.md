@@ -20,16 +20,16 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 4a4ec723a046b65ade51b2e7aaa08fcda3a1908d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141464"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377940"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Visual Studio 系列資料主體要求
 
-歐盟[一般資料保護規範 (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) 賦予人員 (在規範中稱為「資料主體」) 權限，以管理他們的個人資料。個人資料在 GDPR 中的定義非常廣泛，係指與已識別或可識別之自然人相關的任何資料。GDPR 賦予資料主體對其個人資料的特定權限，這些權限包括取得個人資料副本、要求更正資料、限制資料的處理、刪除資料或以電子格式接收資料。由資料主體向資料控制者 (具有個人資料控制權的雇主或其他類型的公司或組織) 提出對該資料主體的個人資料採取某項動作的正式要求，稱為「資料主體要求」或 DSR。
+歐盟 [一般資料保護規定 (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) 賦予人員 (在法規中稱為 _資料主體_) 管理其個人資料的權利。 依據 GDPR，個人資料的定義很廣泛，舉凡與已識別或可識別自然人相關的任何資料皆屬之。 GDPR 為資料主體提供其個人資料的特定權限；這些權限包括取得個人資料副本、要求對該資料進行更正、限制對該資料的處理、刪除該資料，或是以電子格式接收該資料。 資料主體向資料控制者 (控制個人資料的雇主或其他類型的機構或組織) 提出的對該資料主體的個人資料採取行動的正式要求稱為 _資料主體要求_ 或 DSR。
 
 同樣地，加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。  CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.yml)。
 
@@ -212,9 +212,9 @@ Xamarin 論壇是由第三方 Vanilla 論壇託管。如需要求刪除您的個
 
 ## <a name="other-visual-studio-family-services"></a>其他 Visual Studio 系列服務
 
-### <a name="surveymonkey"></a>SurveyMonkey
+### <a name="survey-monkey"></a>Survey Monkey
 
-有時，我們會邀請客戶透過 SurveyMonkey 提供關於這些產品的意見反應。這項資料會在 28 天內刪除。在處理這些產品的資料主體要求時，如果我們已驗證問卷回應，我們會將其包含在匯入及刪除資料主體要求中。
+我們會不時邀請客戶透過 Survey Monkey 提供這些產品的意見反應。 此資料在 28 天內從 Survey Monkey 中刪除。 Microsoft 得在內部保留此資料最多 18 個月。 如果問卷回應已通過驗證，則我們會在服務這些產品的資料主體要求時，將它們納入匯出和刪除資料主體要求中。
 
 ## <a name="learn-more"></a>深入了解
 

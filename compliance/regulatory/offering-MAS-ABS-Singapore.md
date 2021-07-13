@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 379720a1769048fea6abc22f850a6ef54f601351
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 9b7accfce56b2035dcaab95f774f8035c05c7362
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089052"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384543"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>新加坡金融管理局 (MAS) 和新加坡銀行協會 (ABS)
 
@@ -66,7 +66,7 @@ MAS 外包風險管理指導方針發佈後不久，代表在新加坡營運的�
 
 [下載適用於新加坡金融機構的合規性檢查清單](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=37557722-d5ed-419b-9365-2762982bacbf&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -82,7 +82,7 @@ MAS 外包風險管理指導方針發佈後不久，代表在新加坡營運的�
 
 **什麼是「材料」外包安排，為什麼定義很重要？**
 
-如果服務失敗或外洩有可能對金融公司的業務營運或管理風險和遵守相關法律和法規的能力產生重大影響，則是「重大」外包安排；或涉及客戶資訊，且如果發生未經授權的存取或揭露、遺失或竊取客戶資訊，會對公司的客戶造成重大影響。 「客戶資訊」的定義明確排除了安全加密的資訊。
+如果服務失敗或違約有可能對金融公司的業務營運或管理風險和遵守適用法律法規的能力產生重大影響，則外包安排是「重大的」；或者如果它涉及客戶資訊，並且在任何未經授權的存取或披露、遺失或盜竊客戶信息的情況下，會對公司的客戶產生重大影響。「客戶資訊」的定義明確排除了安全加密的資訊。
 
 該定義非常重要，因為 MAS 外包指導方針的某些規定僅適用於「重大外包安排」。 其中包括執行年度檢閱的義務、處理稽核權利的強制性合約條款，並確保在新加坡境外進行的外包不會影響 MAS 的監督工作。
 

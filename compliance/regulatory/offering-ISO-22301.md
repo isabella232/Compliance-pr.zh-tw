@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1c4cf624eb6f658bcdddde1acbef7bc43323f257
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088932"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384713"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>ISO 22301:2012 商務持續性管理標準
 
@@ -35,7 +35,7 @@ ms.locfileid: "53088932"
 
 Microsoft 是獲得商務持續性管理 ISO 22301 認證的第一個超大規模雲端服務提供者。 獨立認證單位在涵蓋商務持續性程序各個層面的嚴格稽核之後，將此認證頒給 Microsoft Azure、Microsoft Azure Government、Microsoft Office 365 (包括商務版、政府版及教育版供應項目)、Microsoft Cloud App Security、Microsoft Intune 及 Microsoft Power BI。 稽核涵蓋以下所列的範圍內服務和 Azure 管理功能、Azure 入口網站，以及用來監控、操作及更新範圍內服務的系統。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure、Azure Government 和 Azure 德國](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -46,7 +46,7 @@ Microsoft 是獲得商務持續性管理 ISO 22301 認證的第一個超大規�
 - Intune
 - [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (先前為 Microsoft Flow) 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- [Office 365 商業版、政府版和教育版](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Office 365 商業版、政府版和教育版
 - PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
 - Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
 - Power BI Embedded

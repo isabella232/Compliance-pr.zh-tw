@@ -1,7 +1,7 @@
 ---
 title: 食品和藥品管理 CFR Title 21 第11部分
 description: Microsoft 可協助客戶遵守這些美國食品和藥品管理條例。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 64a0f95ca98f7c9e398a92bd7127adb385315fc5
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f5710d392e1d2293bfee976873e5d7c603918e67
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121662"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385123"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>食品和藥品管理 CFR Title 21 第11部分
 
@@ -29,7 +29,7 @@ ms.locfileid: "50121662"
 
  (CFR) 的聯邦法規的程式碼包含美國聯邦政府的執行部門和代理商的規則和規定。 每個 CFR 50 標題都是針對不同的管制區域。
 
-[FDA CFR Title 21](https://aka.ms/FDA-CFR) 會在美國、食品和藥品的司法轄區 (FDA) 、藥物執行管理，以及全國藥品控制項原則的辦事處，針對美國所生產或使用的食品和毒品進行規定。 CFR Title 中所列的規章21第11部分設定技術系統的基本規則，以管理受 FDA 監察之組織所使用的資訊。 任何控制這類 GxP 處理常式的技術系統，都是良好的實驗做法 (GLP) 、良好的臨床作法 (GCP) 及良好的實際生產做法 (GMP) 也需要驗證其是否遵循 GxP。
+[fda CFR Title 21](https://aka.ms/FDA-CFR)會在美國、食品和藥品的司法轄區 (FDA) 、藥物執行管理，以及全國藥品控制原則的 Office 中，來規定美國所生產或使用的食品和毒品。 CFR Title 中所列的規章21第11部分設定技術系統的基本規則，以管理受 FDA 監察之組織所使用的資訊。 任何控制這類 GxP 處理常式的技術系統，都是良好的實驗做法 (GLP) 、良好的臨床作法 (GCP) 及良好的實際生產做法 (GMP) 也需要驗證其是否遵循 GxP。
 
 CFR Title 21 Part 11 會設定需求，以確保電子記錄及簽章對紙面記錄和手寫簽章具有信賴、可靠及同等的替代。 它還提供指導方針，以提升 FDA 管制行業中電腦系統的安全性。 主旨公司必須證明其程式及產品的運作方式，以及這些程式及產品是否變更時，必須重新驗證該校樣。 最佳做法指導方針包括：
 
@@ -43,15 +43,15 @@ Microsoft enterprise 雲端服務經歷一般獨立的協力廠商 SOC 1 Type 2 
 
 雖然這些一般審核和憑證並未特別著重于 FDA 法規遵從性，但其用途和目標與 CFR Title 21 Part 11 的性質類似，而且可協助確保 Microsoft 雲端服務中儲存的資料的機密性、完整性和可用性。 我們的認證方法也是以業界最佳作法為基礎，包括製藥技術工程 (ISPE) GAMP 系列的良好做法指南和藥物檢查合作架構 (PIC/S) 管控 GxP 環境中電腦化系統的最佳作法。
 
-客戶可以要求存取相容性報告、受保密協定條款及條件的制約、透過其 Microsoft 帳戶代表或透過 [服務信任入口網站](https://aka.ms/stphelp)。 此外，Microsoft Azure 和 Microsoft Office 365 的資格指導方針提供了 Microsoft audit controls 如何對應于 CFR Title 21 Part 11 的需求、實施 FDA 資格策略的指導方針，以及共同責任區域的說明。
+客戶可以要求存取相容性報告、受保密協定條款及條件的制約、透過其 Microsoft 帳戶代表或透過 [服務信任入口網站](https://aka.ms/stphelp)。 此外，Microsoft Azure 和 Microsoft Office 365 的資格指導方針提供了 Microsoft audit controls 如何對應于 CFR Title 21 第11部分的需求、實施 FDA 資格策略的指導方針，以及共用責任區域的描述。
 
 瞭解如何加速您的 FDA CFR Title 21 部署： [下載 AZURE fda 21 驗證指南](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
 雖然沒有符合 CFR Title 21 Part 11 的認證，但下列 Microsoft enterprise 雲端服務已經經歷了獨立的協力廠商審核，可協助客戶進行法規遵從性工作。 這些服務包括：
 
-- Azure：雲端服務、儲存、流量管理員、虛擬機器和虛擬網路
+- Azure：雲端服務、儲存體、流量管理員、虛擬機器及虛擬網路
 - Azure DevOps
 - Intune
 - [Dynamics 365 和 Dynamics 365 美國政府](https://aka.ms/d365-compliance-list)
@@ -71,7 +71,7 @@ FDA CFR Title 21 Part 11 適用于包含產品和服務的組織，這些產品�
 
 使用協力廠商準備的正式審核，以 SOC 1 Type 2、SOC 2 Type 2、ISO/IEC 27001 及 ISO/IEC 27018 為依據，Microsoft 可顯示這些報告中所述的相關控制措施如何滿足需求。
 
-由 Microsoft 執行的經過審核的控制項可協助確定資料的機密性、完整性和可用性，並對應至已識別為 Microsoft 責任的標題21第11部分中所定義的適當法規需求。 Azure 和 Office 365 的資格指導方針詳細說明 Microsoft audit controls 如何對應至這些需求。
+由 Microsoft 執行的經過審核的控制項可協助確定資料的機密性、完整性和可用性，並對應至已識別為 Microsoft 責任的標題21第11部分中所定義的適當法規需求。 Azure 和 Office 365 的認證指導方針會詳細說明 Microsoft audit controls 如何對應至這些需求。
 
 **如何取得審計員報表的複本？**
 
@@ -87,7 +87,7 @@ Microsoft 可確保其 enterprise 雲端服務符合管理 [線上服務條款](
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

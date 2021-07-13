@@ -1,7 +1,7 @@
 ---
 title: '預約銀行 (RBI) 和保險業法規和開發授權的印度 (IRDAI) '
 description: Microsoft 已發佈指導方針，可協助採用雲端採用的印度金融機構。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6d94152e51345631b2fe1650f9324183d3fd300e
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: fbeb7cefc0096225b5de012f62da951ae41d7045
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119982"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384353"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>預約銀行 (RBI) 和保險業法規和開發授權的印度 (IRDAI) 
 
@@ -45,16 +45,16 @@ ms.locfileid: "50119982"
 
 Microsoft 檢查清單可協助印度中執行 Microsoft 商務雲端服務之到期評估的財務公司，並包含：
 
-- 內容的規章環境概述。
-- 檢查清單，以根據這些法規義務，設定要解決的問題，並對應 Microsoft Azure、Microsoft Dynamics 365 和 Microsoft Office 365 服務。 檢查清單可做為工具，以根據法規架構評定合規性，提供記錄合規性的內部結構，並協助客戶自行進行 Microsoft 商務雲端服務風險評估。
+- 內容的法規環境概觀。
+- 檢查清單，以提出要解決的問題，並對應 Microsoft Azure、Microsoft Dynamics 365 和 Microsoft Office 365 服務，以防範這些法規責任。 檢查清單可做為工具，以根據法規架構評定合規性，提供記錄合規性的內部結構，並協助客戶自行進行 Microsoft 商務雲端服務風險評估。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="how-to-implement"></a>實作方法：
+## <a name="how-to-implement"></a>實作方法
 
 - [印度的規範檢查清單](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)：財務公司可以協助您進行 Microsoft 商務雲端服務的風險評估。
 - [風險評定與合規性指南](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
@@ -68,7 +68,7 @@ Microsoft 檢查清單可協助印度中執行 Microsoft 商務雲端服務之�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

@@ -1,7 +1,7 @@
 ---
 title: 證券和 Exchange 傭金 (SEC) 規則 17a-4 (f) 美國
 description: 獨立評估公司已驗證，Azure 和 Office 365 可協助金融公司符合 SEC Rule 17a-4 (f) 記錄保留和不可永恆的儲存需求。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6415b50a38d72ba66ede7e58e1b00aad2485ed42
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d92fc7b56d2c240588b90afad6a82264fde911c5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089042"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384323"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>證券和 Exchange 傭金 (SEC) 規則 17a-4 (f) 美國
 
@@ -44,7 +44,7 @@ Microsoft Azure使用具有保留鎖定功能的原則鎖定和 Microsoft Office
 - **Azure**： [SEC 17a-4 (f) 法規遵從性評估： Microsoft Azure 儲存體](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)、Cohasset 驗證 [Azure 永恆 blob 儲存體](/azure/storage/blobs/storage-blob-immutable-storage)與原則鎖定] 選項，用來保留以不可讀寫的 blob 和不可讀寫的 blob （ (格式）時，可滿足 SEC 規則的不可變化的儲存需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以從 Azure 不可變化的 Blob 儲存體成為 onestop 雲端方案，以進行記錄保留和不可變的儲存。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
 - **Microsoft 365**：針對 [SEC 17a-4 (f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)需求，Cohasset 驗證 Microsoft 365 包含封存功能，可讓受管制的客戶（包括經紀人代理商）儲存資料，以協助其遵守記錄保留的 SEC 需求。 Microsoft 365 中的保留功能可協助保留廣泛的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 尤其是，在 Microsoft 365 中封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間內的資料，而不是以不可重寫、不可讀寫的格式使用。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)

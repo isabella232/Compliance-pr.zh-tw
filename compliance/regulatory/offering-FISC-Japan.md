@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 977c4805617e71d065b5f8c7a97b91d277a2ef34
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088942"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384953"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>金融業資訊系統中心 (FISC)
 
@@ -45,15 +45,29 @@ Microsoft 已聘雇外部評估員來驗證 Microsoft Azure、Dynamics 365 和 M
 
 金融機構可以依賴下列評估：評估 Azure、Dynamics 365、Office 365 和 Microsoft Cloud App Security 的範圍內基礎架構和平台服務是否符合這三個區域。
 
-[深入了解外部評定者和評定者網站連結的驗證 (僅提供日文)](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)。
+[深入了解外部評估者的驗證和評估者網站連結 (僅提供日文)](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
+- Microsoft 雲端應用程式安全性
+- Office 365
+- Power BI 雲端服務 (可作為獨立服務或包含在 Office 365 品牌方案或套件中)
+
+## <a name="office-365-and-fisc"></a>Office 365 和 FISC
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online、Azure Active Directory、Delve、Exchange Online、Exchange Online Protection、Microsoft Teams、Office 365 專業增強版、Office Online、商務用 OneDrive、Power BI for Office 365、Project Online、SharePoint Online、商務用 Skype |
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

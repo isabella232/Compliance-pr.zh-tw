@@ -1,7 +1,7 @@
 ---
 title: '澳大利亞 Prudential 規章核證機關 (APRA) '
 description: 協助金融服務用戶端的 Microsoft 指導方針，遵循澳大利亞 Prudential 規章機關的外包標準。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e57959e6463704b1a6821ace10b9eadad1b570c1
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088842"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385493"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>澳大利亞 Prudential 規章核證機關 (APRA) 
 
@@ -72,11 +72,25 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 取得將資料和工作負載移至 Azure 的實際支援，遵循 APRA 法規： [下載 Microsoft 雲端服務：澳大利亞金融機構的規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
-- [Azure](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Dynamics 365
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
+
+## <a name="office-365-and-apra"></a>Office 365 和 APRA
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+請使用下表來決定 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內的服務** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online Protection，Exchange Online，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，商務用 OneDrive，SharePoint 線上，商務用 Skype |
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 

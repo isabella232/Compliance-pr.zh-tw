@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: feba7b943f04dc0a9470cef23465f1f63fc55ef7
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: ab92c2d12477e0e7fa1890ae25e06d264305e95c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497722"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384383"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>支付卡行業 (PCI) 資料安全標準 (DSS)
 
@@ -39,36 +39,46 @@ Microsoft 已透過經核准的合格資安評估商 (QSA) 完成年度 PCI DSS 
 
 請注意，Azure、商務用 OneDrive 和 SharePoint Online 的 PCI DSS 合規性狀態不會自動轉換成客戶在這些平台上建立或託管的服務的 PCI DSS 認證。 客戶需負責確保符合 PCI DSS 要求。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- Flow 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- Microsoft Graph
+- Azure 和 Azure Government
 - Intune
+- Microsoft 雲端應用程式安全性
 - [適用於端點的 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
-- PowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
-- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
+- Microsoft Graph
+- Office 365
 - 商務用 OneDrive 和 SharePoint Online (僅限美國)
+- PPowerApps 雲端服務可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中
+- 電源自動化 (可作為獨立服務或包含在 Office 365 或 Dynamics 365 品牌方案或套件中)
+- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
 
-## <a name="audit-reports-and-certificates"></a>稽核、報告和憑證
+## <a name="azure-dynamics-365-and-pci-dss"></a>Azure、Dynamics 365 和 PCI DSS
 
-- [Azure PCI DSS 合規性證明 (AoC)](https://aka.ms/azure-pci)
+如需 Azure、Dynamics 365 及其他線上服務合規性的詳細資訊，請參閱 [Azure PCI DSS 供應項目](/azure/compliance/offerings/offering-pci-dss)。
+
+## <a name="office-365-and-pci-dss"></a>Office 365 和 PCI DSS
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | 商務用 OneDrive (美國)、SharePoint Online |
+
+### <a name="office-365-audit-reports-and-certificates"></a>Office 365 稽核、報告和認證
+
 - [商務用 OneDrive 和 SharePoint Online PCI DSS 合規性證明 (AoC)](https://aka.ms/spo-pci)
 
-## <a name="get-your-pci-dss-solution-running-on-azure"></a>在 Azure 執行 PCI DSS 解決方案
-
-使用 Azure 安全性與合規性 PCI DSS 藍圖，在雲端更快速地建立及部署 PCI DSS 解決方案。 取得參考架構、部署指南、控制措施實作對應、自動化的指令碼等。 [開始使用 Azure PCI DSS 藍圖](https://aka.ms/pciblueprint)。
-
-## <a name="frequently-asked-questions"></a>常見問題集
+### <a name="frequently-asked-questions"></a>常見問題集
 
 **為什麼合規性證明 (AoC) 封面頁顯示「2018 年 6 月」？**
 
-封面頁上的 2018 年 6 月日期是發佈 AoC 範本的時間。 如需評估的日期，請參閱第 2 節。
-
-**為什麼有多個 Azure 合規性證明 (AoC)？**
-
-Azure AoC 套件具有對應於 Azure 公用、德國和政府雲端的 AoC。 客戶應使用與其 Azure 環境相對應的 AoC。  
+封面頁上的 2018 年 6 月日期是發佈 AoC 範本的時間。 如需評估的日期，請參閱第 2 節。 
 
 **PA DSS 和 PCI DSS 之間的關聯是什麼？**
 
@@ -82,12 +92,6 @@ Azure AoC 套件具有對應於 Azure 公用、德國和政府雲端的 AoC。 �
 
 PCI DSS 適用於任何接受、傳輸或儲存持卡人資料的公司，無論規模或交易次數。 也就是說，如果任何客戶使用信用卡或轉帳卡付款給某公司，便適用 PCI DSS 要求。 系統會根據 12 個月內的總交易量，以四個層級中的其中一個層級驗證公司。 第 1 級適用於每年處理超過 600 萬筆交易的公司；第 2 級適用於 100 萬至 600 萬筆交易；第 3 級適用於 20,000 至 1 百萬筆交易；而第 4 級則適用於少於 20,000 筆交易。
 
-**我該從哪裡開始針對部署在 Azure 上的解決方案進行組織的 PCI DSS 合規性工作？**
-
-PCI 安全標準協會提供的資訊可協助您了解特定合規性要求。 該協會發佈 [PCI DSS 快速參考指南](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)，提供涉及支付卡處理的商家和其他組織參考。 本指南說明 PCI DSS 如何協助保護支付卡交易環境和申請方式。
-
-合規性涉及數個因素，包括評估未裝載於 Azure 的系統和程序。 個別要求會根據所使用的 Azure 服務和服務在解決方案內的使用方式而有所不同。
-
 **美國以外的國家/地區是否有符合 PCI DSS 規範的商務用 OneDrive 和 SharePoint Online 方案？**
 
 目前符合 PCI DSS 規範的商務用 OneDrive 和 SharePoint Online 僅限美國。 Microsoft 會評估美國以外地區的需求和時間表，並在其他地區新增至藍圖時提供更新。
@@ -96,14 +100,13 @@ PCI 安全標準協會提供的資訊可協助您了解特定合規性要求。 
 
 目前，只有上傳至 [商務用 OneDrive] 和 [SharePoint Online] 的檔案和文件符合 PCI DSS 的要求。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
-## <a name="resources"></a>資源
+### <a name="resources"></a>資源
 
 - [PCI 安全標準協會](https://www.pcisecuritystandards.org/)
 - [PCI 資料安全性標準](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf)
-- [Azure PCI DSS 3.2.1 藍圖](/azure/governance/blueprints/samples/pci-dss-3.2.1/)
 - [PCI DSS 快速參考指南](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)

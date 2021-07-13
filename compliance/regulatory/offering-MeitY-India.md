@@ -1,7 +1,7 @@
 ---
 title: '電子產品和資訊技術 (MeitY) '
 description: Microsoft 已授與印度的電子產品和資訊技術部的完整資格鑒定。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: db3764419ae036eb578b7c09b5ee5dfeb7a07e29
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506347"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384503"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>電子產品和資訊技術 (MeitY) 
 
@@ -39,14 +39,14 @@ MeitY 提供 MeitY 為「empanelment ' ) 雲端服務提供者的資格鑒定 (�
 
 - 公用雲端，適用于共用、多租使用者公用雲端服務
 - 政府虛擬私人雲端，必須從邏輯上獨立于雲端服務提供者的公開和其他服務
-- 政府社區雲端，針對專屬的官方服務，以及與雲端服務提供者的公開和其他提供的實際方式不同的雲服務
+- 政府社群雲端，針對專屬的官方服務，以及與雲端服務提供者的公開和其他提供的實際獨立之雲服務
 
 Microsoft 的 MeitY 資格鑒定是由標準化測試和品質認證 (STQC) Directorate （一種政府組織，可提供品質保證服務，根據 MeghRaj 雲端倡議的運作來使用評估架構）所產生的結果。 透過 Microsoft Azure，公用部門現在可以在廣泛的部署模型和服務產品上進行繪製，包括基礎結構作為服務 (IaaS) 、平臺為服務 (PaaS) 、嚴重損壞修復、DevOps 和受管理的備份。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
 
 - [Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
