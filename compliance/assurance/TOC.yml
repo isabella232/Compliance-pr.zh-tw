@@ -2,60 +2,70 @@
   items:
     - name: 架構概觀
       href: assurance-architecture.md
-    - name: Microsoft 365 中的隔離控制項
-      href: /microsoft-365/enterprise/microsoft-365-isolation-controls?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Microsoft 365 中的租用戶隔離
-      href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: AAD 中的隔離和存取控制項
+    - name: AAD 隔離和存取控制
       href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: 保護 Microsoft 365 基礎結構
+    - name: Azure 隔離控制項
+      href: /azure/security/fundamentals/isolation-choices?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 基礎結構安全性
       href: assurance-securing-microsoft-365-infrastructure.md
+    - name: Microsoft 365 隔離控制項
+      href: /microsoft-365/enterprise/microsoft-365-isolation-controls?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 租用戶隔離
+      href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 稽核記錄
   items:
     - name: 稽核記錄概觀
       href: assurance-audit-logging.md
-    - name: 存取控制監視和管理
+    - name: Microsoft 365 存取控制監視與管理
       href: assurance-monitoring-and-auditing-access-controls.md
-    - name: 工程內部記錄
-      href: assurance-internal-logging.md
-    - name: 雲端服務稽核和報告
+    - name: Microsoft 365 稽核和報告
       href: assurance-auditing-and-reporting-overview.md
-    - name: 回報功能
+    - name: Microsoft 365 工程記錄
+      href: assurance-internal-logging.md
+    - name: Microsoft 365 報告功能
       href: assurance-reporting-features.md
 - name: 資料中心安全性
   items:
     - name: 資料中心安全性概觀
       href: assurance-datacenter-security.md
-    - name: 資料中心威脅、弱點和風險評估
+    - name: 資料中心 TVRA
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: 供應鏈安全性
+      href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 加密和金鑰管理
   items:
     - name: 加密和金鑰管理概觀
       href: assurance-encryption.md
-    - name: Microsoft Cloud 中的加密
+    - name: 雲端加密
       href: /microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: 傳輸中資料的加密
-      href: assurance-encryption-in-transit.md
-    - name: 為 Microsoft 365 服務加密
-      href: assurance-encryption-for-microsoft-365-services.md
-    - name: 為靜態資料服務加密
-      href: /microsoft-365/compliance/office-365-service-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Microsoft 365 中的電子郵件加密
-      href: /microsoft-365/compliance/email-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Exchange Online 如何保護您的電子郵件機密資料
-      href: /microsoft-365/compliance/exchange-online-secures-email-secrets?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Exchange Online 如何使用 TLS 保護電子郵件連線
-      href: /microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Azure 待用加密
+      href: /azure/security/fundamentals/encryption-atrest?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Azure 加密
+      href: /azure/security/fundamentals/encryption-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: 適用於加密的 BitLocker 與 Distributed Key Manager (DKM)
       href: /microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: 關於加密的技術參考詳細資料
+    - name: Exchange Online 電子郵件連線安全性
+      href: /microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Exchange Online 電子郵件密碼安全性
+      href: /microsoft-365/compliance/exchange-online-secures-email-secrets?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 待用加密
+      href: /microsoft-365/compliance/office-365-service-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 電子郵件加密
+      href: /microsoft-365/compliance/email-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 加密技術參考
       href: /microsoft-365/compliance/technical-reference-details-about-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 傳輸中加密
+      href: assurance-encryption-in-transit.md
+    - name: Microsoft 365 服務加密
+      href: assurance-encryption-for-microsoft-365-services.md
 - name: 控管
   items:
     - name: 控管概觀
       href: assurance-governance.md
-    - name: 安全性與合規性中心的服務保證
-      href: /microsoft-365/compliance/service-assurance?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Azure 資訊安全中心
+      href: /azure/security-center/security-center-introduction?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 合規性中心
+      href: /microsoft-365/compliance/microsoft-365-compliance-center?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 人力資源
   items:
     - name: 人力資源概觀
@@ -70,11 +80,13 @@
   items:
     - name: 身分識別和存取管理概觀
       href: assurance-identity-and-access-management.md
-    - name: 系統管理存取權控制
+    - name: Azure 客戶 Lockbox
+      href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 系統管理存取控制
       href: assurance-administrative-access-controls-overview.md
-    - name: 技術控制項
+    - name: Microsoft 365 技術控制措施
       href: assurance-technology-controls.md
-    - name: 客戶加密箱
+    - name: Office 365 客戶加密箱
       href: /microsoft-365/compliance/customer-lockbox-requests?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Yammer 企業存取控制項
       href: assurance-yammer-enterprise-access-controls.md
@@ -82,74 +94,84 @@
   items:
     - name: 事件管理概觀
       href: assurance-incident-management.md
-    - name: Microsoft 365 安全性中心事件管理
+    - name: 安全性事件管理
       href: assurance-security-incident-management.md
-    - name: 安全性事件管理準備
+    - name: 階段 1 - 準備
       href: assurance-sim-preparation.md
-    - name: 安全性事件管理偵測和分析
+    - name: 階段 2 - 偵測和分析
       href: assurance-sim-detection-analysis.md
-    - name: 安全性事件管理遏制、根除和復原
+    - name: 階段 3 - 內含項目、抑制、復原
       href: assurance-sim-containment-eradication-recovery.md
-    - name: 安全性事件管理事件後續活動
+    - name: 階段 4 - 事件後活動
       href: assurance-sim-post-incident-activity.md
 - name: 網路安全性
   items:
     - name: 網路安全性概觀
       href: assurance-network-security.md
-    - name: 阻絕服務攻擊策略
+    - name: Azure 網路和防火牆
+      href: /azure/security/fundamentals/production-network?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Azure 網路安全性控制項
+      href: /azure/security/fundamentals/network-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 阻絕服務攻擊策略
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: Microsoft 365 服務中的病毒偵測
+    - name: Microsoft 365 病毒偵測
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 隱私權
   items:
     - name: 隱私權概觀
       href: assurance-privacy.md
-    - name: Microsoft 365 客戶資料的儲存位置
-      href: /microsoft-365/enterprise/o365-data-locations?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: 資料保留、刪除及毀損
-      href: assurance-data-retention-deletion-and-destruction-overview.md
-    - name: Microsoft 365 資料毀損
-      href: assurance-data-destruction.md
+    - name: Azure 客戶資料保護
+      href: /azure/security/fundamentals/protection-customer-data?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Exchange Online 資料刪除
       href: assurance-exchange-online-data-deletion.md
     - name: SharePoint Online 資料刪除
       href: assurance-sharepoint-online-data-deletion.md
+    - name: Microsoft 365 資料毀損
+      href: assurance-data-destruction.md
     - name: Microsoft 365 資料永久性
       href: assurance-data-immutability.md
-    - name: 資料分類和敏感度標籤
-      href: assurance-data-classification-and-labels.md
+    - name: Microsoft 365 資料位置
+      href: /microsoft-365/enterprise/o365-data-locations?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 資料保留、刪除和銷毀
+      href: assurance-data-retention-deletion-and-destruction-overview.md
     - name: 建立資料分類架構
       href: assurance-create-data-classification-framework.md
+    - name: 資料分類和敏感度標籤
+      href: assurance-data-classification-and-labels.md
 - name: 復原和連續性
   items:
     - name: 復原和連續性概觀
       href: assurance-resiliency-and-continuity.md
-    - name: 雲端服務復原
-      href: assurance-m365-service-resiliency.md
-    - name: 服務健康狀況和持續性
-      href: /office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: 服務資源限制
-      href: assurance-resource-limits.md
-    - name: 資料復原
-      href: assurance-data-resiliency-overview.md
-    - name: 處理資料損毀
-      href: assurance-dealing-with-data-corruption.md
-    - name: 資料監視及自我修復
-      href: assurance-monitoring-and-self-healing.md
+    - name: Azure 基礎結構可用性
+      href: /azure/security/fundamentals/infrastructure-availability?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: 資料中心網路復原
+      href: /azure/security/fundamentals/infrastructure-network?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Exchange Online 資料復原
       href: assurance-exchange-data-resiliency.md
     - name: SharePoint 和 OneDrive 資料復原
       href: assurance-sharepoint-onedrive-data-resiliency.md
-    - name: 企業業務連續性管理 (EBCM) 與雲端服務
-      href: assurance-understanding-ebcm-with-cloud-services.md
-    - name: 客戶與雲端合作夥伴的 EBCM 責任
-      href: assurance-customer-and-cloud-partner-ebcm-responsibilities.md
-    - name: 開發您的持續性計劃
-      href: assurance-developing-your-ebcm-plan.md
-    - name: 服務事件的緩解策略
-      href: assurance-microsoft-365-mitigations.md
-    - name: 持續性計劃排練與使用者訓練
-      href: assurance-ebcm-plan-rehearsal-and-user-training.md
+    - name: Microsoft 365 資料損毀
+      href: assurance-dealing-with-data-corruption.md
+    - name: Microsoft 365 資料監視和自我修復
+      href: assurance-monitoring-and-self-healing.md
+    - name: Microsoft 365 資料復原
+      href: assurance-data-resiliency-overview.md
+    - name: Microsoft 365 資源限制
+      href: assurance-resource-limits.md
+    - name: Microsoft 365 服務健康狀態與持續性
+      href: /office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 服務復原能力
+      href: assurance-m365-service-resiliency.md
+    - name: 共用責任
+      items:
+        - name: 共用責任
+          href: assurance-customer-and-cloud-partner-ebcm-responsibilities.md
+        - name: 開發您的持續性計劃
+          href: assurance-developing-your-ebcm-plan.md
+        - name: 測試您的持續性計畫
+          href: assurance-ebcm-plan-rehearsal-and-user-training.md
+        - name: 服務事件的緩解策略
+          href: assurance-microsoft-365-mitigations.md
 - name: 風險管理
   items:
     - name: 風險管理概觀
@@ -160,10 +182,14 @@
   items:
     - name: 安全性開發與作業概觀
       href: assurance-security-development-and-operation.md
+    - name: Azure 程式碼完整性
+      href: /azure/security/fundamentals/code-integrity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 安全性監視
   items:
     - name: 安全性監視概觀
       href: assurance-security-monitoring.md
+    - name: Azure 安全性與效能監控
+      href: /azure/security/fundamentals/infrastructure-operations?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 供應商管理
   items:
     - name: 供應商管理概觀
@@ -172,11 +198,7 @@
   items:
     - name: 弱點管理概觀
       href: assurance-vulnerability-management.md
-    - name: 惡意程式碼與勒索軟體防護
-      href: assurance-malware-and-ransomware-protection.md
-    - name: Microsoft 365 中的攻擊模擬
+    - name: Microsoft 365 攻擊模擬
       href: assurance-monitoring-and-testing.md
-- name: Azure 安全性基本概念
-  items:
-    - name: Azure 安全性基本概念
-      href: /azure/security/fundamentals?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 惡意程式碼與勒索軟體防護
+      href: assurance-malware-and-ransomware-protection.md
