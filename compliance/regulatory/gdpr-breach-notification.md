@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 83d07d056656e76c49af015bcd3e7f0a3fe57e1f
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: f75a8e0f87a5a3e893a296bf487668078b5aef94
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496407"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377790"
 ---
 # <a name="gdpr-breach-notification"></a>GDPR 外洩通知
 
@@ -60,12 +60,11 @@ Microsoft 很認真看待其在一般資料保護規定 (GDPR) 下所需承擔�
 
     客戶可能發現外洩，而且想要連絡 Microsoft。 在此情況下，請通知 Microsoft 支援服務，然後與工程小組接洽以取得詳細資訊。
 
-2. **[Azure 與 Dynamics 365](gdpr-breach-azure-dynamics.md)**  
-    Microsoft 有全球全年無休的事件回應服務，降低對於 Microsoft Azure 與 Dynamics 365 攻擊的風險。
+2. **[Azure、Dynamics 365 和 Windows](gdpr-breach-azure-dynamics-windows.md)** Microsoft 有全球全年無休的事件回應服務，能降低針對 Microsoft Azure、Dynamics 365 和 Windows 診斷資料處理者設定的攻擊風險。
 
     - *外洩偵測*：因為 Microsoft 和客戶都有維護安全性的義務，因此 Azure 服務使用共用模型來定義安全性與操作的責任。 Microsoft 不會監視或回應客戶責任範圍內的安全性事件。 客戶事件回應可能會牽涉到與 Azure[客戶支援](https://azure.microsoft.com/support/options/)共同作業，前提是有適當的服務合約。 Microsoft Azure 也提供各種不同的服務 (例如，[Azure 資訊安全中心](https://azure.microsoft.com/services/security-center/))，客戶可以用來開發和管理安全性事件回應。
 
-        如需 Microsoft Azure 中觸發外洩調查的事件清單，請參閱[偵測潛在缺口](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches)。 [GDPR 規定的 Azure 和外洩通知](gdpr-breach-azure-dynamics.md)進一步詳述 Microsoft 在 Azure 中調查、管理以及回應安全性事件的方式。
+        如需 Microsoft Azure 中觸發外洩調查的事件清單，請參閱[偵測潛在缺口](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches)。 [GDPR 規定的 Azure 和外洩通知](gdpr-breach-azure-dynamics-windows.md)進一步詳述 Microsoft 在 Azure 中調查、管理以及回應安全性事件的方式。
 
     - 資料外洩回應：Microsoft 藉由調查事件的功能影響、恢復能力和資訊影響，決定外洩的適當優先順序和嚴重性層級。 優先順序和嚴重性可能會隨著調查的進行，根據新的發現結果和結論而變更。
     Microsoft 安全性回應小組與全球法律顧問密切合作，以協助確保該鑑識是根據法律義務和對客戶的承諾來執行。 這些程序於 [Azure 的資料外洩回應](/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response)中詳述。

@@ -1,5 +1,5 @@
 ---
-title: 個人資料保護法 (PDPA) 阿根廷
+title: 阿根廷個人資料保護法 (PDPA)
 description: Microsoft 商務雲端服務遵循 PDPA 標準以保護個人資訊的隱私權。
 keywords: Microsoft 365, 合規性, 方案
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119912"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385643"
 ---
-# <a name="personal-data-protection-act-pdpa-argentina"></a>個人資料保護法 (PDPA) 阿根廷
+# <a name="argentina-personal-data-protection-act-pdpa"></a>阿根廷個人資料保護法 (PDPA)
 
 ## <a name="about-the-pdpa"></a>關於 PDPA
 
@@ -39,13 +39,27 @@ Microsoft 透過 [ Microsoft 線上服務條款](https://www.microsoftvolumelice
 
 在商務雲端服務中實作的技術和組織安全性措施也支援 PDPA 中的其他規則，例如，禁止對資料主體的個人資料進行任何次要使用，以及禁止將個人資料傳輸到未提供適當保護層級的國家/地區。
 
-Microsoft 資料傳輸協議是針對線上服務條款中的資料處理條款的增修條款 (增修條款識別碼 M314)。 該協議增加了重要的承諾，包括 Microsoft 將任何具有法律約束力的要求通知客戶以揭露個人資料；應客戶或獨立第三方的要求，提交其資料處理設備以進行稽核；並事先取得使用轉包商的書面同意。
+Microsoft 資料傳輸協議是針對我們線上服務條款中資料處理條款的修訂(修訂號 M314)。該協議增加了重要的承諾，包括 Microsoft 將任何具有法律約束力的要求通知客戶以揭露個人資料；應客戶或獨立第三方的要求，提交其資料處理設備以進行稽核；並事先取得使用轉包商的書面同意。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure 與 Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-pdpa"></a>Office 365 和 PDPA
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Azure 資訊保護、Bookings、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 雲端 App 安全性、Office 365 群組、Office 365 影片、Office Delve、商務用 OneDrive、Planner、Power Apps、Power BI for Office 365、PowerApps、Power Automate、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>實作方法
 
@@ -56,11 +70,11 @@ Microsoft 資料傳輸協議是針對線上服務條款中的資料處理條款�
 
 **GDPR 如何改變個人資料保護法？**
 
-在 2018 年末，阿根廷尚未頒布與 GDPR 相關的法規，但已起草了新的資料保護議案 (已由行政機關提交國會並由眾議院修改) 以使其資料保護法與 GDPR 保持一致。 該議案解決了諸如資料主體的定義和個人資訊跨傳輸顧慮的差異。
+在 2018 年末，阿根廷尚未頒布與 GDPR 相關的法規，但已起草了新的資料保護議案 (已由行政機關提交國會並由眾議院修改) 以使其資料保護法與 GDPR 保持一致。它解決了諸如數據主體的定義和對個人信息跨境傳輸的擔憂等差異。它解決了諸如資料主體的定義和對個人資訊跨境傳輸的擔憂等差異。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
-[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性態勢，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 了解如何[在合規性管理員中建立評定](/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>資源
 

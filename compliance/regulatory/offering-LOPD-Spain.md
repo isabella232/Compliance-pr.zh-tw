@@ -1,5 +1,5 @@
 ---
-title: 西班牙皇家法令 1720/2007、西班牙組織法 15/1999
+title: 西班牙皇家法令 1720/2007、西班牙組織法 15/1999 (LOPD)
 description: Microsoft 雲端客戶是由西班牙的資料保護機構 (AEPD) 授權跨境資料傳輸。
 keywords: Microsoft 365, 合規性, 方案
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089797"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384563"
 ---
-# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>西班牙皇家法令 1720/2007、西班牙組織法 15/1999
+# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>西班牙皇家法令 1720/2007、西班牙組織法 15/1999 (LOPD)
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>西班牙皇家法令 1720/2007、西班牙組織法 15/1999 概觀
 
@@ -35,12 +35,26 @@ AEPD 是公開授權單位，其根據西班牙組織法 15/1999 監督個人資
 
 Microsoft 是第一個為客戶利益而獲得西班牙資料保護機構 (Agencia Española de Protección de Datos 或 AEPD) 授權的超大規模雲端服務提供者，因為它符合根據西班牙組織法 15/1999 (Ley Orgánica 15/1999 de Protección de Datos 或 LOPD) 的控管國際資料傳輸的高標準。 Microsoft 也是第一家獲得第三方稽核認證的超大規模雲端服務提供者，其線上服務符合皇家法令 1720/2007 第 VIII 條規定的安全性措施。 此授權會讓客戶傳輸到 Microsoft Azure、Dynamics 365 和 Office 365 服務的個人資料受歐盟示範條款規範。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Microsoft Azure](https://aka.ms/AzureCompliance)
-- [Microsoft Dynamics 365](https://aka.ms/d365-compliance-list)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Microsoft Office 365](https://aka.ms/o365-compliance-framework)
+- Office 365
+
+## <a name="office-365-and-lopd"></a>Office 365 和 LOPD
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 

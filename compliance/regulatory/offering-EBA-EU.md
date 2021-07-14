@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 18abcba03796d7f6563c65cebcbbafd63759dc7c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120922"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385223"
 ---
 # <a name="european-banking-authority-eba"></a>歐洲銀行業管理局 (EBA)
 
@@ -37,16 +37,16 @@ EBA 建議在 2018 年 7 月生效，建立在歐洲銀行監管委員會於 200
 
 Microsoft 指導方針逐點說明每個 EBA 建議：
 
-- 稽核權限。 Microsoft 為客戶提供合約稽核權限，以及其領先業界的金融服務修正案中，適用於監管人員的檢查權限。
-- 有關委外的通知。 Microsoft 可協助客戶將要委外的材料活動通知監管人員。
+- 稽核權限。Microsoft 為客戶提供合約稽核權限，以及其領先業界的金融服務修正案中，適用於監管人員的檢查權限。
+- 委外通知。Microsoft 可協助客戶將要委外的材料活動通知監管人員。
 - 資料落地。 有 36 個區域 (包括在歐洲的六個區域)，Microsoft 相較於任何雲端服務提供者，在全球提供最大量的資料中心。 組織可以在其中一個區域部署工作負載，不需要在歐洲主控資料。
-- 有關轉包商的通知。 Microsoft 在合約承諾方面領先業界，為客戶提供新轉包商的 180 天通知，以及在客戶未核准新轉包商約會時終止的權利。
-- 商務持續性。 Microsoft 會在我們的「金融服務修正案」中提供商務持續性和解決方案佈建，其中包括透過 Microsoft 諮詢服務提供轉換協助的意願。
-- 風險評定和安全性監控。 Microsoft 可讓客戶自行進行風險評定，並提供工具與儀表板，讓他們能夠監督及監控我們的雲端服務。
+- 轉包商通知。Microsoft 在合約承諾方面領先業界，為客戶提供新轉包商的 180 天通知，以及在客戶未核准新轉包商約會時終止的權利。
+- 商務持續性。Microsoft 會在我們的「金融服務修正案」中提供商務持續性和解決方案佈建，其中包括透過 Microsoft 諮詢服務提供轉換協助的意願。
+- 風險評定與安全性監控。Microsoft 可讓客戶自行進行風險評定，並提供工具與儀表板，讓他們能夠監督及監控我們的雲端服務。
 
 針對歐盟的金融機構，Microsoft 也發佈了[在 Microsoft 雲端中金融機構的風險評定和合規性指南](https://aka.ms/RiskGovernanceGuide)，這是在 EBA 指導方針之後成形的檢查清單。 它說明如何建立最能符合法規需求的控管模型，並且有效地評估使用 Microsoft 雲端服務的風險，然後提交進行法規核准。 我們的指南包含法規提交中必須回答的問題清單，取自有關委外給雲端服務提供者的 EBA 指導方針並加以回覆。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Microsoft 365](https://aka.ms/o365-compliance-framework)

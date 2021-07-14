@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: eb609f081f3f2aeb182bfe7a24327ebc89513a9c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 711cbafddaa6fbdff4050b138edacbd399666ef3
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496307"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377780"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>GDPR 資料保護影響評估
 
@@ -43,7 +43,7 @@ GDPR 需要控制者為「可能導致自然人之權利和自由高風險」的
 
 ## <a name="dpia-in-action"></a>DPIA 實際運作方式
 
-DPIA 指導方針適用於 Office 365、Azure、Dynamics 365，和 Microsoft 支援服務及專業服務。 指導方針包含考量：
+DPIA 指導方針適用於 Office 365、Azure、Dynamics 365，和 Microsoft 支援服務及專業服務。指導方針包含以下考量事項：
 
 **何時需要 DPIA？**
 
@@ -53,11 +53,11 @@ DPIA 指導方針適用於 Office 365、Azure、Dynamics 365，和 Microsoft 支
 - 處理大規模的特殊類別資料 (顯示唯一識別自然人資訊的資料) 或與刑事定罪和犯罪相關的個人資料。
 - 系統化監視大規模的公開區域。
 
-GDPR 闡明：「如果處理是有關於個別醫生的病患或其他醫療保健專業人員或律師之客戶的個人資料，則處理個人資料不應視為大規模。 在此類情況下，資料保護影響評估不應強制」。
+GDPR 闡明：「如果個人資料的處理涉及個別醫生、其他醫療保健專業人員或律師的患者或客戶的個人資料，則不應認為對個人資料的處理是大規模的。在這種情況下，資料保護影響評估不應該是強制性的。」
 
-**完成 DPIA 的必要項目？**
+**完成 DPIA 的必要條件是什麼？**
 
-根據本指導方針第 2 部分的詳細說明，DPIA 必須提供欲處理作業的特定資訊。 這些資訊包含：
+根據本指導方針第 2 部分的詳細說明，DPIA 必須提供欲處理作業的特定資訊。該資訊包含：
 
 - 評估與 DPIA 目的相關之資料處理的必要性和相稱性。  
 - 評估自然人的權利和自由風險。
@@ -77,6 +77,7 @@ GDPR 闡明：「如果處理是有關於個別醫生的病患或其他醫療保
 - [Office 365](gdpr-dpia-office365.md)：這份文件適用於 Office 365 應用程式和服務，包含但不限於 Exchange Online、SharePoint Online、Yammer、商務用 Skype 和 Power BI。 如需詳細資訊，請參閱表 [1](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed) 與 [2](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)。  
 - [Azure](gdpr-dpia-azure.md)：我們鼓勵客戶與其隱私權主管和法律顧問合作，以確定與使用 Microsoft Azure相關之任何 DPIA 的必要性和內容。  
 - [Dynamics 365](gdpr-dpia-dynamics.md): DPIA 的內容可能根據您採用的 Dynamics 365 工具而有所不同。 如需特定詳細資料，請參閱[第 2 部分：DPIA 的內容](/microsoft-365/compliance/gdpr-dpia-dynamics#part-2--contents-of-a-dpia)。
+- [Windows](/compliance/regulatory/gdpr-dpia-windows)：此文件適用於 [Windows 診斷資料處理者設定](/windows/privacy/configure-windows-diagnostic-data-in-your-organization)。 我們鼓勵客戶與其隱私權主管和法律顧問合作，以確定與使用 Windows 資料處理者設定相關之任何 DPIA 的必要性和內容。
 - [Microsoft 支援服務及專業服務](gdpr-dpia-prof-services.md)：專業服務不會進行特定常式或自動的資料處理，也不會試圖處理特殊類別，或執行促進或需要監管公開資料的任務。 如需詳細資料，請參閱[第 1 部分 – 判斷是否需要 DPIA](/microsoft-365/compliance/gdpr-dpia-prof-services#part-1--determining-whether-a-dpia-is-needed)。 在控制者的特定實作與專業服務的使用情況下，控制者必須考慮上述的 DPIA 元素以及其他相關因素。 如需專業服務的詳細資訊，請參閱[第 2 部分：DPIA 的內容](/microsoft-365/compliance/gdpr-dpia-prof-services#part-2--contents-of-a-dpia)。
 
 ## <a name="learn-more"></a>深入了解

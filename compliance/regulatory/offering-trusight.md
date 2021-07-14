@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a29713d530542b64514f694eef67aabb09e303e0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119882"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385533"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -41,7 +41,7 @@ TruSight 方法的基礎相當穩固，將由 TruSight 創立銀行所建立的�
 
 由於這項嚴格的 TruSight 評估，金融服務客戶現在可根據標準化、業界支援的方法，依需求存取高品質 Microsoft 雲端服務評定，而不需要投入自行執行所需的可觀資源。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365 (第 9 版和後續版本)](https://aka.ms/d365-compliance-list)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8f3471ee619bd2c67641d621652f1ce99322959a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 0769681ba9a8885639c52eaa1a3d4d55ea9ab0c0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507504"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384136"
 ---
 # <a name="enisa-information-assurance-framework"></a>ENISA 資訊保證架構
 
@@ -33,7 +33,7 @@ ms.locfileid: "49507504"
 
 ## <a name="microsoft-and-the-enisa-iaf"></a>Microsoft 和 ENISA IAF
 
-ENISA 資訊保證架構是根據國際資訊安全性管理標準 ISO/IEC 27001 和雲端安全性聯盟 (CSA) 雲端控制矩陣 (CCM) v3.0.1 的廣泛控制類別。 CCM  
+ENISA 資訊保證架構是根據國際資訊安全性管理標準 ISO/IEC 27001 和雲端安全性聯盟 (CSA) 雲端控制矩陣 (CCM) v3.0.1 的廣泛控制類別。CCM  
 是一個控制措施架構，涵蓋 16 個領域的基本安全性原則，協助雲端客戶評估雲端服務提供者 (CSP) 的整體安全性風險。
 
 如果您使用的是 CSA STAR 自我評定，Microsoft 提交了一份報告，記錄 Microsoft Azure 遵守 CSA CCM 的規範。 (Microsoft 也針對 Azure 發佈已完成自我評定問卷 (CAIQ)。) 該合規性  
@@ -43,19 +43,30 @@ CSA STAR 登錄中已列出 Azure 合規性，這是一個可公開存取的免�
 
 由於這些自我評定報告可公開取得，因此 Azure 客戶可以深入了解 Microsoft 的安全性做法，並使用相同的基準來比較不同的 CSP。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
+- Office 365
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+## <a name="azure-dynamics-365-and-enisa-iaf"></a>Azure、Dynamics 365 和 ENISA IAF
 
-Microsoft 根據評估證明 Azure 對 CSA CCM 架構的合規性，服務遵循  
-ENISA IAF。
+如需 Azure、Dynamics 365 及其他線上服務合規性詳細資訊，請參閱 [Azure ENISA IAF 供應項目](/azure/compliance/offerings/offering-eu-enisa-iaf)。
 
-- [CSA STAR 登錄](https://aka.ms/Azure_STAR)
+## <a name="office-365-and-enisa-iaf"></a>Office 365 和 ENISA IAF
 
-## <a name="resources"></a>資源
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
 
-- [Azure 標準資訊要求回應](https://gallery.technet.microsoft.com/Azure-Standard-Response-to-5de19cb6)
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+
+### <a name="resources"></a>資源
+
 - [Microsoft 和 CSA STAR 自我評定](offering-csa-star-self-assessment.md)
 - [Microsoft 和 ISO/IEC 27001](offering-ISO-27001.md)
