@@ -16,24 +16,22 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f48ba2f7bd10167d5e4cb384a7740df5e48b7617
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 93a45f3da668ef9f6115fe352b5bbbce49e15d7f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088712"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385523"
 ---
 # <a name="title-23-nycrr-part-500"></a>第 23 號 NYCRR 第 500 編
 
 ## <a name="title-23-nycrr-part-500-overview"></a>標題 23 NYCRR 第 500 部分概觀
 
-為應對資訊和金融系統的網路安全性顯著且持續增加的威脅，在 2017 年，紐約州金融服務部針對在該州進行商業活動的已授權金融機構，加諸了一組新的網路安全性需求。 此法規 (標題 23 New York 法規、規則和法規第 500 部分：適用於金融服務公司的網路安全性需求) 專為保護客戶資料和金融機構的資訊技術系統 (例如國家特許私人國際銀行、抵押貸款經紀人和保險公司) 所設計。
+為應對資訊和金融系統的網路安全性顯著且持續增加的威脅，在 2017 年，紐約州金融服務部針對在該州進行商業活動的已授權金融機構，加諸了一組新的網路安全性需求。 標題 23 紐約法規、規則和法規第 500 部分：適用於金融服務公司的網路安全性需求專為保護客戶資料和金融機構的資訊技術系統 (例如國家特許私人國際銀行、抵押貸款經紀人和保險公司) 所設計。
 
 ## <a name="microsoft-and-title-23-nycrr-part-500"></a>Microsoft 和標題 23 NYCRR 第 500 部分
 
 Microsoft 針對受標題 23 NYCRR 第 500 部分管制的金融服務，提供全方位的指南：[《Microsoft 雲端服務：支援符合 NYDFS 網路安全性需求》](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7e56dc6-4e52-4e9a-af06-aa41d5851d36&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)。 它深入解釋 Azure、Office 365 和 Power BI 雲端服務如何支援符合該需求。 尋求在紐約全球金融中心運營的金融機構必須符合這些需求，因此合規性對許多機構至關重要。
-
-請遵循此指導方針，以加快符合標題 23 NYCRR 第 500 部分：Microsoft 雲端服務：[支援符合 NYDFS 網路安全性需求](https://go.microsoft.com/fwlink/p/?linkid=2098969)
 
 紐約法規要求每個金融機構：
 
@@ -51,18 +49,31 @@ Microsoft 針對受標題 23 NYCRR 第 500 部分管制的金融服務，提供�
 - **監控已授權使用者的活動、偵測未授權的存取，以及為員工提供一般網路安全性認知訓練**：Azure、Office 365 和 Power BI 包括由外而內的監控以引發有關事件的警示，以及記錄和稽核的大量診斷。 [Microsoft Virtual Academy](https://mva.microsoft.com/) 提供的線上訓練涵蓋 Microsoft 雲端服務的網路安全性。
 - **制定計劃以應對網路安全性事件和從中復原**：Microsoft 使用防禦策略來偵測、預測和在發生前避免安全性漏洞。 當制定您的計劃時，您可以利用我們的事件管理計劃來應對網路安全漏洞。
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 範圍內雲端服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI 雲端服務可作為獨立服務或包含在 Office 365 品牌方案或套件中
+- Office 365
+
+## <a name="office-365-and-title-23-nycrr-part-500"></a>Office 365 和標題 23 NYCRR 第 500 部分
+
+### <a name="office-365-cloud-environments"></a>Office 365 雲端環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
+
+使用下表判斷 Office 365 服務和訂閱的適用性：
+
+| **適用性** | **範圍內服務** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online Protection、Exchange Online、Office 365 客戶入口網站、Office Online、Office 服務基礎結構、商務用 OneDrive、SharePoint Online、商務用 Skype |
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
 **哪些機構受到此法規約束？**
 
-請向紐約金融服務部諮詢[監督對象](https://go.microsoft.com/fwlink/p/?linkid=2099374)，以確定您的機構是否受此法規約束。
+請諮詢[紐約金融服務部我們監管的對象](https://go.microsoft.com/fwlink/p/?linkid=2099374) 網站，以確定您的機構是否受此法規約束。
 
 ## <a name="resources"></a>資源
 
@@ -76,5 +87,4 @@ Microsoft 針對受標題 23 NYCRR 第 500 部分管制的金融服務，提供�
 
 - [Microsoft 商務用雲端服務與金融服務](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Microsoft 雲端財務服務合規性計畫](https://www.microsoft.com/download/confirmation.aspx?id=55332)
-- [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [共同承擔的雲端運算責任](https://aka.ms/sharedresponsibility)- 
