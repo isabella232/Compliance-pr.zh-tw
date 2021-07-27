@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: b79d856591566aa1e13633377600c605429ee68e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 8715ef1ee8133fe950e3ff42b0c53b49f916a018
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377960"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573841"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>適用於 GDPR 和 CCPA 的 Windows 診斷資料處理者設定資料主體要求
 
@@ -104,3 +104,6 @@ Microsoft 還能夠直接透過預先存在的應用程式開發介面 (API) 匯
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>通知我們有關匯出或刪除的問題
 
 如果您從 Azure 入口網站匯出或刪除 Windows 診斷資料時遇到問題，請前往 Azure 入口網站 **[協助 + 支援]** 刀鋒視窗，並在 **[訂閱管理 > 訂閱的隱私權和法規遵循要求> 隱私權刀鋒視窗和 GDPR 要求]** 下提交新票證。
+
+>[!NOTE]
+>最多可能需要 5 天才能完成 Windows 診斷資料匯出要求。 如果您遇到問題，請在開啟支援票證前至少允許 7 天。

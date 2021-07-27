@@ -15,24 +15,25 @@ ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
 - SPO_Content
+- MS-Compliance
 f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e89a261e44ef4eb4a1399027b70be88fffb82036
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 6968cc318a625676195460814a9e264dada8605e
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497407"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573861"
 ---
-# <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>在 Microsoft 365 中 SharePoint 線上資料刪除
+# <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>SharePoint在 Microsoft 365 中刪除線上資料
 
-SharePoint 線上將物件儲存為應用程式資料庫中的抽象程式碼。 當使用者將檔案上傳至 SharePoint 線上時，該檔案會被反彙編並轉譯成應用程式代碼，並儲存在多個資料庫的多個資料表中。 在線上 SharePoint 中，客戶上傳的所有內容都會分割成區塊、加密 (可能會有多個 AES 256 位金鑰) ，以及跨資料中心散佈。 如需有關區塊和加密程式的特定詳細資料，請參閱 [Microsoft Cloud 中的加密](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview)。 
+SharePoint線上將物件儲存為應用程式資料庫中的抽象程式碼。 當使用者將檔案上傳至 SharePoint 線上時，該檔案會被反彙編並轉譯成應用程式代碼，並儲存在多個資料庫的多個資料表中。 在線上 SharePoint 中，客戶上傳的所有內容都會分割成區塊、加密 (可能會有多個 AES 256 位金鑰) ，以及跨資料中心散佈。 如需有關區塊和加密程式的特定詳細資料，請參閱 [Microsoft Cloud 中的加密](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview)。 
 
-在線上 SharePoint 中，專案會從您從原始位置刪除時起的93天內保留。 除非某人從該回收站刪除或清除該回收站，否則它們會一直保留在網站回收站中。 在此情況下，這些專案會移至網站集合的回收站，而這些專案會在剩餘的93天內保留。 如需還原已刪除專案的詳細資訊，請參閱 [還原 SharePoint 網站回收站中的專案](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online
-) ，以及 [從網站集合回收站還原已刪除的專案](https://support.office.com/article/5fa924ee-16d7-487b-9a0a-021b9062d14b)。 在 SharePoint Online 中無法設定回收站保留時間。
+在線上 SharePoint 中，專案會從您從原始位置刪除時起的93天內保留。 除非某人從該回收站刪除或清除該回收站，否則它們會一直保留在網站回收站中。 在此情況下，這些專案會移至網站集合的回收站，而這些專案會在剩餘的93天內保留。 如需還原已刪除專案的詳細資訊，請參閱[還原 SharePoint 網站回收站中的專案](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online
+)，以及[從網站集合回收站還原已刪除的專案](https://support.office.com/article/5fa924ee-16d7-487b-9a0a-021b9062d14b)。 在 SharePoint Online 中無法設定回收站保留時間。
 
 當您刪除網站集合時，也會刪除集合中的網站階層，並在其中的所有內容：
 

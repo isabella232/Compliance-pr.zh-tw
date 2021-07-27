@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5c94dcab6ac61daa2d1723d84b47a6f360d55b59
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5708ab20d78d1862af5613c64ea492c40bea9da1
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087702"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573831"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Microsoft 365 中的攻擊模擬
 
@@ -35,7 +35,7 @@ Microsoft 365 具有內部監控系統，可持續監控任何失敗，並在偵
 
 雖然 Microsoft 365 盡可能進行自動化的復原動作，但 Microsoft 待命工程師可全天候提供，以調查所有嚴重性為1的安全性升級，以及每個服務事件的檢討後檢查，以不斷瞭解和改善。 此小組包含支援的工程師、產品開發人員、專案經理、產品經理及資深領導。 我們的電話會議專業人員會提供及時的備份，而且通常可自動執行復原動作，所以下一次發生事件時，它可以是自我 healed。
 
-不論影響的程度為何，Microsoft 都會執行完整的事件後檢查，只要發生 Microsoft 365 的安全性事件。 事件後檢查會包含對發生狀況的分析、回應方式，以及未來如何預防類似事件的分析。 透過透明及責任的利益，我們會與受影響客戶的任何重大服務事件，分享事件後檢查。 如需特定詳細資料，請參閱[Office 365 安全性事件管理](https://aka.ms/Office365SIM)。
+不論影響的程度為何，Microsoft 都會執行完整的事件後檢查，只要發生 Microsoft 365 的安全性事件。 事件後檢查會包含對發生狀況的分析、回應方式，以及未來如何預防類似事件的分析。 透過透明及責任的利益，我們會與受影響客戶的任何重大服務事件，分享事件後檢查。 如需特定詳細資料，請參閱 [Microsoft 安全性事件管理](assurance-security-incident-management.md)。
 
 ## <a name="assume-breach-methodology"></a>採用破壞方法
 

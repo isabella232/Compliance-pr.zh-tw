@@ -11,7 +11,7 @@
         - name: CSA-STAR 認證
           href: /azure/compliance/offerings/offering-csa-star-certification?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: CSA STAR 自我評估
-          href: /azure/compliance/offerings/offering-csa-star-self-assessment?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+          href: offering-csa-star-self-assessment.md
         - name: ISO - 建議的行動計劃
           href: iso-action-plan.md
         - name: ISO 20000-1-2011
