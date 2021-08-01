@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0af79e7834006940f46643dae678c1a8ca77fad2
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573781"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678238"
 ---
 # <a name="privacy-overview"></a>隱私權概觀
 
@@ -45,22 +45,32 @@ Microsoft 將客戶資料的集合限制為四個特定[資料類別](https://ww
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>Microsoft 如何處理協力廠商共用？
 
-協力廠商共用是對協力廠商所進行的資料共用或向前披露。 只有客戶授權或必要的法律時，Microsoft 才會共用資料。 Microsoft 不會授與任何政府 (，包括法律強制執行或其他政府機構) 直接或 unfettered 客戶資料的存取權。 Microsoft 遵循有關跨框線轉接客戶資料的 [國際資料保護法律](https://www.microsoft.com/trust-center/privacy/data-location) 。
+協力廠商共用是對協力廠商所進行的資料共用或向前披露。 只有客戶授權或必要的法律時，Microsoft 才會共用資料。 Microsoft 不會為任何政府 (包括執法單位或其他政府實體) 提供直接或無限制存取客戶資料的權限。 Microsoft 遵循有關跨框線轉接客戶資料的 [國際資料保護法律](https://www.microsoft.com/trust-center/privacy/data-location) 。
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>當客戶離開服務時，Microsoft 如何刪除客戶資料？
 
-Microsoft Data 手續費 Standard 會指定在刪除之後保留客戶資料的時間。 當客戶結束訂閱時，Microsoft 會將客戶資料保留在有限的功能帳戶中的90天，讓客戶能夠解壓縮資料。 在90日保留期間結束後，除非經授權保留或因法律要求保留，否則 Microsoft 將會刪除客戶資料。 在到期或終止 Microsoft 365 訂閱後，不得超過180天。 Microsoft 會停用帳戶，並從帳戶刪除所有客戶資料。 在任何資料的保留期間上限之後，就會呈現無法取得商業用的資料。
+Microsoft Data 手續費 Standard 會指定在刪除之後保留客戶資料的時間。 當客戶結束其訂閱時，Microsoft 會以受限的功能帳戶保留客戶資料 90 天，以便客戶能夠擷取資料。 90 天保留期間結束之後，Microsoft 將刪除客戶資料，除非獲得授權以保留資料或因法律要求而保留資料。 在 Microsoft online 服務訂閱到期或終止後，不得超過180天; Microsoft 會停用帳戶，並從帳戶刪除所有客戶資料。 一旦任何資料的最大保留期間超過時，資料會遭到商務性轉譯且無法恢復。
 
-Microsoft 也會刪除所有服務所產生及診斷資料做為標準 Microsoft 資料生命週期的一部分，除非資料需要維護服務的安全性和穩定性。 針對任何訂閱，訂戶可以聯繫 Microsoft 支援服務，並要求進行加急訂閱取消布建。 當客戶利用此程式時，系統會在管理員輸入 Microsoft 所提供的封鎖碼之後，在三天內刪除所有使用者資料。 這項刪除功能包括 SharePoint 線上中的資料，以及在保留或儲存在非使用中信箱中的 Exchange Online。
+Microsoft 也會刪除所有服務所產生及診斷資料做為標準 Microsoft 資料生命週期的一部分，除非資料需要維護服務的安全性和穩定性。 對於任何訂閱，訂閱者可以聯絡 Microsoft 支援服務並要求解除佈建訂閱。 當客戶使用此程式時，系統會在管理員輸入 Microsoft 所提供的封鎖碼之後，在三天內刪除所有使用者資料。 這項刪除功能包括 SharePoint 線上中的資料，以及在保留或儲存在非使用中信箱中的 Exchange Online。
 
 ## <a name="related-external-regulations--certifications"></a>相關的外部法規 & 認證
 
 Microsoft 的線上服務會定期進行審核，以符合外部法規和認證。 請參閱下表，以驗證與隱私權相關的控制項。
 
+### <a name="azure-and-dynamics-365"></a>Azure 和 Dynamics 365
+
 | **外部審計** | **Section** | **最新報告日期** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1：公用雲端 PII 處理器的用途 | 2021 年 4 月 20 日 |
-| [SOC 2 (Office 365) ](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12：服務等級協定 (Sla)  <br> CA-17： Microsoft 安全性原則 <br> CA-25：控制架構更新 | 2020月24日 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1：公用雲端 PII 處理器的用途 | 2020 年 12 月 2 日 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15：客戶訂閱終止/到期 <br> SDL-1：安全性開發生命週期 (SDL) 方法 <br> 照-4：保護機密客戶資料 | 2021年3月21日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15：客戶訂閱終止/到期 <br> SDL-1：安全性開發生命週期 (SDL) 方法 <br> 照-4：保護機密客戶資料 <br> SOC2-1：資產分類 <br> SOC2-7：發佈的機密性和安全性義務 | 2021年3月31日 |
+
+### <a name="office-365"></a>Office 365
+
+| **外部審計** | **Section** | **最新報告日期** |
+|:--------------------|:------------|:-----------------------|  
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性聲明](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1：公用雲端 PII 處理器的用途 | 2021 年 4 月 20 日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12：服務等級協定 (Sla)  <br> CA-17： Microsoft 安全性原則 <br> CA-25：控制架構更新 | 2020月24日 |
 
 ## <a name="resources"></a>資源
 
