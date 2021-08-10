@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292770"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>聯邦風險與授權管理計畫 (FedRAMP)
 
@@ -47,7 +47,7 @@ microsoft 的政府雲端服務（包括 Azure 政府、Dynamics 365 政府和 O
 
 Microsoft 政府雲端服務提供 public tool 客戶與 FedRAMP 及強大的指導方針和執行工具（包括 [FedRAMP 高藍圖](https://aka.ms/fedrampblueprint)）相容，可協助客戶針對必須執行 FedRAMP 高控制措施的任何 Azure 部署架構，部署一組核心原則。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure 和 Azure Government
 - [美國政府的 Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -71,15 +71,15 @@ Microsoft 政府雲端服務提供 public tool 客戶與 FedRAMP 及強大的指
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **GCC** | 活動摘要服務，Bing 服務，Delve，Exchange Online，Exchange Online Protection，基礎結構，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務，Office 使用狀況報告，商務用 OneDrive，人員卡片，SharePoint 線上，商務用 Skype，Windows Ink |
 | **GCC High** | 活動摘要服務，Bing 服務，Exchange Online，Exchange Online Protection，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
 | **DoD** | 活動摘要服務，Bing 服務，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 審核、報告和憑證
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
 Microsoft 必須每年重新認證其雲端服務，以維護其 P-ATO 和 ATO。 若要這麼做，Microsoft 必須不斷監控和評估其安全性控制，並示範服務的安全性仍保持合規性。
 
@@ -101,7 +101,7 @@ FISMA 是一種聯邦法律，只需要我們的聯邦代理商和其合作夥�
 
 **我是否可以在代理人的授權過程中使用 Microsoft 規範？**
 
-是。 您可以使用 Microsoft 雲端服務的認證，作為需要聯邦政府機構 ATO 之任何計畫或倡議的基礎。 不過，您必須為這些服務之外的元件達成您自己的授權。
+是的。 您可以使用 Microsoft 雲端服務的認證，作為需要聯邦政府機構 ATO 之任何計畫或倡議的基礎。 不過，您必須為這些服務之外的元件達成您自己的授權。
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8fb98bfab57008cdee3c2fbb049c7f34af361c37
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293860"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>澳大利亞政府資訊安全性註冊 Assessor 程式 (IRAP) 
 
@@ -58,7 +58,7 @@ ISM 所用的風險管理架構會從 [本國標準和技術研究院 (NIST) 特
 
 Microsoft 的服務和雲端作業的 IRAP 評估，可協助為政府及其合作夥伴提供擔保，讓 Microsoft 有適當且有效的安全性控制，以用於處理、儲存及傳輸已分類的資料，並包含受保護的層級。 此項評估包含澳大利亞大多數政府、醫療保健及教育版資料。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -77,9 +77,9 @@ Microsoft 的服務和雲端作業的 IRAP 評估，可協助為政府及其合�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online，Exchange Online Protection，Forms，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，商務用 OneDrive，Planner，SharePoint 線上，商務用 Skype，白板，Yammer |
 
@@ -91,7 +91,7 @@ IRAP 適用于所有使用雲端服務的澳大利亞聯邦、州及地方政府
 
 **我是否可以在組織的風險評估與核准程式中使用 Microsoft 的符合性？**
 
-是。 如果您的組織需要或正在尋求核准，以與 ISM 一起運作，您可以在風險評估中使用 Azure、Dynamics 365、Microsoft 受管理的電腦及 Office 365 的 IRAP 安全性評估。 不過，您已負責接洽 assessor，以評估 Microsoft 平臺上部署的實施，以及您自己組織中的控制項和流程。
+是的。 如果您的組織需要或正在尋求核准，以與 ISM 一起運作，您可以在風險評估中使用 Azure、Dynamics 365、Microsoft 受管理的電腦及 Office 365 的 IRAP 安全性評估。 不過，您已負責接洽 assessor，以評估 Microsoft 平臺上部署的實施，以及您自己組織中的控制項和流程。
 
 **從組織自身的風險評估和核准開始，我要從何處開始？**
 

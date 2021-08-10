@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8eebfff19667ee96298179843b7b39f071b9f0a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293900"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>美國內年收入服務出版物1075
 
@@ -45,7 +45,7 @@ Microsoft Azure政府和[Microsoft Office 365 美國政府](https://products.off
 - 提供對應的 Azure 政府合規性考慮，以及 Office 365 美國政府合規性考慮，其概括了代理商如何使用 Microsoft 雲端政府服務的方式，遵循 IRS 1075 的方式。 保密協定下的政府客戶可以要求這些檔。
 - 在需要時，向客戶供應商機 (，以與 Microsoft 主題專家或外部審計員) 進行通訊。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 根據 NIST 指導方針，以三個影響層級授與 FedRAMP 授權：低、中和高。 這些排名可影響組織的機密性、完整性或可用性喪失的程度，也就是低 (有限的效果) 、中 (嚴重的不利影響) ，以及高 (嚴重或嚴重影響) 。
 
@@ -66,14 +66,14 @@ Microsoft Azure政府和[Microsoft Office 365 美國政府](https://products.off
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 使用狀況報告、商務用 OneDrive、人員卡片、服務基礎結構、SharePoint 線上、商務用 Skype、Windows Ink |
 | **GCC** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告，商務用 OneDrive，人員卡片，SharePoint 線上，商務用 Skype，Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 審核、報告和憑證
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
 遵守 IRS 1075 的實體需求涵蓋每年 FedRAMP 的審計。
 
@@ -93,7 +93,7 @@ Microsoft 會定期監視其安全性、隱私權、運作控制措施和 NIST 8
 
 **我可以使用 Azure 或 Office 365 公用雲端環境，是否仍然相容于 IRS 1075？**
 
-否。 可以儲存並處理的唯一環境是 Azure 政府或 Office 365 美國政府。 政府客戶必須符合資格的要求才能使用這些環境。
+錯誤。 可以儲存並處理的唯一環境是 Azure 政府或 Office 365 美國政府。 政府客戶必須符合資格的要求才能使用這些環境。
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 

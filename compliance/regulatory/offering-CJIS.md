@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292530"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a> (CJIS) 安全性原則的刑事審判資訊服務
 
@@ -43,7 +43,7 @@ Microsoft 已評估 Microsoft Azure 政府、Microsoft Office 365 美國政府�
 
 深入瞭解 Microsoft Cloud 上的 CJIS 安全性原則的優點： [閱讀 Genetec 如何清除刑事調查](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure 政府
 - 美國政府的 Dynamics 365
@@ -62,13 +62,13 @@ Microsoft 已評估 Microsoft Azure 政府、Microsoft Office 365 美國政府�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI |
+| **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 審核、報告和憑證
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
 FBI 不會提供符合 CJIS 需求的 Microsoft 認證。 相反地，microsoft 證明包含在 Microsoft 和州的 CJIS 機關，以及 Microsoft 及其客戶之間的協定中。
 

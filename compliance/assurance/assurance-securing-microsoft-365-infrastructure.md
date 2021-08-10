@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 224900bd60f2fd5637e7264f1aed98d5ff878b20
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292750"
 ---
 # <a name="securing-the-microsoft-365-infrastructure"></a>保護 Microsoft 365 基礎結構
 
@@ -101,4 +101,4 @@ Microsoft 365 的最大優先順序是防止攻擊 infiltrating 防禦。 Micros
 
 ## <a name="resources"></a>資源
 
-[在幕後：保護 Microsoft 365 服務電源的基礎結構](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+[幕後運作：保護為 Microsoft 365 服務提供後援的基礎結構](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)

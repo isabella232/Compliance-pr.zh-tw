@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293380"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ISPC)  (紐西蘭政府的資訊安全性和隱私權考慮
 
@@ -37,7 +37,7 @@ ms.locfileid: "53385653"
 
 為了協助組織取得 Microsoft enterprise 雲端服務的分析和評估，Microsoft 紐西蘭已產生檔，顯示其 enterprise 雲端服務如何解決「雲端計算 ISPC」中所設定的問題，方法是將其連結至 Microsoft 雲端服務所驗證的標準。 這些認證是 Microsoft 如何保證公開和私人部門客戶的核心服務，其雲端服務的設計、建立與運作方式，可有效地減輕隱私權和安全性風險，並解決資料主權方面的問題。 客戶可以下載 [Azure 回應至雲端計算 ISPC](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) 。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure 和 Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -53,9 +53,9 @@ ms.locfileid: "53385653"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online，SharePoint 線上，商務用 Skype |
 

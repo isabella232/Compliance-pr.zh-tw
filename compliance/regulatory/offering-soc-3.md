@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1d6f6b0a4c9bd3ebbccb90331a8cf17df7ff8928
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 738970a410baa8f76334d026bd778c8a1f05b4546c85b9c1157e653f401476e0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294270"
 ---
 # <a name="system-and-organization-controls-soc-3"></a>系統與組織控制 (SOC) 3
 
@@ -50,7 +50,7 @@ Microsoft 範圍內服務會顯示在 Azure [SOC 2 Type 2 證明](offering-soc-2
 - Microsoft Stream
 - Microsoft 威脅專家 (不在 Azure Government 的範圍內)
 - 提名入口網站
-- Office 365、Office 365 美國政府、Office 365 美國政府 - 高、Office 365 美國政府國防版
+- Office 365、Office 365 美國政府版、Office 365 美國政府版 - High、Office 365 美國政府國防版
 - Power Apps
 - 電源自動化
 - Power BI
@@ -69,7 +69,7 @@ Microsoft 範圍內服務會顯示在 Azure [SOC 2 Type 2 證明](offering-soc-2
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-使用下表判斷 Office 365 服務和訂用帳戶的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|

@@ -19,31 +19,31 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 95e52107df2f3e745d393c62929f7c169bcf9a33
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292051"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Microsoft 安全性事件管理：包容、eradication 及恢復
 
 根據安全性回應小組、服務小組和其他人員所執行的分析，開發適當的包容和復原計畫，以盡可能降低安全性事件的影響。 然後，適當的服務小組會在生產環境中套用此方案，並提供來自安全性回應小組的支援。
 
-## <a name="containment"></a>遏制
+## <a name="containment"></a>遏制措施
 
 在偵測到安全性事件後，必須先包含入侵，才可存取更多資源或造成更大的損毀。 我們的安全性事件回應程式的主要目標是限制對客戶或其資料的影響，或是對 Microsoft 系統、服務和應用程式的影響。
 
-## <a name="eradication"></a>根除
+## <a name="eradication"></a>鏟除
 
-Eradication 是以高信心程度消除安全性事件根本原因的處理常式。 目標是兩折的：
+鏟除是透過高度自信來消除安全性事件根本原因的一個流程。 目標是兩折的：
 
 - 完全從環境逐出對手
 - 若要緩解此弱點 (請注意，) 如果已啟用或可能讓敵人重新輸入環境。
 
 根據事件性質、安全性事件範圍、滲透程度與可能影響程度的深度，安全性回應小組會建議服務小組採用 eradication 技巧。 考慮到此 eradication 步驟可能導致的潛在業務影響，當必要時) ，服務小組和安全性回應小組會進行必要的分析和核准，以 (。
 
-## <a name="recovery"></a>恢復
+## <a name="recovery"></a>復原
 
 隨著回應小組獲得合理的信賴程度，讓敵人從環境逐出，而且已消除所有已知可靠的路徑，個別的服務小組會啟動還原步驟，以將服務帶入已知且良好的設定。 這些還原步驟將會與安全性回應小組進行諮詢。 此活動包含識別服務的最後一個已知良好狀態，從備份還原至此狀態，檢查還原的狀態中有漏洞的攻擊路徑等等。與服務小組互動的安全性回應小組會決定環境可能的最佳復原計畫。
 

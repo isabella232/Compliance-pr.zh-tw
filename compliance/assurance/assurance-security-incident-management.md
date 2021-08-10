@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d52832d34034966eb9373925be2d3f5b31cfad5a
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 38bb8c8492c3bbff6ed96380ac3a4d284f220a0ec5b2fb7b7c00814033a5c02c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292183"
 ---
 # <a name="microsoft-security-incident-management"></a>Microsoft 安全性事件管理
 
@@ -32,7 +32,7 @@ Microsoft 致力於為 Microsoft 客戶提供高安全性的企業級服務，�
 
 Microsoft online services 安全小組和各種服務小組共同運作，並且採用相同的安全性事件方法：
 
-- 製備
+- 準備
 - 偵測和分析
 - 包容、Eradication 及恢復
 - 事件後活動
@@ -43,7 +43,7 @@ Microsoft 的管理安全性事件的方法，就是與 [國內的標準和技�
 
 |**團隊/區域**|**描述**|
 |:------------|:--------------|
-| Microsoft 安全性回應中心 | 識別、監視、解決及回應安全性事件和 Microsoft 軟體安全性弱點。 |
+| Microsoft 安全回應中心 | 識別、監視、解決及回應安全性事件和 Microsoft 軟體安全性弱點。 |
 | 網路防護作業中心 | 「網路防護作業中心」是透過整個公司的安全性回應小組和專家整合的實體位置，可協助即時保護、偵測及回應威脅。 |
 | 公司、外部及法律事務 | 針對可疑的安全性事件，提供法律和法規的建議。 |
 | Microsoft Datacenter Security 團隊 | 側重于常見安全性工程投資的各種服務，以保護、偵測和回應服務架構風險和威脅的團隊。 |

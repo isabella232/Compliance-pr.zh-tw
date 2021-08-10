@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 20dccebdb31eff3e502efe8fe6eba6fbdd4881c4ac864927566fc786dff09a15
+ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385153"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57833890"
 ---
 # <a name="european-union-model-clauses"></a>歐盟示範條款
 
@@ -33,13 +33,9 @@ ms.locfileid: "53385153"
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft 和歐盟示範條款
 
-Microsoft 已投資完成必要的執行程序，以符合將個人資料傳輸到處理者的示範條款嚴格需求。 Microsoft 為客戶提供示範條款 (稱為標準合約條款)，可針對範圍內 Microsoft 服務的個人資料傳輸做特定保證。 這樣可確保 Microsoft 客戶可以透過 Microsoft 雲端，自由地從 EEA 將資料移至世界各地。
+歐盟 (EU) [一般資料保護規定](/compliance/regulatory/gdpr) (GDPR) 對將客戶個人資料傳輸到歐洲經濟區 (EEA) 以外的國家/地區加以規定，其中包括所有歐洲國家/地區、冰島、列支敦斯登和挪威。 Microsoft 為客戶提供歐盟[標準合約條款](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (SCC) (也稱為歐盟示範條款)，可針對範圍內服務的個人資料傳輸提供特定保證。 歐盟示範條款使用於服務提供者 (例如 Microsoft) 和客戶之間合約中，可確保任何離開 EEA 的個人資料，都能符合 GDPR 進行傳輸。
 
-不過，身為個人資料控制者的 Microsoft 企業客戶，要承擔保護資料的主要義務。 這表示 EEA 企業客戶在確保其服務提供者遵守歐盟資料保護法有強烈責任，否則客戶會面臨責任，甚至中斷其使用服務的能力。
-
-Microsoft 為歐盟的資料保護工作小組提供其標準合約條款，以便檢閱及核准。 歐盟資料保護工作小組包含來自歐洲資料保護主管、歐洲委員會和 28 個歐盟資料保護機構 (DPA) 的代表。
-
-小組決定 Microsoft 合約中的佈建實作，符合其嚴格需求。 (Microsoft 是獲得小組背書和核准的第一個雲端服務提供者。)核准涵蓋在示範條款 2010/87/EU 中反映的參與項目，而不是在附錄中，描述由資料匯入者實作的資料傳輸和安全性措施。 您可以使用 DPA 來個別分析附錄。
+2020 年 7 月，歐盟法院 (CJEU) 針對將個人資料從歐盟傳輸至美國，使歐盟-美國隱私盾架構失效。 不過，歐盟示範條款會繼續為從歐盟和歐洲經濟區以及瑞士和英國傳輸個人資料提供有效的機制。 Microsoft 提供歐盟示範條款給客戶，如 Microsoft 線上服務條款 (OST) [資料保護增補合約](https://aka.ms/DPA) (DPA) 中所述。
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
@@ -67,7 +63,7 @@ Microsoft 為歐盟的資料保護工作小組提供其標準合約條款，以�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | 進階威脅防護、Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商業** | 進階威脅防護、Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 

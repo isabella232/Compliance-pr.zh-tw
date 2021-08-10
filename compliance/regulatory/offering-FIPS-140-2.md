@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292510"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>聯邦資訊處理標準 (FIPS) 發佈140-2
 
@@ -37,7 +37,7 @@ Microsoft 會維持積極的承諾，以滿足140-2 需求，因為標準是在2
 
 如需 Microsoft Windows 加密模組的技術資訊、每個模組的安全性原則，以及 CMVP 憑證詳細資料的目錄，請參閱[Windows 和 Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud)。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 目前的 CMVP FIPS 140-2 實現指導方針會排除雲端服務本身的 FIPS 140-2 驗證，但雲端服務提供者可以選擇針對組成其雲端服務的計算元素，選擇取得並運作 FIPS 140 驗證的密碼模組。 Microsoft online services （包括已驗證 FIPS 140-2 的元件）包含下列各種：
 
@@ -57,9 +57,9 @@ Microsoft 會維持積極的承諾，以滿足140-2 需求，因為標準是在2
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | Office 365，GCC，GCC High，DoD | 請參閱 [FIPS 140-2 驗證](/windows/security/threat-protection/fips-140-validation) |
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3799b59b8ad88c69e400336f0026a1730224693a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 3765100048d7f17afc27781775487574c6f5219d72e246c4670ccbe91f91f307
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293490"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Gramm-Leach-Bliley Act (GLBA)
 
@@ -40,13 +40,13 @@ Microsoft 已開發[azure](https://servicetrust.microsoft.com/ViewPage/TrustDocu
 - [下載 Azure 金融服務雲端風險評估工具](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [下載 Office 365 雲端風險評估工具](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365，Office 365 美國政府
-- Power BI 雲端服務 (為獨立服務，或是包含在 Office 365 商標計畫或套件中) 
+- Power BI 雲端服務 (可作為獨立服務或包含在 Office 365 品牌方案或套件中)
 
 ## <a name="azure-dynamics-365-and-glba"></a>Azure、Dynamics 365 和 GLBA
 
@@ -60,11 +60,11 @@ Microsoft 已開發[azure](https://servicetrust.microsoft.com/ViewPage/TrustDocu
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory，Azure 資訊保護，預約，合規性管理員，Delve，Exchange Online，Exchange Online Protection，表單，Kaizala，microsoft Analytics，microsoft 預約，microsoft Defender for Office 365，microsoft Graph，Microsoft Teams，microsoft To-Do for Web、MyAnalytics Office 365 進階合規性安全性 Office 365 雲端 App 安全性相容性Center、Office 365 影片、Office 線上、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **Office 365** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 | **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，Forms，Microsoft Defender for Office 365 Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI |
 
 ### <a name="frequently-asked-questions"></a>常見問題集

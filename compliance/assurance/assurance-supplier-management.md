@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 00a1f4ae37e3ec79a87414926c2821bab8393e39
-ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
+ms.openlocfilehash: abf8616033ee8046447b0d10292ddd25278a29a31ad829c9e0a97df7d11e2271
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/31/2021
-ms.locfileid: "53678228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291731"
 ---
 # <a name="supplier-management-overview"></a>供應商管理概觀
 
@@ -43,12 +43,12 @@ DPR 需求的適用範圍是以六種不同的資料處理類別為基礎，可�
 
 「Subprocessor ' 是 Microsoft 雇傭的協力廠商，其職責包含處理 Microsoft 為處理器的 Microsoft 個人資料。 Microsoft 的 subprocessors 分為三個不同的類別。 每個客戶都必須先示範 SSPA，才可代表在 Microsoft 上處理客戶資料。
 
-- **技術** subprocessors 提供用來傳遞特定 Microsoft online 服務的技術。 如果客戶部署其中一個服務，則針對該服務所識別的 subprocessors 可能會在協助提供該服務時處理、儲存或存取客戶資料或個人資料。
+- **技術** 轉包處理者會提供用來提供特定 Microsoft 線上服務的技術。 如果客戶部署其中一個服務，則針對該服務所識別的 subprocessors 可能會在協助提供該服務時處理、儲存或存取客戶資料或個人資料。
 - **輔助** subprocessors 提供服務，以支援、運作及維護線上服務。 如果客戶部署其中一項服務，識別的 subprocessors 可能會處理、儲存或存取有限的客戶資料或個人資料，同時提供其輔助服務。
 - **員工充實** subprocessors 採用兩種不同的形式：在這兩種情況下，個人資料只會在 microsoft 系統上，且受限於 microsoft 的原則和監督工作。
 
-    - 第一種形式的人員充實可讓員工支援、運作及維護 Microsoft 線上服務。 在履行其職責時，這些 subprocessors 可能會對客戶資料或個人資料公開。 例如，subprocessor 可能會在 Microsoft server 上執行遠端疑難排解，但這樣做可能會在伺服器損毀傾印記錄檔中對客戶資料的程式碼片段公開。
-    - 第二種形式的人員擴充包括 subprocessors 哪些人員與 Microsoft 全職員工共同作業，以支援、操作和維護 Microsoft 線上服務。 在 Microsoft 全職員工以外的工作中，您可能會將這些 subprocessors 公開給假名化資料。
+    - 員工擴充轉包處理者會提供可支援、操作和維護 Microsoft 線上服務的員工。 在履行責任的同時，這些轉包處理者可能會接觸客戶資料或個人資料。 例如，轉包處理者可能會對 Microsoft 伺服器執行遠端疑難排解，而這麼做時，他們可能會接觸伺服器損毀傾印記錄中的客戶資料片段。
+    - 第二種形式的人員擴充包括 subprocessors 哪些人員與 Microsoft 全職員工共同作業，以支援、操作和維護 Microsoft 線上服務。 當這些轉包處理者與 Microsoft 全職員工一起在工作時，他們可能會接觸已使用假名的資料。
 
 若要遵循 Microsoft 的資料保護需求 (DPR) ，必須使用技術和輔助 subprocessors 來執行存取控制。 這些需求符合或超過 Microsoft 對其客戶在線上服務條款 (OST) 中所做的合約承諾。 從事人員充實工作的供應商，必須對 Microsoft 全職員工使用相同的存取控制措施。
 

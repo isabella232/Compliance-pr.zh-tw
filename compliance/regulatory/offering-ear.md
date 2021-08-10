@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293590"
 ---
 # <a name="us-export-administration-regulations-ear"></a> (EAR) 美國出口管理條例
 
@@ -51,7 +51,7 @@ Microsoft 技術、產品和服務受到美國出口管理條例 (EAR) 的制約
 - **端對端加密**。 透過利用 EAR 中所指定實體儲存位置的端對端加密安全實體，Microsoft in 範圍雲端服務會提供可協助防範出口控制風險的加密功能。 他們也為客戶提供 [廣泛的選項](https://aka.ms/Azure-Encryption-Overview) ，可在傳輸和靜止中加密資料，以及在加密選項之間選擇的彈性。
 - **工具和通訊協定，可防止未經授權的人認定匯出**。 使用加密，也有助於防範可能受到認定的匯出 (或被視為在 EAR 下重新匯出) ，因為即使非 US 人員可以存取加密的資料，也不會發現或在加密時無法讀取或瞭解資料時，什麼都不會顯示。因此，控制的資料不會「發行」。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure 和 Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 政府版 (GCC-高及 DoD) ](https://aka.ms/Office-365-Export-Controls)

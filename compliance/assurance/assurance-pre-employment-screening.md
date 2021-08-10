@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f9189b763824a144a72259643c252563bc6a349b
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 764b56a0f950d0b933bb86bb86ad505481bce482cbed4d2a0b06a4969b1c6661
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292300"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Microsoft 職前檢測
 
@@ -54,7 +54,7 @@ Microsoft 的全域安全性部門負責確保候選人在開始雇用 Microsoft
 
 - 在美國或在歐洲、中東和亞洲的政府簽發檔中確認身分識別的 SSN 追蹤。
 - 刑事病史會在州、縣和當地層級檢查 felony 和民事案件的七年，如果有適用于美國的聯邦階層。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
-- 獲得最高教育程度的確認
+- 確認最高等級的學術成就
 - 五年期的雇用歷程記錄
 - 全球性制裁及強制執行檢查，包括 Office 國外資產控制 (辦公室 ofac) 清單、行業和安全性的局 (BIS) 清單，以及 Office 國防商貿控制排除人員 (DDTC) 清單檢查。
 
@@ -66,8 +66,8 @@ Microsoft 要求供應商 (臨時人員) 進行預先放置背景檢查，以執
 
 - 在美國或在歐洲、中東和亞洲的政府簽發檔中確認身分識別的 SSN 追蹤。
 - 刑事病史會在州、縣和當地層級檢查 felony 和民事案件的七年，如果有適用于美國的聯邦階層。 根據當地法律) 的國際刑事病史支票 (適用于美國以外的地區。
-- 獲得最高教育程度的確認
-- 全球制裁並強制執行檢查
+- 確認最高等級的學術成就
+- 全球制裁與強制檢查
 
 在美國每個供應商員工每個位置的每一個位置之前，若要在當地法律所允許的程度範圍內，供應商將會進行預先安置，而且在某些位置、定期、背景檢查會針對 microsoft 的慣用背景檢查服務提供者確認該篩選符合 Microsoft standard。 
 

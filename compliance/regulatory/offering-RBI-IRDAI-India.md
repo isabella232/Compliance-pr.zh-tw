@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fbeb7cefc0096225b5de012f62da951ae41d7045
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294220"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>預約銀行 (RBI) 和保險業法規和開發授權的印度 (IRDAI) 
 
@@ -48,7 +48,7 @@ Microsoft 檢查清單可協助印度中執行 Microsoft 商務雲端服務之�
 - 內容的法規環境概觀。
 - 檢查清單，以提出要解決的問題，並對應 Microsoft Azure、Microsoft Dynamics 365 和 Microsoft Office 365 服務，以防範這些法規責任。 檢查清單可做為工具，以根據法規架構評定合規性，提供記錄合規性的內部結構，並協助客戶自行進行 Microsoft 商務雲端服務風險評估。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

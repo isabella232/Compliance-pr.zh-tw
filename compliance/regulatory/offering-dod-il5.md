@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f92ed19a22b7eff8a7e9988e66c51aea90d42ab
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294230"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>國防部門 (DoD) 影響層級 5 (IL5) 
 
@@ -51,11 +51,11 @@ DISA 指南 DoD 以規劃及授權使用 CSP 的機構和部門。 它也會評�
 - 從非 DoD/非聯邦政府租使用者實際的隔離 (（也就是「公用」、「州政府租使用者) ）。
 - CSP 會限制對美國公民的 CSP 員工，對 DoD 和社區資訊的潛在存取權。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
 - Dynamics 365 客戶服務
-- Microsoft Defender for Endpoint (以前是 Microsoft Defender 高級威脅防護) 
+- 適用於端點的 Microsoft Defender (之前稱為 Microsoft Defender 進階威脅防護)
 - Microsoft Graph
 - Microsoft Stream
 - Office 365 美國政府國防版
@@ -74,9 +74,9 @@ DISA 指南 DoD 以規劃及授權使用 CSP 的機構和部門。 它也會評�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **DoD** | 活動摘要服務，Bing 服務，Exchange Online，Exchange Online Protection，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
 

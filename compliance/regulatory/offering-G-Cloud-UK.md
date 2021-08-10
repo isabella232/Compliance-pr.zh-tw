@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292490"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>英國 Government-Cloud (G-Cloud) 
 
@@ -41,16 +41,16 @@ Microsoft 服務數位市場的約會表示 UK 政府的代理商和合作夥伴
 
  [14 cloud cloud the cloud Security Controls using Microsoft Azure](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/)提供客戶策略，將其服務移至 Azure，並協助符合 CESG/NCSC 所規定的英國義務。 白皮書可深入瞭解 Azure 如何用來協助解決雲端安全性主體中所述的14個控制項，並概述客戶在採用 Microsoft Azure 服務的情況下，如何更快地進行移動，以節約成本。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
-- Microsoft 雲端 App 安全性
+- Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
 - Power Automate (先前 Microsoft Flow) 雲端服務， (為獨立服務，或是包含在 Office 365 或 Dynamics 365 品牌計畫或套件) 
 - PowerApps 雲端服務 (為獨立服務，或是包含在 Office 365 或 Dynamics 365 品牌計畫或套件中) 
-- Power BI 雲端服務 (為獨立服務，或是包含在 Office 365 商標計畫或套件中) 
+- Power BI 雲端服務 (可作為獨立服務或包含在 Office 365 品牌方案或套件中)
 
 ## <a name="office-365-and-uk-g-cloud"></a>Office 365 和 UK G-雲端
 
@@ -60,9 +60,9 @@ Microsoft 服務數位市場的約會表示 UK 政府的代理商和合作夥伴
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online，SharePoint 線上，商務用 Skype |
 

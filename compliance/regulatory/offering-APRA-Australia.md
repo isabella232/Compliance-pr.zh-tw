@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292620"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>澳大利亞 Prudential 規章核證機關 (APRA) 
 
@@ -72,7 +72,7 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 取得將資料和工作負載移至 Azure 的實際支援，遵循 APRA 法規： [下載 Microsoft 雲端服務：澳大利亞金融機構的規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -86,23 +86,23 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection，Exchange Online，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，商務用 OneDrive，SharePoint 線上，商務用 Skype |
+| **Office 365** | Exchange Online Protection、Exchange Online、Office 365 客戶入口網站、Office Online、Office 服務基礎結構、商務用 OneDrive、SharePoint Online、商務用 Skype |
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
 **金融機構是否需要在外包材料商務活動之前 APRA 核准？**
 
-否。 不過，大多數管制的財務組織必須在 APRA 後通知，以在澳大利亞以外的外包材料商務活動的合約或諮詢 APRA，再將這些活動外包于澳大利亞以外的地方。
+錯誤。 不過，大多數管制的財務組織必須在 APRA 後通知，以在澳大利亞以外的外包材料商務活動的合約或諮詢 APRA，再將這些活動外包于澳大利亞以外的地方。
 
 此外，如果雲端服務被視為具有「提升或極端固有的風險」（如 APRA [資訊理論文](https://www.apra.gov.au/sites/default/files/information_paper_-_outsourcing_involving_cloud_computing_services.pdf)中的雲所述），則鼓勵財務機構 (，但不需要) 參考 APRA，不論服務是否在澳大利亞或之外的地方提供。
 
 **是否允許在澳大利亞以外的資料傳輸？**
 
-是。 一般隱私權法規 (適用于所有部門，而不只是金融機構) 在某些情況下允許以澳大利亞以外的方式轉讓。 Microsoft 同意以澳大利亞隱私權原則為依據的合約，讓您在使用 Microsoft 雲端服務時，允許從澳大利亞以外的資料轉移。 不過，我們的許多澳大利亞金融服務客戶都利用了我們澳大利亞資料中心提供的雲端服務，我們會在澳大利亞地理位置進行特定的合約承諾，以存放資料類別的資料。 在 [規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)中，將會進一步列出這些承諾。
+是的。 一般隱私權法規 (適用于所有部門，而不只是金融機構) 在某些情況下允許以澳大利亞以外的方式轉讓。 Microsoft 同意以澳大利亞隱私權原則為依據的合約，讓您在使用 Microsoft 雲端服務時，允許從澳大利亞以外的資料轉移。 不過，我們的許多澳大利亞金融服務客戶都利用了我們澳大利亞資料中心提供的雲端服務，我們會在澳大利亞地理位置進行特定的合約承諾，以存放資料類別的資料。 在 [規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)中，將會進一步列出這些承諾。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 

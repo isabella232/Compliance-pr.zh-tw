@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9080474699eae7e65d8df86638a9250ec7127585
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 49b18d0e758f0c83b2f56be2cd9bb1447c63349165e9cef868adbcf17adeb7f0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294290"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>國家標準和技術研究院 (NIST) Cybersecurity Framework (CSF) 
 
@@ -42,7 +42,7 @@ NIST Cybersecurity Framework (CSF) 是一種自願架構，由標準、指導方
 - [NIST SP 800-53 R4 藍圖範例概述](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [深入瞭解 Office 365 的 NIST CSF 評估（遵循合規性分數）](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure 政府
 - 政府的 Dynamics 365
@@ -60,9 +60,9 @@ NIST Cybersecurity Framework (CSF) 是一種自願架構，由標準、指導方
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | 活動摘要服務，Bing 服務，Delve，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
 
@@ -88,7 +88,7 @@ Office 365 的 NIST CSF 憑證是有效的兩年。
 
 **我可以使用 Microsoft 對我的組織的合規性嗎？**
 
-是。 對 FedRAMP 標準的獨立協力廠商相容性報告會證明 Microsoft 已實現的控制項有效性，以維護 Microsoft 雲端服務的安全性和隱私權。 Microsoft 客戶可以使用這些相關報告中所述的已審核控制項，做為自己 FedRAMP 的一部分，以及 NIST FICIC 的風險分析和資格工作。
+是的。 對 FedRAMP 標準的獨立協力廠商相容性報告會證明 Microsoft 已實現的控制項有效性，以維護 Microsoft 雲端服務的安全性和隱私權。 Microsoft 客戶可以使用這些相關報告中所述的已審核控制項，做為自己 FedRAMP 的一部分，以及 NIST FICIC 的風險分析和資格工作。
 
 **美國政府視為重要基礎結構的組織為何？**
 

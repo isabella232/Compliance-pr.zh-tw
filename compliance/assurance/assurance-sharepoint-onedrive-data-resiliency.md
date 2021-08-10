@@ -19,27 +19,27 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: c267551f26b4dd96e3762b0edc2942a3cb22eb5c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 8b2c0cea5ea9af46b947fe8e3f76a8c17bd86494837073be77e1c7894270e97b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292075"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Microsoft 365 中的 SharePoint 和 OneDrive 資料復原
 
-在 Microsoft 365 內，OneDrive 是以 SharePoint 檔案平臺為基礎。 在本文中，只會使用 SharePoint 來指代這兩種產品。 本文內容適用于 Microsoft 365，不適用於消費者服務。
+在 Microsoft 365 內，OneDrive 是以 SharePoint 檔平臺為基礎。 在本文中，只會使用 SharePoint 來指代這兩種產品。 本文內容與 Microsoft 365 相關，但不適用於消費者服務。
 
 有兩個主要資產組成 SharePoint 的核心內容存放區：
 
-- **中繼資料**：每個檔案的中繼資料都儲存在 Azure SQL Database 中。 Azure SQL 提供完整的商務持續性情景，本文稍後會涵蓋 SharePoint 使用方式及詳細資料。
-- **Blob 儲存**：上傳至 SharePoint 的使用者內容儲存在 Azure 儲存體中。 SharePoint 已在 Azure 存放區上建立自訂恢復計畫，以確保對使用者內容和真正主動/主動系統的近乎即時的重複。
+- **中繼資料**：每個檔案的中繼資料都儲存在 Azure SQL Database 中。 Azure SQL 提供 SharePoint 使用方式和詳細資料的完整商務持續性情景，在本文稍後將會討論。
+- **Blob 儲存**：上傳至 SharePoint 的使用者內容會儲存在 Azure 儲存體中。 SharePoint 已在 Azure 儲存體上建立自訂恢復計畫，以確保幾乎即時重複使用者內容和真正主動/主動系統。
 
 若要確保資料恢復功能，請在進一步闡述一組完整的控制項。
 
 ## <a name="blob-storage-resilience"></a>Blob 儲存恢復
 
-SharePoint 有一個自訂的解決方案，用來儲存 Azure Storage 中的客戶資料。 每個檔案都會同時寫入主要和次要資料中心區域。 如果寫入任一 Azure 區域失敗，檔案儲存將會失敗。 在將內容寫入 Azure Storage 之後，會以中繼資料個別儲存校驗和，並用於確定已送出的寫入與您在所有未來讀取期間傳送給 SharePoint 的原始檔案相同。 在所有工作流程中使用相同的技術，以防止傳播應該發生的任何損毀。 在每個地區內，Azure 本機冗余儲存體 (LRS) 提供高層次的可靠性。 如需詳細資訊，請參閱 [Azure Storage 冗余度](/azure/storage/common/storage-redundancy-lrs) 一文。
+SharePoint 有一個自訂的解決方案，可用於儲存 Azure 儲存體中的客戶資料。 每個檔案都會同時寫入主要和次要資料中心區域。 如果寫入任一 Azure 區域失敗，檔案儲存將會失敗。 將內容寫入 Azure 儲存體後，會使用中繼資料個別儲存校驗和，以確保認可的寫入與原始檔案，在所有未來讀取期間傳送給 SharePoint。 在所有工作流程中使用相同的技術，以防止傳播應該發生的任何損毀。 在每個地區內，Azure 本機冗余儲存體 (LRS) 提供高層次的可靠性。 如需詳細資訊，請參閱[Azure 儲存體的重複](/azure/storage/common/storage-redundancy-lrs)專案。
 
 SharePoint 會使用 Append-Only 儲存區。 此程式可確保檔案在初始儲存後無法變更或損毀，但也可以使用產品版本的版本設定，即可檢索任何先前版本的檔內容。
 
@@ -49,13 +49,13 @@ SharePoint 會使用 Append-Only 儲存區。 此程式可確保檔案在初始�
 
 ## <a name="metadata-resilience"></a>中繼資料恢復
 
-SharePoint 中繼資料在儲存使用者內容的位置和存取機碼儲存于 Azure Storage 中儲存的內容時也很重要。 這些資料庫是儲存在 Azure SQL 中，其具有大量的 [業務持續性計畫](/azure/sql-database/sql-database-business-continuity)。
+SharePoint 中繼資料在儲存使用者內容的位置和存取機碼儲存于 Azure 儲存體中時也是很重要的存取方式。 這些資料庫儲存于 Azure SQL，其具有大量的[商務持續性計畫](/azure/sql-database/sql-database-business-continuity)。
 
-SharePoint 使用 Azure SQL 所提供的複寫模型，並已建立專屬的自動化技術，以判斷是否需要容錯移轉，並視需要啟動作業。 如此一來，它會從 Azure SQL 的觀點降至「手動資料庫容錯移轉」類別。 Azure SQL database 可恢復性的最新指標可于 [這裡](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)取得。
+SharePoint 會使用 Azure SQL 所提供的複寫模型，並已建立專屬的自動化技術，以判斷所需的容錯移轉，並視需要啟動操作。 如此一來，它會進入 Azure SQL 視點的「手動資料庫容錯移轉」類別。 Azure SQL 資料庫可復原性的最新指標可在[這裡](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)取得。
 
 ![中繼資料恢復](../media/assurance-metadata-resiliency-diagram.png)
 
-SharePoint 使用 Azure SQL 的備份系統來啟用時間點還原 (PITR) 最多14天。 PITR 會在[稍後的章節](#deletion-backup-and-point-in-time-restore)中涵蓋。
+SharePoint 使用 Azure SQL 的備份系統來啟用 (PITR) 的時間點還原，最多可達14天。 PITR 會在[稍後的章節](#deletion-backup-and-point-in-time-restore)中涵蓋。
 
 ## <a name="automated-failover"></a>自動容錯移轉
 
@@ -67,11 +67,11 @@ SharePoint 使用 Azure 前門服務，以提供 Microsoft 網路的內部路由
 
 針對新建立的文件庫，SharePoint 在每個檔案上都預設為500版本，且您可以設定為保留更多版本（如有需要）。 使用者介面不允許設定小於100版本的值，但是可以使用 public APIs 將系統設定為儲存較少的版本。 出於可靠性的考慮，不建議使用小於100的任何值，而且可能會導致意外資料遺失的使用者活動。
 
-如需版本設定的詳細資訊，請參閱 [SharePoint 中的版本](/microsoft-365/community/versioning-basics-best-practices)設定。
+如需版本設定的詳細資訊，請參閱[SharePoint 中的版本](/microsoft-365/community/versioning-basics-best-practices)設定。
 
 [檔案還原] 是指在過去30天內，將 SharePoint 任何文件庫中的「回到目前」時間的功能。 此程式可用於從勒索軟體復原、大量刪除、損毀或任何其他事件。 這項功能會使用檔版本，以便減少預設版本，以降低此還原的效能。
 
-檔案還原功能會為 [OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) 和 [SharePoint](https://support.office.com/article/Restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)進行記錄。
+檔案還原功能會為[OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)和[SharePoint](https://support.office.com/article/Restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)進行記錄。
 
 ## <a name="deletion-backup-and-point-in-time-restore"></a>刪除、備份和時間點還原
 
@@ -82,11 +82,11 @@ SharePoint 使用 Azure 前門服務，以提供 Microsoft 網路的內部路由
 - [還原回收站中的專案](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [從網站集合回收站還原已刪除的專案](https://support.office.com/article/Restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)。
 
-此程式是預設刪除流程，而且不會納入帳戶保留原則或標籤。 如需詳細資訊，請參閱 [瞭解保留的 SharePoint 和 OneDrive](/microsoft-365/compliance/retention-policies-sharepoint)。
+此程式是預設刪除流程，而且不會納入帳戶保留原則或標籤。 如需詳細資訊，請參閱[瞭解保留的 SharePoint 和 OneDrive](/microsoft-365/compliance/retention-policies-sharepoint)。
 
-在93天的回收管線完成之後，就會獨立進行中繼資料及 Blob 儲存的刪除。 中繼資料將立即從資料庫中移除，除非從備份還原中繼資料，否則會使內容無法讀取。 SharePoint 維護14天的元資料備份。 這些備份會以接近即時的方式從本機取得，然後根據此出版物中的檔，以 [檔](/azure/sql-database/sql-database-automated-backups) 的方式，將其推入冗余 Azure 存放容器中的儲存體，其為5-10 分鐘排程。
+在93天的回收管線完成之後，就會獨立進行中繼資料及 Blob 儲存體的刪除。 中繼資料將立即從資料庫中移除，除非從備份還原中繼資料，否則會使內容無法讀取。 SharePoint 維護14天的元資料備份。 這些備份會以接近即時的方式從本機取得，然後根據此出版物的[檔](/azure/sql-database/sql-database-automated-backups)（5-10-分鐘）排程，推入冗余 Azure 儲存體容器中的儲存體。
 
-當您刪除 Blob 儲存內容時，SharePoint 會利用 Azure Blob 儲存的虛刪除功能，以防止意外或惡意的刪除。 使用此功能，我們總共有14天的時間來還原內容，再永久刪除。
+當您刪除 Blob 儲存體內容時，SharePoint 會利用 Azure Blob 儲存體的虛刪除功能，以防範意外或惡意的刪除。 使用此功能，我們總共有14天的時間來還原內容，再永久刪除。
 
 >[!Note]
 >雖然 Microsoft 應用程式會將內容傳送至標準程式的回收站，但 SharePoint 會提供 APIs，讓您可以略過回收站及強制立即刪除。 請複查您的應用程式，以確保這種做法只會因規範原因而必要。

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293830"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>健康保險流通與責任法案 (HIPAA) & 狀況資訊技術以實現經濟和臨床健康情況 (高科技) 法案
 
@@ -47,7 +47,7 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 
 若要瞭解 Microsoft Cloud 如何協助客戶支援 HIPAA 和高科技需求，請造訪 [Microsoft 客戶案例](https://customers.microsoft.com/)。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure 和 Azure Government
 - Azure DevOps Services
@@ -75,18 +75,18 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | Access Online，Azure Active Directory，Azure 通訊服務，合規性管理員，客戶加密箱，Delve，Exchange Online，Forms，Griffin，Identity Manager，密碼箱 (圓環) ，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 客戶入口網站，Office 365 Microservices (（包括但不限於 Kaizala、ObjectStore、Sway、Power Automate、PowerPoint 線上檔服務、查詢批註服務、學校資料同步處理、Siphon、語音、StaffHub、可擴展的應用程式) 、Office 365 安全性 & 規範中心、Office 線上、Office Pro Plus、Office 服務基礎結構、商務用 OneDrive、加密、PowerApps 線上 |
-| **GCC** | Azure Active Directory，Azure 通訊服務，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI，SharePoint |
+| **GCC** | Azure Active Directory、Azure Communications Service、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
 
 ### <a name="frequently-asked-questions"></a>常見問題集
 
 **我的組織可以使用 Microsoft 進入 BAA 嗎？**
 
-是。 Microsoft 提供其涵蓋的實體與業務關聯客戶與範圍 Microsoft 服務相關的業務關聯合約。
+是的。 Microsoft 提供其涵蓋的實體與業務關聯客戶與範圍 Microsoft 服務相關的業務關聯合約。
 
 根據預設，您可以透過 Microsoft Online Services 資料保護附錄，將 [MICROSOFT HIPAA 商務協會合約](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) 提供給所有在 HIPAA 底下已涵蓋實體或業務關聯的客戶。 請參閱此網頁上的「Microsoft in 範圍內的雲端服務」，以取得此 BAA 所涵蓋的雲端服務清單。
 
@@ -94,7 +94,7 @@ HIPAA 業務關聯協定也適用于範圍內的 Microsoft Professional 服務�
 
 **與 Microsoft 建立業務關聯的合約是否可確保我的組織符合 HIPAA 和高科技法案？**
 
-否。 透過提供一種業務關聯合約，Microsoft 可協助支援您的 HIPAA 法規遵從性。 不過，使用 Microsoft 服務不會自行取得 HIPAA 規範。 您的組織負責確保您已具備適當的規範方案和內部程式，而且您的 Microsoft 服務的特殊用途，會與 HIPAA 和高科技法案的義務相符。
+錯誤。 透過提供一種業務關聯合約，Microsoft 可協助支援您的 HIPAA 法規遵從性。 不過，使用 Microsoft 服務不會自行取得 HIPAA 規範。 您的組織負責確保您已具備適當的規範方案和內部程式，而且您的 Microsoft 服務的特殊用途，會與 HIPAA 和高科技法案的義務相符。
 
 **Microsoft 是否可以使用我組織的業務關聯協定？**
 

@@ -93,7 +93,7 @@ conceptualContent:
         - url: /compliance/assurance/assurance-encryption
           itemType: concept
           text: 加密和金鑰管理概觀
-    - title: 治理
+    - title: 控管
       links:
         - url: /learn/modules/audit-governance/
           itemType: learn

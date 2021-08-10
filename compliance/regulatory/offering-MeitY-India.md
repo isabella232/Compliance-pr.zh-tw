@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292450"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>電子產品和資訊技術 (MeitY) 
 
@@ -43,7 +43,7 @@ MeitY 提供 MeitY 為「empanelment ' ) 雲端服務提供者的資格鑒定 (�
 
 Microsoft 的 MeitY 資格鑒定是由標準化測試和品質認證 (STQC) Directorate （一種政府組織，可提供品質保證服務，根據 MeghRaj 雲端倡議的運作來使用評估架構）所產生的結果。 透過 Microsoft Azure，公用部門現在可以在廣泛的部署模型和服務產品上進行繪製，包括基礎結構作為服務 (IaaS) 、平臺為服務 (PaaS) 、嚴重損壞修復、DevOps 和受管理的備份。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

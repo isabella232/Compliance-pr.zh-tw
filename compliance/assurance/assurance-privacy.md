@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
-ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
+ms.openlocfilehash: 910c1ddf0ba1f52a7862457387a923753199ae7913b07dfa4e03de8a7b361868
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/31/2021
-ms.locfileid: "53678238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292290"
 ---
 # <a name="privacy-overview"></a>隱私權概觀
 
@@ -45,7 +45,7 @@ Microsoft 將客戶資料的集合限制為四個特定[資料類別](https://ww
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>Microsoft 如何處理協力廠商共用？
 
-協力廠商共用是對協力廠商所進行的資料共用或向前披露。 只有客戶授權或必要的法律時，Microsoft 才會共用資料。 Microsoft 不會為任何政府 (包括執法單位或其他政府實體) 提供直接或無限制存取客戶資料的權限。 Microsoft 遵循有關跨框線轉接客戶資料的 [國際資料保護法律](https://www.microsoft.com/trust-center/privacy/data-location) 。
+協力廠商共用是向協力廠商共用或繼續公開揭示資料的行為。 只有客戶授權或必要的法律時，Microsoft 才會共用資料。 Microsoft 不會為任何政府 (包括執法單位或其他政府實體) 提供直接或無限制存取客戶資料的權限。 Microsoft 遵循有關跨框線轉接客戶資料的 [國際資料保護法律](https://www.microsoft.com/trust-center/privacy/data-location) 。
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>當客戶離開服務時，Microsoft 如何刪除客戶資料？
 

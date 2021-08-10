@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0797161b0c7bfca8d4fda37cbf05a037d29322de
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: d5bebc4a270a11518989c548ef17ac48b8f79b5cc5720f09bc8677c40e422421
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293882"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Arm 規章中的國際流量 (ITAR) 
 
@@ -41,7 +41,7 @@ ITAR 對舉報違規有特定責任，可提供某些風險降低的效益。 mi
   
 尋找主控 ITAR 管制資料的客戶應使用其 Microsoft 帳戶和授權小組來深入瞭解、取得正確的協定，以及存取相關的系統架構資訊。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure 政府
 - Office 365美國政府高、Office 365 防衛
@@ -58,9 +58,9 @@ ITAR 對舉報違規有特定責任，可提供某些風險降低的效益。 mi
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **GCC High** | 活動摘要服務，Bing 服務，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
 | **DoD** | 活動摘要服務，Bing 服務，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
