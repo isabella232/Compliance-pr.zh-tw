@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: 了解如何使用 Microsoft 產品和服務來完成一般資料保護規定 (GPDR) 和加州消費者隱私法 (CCPA) 底下的 DSR。
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 58bea55beae9d5d8d4b018812f68b07b2d356d3db9cdf49d04ef8523e4db0b5b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289951"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>GDPR 與 CCPA 和資料主體要求
 
@@ -50,7 +50,7 @@ ms.locfileid: "51496257"
 
 ## <a name="what-is-a-dsr"></a>什麼是 DSR？
 
-一般資料保護規定 (GDPR) 賦予人們 (在此法規中稱為資料主體) 權利來管理雇主或其他類型的代理機構或組織 (稱為資料控制者或僅稱為控制者) 所收集的個人資料。 GDPR 為資料主體提供其個人資料的特定權限；這些權限包括取得個人資料副本、要求對該資料的變更、限制對該資料的處理、刪除該資料，或是以電子格式接收該資料以移至另一個控制者。
+一般資料保護規定 (GDPR) 賦予人員 (在規範中稱為「資料主體」) 權限，以管理由雇主或其他類型的公司或組織 (稱為「資料控制者」或簡稱「控制者」) 收集而來的個人資料。GDPR 賦予資料主體對其個人資料的特定權限，這些權限包括取得個人資料副本、要求更正資料、限制資料的處理、刪除資料或以電子格式接收資料，以便轉交給其他控制者。
 
 加州消費者隱私法 (CCPA) 為加州客戶提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如有權刪除、存取和接收 (可攜性) 其個人資訊。  
 
@@ -81,7 +81,7 @@ Microsoft 產生的記錄檔和相關資料可能包含依據 GDPR 的「個人�
 
 ### <a name="yammer-and-kaizala"></a>Yammer 和 Kaizala
 
-刪除使用者的帳戶不會移除系統針對 Yammer 和 Kaizala 產生的記錄。 若要移除這些應用程式中的資料，請參閱下列其中一項資源：
+刪除使用者帳戶不會移除系統為 Yammer 和 Kaizala 所產生的記錄。若要從這些應用程式中移除資料，請參閱以下其中一個資源：
 
 - [管理 Yammer Enterprise 中的 GDPR 資料主體要求](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
 - [在 Kaizala 中匯出或刪除使用者的組織資料](/office365/kaizala/export-or-delete-a-user-s-data)

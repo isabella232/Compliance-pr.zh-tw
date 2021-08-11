@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 32637a9c04de8703a97a8790fe412d5c61460c25
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 3f85505832e1eccbbc2f326bb98c36d2c5c483359b9f0175d8ae4e8999ffd2a6
+ms.sourcegitcommit: c9f67f35828eef244961fdc731ce94dd9570cefc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53378247"
+ms.lasthandoff: 08/08/2021
+ms.locfileid: "57800867"
 ---
 # <a name="azure-dynamics-365-and-windows-accountability-readiness-checklist-for-the-gdpr"></a>符合 GDPR 的 Azure、Dynamics 365 與 Windows 責任整備程度檢查清單
 
@@ -34,4 +34,4 @@ ms.locfileid: "53378247"
 
 Microsoft Azure 和 Dynamics 365 服務已通過[ISO 27701 (PIMS)](offering-iso-27701.md)[認證](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports)。
 
-Windows [診斷資料處理者設定](/windows/privacy/configure-windows-diagnostic-data-in-your-organization)遵循上述相同的隱私權和安全性控制集。
+[Windows 診斷資料處理器設定](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) 充分利用 Azure 雲端服務基礎結構內的 [企業資料平臺] 服務。  它受到同一組隱私權和安全性控制項，以及上述認證的約束。

@@ -21,12 +21,12 @@ ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: a12e8e735df05004e63080f22c3c9b4de5749506
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: f49762321e33ee72835c352abdc96dfe8af96eddfc87f91f093137f4ad08204f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288332"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>開發/測試環境中的 GDPR 探索、保護和報告
 
@@ -185,7 +185,7 @@ Contoso 一律會以內部通信、外部通信、文件和其他形式使用 CC
 
 ## <a name="phase-5-demonstrate-data-protection"></a>階段 5：展示資料保護
 
-Microsoft 365 中個人資訊的保護，包括使用資料外洩防護 (DLP) 功能。  您可以使用 DLP 原則自動保護整個 Microsoft 365 的敏感性資訊。
+Microsoft 365 中個人資訊的保護，包括使用資料外洩防護 (DLP) 功能。使用 DLP 原則時，您可以自動保護整個 Microsoft 365 中的敏感資訊。
 
 您可以多種方式來提供保護。教育並提高以下認知：歐盟居民資料應儲存在您環境的何處以及您的員工被允許處理這些資料的方式，上述方式即代表一種使用 Office 365 DLP 的資訊保護層級。
 

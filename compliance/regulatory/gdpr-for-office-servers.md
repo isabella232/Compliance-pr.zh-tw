@@ -14,12 +14,12 @@ titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 58f3d9108fe36175c2ce879054a35c2cc94d93c8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 071b3d63372d2fb2c2d730c4f946ae469007f4c25f6ae0e4d07826d04a481044
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293512"
 ---
 # <a name="gdpr-for-office-on-premises-servers"></a>適用於內部部署 Office 伺服器的 GDPR
 
@@ -60,4 +60,4 @@ ms.locfileid: "51496083"
 |監視|整合記錄與 SIEM 工具|整合記錄與 SIEM 工具|整合記錄與 SIEM 工具|整合記錄與 SIEM 工具|整合記錄與 SIEM 工具|
 |
 
-<sup>\*</sup> 請注意，保護會加密檔案。 因此，SharePoint Server 在保護的檔案中找不到敏感性資訊類型。
+<sup>\*</sup>請注意，保護會加密檔案。因此，SharePoint Server 在保護的檔案中找不到敏感性資訊類型。

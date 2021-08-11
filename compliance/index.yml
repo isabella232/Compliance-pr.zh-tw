@@ -42,8 +42,8 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/compliance-discover/
 productDirectory:
-  title: 法規合規性
-  summary: 符合國際和國內標準及規章的 Microsoft 指導方針。
+  title: 法規 & 行業法規遵從性
+  summary: Microsoft 有關遵循業界區域和國際 & 國內標準及法規的指導方針。
   items:
     - title: 一般資料保護規定 (GDPR)
       imageSrc: /office/media/icons/compliance-blue.svg
@@ -53,15 +53,15 @@ productDirectory:
       imageSrc: /office/media/icons/globe-internet.svg
       summary: Microsoft 提供一組完整的規範選項，可協助您的組織遵守管理資料集合及使用的本國、區域及特定行業的需求。
       url: /compliance/regulatory/offering-home
-    - title: 法規遵從性和 Microsoft Azure
-      imageSrc: /media/logos/logo_azure.svg
-      summary: 深入瞭解法規遵從性和 Microsoft Azure。
-      url: /azure/compliance/
+    - title: 適用于行業的 Microsoft 雲端
+      imageSrc: /office/media/icons/on-premises-blue.png
+      summary: 瞭解 Microsoft Azure、Dynamics 365、Microsoft 365 及 Microsoft 電源平臺如何支援您的行業符合性需求。
+      url: /industry/
 conceptualContent:
   title: 服務保證
   summary: 請先瞭解 Microsoft 如何保護客戶資料，以進行安全性和風險評估。
   items:
-    - title: 架構
+    - title: 結構
       links:
         - url: /learn/modules/audit-architecture/
           itemType: learn
@@ -93,7 +93,7 @@ conceptualContent:
         - url: /compliance/assurance/assurance-encryption
           itemType: concept
           text: 加密和金鑰管理概觀
-    - title: 控管
+    - title: 治理
       links:
         - url: /learn/modules/audit-governance/
           itemType: learn
@@ -188,24 +188,15 @@ conceptualContent:
           text: 弱點管理概觀
 additionalContent:
   sections:
-    - title: 開始使用 Microsoft 365 中的符合性
-      summary: 如果您是 Microsoft 365 法規遵從性並知道從何處開始，本節會提供主要解決方案的連結，並排定重要合規性區域的優先順序。
+    - title: 在 Microsoft online services 中開始使用合規性
+      summary: 如果您是新的合規性，以及想要從 Microsoft online services 開始的位置，則本節會提供每個服務之主要規範區域的連結。
       items:
-        - title: 了解合規性管理員
-          summary: 瞭解合規性管理員是什麼，它如何協助簡化法規遵從性及降低風險，以及其重要元件。
-          url: /microsoft-365/compliance/compliance-manager
-        - title: 管理測試人員風險
-          summary: 偵測、調查和採取組織中惡意和無意活動的動作，以盡可能降低內部風險。
-          url: /microsoft-365/compliance/insider-risk-solution-overview
-        - title: 管理資訊保護
-          summary: 使用 Microsoft 資訊保護 (MIP) 可協助您探索、分類及保護任何地方生活或傳播的機密資訊。
-          url: /microsoft-365/compliance/protect-information
-        - title: 管理資訊控管
-          summary: 使用 Microsoft 資訊控管 (MIG) 功能，針對法規遵從性或法規需求來管理您的資料。
-          url: /microsoft-365/compliance/manage-information-governance
-        - title: 管理電子文件探索
-          summary: 使用 eDiscovery，以法律案例中的證據識別及分析內容。
-          url: /microsoft-365/compliance/ediscovery
-        - title: 為資料隱私權規定部署資訊保護
-          summary: 針對儲存于資料隱私權法規的 Microsoft 365 服務中儲存的個人資料，識別、尋找、保護、管理及控制其資料隱私權事件。
-          url: /microsoft-365/solutions/information-protection-deploy
+        - title: Microsoft Azure
+          summary: Azure 規範為您提供規範服務、藍圖、規範指南和資源，以協助您符合法規遵從性義務。
+          url: /azure/compliance/
+        - title: Dynamics 365
+          summary: Business Central 包含功能，可讓客戶輕鬆遵循法規遵從性和法規立法。
+          url: /dynamics365/business-central/compliance/compliance-overview
+        - title: Microsoft 365
+          summary: 如果您的組織需要遵守法律或法規標準，請從這裡開始了解 Microsoft 365 中的合規性。
+          url: /microsoft-365/compliance/
