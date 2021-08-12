@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dc7fa7f7762d503097ef4bd6fd9ec948993ab10b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4da808976b7c9afd040417a0fe4025888f07a34bc43c03cb151410244bb437df
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385073"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287572"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>聯邦金融機構檢查委員會 (FFIEC) 
 
@@ -39,12 +39,12 @@ Microsoft Azure、Microsoft Power BI 和 Microsoft Office 365 的建立，是為
 
 為了進一步協助您遵循 FFIEC 需求，Microsoft 雲端服務提供獨立 CPA 公司所產生的 [SOC 認證報告](offering-SOC.md) 。 例如，SOC 1 Type 2 認證是以 AICPA SSAE 18 standard (為基礎，請參閱105節) 取代的 SAS 70，且適用于報告某些財務報告的控制項。 SOC 報告包含審計員對 Microsoft 控制項效能的觀點，以在指定的監控期間達到相關的控制目標。 當針對 Azure、Power BI 和 Office 365 部署的資產採取 FFIEC 特定的合規性義務時，金融機構可使用此正式審計。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
 - Intune
 - Office 365，Office 365 美國政府
-- Power BI 雲端服務 (為獨立服務，或是包含在 Office 365 商標計畫或套件中) 
+- Power BI 雲端服務 (可作為獨立服務或包含在 Office 365 品牌方案或套件中)
 
 ## <a name="azure-dynamics-365-and-ffiec"></a>Azure、Dynamics 365 和 FFIEC
 
@@ -58,14 +58,14 @@ Microsoft Azure、Microsoft Power BI 和 Microsoft Office 365 的建立，是為
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory，Azure 資訊保護，預約，合規性管理員，Delve，Exchange Online，Exchange Online Protection，表單，Kaizala，microsoft Analytics，microsoft 預約，microsoft Defender for Office 365，microsoft Graph，Microsoft Teams，microsoft To-Do for Web、MyAnalytics Office 365 進階合規性安全性 Office 365 雲端 App 安全性相容性Center、Office 365 影片、Office 線上、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
-| **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI |
+| **Office 365** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 審核、報告和憑證
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
 請參閱 Office 365 SOC 認證報告。
 

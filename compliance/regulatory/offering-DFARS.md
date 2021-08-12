@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 494acc364123c32d409a64324715bcc27e81e7a8
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 11af1e745978358d401502da853640e8bd707249aa827fe30b62813ef44b99d2
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287692"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>國防聯邦購置法規補充 (DFARS) 
 
@@ -35,7 +35,7 @@ ms.locfileid: "53385273"
 
 Microsoft 政府雲端服務可協助美國國防工業基本和國防承包商客戶符合套用至雲端服務提供者的 252.204-7012 DFARS 子句中列舉的 DFARS 需求。 當國防承包商必須遵守 DFARS 子句 252.204-7012 in 合約時，Microsoft 可支援適用于 Azure 政府和 Office 365 美國政府國防服務的雲端服務提供者的需求。 這兩項服務都會示範客戶必須遵守 DFARS 7012 子句的功能，並透過其 L5 資格鑒定至國防安全性需求指南。  
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 DoD 影響等級5所涵蓋的服務
 
@@ -54,15 +54,15 @@ DoD 影響等級5所涵蓋的服務
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI |
-| **GCC High** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 安全性 & 合規性中心，Office 線上，Office Pro 商務用 OneDrive，PowerApps 線上，Power Automate |
-| **DoD** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，Power BI，SharePoint，商務用 Skype 線上， |
+| **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
+| **GCC High** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype |
+| **DoD** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、Power BI、SharePoint Online、商務用 Skype |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365審核、報告和憑證
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
 - [Microsoft 雲端服務授權](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
 - [查看其他稽核報告](https://aka.ms/auditreports)

@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 中的資料銷毀
-description: 有關回收、處置或銷毀 Microsoft 365 資料中心磁片磁碟機和伺服器的 Microsoft 原則的概述。
+description: 有關回收、處置或毀壞 Microsoft 365 資料中心磁片磁碟機和伺服器之 Microsoft 原則的概述。
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,22 +19,22 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1b9d410422e22fe67cb27617ba16e2ddbbaec0fd
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: bf7769852a41e8f78724c64e9a189ba7652c8f95a4cb71db1d5a7c3d286892e5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288701"
 ---
 # <a name="data-destruction-in-microsoft-365"></a>Microsoft 365 中的資料銷毀
 
 ## <a name="physical-data-destruction"></a>實體資料銷毀
 
-Microsoft 有資料處理標準原則，可處理磁片磁碟機的回收與處置，以及失敗或淘汰伺服器的情況。 在重複使用任何 Microsoft 365 磁片磁碟機之前，Microsoft 會執行實際的「實體淨化」處理常式，與國家安全局的標準和技術特殊發佈 800-88 ([NIST SP 800-88) 媒體清理指導方針](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf) 。 因為 Microsoft 365 中的所有磁片磁碟機都是使用 BitLocker 磁片區層級加密來加密，所以不需要使用 NIST SP 800-88 相容的擦除技術。 不過，Microsoft 會執行此程式。
+Microsoft 有資料處理標準原則，可處理磁片磁碟機的回收與處置，以及失敗或淘汰伺服器的情況。 在重複使用任何 Microsoft 365 磁片磁碟機之前，Microsoft 會執行實體淨化處理常式與國家安全局的標準及技術特殊出版物 800-88 ([NIST SP 800-88 指導方針，以進行媒體淨化](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf)) 。 因為 Microsoft 365 中的所有磁片磁碟機都使用 BitLocker 磁片區層級加密進行加密，所以從技術上而言，並不需要 NIST SP 800-88 相容的擦除功能。 不過，Microsoft 會執行此程式。
 
-在 Microsoft 365 資料中心內使用的失敗磁片會透過 ISO 程式遭到實際銷毀和審核。 資產類型決定適當的處置方式。 對於無法擦出的硬碟，Microsoft 會使用銷毀程式來銷毀媒體，並不可能轉譯資訊的修復。 例如，磁片實際損毀、pulverized 或 incinerated。 Microsoft 保留所有毀壞記錄，並在 Microsoft 365 內重複使用的伺服器上執行類似的「淨化」處理常式。 這些指導方針包含電子和實體的淨化。
+在 Microsoft 365 資料中心內使用的失敗磁片，會透過 ISO 程式遭到實際銷毀和審核。 資產類型決定適當的處置方式。 對於無法擦出的硬碟，Microsoft 會使用銷毀程式來銷毀媒體，並不可能轉譯資訊的修復。 例如，磁片實際損毀、pulverized 或 incinerated。 Microsoft 保留所有毀壞記錄，並在 Microsoft 365 內重複使用的伺服器上執行類似的清理程式。 這些指導方針包含電子和實體的淨化。
 
-每個資料中心都使用現場實際毀壞程式來處理其磁片。 在資料中心的每個區域中，為磁片處置指定的儲存媒體的安全容器。 每個安全的 bin 工作站都有影片監控監控。 一旦處置紙盒的容量大約為50%，網站服務小組便會聯繫實體安全小組，以協調移除。 網站服務人員和安全性辦公室會移除安全處置 bin，並將它放在指定的安全儲存區。 在處理過程中，控制對貼出裝置之資料處理的原則和程式會進行經常性的測試，包括確定已核准機器的狀況的程式。
+每個資料中心都使用現場實際毀壞程式來處理其磁片。 在資料中心的每個區域中，為磁片處置指定的儲存媒體的安全容器。 每個安全的 bin 工作站都有影片監控監控。 一旦處置紙盒的容量大約為50%，網站服務小組便會聯繫實體安全小組，以協調移除。 網站服務人員和安全性 Office 移除安全處置 bin，並將它放在指定的安全儲存區。 在處理過程中，控制對貼出裝置之資料處理的原則和程式會進行經常性的測試，包括確定已核准機器的狀況的程式。
 
 在資料銷毀過程中，磁片會以符合 NIST 800-88 (的方式來清除（如有可能）) 然後放入工業碎紙機，並以實際 demolished。 Microsoft 會利用 NIST SP 800-88 的一致性清理/清除、資產銷毀、加密、準確清查、追蹤，以及保護傳輸期間的保管鏈，對資產進行責任。 此程式是透過封閉式電視監控，並在完成時發出銷毀憑證。
 

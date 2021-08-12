@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f5710d392e1d2293bfee976873e5d7c603918e67
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287562"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>食品和藥品管理 CFR Title 21 第11部分
 
@@ -47,7 +47,7 @@ Microsoft enterprise 雲端服務經歷一般獨立的協力廠商 SOC 1 Type 2 
 
 瞭解如何加速您的 FDA CFR Title 21 部署： [下載 AZURE fda 21 驗證指南](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 雖然沒有符合 CFR Title 21 Part 11 的認證，但下列 Microsoft enterprise 雲端服務已經經歷了獨立的協力廠商審核，可協助客戶進行法規遵從性工作。 這些服務包括：
 
@@ -79,7 +79,7 @@ FDA CFR Title 21 Part 11 適用于包含產品和服務的組織，這些產品�
 
 **我可以在組織的認證程式中使用 Microsoft 的符合性嗎？**
 
-是。 IEC/ISO 27001、ISO/IEC 27018、SOC 1 和 SOC 2 標準的獨立協力廠商法規遵從性報告可證明 Microsoft 控制項的效能。 Microsoft enterprise cloud 客戶可以使用這些相關報告中所述的已審核控制項，作為其自有之 CFR Title 的一部分，21第11部分的風險分析和限定工作。 建立及部署遵循 FDA 法規之應用程式的客戶負責確保其應用程式符合 FDA 的需求。
+是的。 IEC/ISO 27001、ISO/IEC 27018、SOC 1 和 SOC 2 標準的獨立協力廠商法規遵從性報告可證明 Microsoft 控制項的效能。 Microsoft enterprise cloud 客戶可以使用這些相關報告中所述的已審核控制項，作為其自有之 CFR Title 的一部分，21第11部分的風險分析和限定工作。 建立及部署遵循 FDA 法規之應用程式的客戶負責確保其應用程式符合 FDA 的需求。
 
 **使用這個標準時，Microsoft 對維護合規性有何責任？**
 

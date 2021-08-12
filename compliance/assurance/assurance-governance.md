@@ -20,26 +20,26 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: bf17ec68648efbc5f149bad0671a4e035d27a307
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 953255f96acbc22349d9f00a83edff7d65106ec6360b42930fe5985fcb4df3f5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291061"
 ---
 # <a name="governance-overview"></a>控管概觀
 
 ## <a name="how-does-microsoft-provide-effective-security-governance-across-the-enterprise"></a>Microsoft 如何在整個企業中提供有效的安全性控制？
 
-Microsoft 知道有效的安全性原則必須在整個企業中一致地實施，以保護 Microsoft 資訊系統和客戶。 安全性原則也必須考慮業務職能和資訊系統中廣泛適用的變化。 為了符合這些需求，Microsoft 會以 Microsoft Policy Framework 的一部分形式來執行全面的安全性管理計畫。 安全性控制屬於 Microsoft 安全性原則 (MSP) 。
+Microsoft 知道有效的安全性原則必須在整個企業中一致地實施，以保護 Microsoft 資訊系統和客戶。 安全性原則也必須考慮商務功能和資訊系統的變化，才能全面適用。 為了符合這些需求，Microsoft 會以 Microsoft Policy Framework 的一部分形式來執行全面的安全性管理計畫。 安全性控管屬於 Microsoft 安全性原則 (MSP)。
 
-MSP 會組織 Microsoft 的安全性原則、標準及需求，使其可在所有 Microsoft 工程群組和業務單位中實施。 個人業務單位負責 Microsoft 安全性原則的特定實施。 例如，Microsoft 365 會在 Microsoft 365 資訊安全性原則和相關的 Microsoft 365 控制架構中記錄其安全性實施。 Azure 及 Dynamics 365 會將其安全性實施檔的標準作業程式 (SOPs) 和 Azure 控制架構。 這些安全性實施方式會與 MSP 的目標和目標相符。
+MSP 會組織 Microsoft 的安全性原則、標準和需求，以便跨所有 Microsoft 工程群組和業務單位來實作。 個別業務單位負責 Microsoft 安全性原則的具體實作。 例如，Microsoft 365 會在 Microsoft 365 資訊安全性原則和相關的 Microsoft 365 控制架構中記錄其安全性實施。 Azure 及 Dynamics 365 會將其安全性實施檔的標準作業程式 (SOPs) 和 Azure 控制架構。 這些安全性實施方式會與 MSP 的目標和目標相符。
 
 Microsoft 的安全控管計畫會得到通知，並與各種規章和合規性框架搭配。 安全性需求會持續演變，以取得新的技術、法規和規範需求，以及安全性威脅。 由於這些變更，Microsoft 會定期更新我們的安全性原則及支援檔，以保護 Microsoft 系統和客戶、達成承諾，以及維護客戶信任。
 
 ## <a name="how-do-microsoft-online-services-implement-the-microsoft-security-policy-msp"></a>Microsoft online services 如何在 (MSP) 上實施 Microsoft 安全性原則？
 
-Microsoft 365 Microsoft 365 資訊安全性原則中的檔安全性實施。 這個原則會與 Microsoft 安全性原則搭配使用，並管理 Microsoft 365 的資訊系統，包括所有 Microsoft 365 環境和所有與集合、處理、維護、使用、共用、散播及處置資料相關的資源。 同樣地，Azure 及 Dynamics 365 會使用 Microsoft 安全性原則來控制其資訊系統。
+Microsoft 365 Microsoft 365 資訊安全性原則中的檔安全性實施。 此原則符合 Microsoft 安全性原則，可控管 Microsoft 365 資訊系統，包括與收集、處理、維護、使用、共用、傳播和處置資料有關的所有 Microsoft 365 環境和所有資源。 同樣地，Azure 及 Dynamics 365 會使用 Microsoft 安全性原則來控制其資訊系統。
 
 資訊系統包含下列元件：針對 Microsoft 365) 的 Microsoft 365 information Security policy (，以及 Azure 和 Dynamics 365 (的 Microsoft 安全性原則) ：
 
@@ -49,11 +49,11 @@ Microsoft 365 Microsoft 365 資訊安全性原則中的檔安全性實施。 這
 - 程式： Azure、Dynamics 365 及 Microsoft 365 系統運作中所涉及的程式控制和手動程式
 - 資料： Azure、Dynamics 365 及 Microsoft 365 系統所產生、收集及處理的資訊 (交易資料流程、檔案、資料庫及資料表) 
 
-Microsoft 365 資訊安全性原則是由 Microsoft 365 控制架構補充。 Microsoft 365 控制項框架詳述所有 Microsoft 365 服務和資訊系統元件的最低安全性需求。 此外，它也參考每個控制項背後的法律和公司需求。 此架構包含控制活動名稱、描述，以及確保服務小組有效控制實施的指導方針。 Microsoft 365 會使用控制項框架來追蹤內部及外部報告的控制實現。 類似地，azure 及 Dynamics 365 record control control the Azure Control Framework 中的實施。
+Microsoft 365 控制架構可補強 Microsoft 365 資訊安全性原則。 Microsoft 365 控制項框架詳述所有 Microsoft 365 服務和資訊系統元件的最低安全性需求。 此外，它也參考每個控制項背後的法律和公司需求。 此架構包含控制活動名稱、描述和指引，以確保服務小組可進行有效的控制實作。 Microsoft 365 會使用控制項框架來追蹤內部及外部報告的控制實現。 類似地，azure 及 Dynamics 365 record control control the Azure Control Framework 中的實施。
 
 ## <a name="how-do-online-services-limit-and-track-exceptions-to-established-policies-and-procedures"></a>線上服務如何限制和追蹤已建立原則和程式的例外狀況？
 
-控制項框架的所有例外狀況，都必須具備合法的商業理由，而且必須由每個線上服務小組中適當的控管實體核准。 根據例外範圍及其所代表的潛在風險，可能需要從公司副總裁或更高版本取得例外批准。 例外是在追蹤工具中管理，以供檢查和核准，以繼續相關性。
+控制項框架的所有例外狀況，都必須具備合法的商業理由，而且必須由每個線上服務小組中適當的控管實體核准。 根據例外的範圍及其代表的潛在風險，可能需要向公司副總裁或更高管理層取得例外核准。 例外是在追蹤工具中管理，以供檢查和核准，以繼續相關性。
 
 ## <a name="how-do-online-services-keep-security-and-compliance-requirements-updated"></a>線上服務如何保持安全性和合規性需求更新？
 

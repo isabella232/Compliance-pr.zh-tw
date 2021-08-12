@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1876ee933b0f94057abb2a6edd8fae9ca66111a4
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 2278a2475887e93733ce32b82a1d7d0b15cce91a1f1e70dbe72a6469bdd3e0b7
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290600"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Microsoft 365 隔離控制項
 
@@ -38,9 +38,9 @@ Microsoft 365 是由多種服務所組成，可提供重要的商務功能，並
 
 Microsoft 365 服務間相互運作，但會加以設計及實施，這樣就能將它們部署並運作為自治服務，彼此獨立。 Microsoft segregates Microsoft 365 的責任和責任範圍，以降低未經授權或無意修改或誤用組織資產的機會。 Microsoft 365 小組已經定義角色，成為綜合角色存取控制機制的一部分。
 
-## <a name="tenant-isolation"></a>租使用者隔離
+## <a name="tenant-isolation"></a>租用戶隔離
 
-雲端計算的其中一個主要優點是，許多客戶都有共同共同使用的共同基礎結構，進而可實現規模經濟效益。 Microsoft 可以持續運作，以確保雲端服務的多承租人架構支援企業層級的安全性、機密性、隱私權、完整性及可用性標準。
+雲端計算的其中一個主要優點是，許多客戶都有共同共同使用的共同基礎結構，進而可實現規模經濟效益。 Microsoft 持續努力，以確保雲端服務的多租使用者架構支援企業級安全性、機密性、隱私權、完整性和可用性標準。
 
 Microsoft 雲端服務的設計是假設所有租使用者可能會惡意處理所有其他租使用者，並已實施安全性措施，以防止一個承租人的動作影響另一個租使用者的安全性或服務，或存取另一個租使用者的內容。
 

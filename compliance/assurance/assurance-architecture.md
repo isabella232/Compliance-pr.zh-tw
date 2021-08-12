@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ecb66b923f1d9ce239000910ad282ae3e69514de
-ms.sourcegitcommit: 76553d505d88ea868622bebebda17c27df5f7a39
+ms.openlocfilehash: ca26f1cb12fd7440b143ec27f7abfb1977acc0a2addc71baa3e265d262aeb57a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53617684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289241"
 ---
 # <a name="architecture-overview"></a>架構概觀
 
@@ -47,7 +47,7 @@ Dynamics 365 是一種線上商務應用程式套件，可整合客戶關係管�
 
 Microsoft 365 是雲端電源、訂閱 Office、Windows 10、Enterprise Mobility + Security 及規範的版本。 Microsoft 365 客戶取得 Outlook 和 Windows 之類的用戶端，也會受益于 Microsoft 裝載的服務，例如 Exchange Online、Microsoft Teams 和 SharePoint 線上。 服務的所有元件都會定期更新為訂閱模式的一部分，讓我們的客戶擁有「長綠」的產品。 Microsoft 會代表客戶管理服務基礎結構，這表示 Microsoft 負責保護儲存客戶資料的基礎結構。
 
-根據規模的角度來看，Microsoft 目前使用近達一百萬台電腦來為 Microsoft 365 服務供電。 針對這些服務的基礎結構，在 Azure、Windows 和 Linux 以及多承租人和專用平臺的服務特定硬體和虛擬化環境上有很大的差異。 Microsoft 365 是一種全域業務，而且我們的基礎結構是遍佈世界各地的資料中心，讓我們的客戶能夠滿足資料派駐和主權需求。
+根據規模的角度來看，Microsoft 目前使用近達一百萬台電腦來為 Microsoft 365 服務供電。 針對這些服務的基礎結構，在 Azure、Windows 和 Linux 以及多承租人和專用平臺的服務特定硬體和虛擬化環境上有很大的差異。 Microsoft 365 是全球性商品，我們的基礎結構分散於世界各地的資料中心，可讓客戶符合資料落地和主權需求。
 
 ## <a name="how-do-microsoft-online-services-ensure-isolation-between-customer-tenants"></a>Microsoft online services 如何確保客戶承租人間的隔離？
 
@@ -61,7 +61,7 @@ Microsoft 設計並組建雲端服務，以最大限度地提升可靠性，並�
 
 在任何情況下，Microsoft 線上服務都會以自動化服務狀況監視方式部署在主動/主動設定中，允許服務偵測和復原許多常見的錯誤和失敗，而不需要人工干預。 除了主動/主動設定之外，Microsoft 線上服務會確保服務部署在不同的容錯區域中，以避免一個區域中的錯誤影響其他區域的可用性，以提升容錯能力。
 
-資料恢復功能會保護 Microsoft online services 中的資料完整性與可用性，以補充服務彈性。 我們的服務使用本機儲存裝置冗余和地域冗余，將客戶資料的複本複寫到不同的容錯區域。 如果一個容錯區域中的資料損毀或遺失，可在另一個容錯區域中存取，而不會失去可用性。 自動完整性檢查會自動還原由許多實體或邏輯損毀所影響的資料。 Microsoft 也會為客戶提供工具，以在 Exchange Online 和 SharePoint 線上等服務中，將客戶意外刪除或修改的資料復原。
+資料恢復功能會保護 Microsoft online services 中的資料完整性與可用性，以補充服務彈性。 我們的服務使用本機儲存裝置冗余和地域冗余，將客戶資料的複本複寫到不同的容錯區域。 如果資料在一個錯誤區域中損毀或遺失，您可以在另一個錯誤區域中存取這些資料，而不會失去可用性。 自動完整性檢查會自動還原由許多實體或邏輯損毀所影響的資料。 Microsoft 也會為客戶提供工具，以在 Exchange Online 和 SharePoint 線上等服務中，將客戶意外刪除或修改的資料復原。
 
 ## <a name="how-do-microsoft-online-services-track-dependencies-and-prevent-unauthorized-external-system-connections"></a>Microsoft online services 如何追蹤相依性，以及如何防止未經授權的外部系統連線？
 

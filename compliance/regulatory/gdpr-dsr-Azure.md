@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 48c8df230e3497c6176898226bb5b76de5d3b1e0
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 5540a941a9d246eabf37abcf0dd9fa12fd5e0df1b2d2ad70c058e341c14bb2b8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289561"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Azure 資料主體要求
 
@@ -38,7 +38,7 @@ ms.locfileid: "53141534"
 - **探索：** 使用搜尋和探索工具，讓您更輕鬆地找到可能是 DSR 主體的客戶資料。一旦收集了潛在回應文件，您就可以執行下列步驟中所述的一或多個 DSR 動作以回應要求。或者，您也可能判斷該要求不符合貴組織回應 DSR 的指導方針。
 - **存取：** 擷取在 Microsoft 雲端中常駐的個人資料，並在要求時製作可供資料主體使用的副本。
 - **修正：** 在適用情況下，對個人資料進行變更或實行其他要求的動作。
-- **限制：** 透過移除各種不同 Azure 服務的授權，或在可能的情況下關閉所需的服務，對個人資料的處理設下限制。您也可以從 Microsoft 雲端中移除資料，並在內部部署或其他位置保留資料。
+- **限制：** 透過移除各種不同 Azure 服務的授權，或在可能的時候關閉所需的服務，對個人資料的處理設下限制。您也可以從 Microsoft 雲端中移除資料，並在內部部署或其他位置保留資料。
 - **刪除：** 永久移除 Microsoft 雲端中常駐的個人資料。
 - **匯出/接收 (可攜性)：** 將個人資料或個人資訊以電子複本 (以電腦可讀取的格式) 提供給資料主體。 CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。 個人的私人、公開或工作角色之間沒有區別。 定義的「個人資訊」一詞大致與 GDPR 下的「個人資料」對應。 不過，CCPA 也包含家庭和家用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.yml)。
 

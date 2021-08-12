@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 42f5677b923edc225833882bc3916e698fde369e
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: f732ccf412272ec7138ac24fcc1f89dcf9bacacf1e64865ebfb9ba4e9dc6daf8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291001"
 ---
 # <a name="human-resources-overview"></a>人力資源概觀
 
@@ -48,9 +48,9 @@ Microsoft 遵循所有員工、實習生和員工的嚴格人員篩選需求。 
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skills-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Microsoft 如何確定員工如何維持足夠的技能和知識，以履行其職責並遵循 Microsoft 原則？
 
-所有的 Microsoft 員工都需要完成基本的安全性意識訓練。 初次訓練會在新員工從 Microsoft 開始工作時，以及每年之後的年度複習訓練進行。 訓練的目的在於讓員工瞭解 Microsoft 的安全性基本方法。 在授與個人工作職責所需的任何特定存取權之前，也需要進行適當的角色型安全性訓練訓練。 Microsoft 員工的安全性訓練會在一年的時間重新整理，而且，當系統或原則變更值得新的訓練時，就會重新整理。
+所有的 Microsoft 員工都需要完成基本的安全性意識訓練。 當新員工開始在 Microsoft 工作時，即會進行初始訓練，而之後每年也會進行年度複習訓練。 此訓練旨在讓員工了解 Microsoft 處理安全性的基本方法。 在授與個人工作職責所需的任何特定存取權之前，也需要進行適當的角色型安全性訓練訓練。 Microsoft 員工的安全性訓練會在一年的時間重新整理，而且，當系統或原則變更值得新的訓練時，就會重新整理。
 
-除了安全性意識訓練之外，Microsoft 員工必須完成商務執行訓練的準則。 本訓練包括商務道德、員工安全性、隱私權、反騷擾和零容忍的非道德行為。 在課程結束時，員工必須證明他們會遵守 Microsoft 的商務程式碼，此程式碼會在組織層級進行追蹤。 商務執行訓練的標準會在一年的基礎上進行重新整理。
+除了安全性意識訓練之外，Microsoft 員工必須完成商務執行訓練的準則。 本訓練包括商務道德、員工安全性、隱私權、反騷擾和零容忍的非道德行為。 在課程結束時，員工必須證明他們將會遵守 Microsoft 商務行為規範，此規定在組織層級進行追蹤。 商務執行訓練的標準會在一年的基礎上進行重新整理。
 
 ## <a name="how-does-microsoft-revoke-access-for-employees-who-leave-microsoft"></a>Microsoft 如何為離開 Microsoft 的員工撤銷存取權？
 

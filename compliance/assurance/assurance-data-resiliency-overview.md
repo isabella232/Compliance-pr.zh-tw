@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 中的資料復原
-description: 在本文中，我們將深入瞭解 Microsoft 365 中的資料恢復功能和復原的設計和原則。
+description: 在本文中，瞭解 Microsoft 365 中的資料恢復功能和復原的設計和原則。
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,14 +20,14 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6e990facde47b07d50f594afb55353a5ef81dd78
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: a0745cda440b2262f4b09764e71514aeab946a6e8e0adcd4cdbccaffd14c5fe3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291331"
 ---
-# <a name="data-resiliency-in-microsoft-365"></a>Microsoft 365 的資料恢復功能
+# <a name="data-resiliency-in-microsoft-365"></a>Microsoft 365 中的資料恢復功能
 
 考慮到雲端計算的複雜性質，Microsoft 很注意，如果發生問題，則不是這樣。 我們設計雲端服務，以最大化可靠性，並在發生錯誤時將負面影響降至最低。 我們已超越信賴複雜實體基礎結構的傳統策略，而且我們已直接在雲端服務中建立冗余。 我們採用複雜的實體基礎結構和更多智慧軟體的組合，將資料恢復到我們的服務中，並為我們的客戶提供高可用性。
 
@@ -42,9 +42,9 @@ ms.locfileid: "51497618"
 
 目前，客戶預期來自 Microsoft 的連續創新，但不會降低品質，這是 Microsoft 的服務和軟體以恢復性和恢復為基礎而建立的原因之一。
 
-## <a name="microsoft-365-data-resiliency-principles"></a>Microsoft 365 資料恢復原則
+## <a name="microsoft-365-data-resiliency-principles"></a>資料恢復原則 Microsoft 365
 
-恢復性指的是雲端架構服務可經受某些類型的失敗，但仍可從客戶的觀點完全運作的能力。 資料恢復意味著不論 Microsoft 365 中發生的失敗為何，重要的客戶資料會保持不變且不會受到影響。 為做到這一點，Microsoft 365 服務的設計是圍繞五個特定的恢復原則：
+恢復性指的是雲端架構服務可經受某些類型的失敗，但仍可從客戶的觀點完全運作的能力。 資料恢復意味著不管 Microsoft 365 中發生的失敗為何，重要的客戶資料仍保持不變且不受影響。 為做到這一點，Microsoft 365 服務都是圍繞五個特定的恢復原則設計的：
 
 - 有重要且非重要的資料。 非重要資料 (例如，郵件是否已讀取) 可以在少見的失敗案例中刪除。 重要資料 (例如，客戶資料) （例如電子郵件訊息）應以極高的成本加以保護。 在設計目標中，傳遞的郵件訊息永遠很重要，也就是郵件已讀取的情況不重要。
 - 客戶資料的複本必須分割成不同的容錯區域，或盡可能多的容錯網域 (例如，資料中心，可透過單一認證 (程式、伺服器或操作員) ) 進行存取，以提供失敗隔離。 
@@ -52,11 +52,11 @@ ms.locfileid: "51497618"
 - 客戶資料必須受到保護，避免損毀。 必須主動掃描或監視、修復和恢復。
 - 客戶動作中大部分的資料遺失結果，讓客戶可以使用 GUI 自行進行復原，讓他們能夠還原意外刪除的專案。
 
-透過將我們的雲端服務組建至這些原則，並結合可靠的測試和驗證，Microsoft 365 可以符合和超過客戶的需求，同時可確保平臺的持續創新和改進。
+透過將雲端服務組建至這些原則，並結合可靠的測試和驗證，Microsoft 365 能夠符合和超過客戶的需求，同時又可確保平臺的持續創新和改進。
 
 ## <a name="related-articles"></a>相關文章
 
 - [處理資料損毀](assurance-dealing-with-data-corruption.md)
 - [惡意程式碼與勒索軟體防護](assurance-malware-and-ransomware-protection.md)
 - [監視及自我修復](assurance-monitoring-and-self-healing.md)
-- [Exchange 資料恢復功能](assurance-exchange-data-resiliency.md)
+- [Exchange資料恢復](assurance-exchange-data-resiliency.md)

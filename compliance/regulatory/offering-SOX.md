@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290051"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>2002 年沙賓法案 (SOX)
 
@@ -35,19 +35,19 @@ SEC 不會定義或強加 SOX 認證程式。 相反地，它會為 it 所控制
 
 Microsoft cloud services 客戶遵循 Sarbanes-Oxley 法案 (SOX) 可使用從獨立審核事務所接收的 SOC 1 Type 2 證明，以解決其專屬的 SOX 合規性責任。 這種認證適用于透過財務報告內部控制的報告。
 
-雖然雲端服務提供者沒有任何 SOX 憑證或驗證，但 Microsoft 可協助客戶滿足其 SOX 義務。 例如，SOX 需要內部控制財務報表的準備和審查，尤其會影響財務報告相關材料變更的準確性、完整性、有效性及公開披露的控制項。 為了協助公司，Microsoft 會維護第2級的 SOC 1 類型的證明，以用於報告大量服務，以用於建立大量的應用程式。 它是以美國簽定的公開會計會計師為基礎， (AICPA) 說明認證合約 18 (SSAE 18) 和國際標準的保證合約否。 3402 (ISAE 3402) 。  (此認證取代 SAS 70。 ) 
+雖然雲端服務提供者沒有任何 SOX 憑證或驗證，但 Microsoft 可協助客戶滿足其 SOX 義務。 例如，SOX 需要內部控制財務報表的準備和審查，尤其會影響財務報告相關材料變更的準確性、完整性、有效性及公開披露的控制項。 為了協助公司，Microsoft 會維護第2級的 SOC 1 類型的證明，以用於報告大量服務，以用於建立大量的應用程式。 它是以美國簽定的公開會計會計師為基礎， (AICPA) 說明認證合約 18 (SSAE 18) 和國際標準的保證合約否。 3402 (ISAE 3402)。  (此認證取代 SAS 70。 ) 
 
 由協力廠商審核公司所產生的「審核報告」會證實 Microsoft 控制項已正確設計，在指定日期的作業中，並在指定的時間週期內有效運作。 客戶可以查看報告，以瞭解 Microsoft control 目標和其控制項的效能，並取得補充性控制項的存取權。
 
 在 Microsoft，我們共同分享與我們客戶相符的責任。 我們提供規範計畫的詳細資料，您可以從驗證協力廠商要求詳細的審計結果來驗證。 不過，最後，您可以決定我們的服務是否符合適用于您公司的特定法律和規定。 例如，有與 SOX 相關的安全性控制措施（例如，使用者存取雲端資源）是您的責任：您的組織必須在您的 SOX 法規遵從性的情況下，開發這些控制項的適當審核。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Power BI 雲端服務 (為獨立服務，或是包含在 Office 365 商標計畫或套件中) 
+- Power BI 雲端服務 (可作為獨立服務或包含在 Office 365 品牌方案或套件中)
 
 ## <a name="azure-dynamics-365-and-sox"></a>Azure、Dynamics 365 和 SOX
 
@@ -61,9 +61,9 @@ Microsoft cloud services 客戶遵循 Sarbanes-Oxley 法案 (SOX) 可使用從�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | 擴充迴圈、自動替代文字、Azure 資訊保護、二進位轉換服務、預約、Delve 檔專案、編輯器、Exchange Online、表單、[插入線上媒體]、[Insights]、[Kaizala]、[microsoft Analytics]、[microsoft 預約]、[microsoft Graph]、[Microsoft Teams]、[MyAnalytics]、[Office 365 雲端 App 安全性]、Office 365 的影片、Office 365、商務用 OneDrive、Power Apps PowerApps、Power Automate、Power BI PowerPoint  |
 

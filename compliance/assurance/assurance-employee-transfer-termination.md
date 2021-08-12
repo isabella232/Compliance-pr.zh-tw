@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8ff06dab5367ee8cf734384efd1e2f57b2d6499c4151b75bd335693852dead47
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287212"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 員工調職和離職
 
@@ -39,6 +39,6 @@ Microsoft 線上服務是設計來運作，而不會對我們的工程師進行�
 
 ## <a name="termination"></a>終止
 
-Microsoft 使用明確定義的原則和程式，在員工終止時立即撤銷對 Microsoft 系統和資源的實體和邏輯存取。 當員工提供通知時，該員工的主管會將終止日期輸入 HRIS。 在員工的最後一天之後，HRIS 會將該員工標示為已終止，並將該資訊共用給 IDM，這會自動移除所有的服務小群組帳戶和 eligibilities。
+當員工離職時，Microsoft 會使用清楚定義的原則與程序，以立即撤銷對 Microsoft 系統和資源的實體和邏輯存取。 當員工提供通知時，該員工的主管會將終止日期輸入 HRIS。 在員工的最後一天之後，HRIS 會將該員工標示為已終止，並將該資訊共用給 IDM，這會自動移除所有的服務小群組帳戶和 eligibilities。
 
-針對 involuntary 終止，HR 與員工的主管合作，遵循適當的步驟來終止和下架員工。 與自願終止類似，終止資訊會輸入 HRIS，以及任何必要的步驟，例如有效的日期協調、存取權移除。 和任何其他與角色轉換相關的步驟。
+針對 involuntary 終止，HR 與員工的主管合作，遵循適當的步驟來終止和下架員工。 與自願終止類似的是，會將終止資訊輸入 HRIS，以及任何必要的步驟，例如有效的日期協調、存取權移除，以及相對於轉換角色的任何其他步驟。

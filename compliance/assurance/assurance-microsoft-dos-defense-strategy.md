@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 拒絕服務防護策略
+title: Microsoft 365 阻絕服務攻擊策略
 description: 在本文中，您可以找到針對拒絕服務 (DoS) 攻擊的 Microsoft 防護策略的概述。
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5776b3eb6c0b79b5f272d6e24dd8680967ca2eb4
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 720925408016af86d0bb16590f341970c0c5f0d0958c91b12e6b810c9b8a939a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290592"
 ---
-# <a name="microsoft-365-denial-of-service-defense-strategy"></a>Microsoft 365 拒絕服務防護策略
+# <a name="microsoft-365-denial-of-service-defense-strategy"></a>Microsoft 365 阻絕服務攻擊策略
 
 ## <a name="core-principles-of-defense-against-denial-of-service-attacks"></a>防禦拒絕服務攻擊的核心原則
 
@@ -44,7 +44,7 @@ ms.locfileid: "51496949"
 - 增加容量提高容量上限 (，進而提供更多時間來偵測攻擊) ;或
 - 縮短偵測攻擊的時間。
 
-使用 Microsoft 雲端服務的一項安全性好處是，Microsoft 服務以經濟划算的方式為雲端客戶提供強網路保護。 甚至在大規模的情況下，都必須在吸收、偵測和緩解之間達到平衡。 為了找出這種平衡點，Microsoft 調查了攻擊成長率，以估計 Microsoft 服務需要吸收的數量。
+使用 Microsoft 雲端服務的一項安全性好處是，以經濟划算的方式為雲端客戶提供強網路保護的方式 Microsoft 服務。 甚至在大規模的情況下，都必須在吸收、偵測和緩解之間達到平衡。 若要找出這種平衡點，Microsoft 會研究攻擊成長率，以估計需要吸收多少 Microsoft 服務。
 
 ## <a name="denial-of-service-defense-strategy"></a>阻絕服務攻擊策略
 
@@ -56,14 +56,14 @@ Microsoft 對 DoS 攻擊所採用的最有效且低成本的防禦措施之一�
 
 在使用公用網路的介面上，Microsoft 會針對防火牆、網路位址轉譯和 IP 篩選功能使用特殊用途的安全性裝置。 Microsoft 也會使用全域同等成本的多重路徑 (ECMP) 路由。 全域 ECMP 路由是一個網路架構，可確保有多個通用路徑可以到達服務。 針對每個服務使用多個路徑時，DoS 攻擊會限制于發起攻擊的地區。 其他地區應受到攻擊的影響，因為使用者可能會使用其他路徑來到達這些地區的服務。 Microsoft 也已開發內部 DoS 相互關聯和偵測系統，使用流程資料、效能測量及其他資訊，以快速偵測 DoS 攻擊。
 
-若要進一步保護我們的雲端服務，Microsoft 365 會使用分散式的拒絕服務 (DDoS) 防禦系統內內置於 Microsoft Azure 的連續監控和滲透測試程式。 Azure DDoS 防護系統設計不僅可經受外部攻擊，還會為其他 Azure 承租人發起攻擊。 Azure 使用標準偵測和緩解技術，例如 SYN cookie、速率限制和連線限制，以防範 DDoS 攻擊。 為了支援我們的自動防護，跨工作負載 DoS 事件回應小組識別各小組的角色與責任、升級的準則，以及跨受影響團隊之事件處理的通訊協定。
+若要進一步保護我們的雲端服務，Microsoft 365 會使用分散式的拒絕服務 (DDoS Microsoft Azure 的連續監控和滲透測試程式中內建的) 防護系統。 Azure DDoS 防護系統設計不僅可經受外部攻擊，還會為其他 Azure 承租人發起攻擊。 Azure 使用標準偵測和緩解技術，例如 SYN cookie、速率限制和連線限制，以防範 DDoS 攻擊。 為了支援我們的自動防護，跨工作負載 DoS 事件回應小組識別各小組的角色與責任、升級的準則，以及跨受影響團隊之事件處理的通訊協定。
 
 對目標所發動的大部分 DoS 攻擊是在網路 (L3) 和傳輸 (L4) OSI (OSI [) 的層](/windows-hardware/drivers/network/windows-network-architecture-and-the-osi-model) 級。 位於 L3 和 L4 層的攻擊是專門用來淹沒網路介面或服務，其攻擊流量會淹沒資源，並拒絕回應合法流量的能力。 為了防範 L3 和 L4 攻擊，Microsoft 的 DoS 解決方案會使用資料中心路由器的流量採樣資料，以保護基礎結構及客戶目標。 流量採樣資料會由網路監控服務進行分析，以偵測攻擊。 偵測到攻擊時，自動防護機制會發起緩解攻擊，並確保客戶面臨的攻擊流量不會造成宣傳者損毀或降低其他客戶服務的網路服務品質。
 
 ## <a name="application-level-defenses"></a>應用層級防護
 
-Microsoft 工程小組遵循 [Microsoft Operational Security 保障](https://www.microsoft.com/SDL/OperationalSecurityAssurance) 所設定的嚴格標準，協助保護客戶資料。 Microsoft 的雲端服務是專為支援高負載而建立，可協助防範應用層級的 DoS 攻擊。 Microsoft 365 的向外延展架構跨多部全球資料中心散佈服務，其相關工作負載具有區域隔離和工作負載特有的節流功能。
+Microsoft 工程小組遵循 [Microsoft Operational Security 保障](https://www.microsoft.com/SDL/OperationalSecurityAssurance) 所設定的嚴格標準，協助保護客戶資料。 Microsoft 的雲端服務是專為支援高負載而建立，可協助防範應用層級的 DoS 攻擊。 Microsoft 365 的向外延展架構跨多部全球資料中心分配服務，其相關工作負載具有區域隔離和工作負載特定節流功能。
 
 客戶所在的國家或地區，客戶的系統管理員會在服務的初始設定中識別該客戶資料的主要儲存位置。 根據主要/備份策略，在重複資料中心之間複製客戶資料。 主要資料中心會裝載應用程式軟體，以及軟體中所執行的所有主要客戶資料。 備份資料中心提供自動容錯移轉。 如果主要資料中心因任何原因而停止運作，則要求會重新導向到備份資料中心內的軟體和客戶資料的複本。 在任何指定的時間，都可能會在主要或備份資料中心處理客戶資料。 跨多個資料中心散佈資料，可在一部資料中心遭到攻擊時減少受影響的面範圍。 此外，受影響的資料中心內的服務可快速重新導向至次要資料中心，以便在攻擊期間維持可用性，並在緩解攻擊之後重新導向主要資料中心。
 
-隨著 DoS 攻擊的另一項減輕，個別的工作負載包括管理資源使用狀況的內建功能。 例如，Exchange Online 和 SharePoint Online 中的節流機制都是多種階層式方法，以防禦 DoS 攻擊。
+隨著 DoS 攻擊的另一項減輕，個別的工作負載包括管理資源使用狀況的內建功能。 例如，Exchange Online 和 SharePoint Online 中的節流機制，都是多種階層式方法，以防禦 DoS 攻擊。

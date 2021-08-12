@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abded0cc92e49ed1c12eb44a3200ffdebed18b4f
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 10300b66564465e8362ca72c8cbb1604d590a45f91608b7b5dbcb0a55054d4b5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287582"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>家庭教育權利和隱私權法案 (FERPA) 
 
@@ -43,7 +43,7 @@ FERPA 不需要或認可審核或其他憑證，所以任何受制于 FERPA 的�
 
 根據這些合約承諾，FERPA （教育機構和協力廠商可存取機密的學生資料）的客戶可以自信地使用範圍內的 Microsoft business 雲端服務來處理、儲存及傳送該資料。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 在客戶資料中，Microsoft 同意被指定為「學校官方 ' ' 學校官方 ' 的服務，包含：
 
@@ -65,16 +65,16 @@ FERPA 不需要或認可審核或其他憑證，所以任何受制于 FERPA 的�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory，Azure 資訊保護，預約，合規性管理員，Delve，Exchange Online，Exchange Online Protection，表單，Kaizala，microsoft Analytics，microsoft 預約，microsoft Defender for Office 365，microsoft Graph，Microsoft Teams，microsoft To-Do for Web、MyAnalytics Office 365 進階合規性安全性 Office 365 雲端 App 安全性相容性Center、Office 365 影片、Office 線上、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **Office 365** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 | **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps，Power Automate，Power BI，商務用 Skype，harePoint Online，，資料流程 |
-| **GCC High** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 安全性 & 合規性中心，Office 線上，Office Pro 商務用 OneDrive，PowerApps 線上，Power Automate |
-| **DoD** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，Power BI，SharePoint，商務用 Skype 線上， |
+| **GCC High** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype |
+| **DoD** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、Power BI、SharePoint Online、商務用 Skype |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 審核、報告和憑證
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
 FERPA 不需要或認可的審計或認證。
 

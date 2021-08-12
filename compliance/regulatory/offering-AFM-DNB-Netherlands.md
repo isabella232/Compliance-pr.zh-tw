@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e2653fbe30a6bde61260ac825d3c2e08f6d11dbb
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: a1409518fd83f6c43a562cabe7dde09005390a0bb378fc4dd37f70b7e4aaf6cf
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287902"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>荷蘭金融市場管理局和荷蘭中央銀行
 

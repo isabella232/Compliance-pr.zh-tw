@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b761a9848e29b09fa46fdac822a545dc67be61f1
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9df3b3f2d39ba28eb3d6b8ca9cdc293594dcc10f13aa17e7c08c85d41ab6ba0c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288581"
 ---
 # <a name="us-section-508"></a>U.S. Section 508
 
@@ -35,13 +35,13 @@ Microsoft 是美國聯邦和州政府的主要軟體和雲端服務提供者。 
 
 Microsoft 在開發產品和服務時，508考慮到其對所有客戶都可以存取技術和資料的承諾所做的承諾。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure 和 Azure Government
 - Azure DevOps Services
 - Dynamics 365 和 Dynamics 365 美國政府
 - Intune
-- Office 365，Office 365 美國政府，Office 365 美國政府國防版
+- Office 365、Office 365 美國政府、Office 365 美國政府國防版
 - Windows Server 2016
 
 ## <a name="office-365-and-us-section-508"></a>Office 365 和美國508節
@@ -52,14 +52,14 @@ Microsoft 在開發產品和服務時，508考慮到其對所有客戶都可以�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **Office 365** | Access，Azure Active Directory，預約，合規性管理員，Delve，Excel，Exchange Online，Forms，Kaizala，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 系統管理入口網站，Office 365 入口網站 iOS，Office 365 系統管理員入口網站，Office 365 進階合規性附加元件、Office 365 和 Azure AD 登入 Office 365 的安全性 Office 365 規範Center，Office 365 影片，Office 365 Web 套件，Office 設定工具，Office 鏡頭，Office 線上，Office Pro 加號，商務用 OneDrive，OneDrive，OneNote，Outlook，Outlook，PowerApps 線上，Power Automate，Power BI，SharePoint，SharePoint，Yammer  |
-| **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，表單，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps 線上，Power Automate，Power BI |
-| **GCC High** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 安全性 & 合規性中心，Office 線上，Office Pro 商務用 OneDrive，PowerApps 線上，Power Automate |
-| **DoD** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，Power BI，SharePoint，商務用 Skype 線上， |
+| **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
+| **GCC High** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype |
+| **DoD** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、Power BI、SharePoint Online、商務用 Skype |
 
 ### <a name="microsoft-accessibility-conformance-reports"></a>Microsoft 協助工具一致性報告
 

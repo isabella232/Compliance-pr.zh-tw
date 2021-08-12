@@ -20,22 +20,22 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d634883baf9ce6abe99b33d6394be86885b49656
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5cca0c3cf70a0fe2c660c0b168a157056e1d4c56942fdeee2b71e7448c1dc50b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291011"
 ---
 # <a name="identity-and-access-management-overview"></a>身分識別和存取管理概觀
 
 ## <a name="how-does-microsoft-365-protect-production-systems-from-unauthorized-or-malicious-access"></a>Microsoft 365 如何防止未經授權或惡意存取的實際執行系統？
 
-Microsoft 365 的設計可讓 Microsoft 的工程師在未存取客戶內容的情況下操作服務。 根據預設，Microsoft 365 的工程師會將存取權 (ZSA) 至客戶內容，而且不會存取實際執行環境。 Microsoft 365 會使用即時 (JIT) ，只要足夠的存取 (JEA) 模型，就能讓服務小組工程師在必要時存取生產環境，以支援 Microsoft 365。 JIT 存取模型會取代傳統的持續性系統管理存取，讓工程師在必要時要求暫時提升為特權角色。
+Microsoft 365 的設計可讓 Microsoft 的工程師在未存取客戶內容的情況下操作服務。 根據預設，Microsoft 365 的工程師會將存取權 (ZSA) 至客戶內容，而且不會存取實際執行環境。 Microsoft 365 會使用即時 (JIT) ，只要足夠的存取 (JEA) 模型，就能讓服務小組工程師在必要時存取生產環境，以支援 Microsoft 365。 JIT 存取模型可讓工程師在必要時要求暫時提升到具有特殊權限的角色，以此取代傳統的持續性系統管理存取權。
 
-指派給服務小組以支援生產服務的工程師會透過身分識別管理工具 (IDM) ，向服務小群組帳戶要求資格。 要求要求會觸發一系列的人員檢查，以確保工程師已超過所有雲端篩選需求、已完成必要的訓練，以及在建立帳戶之前接收適當的管理核准。 只有在符合所有資格需求之後，才可為要求的環境建立服務小群組帳戶。 若要維護服務小群組帳戶的資格，各人員必須每年進行角色型訓練，並每兩年 rescreening。 無法完成或通過這些檢查會導致 eligibilities 自動撤銷。
+指派給服務小組以支援生產服務的工程師會透過身分識別管理工具 (IDM) ，向服務小群組帳戶要求資格。 要求要求會觸發一系列的人員檢查，以確保工程師已超過所有雲端篩選需求、已完成必要的訓練，以及在建立帳戶之前接收適當的管理核准。 只有在符合所有資格要求之後，才能為要求的環境建立服務小組帳戶。 若要維護服務小群組帳戶的資格，各人員必須每年進行角色型訓練，並每兩年 rescreening。 無法完成或通過這些檢查會導致 eligibilities 自動撤銷。
 
-服務小群組帳戶不會授與任何對客戶內容的系統管理員許可權或存取權。 當工程師需要其他存取權來支援其 Microsoft 365 服務時，他們會使用稱為「密碼箱」的 access 管理工具，以暫時提升存取所需的資源。 「密碼箱」會限制完成所指派工作所需的最低許可權、資源和時間的許可權。 如果授權的檢閱者核准 JIT 存取要求，工程師會授與暫存檔，只具有完成所指派工作所需的許可權。 此暫存帳戶需要多重要素驗證，而且會在已核准的期限到期後自動刪除。
+服務小群組帳戶不會授與任何對客戶內容的系統管理員許可權或存取權。 當工程師需要其他存取權來支援其 Microsoft 365 服務時，他們會使用稱為「密碼箱」的 access 管理工具，以暫時提升存取所需的資源。 Lockbox 會將提升的存取權限制在完成指定工作所需的最低權限、資源和時間。 如果授權的檢閱者核准 JIT 存取要求，工程師會授與暫存檔，只具有完成所指派工作所需的許可權。 此暫存帳戶需要多重要素驗證，而且會在已核准的期限到期後自動刪除。
 
 JEA 是在要求 JIT 存取時由 IDM eligibilities 和密碼箱角色強制執行。 只接受對工程師 eligibilities 範圍內資產的存取權，並傳遞給核准者。 「密碼箱」會自動拒絕在工程師的 eligibilities 和密碼箱角色範圍外的 JIT 要求，包括超過允許閾值的要求。  
 
@@ -46,7 +46,7 @@ JEA 是在要求 JIT 存取時由 IDM eligibilities 和密碼箱角色強制執�
 
 ## <a name="how-does-microsoft-365-handle-remote-access-to-production-systems"></a>Microsoft 365 如何處理生產系統的遠端存取？
 
-Microsoft 365 系統元件是存放在地理位置與運作小組分開的資料中心。 資料中心人員不具備 Microsoft 365 系統的邏輯存取權。 因此，Microsoft 365 服務小組人員會透過遠端存取來管理環境。 需要遠端存取支援 Microsoft 365 的服務小組人員才會在核准的管理員核准後，授與遠端存取權。 所有遠端存取使用 FIPS 140-2 相容的 TLS，以進行安全的遠端連線。
+Microsoft 365 系統元件位於地理位置與營運團隊分開的資料中心。 資料中心人員不具備 Microsoft 365 系統的邏輯存取權。 因此，Microsoft 365 服務小組人員會透過遠端存取來管理環境。 需要遠端存取以支援 Microsoft 365 的服務團隊人員，只有在獲得授權管理人員核准後，才能進行遠端存取。 所有遠端存取都使用 FIPS 140-2 相容 TLS 進行安全的遠端連線。
 
 Microsoft 365 使用安全的系統管理工作站進行服務小組遠端存取，協助保護 Microsoft 365 環境免受威脅。 這些工作站的設計目的是防止故意或意外地遺失實際執行資料，包括鎖定 USB 埠，以及將安全系統管理員工作站上的軟體限制在支援環境所需的功能。 會密切追蹤和監控安全的系統管理員工作站，以偵測 Microsoft 工程師的客戶資料，並防止其惡意或不慎損損。
 

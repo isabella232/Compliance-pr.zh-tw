@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e7b7c7a52b7f9432251cdeaef178e9fc58ffc243
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: c3ab8ea48c2763576c8eb735452a2c5dd58b1ca0a4c4be47e1f0d6aa2b3e0184
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287295"
 ---
 <!-- This file is a part of all Office 365 compliance offering topics. Please coordinate with Robert Mazzoli (robmazz) for any changes.-->
 

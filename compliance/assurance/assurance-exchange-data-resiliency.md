@@ -1,5 +1,5 @@
 ---
-title: Exchange OnlineMicrosoft 365 中的資料恢復功能
+title: Microsoft 365 中的 Exchange Online 資料復原
 description: 在本文中，將說明 Exchange Online 和 Microsoft 365 內資料恢復的各個方面。
 ms.author: robmazz
 author: robmazz
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8952d492c4427d5f4af64a853adaaf15303e8caf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b7aeaad54c625628292ac9a6841602d0205e0dc40186ce60dfc52f7dc55dc880
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291111"
 ---
 # <a name="exchange-online-data-resiliency-in-microsoft-365"></a>Exchange Online Microsoft 365 中的資料恢復功能
 

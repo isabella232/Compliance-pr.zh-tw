@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 61aafc556b30f5de9dabe5e67a5176b02b19ab28
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 51c917585c8138a476e9aacd349c6dd46c545d2c140696ebfc4d0aee6f0a67cc
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288162"
 ---
 # <a name="overview"></a>概觀
 
@@ -12,17 +12,17 @@ ms.locfileid: "49669704"
 
 任何有興趣的人都可以參與主題。 當您參與時，您的工作會在合併後直接進入內容集。 它會顯示在 docs.microsoft.com 上，而且您將會列入下列的參與者： <https://github.com/MicrosoftDocs/compliance/graphs/contributors> 。
 
-### <a name="quickly-update-an-article-using-githubcom"></a>使用 GitHub.com 快速更新文章
+### <a name="quickly-update-an-article-using-githubcom"></a>使用 GitHub 來快速更新文章
 
-僅做不常見或小小更新的投稿者可以直接在 GitHub.com 上編輯檔案，而不必安裝任何額外的軟體。 本文將告訴您如何做。 [這兩分鐘的影片](https://www.microsoft.com/videoplayer/embed/RE1XQTG) 也涵蓋如何參與。
+僅做不常見或小小更新的投稿者可以直接在 GitHub 上編輯檔案，而不需要安裝任何額外的軟體。 本文將告訴您如何做。 [這兩分鐘的影片](https://www.microsoft.com/videoplayer/embed/RE1XQTG) 也涵蓋如何參與。
 
-1. 請確認您已使用 GitHub 帳戶登入 GitHub.com。
+1. 請確認您已使用 GitHub 帳戶登入 GitHub .com。
 2. 移至 docs.microsoft.com 上您要編輯的頁面。
 3. 在頁面右側，按一下 [ **編輯** (鉛筆圖示]) 。
 
    ![Docs.microsoft.com 上的 [編輯] 按鈕](compliance/media/quick-update-edit.png)
 
-4. GitHub 的對應主題檔案隨即開啟，您需要按一下 [ **編輯此** 檔案] 鉛筆圖示。
+4. GitHub 的對應主題檔案隨即開啟，您需要按一下 [**編輯此** 檔案] 鉛筆圖示。
 
    ![Github.com 上的 [編輯] 按鈕](compliance/media/quick-update-github.png)
 
@@ -66,7 +66,7 @@ ms.locfileid: "49669704"
 
 Microsoft 和任何投稿人都會授與您在「 [創造性 Commons 歸屬4.0 國際公開授權](https://creativecommons.org/licenses/by/4.0/legalcode)」底下的 Microsoft 檔及其他內容的授權，請參閱 [授權](LICENSE) 檔案，並授與您在 [MIT 授權](https://opensource.org/licenses/MIT)底下的任何程式碼的授權，請參閱 [授權碼](LICENSE-CODE) 檔。
 
-檔中參考的 microsoft、Windows、Microsoft Azure 和/或其他 Microsoft 產品及服務，都可能是美國及/或其他國家/地區之 Microsoft 的商標或注冊商標。
+檔中參考的 microsoft、Windows、Microsoft Azure 和/或其他 microsoft 產品和服務，都可能是 Microsoft 在美國及（或）其他國家/地區的商標或注冊商標。
 
 此專案的授權不會授與您使用任何 Microsoft 名稱、徽標或商標的權利。 您可以在上找到 Microsoft 的一般商標指導方針 <https://go.microsoft.com/fwlink/?LinkID=254653> 。
 

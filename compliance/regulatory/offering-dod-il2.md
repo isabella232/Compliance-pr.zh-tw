@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 77e8cb50f815c167e50293d495b4a548a73d022e
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288222"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>國防部門 (DoD) 影響等級 2 (IL2) 
 
@@ -35,7 +35,7 @@ DISA 指南 DoD 以規劃及授權使用 CSP 的機構和部門。 它也會評�
 
 [SRG Section 5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) *DoD 使用 FedRAMP 安全性控制* ，表明 IL2 資訊可能會主控于一個 CSP 中，該 CSP 最少保留 FedRAMP 適中的 Pa 及 DoD 層級2的 pa，遵循 Section 5.6.2 中所述的人員安全性需求。 不過，此方法不會將 CSP 從其他安全性和整合需求，當作使命擁有者的要求來緩解。 根據 [SRG 區段 5.2.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *IL2 位置和分割性需求*，FedRAMP 適中的 pa 會充分涵蓋 DoD IL2 pa，這樣就不會進一步評估 IL2 PA 的需求。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft in 範圍內的雲端平臺 & 服務
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
 - Dynamics 365
@@ -61,9 +61,9 @@ DISA 指南 DoD 以規劃及授權使用 CSP 的機構和部門。 它也會評�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 適用性和範圍內服務
 
-請使用下表來決定 Office 365 服務和訂閱的適用性：
+使用下表判斷 Office 365 服務和訂閱的適用性：
 
-| **適用性** | **範圍內的服務** |
+| **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
 | **GCC** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告，商務用 OneDrive，人員卡片，SharePoint 線上，商務用 Skype，Windows Ink |
 | **GCC High** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告，商務用 OneDrive，人員卡片，SharePoint 線上，商務用 Skype，Windows Ink |
