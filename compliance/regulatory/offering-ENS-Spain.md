@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 929b83821fcb68059f9a091bf1bf4b043613dad24f0de2830b58b6ca72b5e091
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 8b201231ba8e605e2afe7bf2e8aba5a4cb21d88f
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287632"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260519"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>西班牙 Esquema Nacional de Seguridad (ENS) 高階安全性措施
 
@@ -43,7 +43,7 @@ Microsoft Azure 和 Microsoft Office 365 已經過獨立稽核員 BDO 嚴格的�
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
-- Azure 和 Azure Government
+- Azure
 - Office 365
 
 ## <a name="office-365-and-ens-high"></a>Office 365 和 ENS High
@@ -58,7 +58,7 @@ Microsoft Azure 和 Microsoft Office 365 已經過獨立稽核員 BDO 嚴格的�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online、Exchange Online Protection、Microsoft Teams、MyAnalytics、Office 365 客戶入口網站、Office Online、Office 服務基礎結構、Outlook Mobile、SharePoint Online、商務用 Skype |
+| **商業** | Exchange Online、Exchange Online Protection、Microsoft Teams、MyAnalytics、Office 365 客戶入口網站、Office Online、Office 服務基礎結構、Outlook Mobile、SharePoint Online、商務用 Skype |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 

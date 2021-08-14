@@ -1,7 +1,7 @@
 ---
 title: '國家標準和技術研究院 (NIST) Cybersecurity Framework (CSF) '
 description: Microsoft Cloud Services) Cybersecurity Framework (CSF) ，符合國家安全局的標準和技術研究院 (NIST。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 49b18d0e758f0c83b2f56be2cd9bb1447c63349165e9cef868adbcf17adeb7f0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294290"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259792"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>國家標準和技術研究院 (NIST) Cybersecurity Framework (CSF) 
 
@@ -64,7 +64,7 @@ NIST Cybersecurity Framework (CSF) 是一種自願架構，由標準、指導方
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | 活動摘要服務，Bing 服務，Delve，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
+| **商業** | 活動摘要服務，Bing 服務，Delve，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
 
 ### <a name="office-365-audit-cycle-and-certification"></a>Office 365 的審計週期和認證
 
@@ -88,7 +88,7 @@ Office 365 的 NIST CSF 憑證是有效的兩年。
 
 **我可以使用 Microsoft 對我的組織的合規性嗎？**
 
-是的。 對 FedRAMP 標準的獨立協力廠商相容性報告會證明 Microsoft 已實現的控制項有效性，以維護 Microsoft 雲端服務的安全性和隱私權。 Microsoft 客戶可以使用這些相關報告中所述的已審核控制項，做為自己 FedRAMP 的一部分，以及 NIST FICIC 的風險分析和資格工作。
+是。 對 FedRAMP 標準的獨立協力廠商相容性報告會證明 Microsoft 已實現的控制項有效性，以維護 Microsoft 雲端服務的安全性和隱私權。 Microsoft 客戶可以使用這些相關報告中所述的已審核控制項，做為自己 FedRAMP 的一部分，以及 NIST FICIC 的風險分析和資格工作。
 
 **美國政府視為重要基礎結構的組織為何？**
 

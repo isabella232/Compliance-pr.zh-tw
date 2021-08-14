@@ -1,7 +1,7 @@
 ---
 title: '澳大利亞政府資訊安全性註冊 Assessor 程式 (IRAP) '
 description: 針對未分類的散播限制 (標記，Microsoft 隨附于 [澳大利亞認證的雲端服務] 清單中，以 IRAP) 與受保護的資料為基礎，且以澳大利亞網路安全性中心 (的評估和認證為基礎 ACSC) 。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293860"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260308"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>澳大利亞政府資訊安全性註冊 Assessor 程式 (IRAP) 
 
@@ -81,7 +81,7 @@ Microsoft 的服務和雲端作業的 IRAP 評估，可協助為政府及其合�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online，Exchange Online Protection，Forms，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，商務用 OneDrive，Planner，SharePoint 線上，商務用 Skype，白板，Yammer |
+| **商業** | Exchange Online，Exchange Online Protection，Forms，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，商務用 OneDrive，Planner，SharePoint 線上，商務用 Skype，白板，Yammer |
 
 ### <a name="frequently-asked-questions"></a>常見問題集
 
@@ -91,7 +91,7 @@ IRAP 適用于所有使用雲端服務的澳大利亞聯邦、州及地方政府
 
 **我是否可以在組織的風險評估與核准程式中使用 Microsoft 的符合性？**
 
-是的。 如果您的組織需要或正在尋求核准，以與 ISM 一起運作，您可以在風險評估中使用 Azure、Dynamics 365、Microsoft 受管理的電腦及 Office 365 的 IRAP 安全性評估。 不過，您已負責接洽 assessor，以評估 Microsoft 平臺上部署的實施，以及您自己組織中的控制項和流程。
+是。 如果您的組織需要或正在尋求核准，以與 ISM 一起運作，您可以在風險評估中使用 Azure、Dynamics 365、Microsoft 受管理的電腦及 Office 365 的 IRAP 安全性評估。 不過，您已負責接洽 assessor，以評估 Microsoft 平臺上部署的實施，以及您自己組織中的控制項和流程。
 
 **從組織自身的風險評估和核准開始，我要從何處開始？**
 

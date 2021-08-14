@@ -1,7 +1,7 @@
 ---
 title: 美國內年收入服務出版物1075
 description: Microsoft 的控制措施符合美國內部收入服務出版物1075的需求。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293900"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260906"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>美國內年收入服務出版物1075
 
@@ -70,7 +70,7 @@ Microsoft Azure政府和[Microsoft Office 365 美國政府](https://products.off
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 使用狀況報告、商務用 OneDrive、人員卡片、服務基礎結構、SharePoint 線上、商務用 Skype、Windows Ink |
+| **商業** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 使用狀況報告、商務用 OneDrive、人員卡片、服務基礎結構、SharePoint 線上、商務用 Skype、Windows Ink |
 | **GCC** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告，商務用 OneDrive，人員卡片，SharePoint 線上，商務用 Skype，Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c3ab8ea48c2763576c8eb735452a2c5dd58b1ca0a4c4be47e1f0d6aa2b3e0184
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b42797a1987251ab34dc8ee44e654667992f0ee3
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287295"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259732"
 ---
 <!-- This file is a part of all Office 365 compliance offering topics. Please coordinate with Robert Mazzoli (robmazz) for any changes.-->
 
@@ -12,7 +12,7 @@ Microsoft Office 365 是一種多租用戶超大規模雲端平台，也是全�
 
 本節涵蓋下列 Office 365 雲端環境：
 
-- **Office 365**：全球都可使用的商業公用 Office 365 雲端服務。
+- **Office 365 (商業)**：全球都可使用的商業公用 Office 365 雲端服務。
 - **Office 365 政府社群雲端 (GCC)**：[Office 365 GCC 雲端服務](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc)適用於美國聯邦、州、地方和部落政府以及代表美國政府持有或處理資料的承包商。
 - **Office 365 政府社群雲端 - High (GCC High)**：[Office 365 GCC High 雲端服務](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)是根據美國國防部 (DoD) 安全規定指南層級 4 而設計，嚴格控制和支援 受監管的聯邦和國防資訊。 此環境由聯邦機構、國防工業基地 (DIB) 和政府承包商使用。
 - **Office 365 DoD (DoD)**：[Office 365 DoD 雲端服務](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)是根據 DoD 安全規定指南層級 5 而設計，控制和支援嚴格的聯邦和國防法規。 此環境專供美國國防部使用。

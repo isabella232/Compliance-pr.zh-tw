@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 405a752b9a6d8e1bdb5d7d5c0ad937aba634806033ea87a36c92629bf458bf3a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ff74580117a3ff1883b35331f2c9bed076d17bb8
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292500"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261004"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>金融市場監督管理局 (FINMA) 瑞士
 
@@ -33,7 +33,7 @@ FINMA 發佈了[公告 2018/3 委外銀行和保險業者](https://www.finma.ch/
 
 ## <a name="microsoft-and-finma"></a>Microsoft 和 FINMA
 
-為了協助指導瑞士的金融機構考慮將業務功能委外至雲端，Microsoft 發佈了[瑞士金融機構合規檢查清單](https://aka.ms/FinServ-Guide-Switzerland)。 透過檢閱並完成檢查清單，金融機構可以採用 Microsoft 商業雲端服務，並能有符合適用法規需求的信心。
+為了協助指導瑞士的金融機構考慮將業務功能委外至雲端，Microsoft 發佈了[瑞士金融機構合規檢查清單](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)。 透過檢閱並完成檢查清單，金融機構可以採用 Microsoft 商業雲端服務，並能有符合適用法規需求的信心。
 
 當瑞士金融機構外包商務活動時，他們必須遵循瑞士金融市場監督管理局 (FINMA) 的需求，並對其他需要和指引有所認知，包括瑞士銀行法案、瑞士銀行條例，以及瑞士保險業監管法案等規範。
 
@@ -50,7 +50,7 @@ Microsoft 檢查清單可協助瑞士金融公司執行 Microsoft 商務雲端�
 
 ## <a name="how-to-implement"></a>實作方法：
 
-- [合規檢查清單：瑞士](https://aka.ms/FinServ-Guide-Switzerland)：金融公司可以取得 Microsoft 商務雲端服務風險評估的協助。
+- [合規檢查清單：瑞士](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)：金融公司可以取得 Microsoft 商務雲端服務風險評估的協助。
 - [風險評定與合規性指南](https://aka.ms/RiskGovernanceGuide)：建立 Microsoft 雲端服務風險評定的監管模型和調整通知。
 - [金融使用案例](/azure/industry/financial/)：使用案例概覽、課程及其他資源建立適用於金融服務的 Azure 解決方案。
 

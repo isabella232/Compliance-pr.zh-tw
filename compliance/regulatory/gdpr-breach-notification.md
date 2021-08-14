@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: bdbaccb58d80a2291abb5bc670e1e4cec730d95e0a5b3934683fb0e6bea3b469
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 070025ef72dede73a8d8281cc080ed6a66050b11
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288272"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259700"
 ---
 # <a name="gdpr-breach-notification"></a>GDPR 外洩通知
 
@@ -64,17 +64,17 @@ Microsoft 很認真看待其在一般資料保護規定 (GDPR) 下所需承擔�
 
     - *外洩偵測*：因為 Microsoft 和客戶都有維護安全性的義務，因此 Azure 服務使用共用模型來定義安全性與操作的責任。 Microsoft 不會監視或回應客戶責任範圍內的安全性事件。 客戶事件回應可能會牽涉到與 Azure[客戶支援](https://azure.microsoft.com/support/options/)共同作業，前提是有適當的服務合約。 Microsoft Azure 也提供各種不同的服務 (例如，[Azure 資訊安全中心](https://azure.microsoft.com/services/security-center/))，客戶可以用來開發和管理安全性事件回應。
 
-        如需 Microsoft Azure 中觸發外洩調查的事件清單，請參閱[偵測潛在缺口](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches)。 [GDPR 規定的 Azure 和外洩通知](gdpr-breach-azure-dynamics-windows.md)進一步詳述 Microsoft 在 Azure 中調查、管理以及回應安全性事件的方式。
+        如需 Microsoft Azure 中觸發外洩調查的事件清單，請參閱[偵測潛在缺口](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#detection-of-potential-breaches)。 [GDPR 規定的 Azure 和外洩通知](gdpr-breach-azure-dynamics-windows.md)進一步詳述 Microsoft 在 Azure 中調查、管理以及回應安全性事件的方式。
 
     - 資料外洩回應：Microsoft 藉由調查事件的功能影響、恢復能力和資訊影響，決定外洩的適當優先順序和嚴重性層級。 優先順序和嚴重性可能會隨著調查的進行，根據新的發現結果和結論而變更。
-    Microsoft 安全性回應小組與全球法律顧問密切合作，以協助確保該鑑識是根據法律義務和對客戶的承諾來執行。 這些程序於 [Azure 的資料外洩回應](/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response)中詳述。
+    Microsoft 安全性回應小組與全球法律顧問密切合作，以協助確保該鑑識是根據法律義務和對客戶的承諾來執行。 這些程序於 [Azure 的資料外洩回應](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#azures-data-breach-response)中詳述。
 
     - 客戶通知：Microsoft Azure 視需要通知客戶和監管單位有資料外洩。 客戶通知會在我們宣告外洩的 72 小時內傳遞，除了下列情況：
 
         - Microsoft 相信執行通知的動作會增加其他客戶的風險。
         - 72 小時的時間表可能會讓某些事件詳細資料可供使用。 這些詳細資料會隨著調查進行提供給您。
 
-        如需進一步的詳細資料，請參閱[客戶通知](/microsoft-365/compliance/gdpr-breach-azure-dynamics#customer-notification)。
+        如需進一步的詳細資料，請參閱[客戶通知](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#customer-notification)。
 
 3. **[Microsoft 支援服務與專業服務](gdpr-breach-Microsoft-Support-Professional-Services.md)**  
     專業服務的本質表示某些資料保護事件可能會落在客戶的責任範圍。 Microsoft 專業服務發現資料保護事件時，它會遵循如[資料保護事件回應程序的範圍與限制](/microsoft-365/compliance/gdpr-breach-microsoft-support-professional-services#scope--limits-of-data-protection-incident-response-process)中所述的記載業界標準回應計劃。

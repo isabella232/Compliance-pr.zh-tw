@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: dc2a1a27994c1f3fc69f35b4b764ae80d3df7defd3b4d0dec97520de7760f815
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 396063b9ab094c7e5834572fe778046464ade81d
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288711"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260328"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>資料分類 & 敏感度標籤分類法
 
@@ -40,7 +40,9 @@ ms.locfileid: "54288711"
 ## <a name="what-is-a-data-classification-framework"></a>何謂資料分類架構？
 
 通常 codified 在全企業級原則中，資料分類架構 (有時稱為「資料分類原則」 ) 通常是由3-5 分類層級所組成。 這通常包括三個元素：名稱、描述及實際範例。 Microsoft 建議沒有超過五個最上層的父標籤，每個都有五個子標籤 () 25 個，以保持使用者介面 (UI) 可供管理。 層級通常會從至少一個最敏感的組織，例如「*公用*」、「*內部*」、「*機密*」和「*高度* 
- *機密*」。 您可能會遇到的其他層級名稱變化包括 *限制*、不 *受限制* 和 *使用中受保護* 的。 Microsoft 建議的標籤名稱是自我描述的，明確強調其相對敏感性。 例如， *機密* 和 *限制* 可能會讓使用者猜測適當的標籤，而 *機密* 和 *高度機密* 會變得更清晰。 下表顯示資料分類架構層級的範例。
+ *機密*」。 您可能會遇到的其他層級名稱變化包括 *限制*、不 *受限制* 和 *使用中受保護* 的。 Microsoft 建議的標籤名稱是自我描述的，明確強調其相對敏感性。 例如， *機密* 和 *限制* 可能會讓使用者猜測適當的標籤，而 *機密* 和 *高度機密* 會變得更清晰。 
+
+下表顯示 *高度機密* 資料分類架構層級的範例：
 
 |**分類層級**|**描述**|**範例**|
 |:-----------------------|:--------------|:-----------|

@@ -1,7 +1,7 @@
 ---
 title: 2002 年沙賓法案 (SOX)
 description: 金融服務公司可以使用 Microsoft 規範報告來處理其與 Sarbanes-Oxley 法案的相容性。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290051"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260431"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>2002 年沙賓法案 (SOX)
 
@@ -65,9 +65,9 @@ Microsoft cloud services 客戶遵循 Sarbanes-Oxley 法案 (SOX) 可使用從�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | 擴充迴圈、自動替代文字、Azure 資訊保護、二進位轉換服務、預約、Delve 檔專案、編輯器、Exchange Online、表單、[插入線上媒體]、[Insights]、[Kaizala]、[microsoft Analytics]、[microsoft 預約]、[microsoft Graph]、[Microsoft Teams]、[MyAnalytics]、[Office 365 雲端 App 安全性]、Office 365 的影片、Office 365、商務用 OneDrive、Power Apps PowerApps、Power Automate、Power BI PowerPoint  |
+| **商業** | 擴充迴圈、自動替代文字、Azure 資訊保護、二進位轉換服務、預約、Delve 檔專案、編輯器、Exchange Online、表單、[插入線上媒體]、[Insights]、[Kaizala]、[microsoft Analytics]、[microsoft 預約]、[microsoft Graph]、[Microsoft Teams]、[MyAnalytics]、[Office 365 雲端 App 安全性]、Office 365 的影片、Office 365、商務用 OneDrive、Power Apps PowerApps、Power Automate、Power BI PowerPoint  |
 
-### <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
+### <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 
 [SOC 1 Type 2](offering-SOC.md) 報告：
 

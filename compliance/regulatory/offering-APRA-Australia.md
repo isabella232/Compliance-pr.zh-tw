@@ -1,7 +1,7 @@
 ---
 title: '澳大利亞 Prudential 規章核證機關 (APRA) '
 description: 協助金融服務用戶端的 Microsoft 指導方針，遵循澳大利亞 Prudential 規章機關的外包標準。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 912b9770f4b8afb54fb98455b313498d7ebf7af4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292620"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260625"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>澳大利亞 Prudential 規章核證機關 (APRA) 
 
@@ -90,7 +90,7 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection、Exchange Online、Office 365 客戶入口網站、Office Online、Office 服務基礎結構、商務用 OneDrive、SharePoint Online、商務用 Skype |
+| **商業** | Exchange Online Protection、Exchange Online、Office 365 客戶入口網站、Office Online、Office 服務基礎結構、商務用 OneDrive、SharePoint Online、商務用 Skype |
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -102,7 +102,7 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 **是否允許在澳大利亞以外的資料傳輸？**
 
-是的。 一般隱私權法規 (適用于所有部門，而不只是金融機構) 在某些情況下允許以澳大利亞以外的方式轉讓。 Microsoft 同意以澳大利亞隱私權原則為依據的合約，讓您在使用 Microsoft 雲端服務時，允許從澳大利亞以外的資料轉移。 不過，我們的許多澳大利亞金融服務客戶都利用了我們澳大利亞資料中心提供的雲端服務，我們會在澳大利亞地理位置進行特定的合約承諾，以存放資料類別的資料。 在 [規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)中，將會進一步列出這些承諾。
+是。 一般隱私權法規 (適用于所有部門，而不只是金融機構) 在某些情況下允許以澳大利亞以外的方式轉讓。 Microsoft 同意以澳大利亞隱私權原則為依據的合約，讓您在使用 Microsoft 雲端服務時，允許從澳大利亞以外的資料轉移。 不過，我們的許多澳大利亞金融服務客戶都利用了我們澳大利亞資料中心提供的雲端服務，我們會在澳大利亞地理位置進行特定的合約承諾，以存放資料類別的資料。 在 [規範檢查清單](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)中，將會進一步列出這些承諾。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 

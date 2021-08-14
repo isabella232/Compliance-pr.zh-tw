@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de5d4d46e49b5ceaba453e4bcfdef1891d15e080e881f9c450585bca1a1af88b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289351"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260896"
 ---
 # <a name="web-content-accessibility-guidelines"></a>網頁內容協助工具指導方針
 
@@ -62,7 +62,7 @@ Microsoft 發行了 WCAG 報告，其中反映了完整產品或服務。 其通
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Excel、Exchange 系統管理中心、Office 365 系統管理中心 (入口網站)、Office 365 和 Azure AD 登入體驗、Office 365 客戶入口網站、Office 365 安全性與合規性中心、Office 365 影片、Office Lens、Office.com、OneDrive 系統管理中心、商務用 OneDrive、OneDrive 同步處理用戶端、OneNote、Orcas、Outlook Groups、Outlook、PowerPoint、Project、Word  |
+| **商業** | Excel、Exchange 系統管理中心、Office 365 系統管理中心 (入口網站)、Office 365 和 Azure AD 登入體驗、Office 365 客戶入口網站、Office 365 安全性與合規性中心、Office 365 影片、Office Lens、Office.com、OneDrive 系統管理中心、商務用 OneDrive、OneDrive 同步處理用戶端、OneNote、Orcas、Outlook Groups、Outlook、PowerPoint、Project、Word  |
 | **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
 | **GCC High** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype |
 | **DoD** | Azure Active Directory、Exchange Online、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、Forms、Power BI、SharePoint Online、商務用 Skype |

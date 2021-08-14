@@ -1,7 +1,7 @@
 ---
 title: 紐西蘭政府雲端計算安全性和隱私權考慮
 description: Microsoft 紐西蘭解決紐西蘭雲端計算架構中發佈的問題。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293380"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259812"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ISPC)  (紐西蘭政府的資訊安全性和隱私權考慮
 
@@ -57,7 +57,7 @@ ms.locfileid: "54293380"
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online，SharePoint 線上，商務用 Skype |
+| **商業** | Exchange Online，SharePoint 線上，商務用 Skype |
 
 >[!Note]
 >Microsoft NZ 已與 GCIO 小組合作，以開發 Office 365 中所述的整合 Exchange Online 和 SEEMail 的參考架構： SEEMail 整合及參考架構。

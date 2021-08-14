@@ -1,7 +1,7 @@
 ---
 title: 商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 description: 獨立評估公司已驗證，Azure 和 Office 365 可協助財務公司符合 CFTC 規則1.31 記錄保留和不可變的儲存需求。
-keywords: Microsoft 365、合規性、方案
+keywords: Microsoft 365, 合規性, 方案
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 903f4d3db8965fdcd8c96a8d474e5180430b4966e4adc6945315f283ddbc0d3f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bc2577e8841798543881b0431c130d1d9cc487af
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292580"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260615"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 
@@ -50,11 +50,10 @@ ms.locfileid: "54292580"
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 
-[Azure & CFTC 規則1.31： SEC 17a-4 (f) & CFTC 1.31 (c-d) 相容性評估 Azure 儲存體
-
-[Office 365 & CFTC 規則1.31： Office 365、資料保留和 SEC 規則17a-4 規範中的封存
+- [Azure & CFTC 規則1.31： SEC 17a-4 (f) & CFTC 1.31 (c-d) 相容性評估 Azure 儲存體](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+- Office 365 & CFTC 規則1.31： Office 365、資料保留和 SEC 規則17a-4 規範中的封存
 
 ## <a name="how-to-implement"></a>實作方法
 
