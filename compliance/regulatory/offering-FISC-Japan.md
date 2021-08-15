@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88a5e554fc2307dfa427ccb0023e7a00e006d536fc8cca276d550aa9510dbc29
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287294"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260485"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>金融業資訊系統中心 (FISC)
 
@@ -67,7 +67,7 @@ Microsoft 已聘雇外部評估員來驗證 Microsoft Azure、Dynamics 365 和 M
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online、Azure Active Directory、Delve、Exchange Online、Exchange Online Protection、Microsoft Teams、Office 365 專業增強版、Office Online、商務用 OneDrive、Power BI for Office 365、Project Online、SharePoint Online、商務用 Skype |
+| **商業** | Access Online、Azure Active Directory、Delve、Exchange Online、Exchange Online Protection、Microsoft Teams、Office 365 專業增強版、Office Online、商務用 OneDrive、Power BI for Office 365、Project Online、SharePoint Online、商務用 Skype |
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
@@ -84,7 +84,7 @@ FISC 已發佈兩份來自其專家委員會的報告：
 
 **哪裡可以取得 Microsoft 回應 FISC 架構的詳細資料？**
 
-您也可以參閱安全性參考 ([日文版](https://aka.ms/microsoftresponsetofiscguidancejapanese))，這是已評估 Microsoft 雲端服務是否符合 FISC 的協力廠商所提供。
+如需協力廠商評估 Microsoft 雲端服務 FISC 合規性的安全性參考，請與您的 Microsoft 帳戶代表聯繫。
 
 **我是否可以在組織的資格程序中使用 Microsoft 對此架構的回應？**
 
