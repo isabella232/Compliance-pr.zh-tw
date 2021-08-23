@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
+ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292051"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361251"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Microsoft 安全性事件管理：包容、eradication 及恢復
 
@@ -52,6 +52,8 @@ ms.locfileid: "54292051"
 ## <a name="customer-notification-of-security-incident"></a>客戶安全性事件的通知
 
 如果 Microsoft 決定發生安全性事件，我們會以不需要的延遲，以及我們同意的合約和規範中的規定來通知您。 在識別所有受影響的承租人之後，對應的通訊小組會運作，識別可能適用于受影響承租人的任何相關規章。 通訊小組使用適用的規章中所定義的適當通訊通道，以通知適當的承租人連絡人。
+
+![事件回應流程](../media/assurance-incident-response-process.png)
 
 通知會包含有關該事件的詳細資訊，例如事件的描述、對客戶資料的影響、Microsoft 採取的動作，以及/或建議的動作，以供客戶用以解決問題並避免週期。 通知將會傳送至 Microsoft online services 租使用者的指定系統管理員 (s) 。 為了確保收到通知，您應該確保您的系統管理員在其租使用者設定檔中提供及維護準確的連絡人資訊。 此外，視事件性質而定，也可以透過[Microsoft 365 服務健康情況儀表板](http://status.yammer.com/)通知 Microsoft 365 的客戶。
 
