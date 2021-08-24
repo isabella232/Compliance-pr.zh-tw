@@ -2,7 +2,7 @@
 title: 紐西蘭政府雲端計算安全性和隱私權考慮
 description: Microsoft 紐西蘭解決紐西蘭雲端計算架構中發佈的問題。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259812"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480485"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ISPC)  (紐西蘭政府的資訊安全性和隱私權考慮
 

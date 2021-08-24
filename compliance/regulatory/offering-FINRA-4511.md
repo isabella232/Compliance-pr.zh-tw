@@ -2,7 +2,7 @@
 title: 金融行業規章機關 (FINRA) 規則 4511 (c) 美國
 description: 獨立評估公司已驗證，Azure 和 Office 365 可協助財務公司符合 FINRA 規則4511記錄保留和不可變的儲存需求。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 481b5e5890d404dc48d1354b83dc44b53cc6362e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260994"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479765"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>金融行業規章機關 (FINRA) 規則 4511 (c) 美國
 

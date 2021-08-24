@@ -3,7 +3,7 @@ metadata:
   title: 加州消費者隱私法 (CCPA) 常見問題集
   description: 有關 Microsoft 服務和加州消費者隱私法 (CCPA) 的常見問題集。
   keywords: Microsoft 365, compliance, CCPA, GDPR
-  localization_priority: Priority
+  ms.localizationpriority: high
   ms.prod: microsoft-365-enterprise
   ms.topic: article
   f1.keywords:
@@ -15,12 +15,12 @@ metadata:
   ms.collection:
   - M365-security-compliance
   - MS-Compliance
-  ms.openlocfilehash: 9ed5d5c7062dcdbd2b572b32b4a9ef082d46bc764dc9e46a195a6677d4623a0d
-  ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+  ms.openlocfilehash: 7c324a175f3c5e2cb6eeca07fa7f5046b5e7c28f
+  ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/05/2021
-  ms.locfileid: "54290251"
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "58481295"
 title: 加州消費者隱私法 (CCPA) 常見問題集
 summary: >
   > [!Note]
@@ -227,4 +227,4 @@ sections:
       在 2019 年 10 月，CCPA 通過了多項修訂。 其中一項修訂澄清，CCPA 義務不適用於企業員工的個人資訊。 但是，立法者對該豁免規定了一年的退場機制。 我們期望加州在 2020 年為員工制訂新的資料保護法。  
   - question: >
       身為 Microsoft 客戶，我是否需要實施退出控制，才能轉移到 Microsoft？
-    answer: 錯誤。 就像是線上服務提供者，我們採取的步驟，以確保我們在 CCPA 下有資格成為「服務提供者」。 如上所述，即使在消費者選擇退出的情況下，也允許將個人資訊轉移到服務提供者。
+    answer: 不對。 就像是線上服務提供者，我們採取的步驟，以確保我們在 CCPA 下有資格成為「服務提供者」。 如上所述，即使在消費者選擇退出的情況下，也允許將個人資訊轉移到服務提供者。

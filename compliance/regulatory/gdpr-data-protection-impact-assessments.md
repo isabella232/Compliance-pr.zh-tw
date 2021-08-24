@@ -2,7 +2,7 @@
 title: 資料保護影響評估
 description: 這些文件提供資料控制者資訊，協助他們判斷是否需要 DPIA，以及若需要，應包含哪些詳細資料。
 keywords: 資料保護影響評估, DPIA, Dynamics 365, Microsoft Professional Services, Microsoft 365, Microsoft 365 文件, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f1aa67817553c1ca7c8f9535965409ffb83a55117914254c4d58eec50eb38eba
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c634e1c63a123232f600cbe085964cf9d2e366a9
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289971"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479795"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>GDPR 資料保護影響評估
 

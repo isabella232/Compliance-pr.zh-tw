@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 2278a2475887e93733ce32b82a1d7d0b15cce91a1f1e70dbe72a6469bdd3e0b7
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0139d8182cf9e662e9985faf4a7fd6025fea363a
+ms.sourcegitcommit: 61357661caf64eeb9143046b4dd66c83e1439ee3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290600"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58470806"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Microsoft 365 隔離控制項
 
@@ -53,7 +53,7 @@ Microsoft 雲端服務的設計是假設所有租使用者可能會惡意處理�
 
 - 在每個承租人中 Microsoft 365 服務的邏輯隔離，都是透過 Azure Active Directory 授權和以角色為基礎的存取控制來達成。
 - SharePoint線上提供儲存層級的資料隔離機制。
-- Microsoft 使用嚴謹的實體安全性、背景篩選和多層次的加密策略，以保護客戶內容的機密性和完整性。 所有的 Microsoft 365 資料中心都具有生物統計學存取控制，大多數需要使用 palm 列印才能獲得實體存取權。 此外，所有以美國為基礎的 Microsoft 員工都必須在聘用過程中成功完成標準背景檢查。 如需 Microsoft 365 中用於管理存取之控制項的詳細資訊，請參閱[Microsoft 365 系統管理存取控制](assurance-administrative-access-controls-overview.md)。
+- Microsoft 使用嚴謹的實體安全性、背景篩選和多層次的加密策略，以保護客戶內容的機密性和完整性。 所有的 Microsoft 365 資料中心都具有生物統計學存取控制，大多數需要使用 palm 列印才能獲得實體存取權。 此外，所有以美國為基礎的 Microsoft 員工都必須在聘用過程中成功完成標準背景檢查。 如需 Microsoft 365 中用於管理存取之控制項的詳細資訊，請參閱[Microsoft 365 帳戶管理](assurance-microsoft-365-account-management.md)。
 - Microsoft 365 使用的服務端技術會在靜止和傳輸中加密客戶內容，包括 BitLocker、每個檔案加密、傳輸層安全性 (TLS) 和網際網路通訊協定安全性 (IPsec) 。 如需 Microsoft 365 中加密的特定詳細資料，請參閱[Microsoft 365 中的資料加密技術](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview)。
 
 以上所列的保護功能提供了可靠的邏輯隔離控制，可提供與獨立實體隔離所提供之威脅防護和緩解同等的威脅。

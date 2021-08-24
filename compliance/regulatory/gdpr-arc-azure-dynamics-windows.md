@@ -2,7 +2,7 @@
 title: 符合 GDPR 的 Azure、Dynamics 365 與 Windows 責任整備程度檢查清單
 description: 提供使用 Microsoft Azure 時，便於存取支援 GDPR 所需資訊的方式。
 keywords: ARC Azure、Microsoft 365、Microsoft 365 教育版、Microsoft 365 文件、GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 7ac7722d3524277f68d371e2b55729cd0f7cbd67
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: facb5fbcdc847d70425f3d6aa925ee6bcf7cf3dd
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259720"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480385"
 ---
 # <a name="azure-dynamics-365-and-windows-accountability-readiness-checklist-for-the-gdpr"></a>符合 GDPR 的 Azure、Dynamics 365 與 Windows 責任整備程度檢查清單
 

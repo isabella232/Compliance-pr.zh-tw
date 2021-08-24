@@ -1,8 +1,8 @@
 ---
 title: 聯邦資訊處理標準 (FIPS) 發佈140-2
 description: Microsoft 證明其密碼模組符合聯邦資訊處理標準。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292510"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481225"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>聯邦資訊處理標準 (FIPS) 發佈140-2
 
