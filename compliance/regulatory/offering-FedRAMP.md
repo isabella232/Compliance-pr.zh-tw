@@ -1,8 +1,8 @@
 ---
 title: 聯邦風險與授權管理計畫 (FedRAMP)
 description: Microsoft 授與 US 聯邦風險和授權管理計畫 P-ATOs 和 ATOs。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292770"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482938"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>聯邦風險與授權管理計畫 (FedRAMP)
 
@@ -101,7 +101,7 @@ FISMA 是一種聯邦法律，只需要我們的聯邦代理商和其合作夥�
 
 **我是否可以在代理人的授權過程中使用 Microsoft 規範？**
 
-是的。 您可以使用 Microsoft 雲端服務的認證，作為需要聯邦政府機構 ATO 之任何計畫或倡議的基礎。 不過，您必須為這些服務之外的元件達成您自己的授權。
+是。 您可以使用 Microsoft 雲端服務的認證，作為需要聯邦政府機構 ATO 之任何計畫或倡議的基礎。 不過，您必須為這些服務之外的元件達成您自己的授權。
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 

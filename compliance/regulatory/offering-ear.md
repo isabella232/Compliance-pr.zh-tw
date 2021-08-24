@@ -1,8 +1,8 @@
 ---
 title: " (EAR) 美國出口管理條例"
 description: Microsoft 雲端服務可協助客戶遵循美國出口管理法規 (EAR) 符合其相容性需求和管理出口控制風險。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293590"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482978"
 ---
 # <a name="us-export-administration-regulations-ear"></a> (EAR) 美國出口管理條例
 

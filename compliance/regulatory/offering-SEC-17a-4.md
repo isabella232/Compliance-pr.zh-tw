@@ -2,7 +2,7 @@
 title: 證券和 Exchange 傭金 (SEC) 規則 17a-4 (f) 美國
 description: 獨立評估公司已驗證，Azure 和 Office 365 可協助金融公司符合 SEC Rule 17a-4 (f) 記錄保留和不可永恆的儲存需求。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 39ab743755b949502d4f63c36a64d5785d85f6ab
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e4fd87384f7be620ab755f29031b52e8877582ce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260680"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482456"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>證券和 Exchange 傭金 (SEC) 規則 17a-4 (f) 美國
 

@@ -2,7 +2,7 @@
 title: 2002 年沙賓法案 (SOX)
 description: 金融服務公司可以使用 Microsoft 規範報告來處理其與 Sarbanes-Oxley 法案的相容性。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9b5b9b3a1e398c804aad7f7a42a0b2770de20525
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260431"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482848"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>2002 年沙賓法案 (SOX)
 

@@ -2,7 +2,7 @@
 title: 雲端運算合規性控制目錄 (C5)
 description: 了解 Azure、Azure Government 和 Azure Germany 如何展示符合雲端運算合規性控制目錄 (C5) 的證明。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b2d66bd7a085b52d92e4a92c741d14e8a9fd3569164ca88d7cfcbcccf116a7b9
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0399a959bce2d15bc856bad25aca29f831193efc
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287892"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482276"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>雲端運算合規性控制目錄 (C5)
 
@@ -44,7 +44,7 @@ Microsoft 雲端服務針對 SOC 2 (AT 第 101 節) 標準，至少一年稽核�
 - [Azure、Azure Government 和 Azure 德國](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 德國
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 
 - [Azure, Azure Government, and Azure Germany SOC 2 Type II Report.pdf](https://go.microsoft.com/fwlink/p/?linkid=2093520)
 

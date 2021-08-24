@@ -1,8 +1,8 @@
 ---
 title: 食品和藥品管理 CFR Title 21 第11部分
 description: Microsoft 可協助客戶遵守這些美國食品和藥品管理條例。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 5d6f590a9035b8628645bdfa46f794c1dfbcd4fb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287562"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482698"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>食品和藥品管理 CFR Title 21 第11部分
 
@@ -57,7 +57,7 @@ Microsoft enterprise 雲端服務經歷一般獨立的協力廠商 SOC 1 Type 2 
 - [Dynamics 365 和 Dynamics 365 美國政府](https://aka.ms/d365-compliance-list)
 - Office 365 和 Office 365 美國政府
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 
 SOC 1 和 SOC 2 Type 2 的審計報告（ISO/IEC 27001 和 ISO/IEC 27018 標準證明已實現的控制項的有效性，並可協助客戶遵循 FDA CFR Title 21 第11部分。
 
@@ -79,7 +79,7 @@ FDA CFR Title 21 Part 11 適用于包含產品和服務的組織，這些產品�
 
 **我可以在組織的認證程式中使用 Microsoft 的符合性嗎？**
 
-是的。 IEC/ISO 27001、ISO/IEC 27018、SOC 1 和 SOC 2 標準的獨立協力廠商法規遵從性報告可證明 Microsoft 控制項的效能。 Microsoft enterprise cloud 客戶可以使用這些相關報告中所述的已審核控制項，作為其自有之 CFR Title 的一部分，21第11部分的風險分析和限定工作。 建立及部署遵循 FDA 法規之應用程式的客戶負責確保其應用程式符合 FDA 的需求。
+是。 IEC/ISO 27001、ISO/IEC 27018、SOC 1 和 SOC 2 標準的獨立協力廠商法規遵從性報告可證明 Microsoft 控制項的效能。 Microsoft enterprise cloud 客戶可以使用這些相關報告中所述的已審核控制項，作為其自有之 CFR Title 的一部分，21第11部分的風險分析和限定工作。 建立及部署遵循 FDA 法規之應用程式的客戶負責確保其應用程式符合 FDA 的需求。
 
 **使用這個標準時，Microsoft 對維護合規性有何責任？**
 

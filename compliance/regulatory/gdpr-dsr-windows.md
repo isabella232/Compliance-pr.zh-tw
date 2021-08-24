@@ -2,7 +2,7 @@
 title: 適用於 GDPR 和 CCPA 的 Windows 診斷資料處理者設定資料主體要求
 description: 了解如何使用 Microsoft 產品、服務及系統管理工具，尋找並處理個人資料以回應 DSR 要求。
 keywords: Microsoft 365、Microsoft 365 教育版, Microsoft 365 文件, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 365aa84ce2c88468b7f6689aa73507e458a435fd2d3bc58583114f37f50537ac
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293050"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482376"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>適用於 GDPR 和 CCPA 的 Windows 診斷資料處理者設定資料主體要求
 

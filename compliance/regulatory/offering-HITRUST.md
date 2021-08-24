@@ -2,7 +2,7 @@
 title: '狀況資訊信任同盟 (HITRUST) 常見的安全性架構 (CSF) '
 description: Azure 和 Office 365 會驗證健康資訊信任同盟 (HITRUST) 常見的安全性框架 (CSF) 。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260697"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482968"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>狀況資訊信任同盟 (HITRUST) 常見的安全性架構 (CSF) 
 

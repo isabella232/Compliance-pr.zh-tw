@@ -2,7 +2,7 @@
 title: 新加坡金融管理局 (MAS) 和新加坡銀行協會 (ABS)
 description: Microsoft 協助金融用戶端遵守新加坡金融管理局的外包方針，並套用新加坡銀行協會的指導方針。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2cd1209c0f80ee34fcc4fadb0fa341da7b3fc6e28502b8a73adb99580db0e164
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 66e0803e41717cfd80fc4c3e4481457d5a165303
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287192"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482668"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>新加坡金融管理局 (MAS) 和新加坡銀行協會 (ABS)
 

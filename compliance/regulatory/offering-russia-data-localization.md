@@ -1,8 +1,8 @@
 ---
 title: 俄文個人資料當地語系化需求
 description: 瞭解如何在俄羅斯的 Microsoft 服務和資料庫中收集個人資料、俄語公民的個人資料記錄、systematization、累積、儲存、澄清及解壓縮。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 559614554eb661be33a751c212080bea20d967565daf37de59a292851b9a28e8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 093ec578cd83dc6c52485101d232d9ccff88489e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287142"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482798"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>俄文個人資料當地語系化需求
 

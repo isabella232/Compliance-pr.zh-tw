@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8909d2c3029050a18f3f37862f7dd342696b1fc0f92c5e8bb03aa190f03f2c25
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290553"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481775"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Microsoft 365風險管理計劃
+# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 風險管理計畫
 
 Microsoft 365 風險管理計劃的目的在於識別、評估和管理 Microsoft 365 風險。 Microsoft 365 的優先順序是符合合約義務和資格鑒定、增加客戶信任，以及維護我們的競爭優勢。 雖然 Microsoft 365 風險管理計劃個別運作，但是會將其與最相符的 Enterprise 風險管理 (ERM) 計畫的原則、優先順序及方法。 使用 ERM 計畫，可在不同的商業單位和工程群組中進行一致的比較，對整個企業中的風險管理造成更為內聚的方法。
 

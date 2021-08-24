@@ -2,7 +2,7 @@
 title: 保護雲端中個人資料的 ISO/IEC 27018 工作條例規定
 description: Microsoft 是第一個遵守此雲端隱私權工作條例規定的雲端提供者。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92d5d00c473f2da92380478e7559ca18ef6f8937
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260465"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482998"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>保護雲端中個人資料的 ISO/IEC 27018 工作條例規定
 

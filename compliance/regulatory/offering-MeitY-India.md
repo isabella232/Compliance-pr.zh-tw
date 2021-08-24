@@ -1,8 +1,8 @@
 ---
 title: '電子產品和資訊技術 (MeitY) '
 description: Microsoft 已授與印度的電子產品和資訊技術部的完整資格鑒定。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292450"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482948"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>電子產品和資訊技術 (MeitY) 
 
@@ -49,7 +49,7 @@ Microsoft 的 MeitY 資格鑒定是由標準化測試和品質認證 (STQC) Dire
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
-## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
+## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 
 - [雲端服務提供者的「審核狀態](https://meity.gov.in/content/gi-cloud-meghraj)」下的 Microsoft 雲端資格鑒定
 

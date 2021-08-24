@@ -1,8 +1,8 @@
 ---
 title: '國防部門 (DoD) 影響等級 2 (IL2) '
 description: 深入瞭解 Microsoft 如何滿足國防部門的 (DoD) 影響等級 2 (IL2) 標準。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288222"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482446"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>國防部門 (DoD) 影響等級 2 (IL2) 
 

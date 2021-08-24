@@ -2,7 +2,7 @@
 title: GDPR 和 CCPA 的 Azure 資料主體要求
 description: 了解如何使用 Azure 產品、 服務及系統管理工具，以尋找並處理個人資料以回應 DSR 要求。
 keywords: Microsoft 365, Microsoft 365 教育版, Microsoft 365 文件, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 5540a941a9d246eabf37abcf0dd9fa12fd5e0df1b2d2ad70c058e341c14bb2b8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2c016cb1d13654564dcbbc3a013e6bb52e1fbb2b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289561"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482416"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Azure 資料主體要求
 

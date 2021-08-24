@@ -2,7 +2,7 @@
 title: '家庭教育權利和隱私權法案 (FERPA) '
 description: Microsoft 會與我們的美國家庭教育權利和隱私權法案的需求相符。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d41c5fea8e0f6f45703bfe25cae9dbaa491dcd2c
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 6957f3e1c93dd73821456bc45ef1d8e2e12681a0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261045"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482236"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>家庭教育權利和隱私權法案 (FERPA) 
 

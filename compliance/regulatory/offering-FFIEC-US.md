@@ -2,7 +2,7 @@
 title: '聯邦金融機構檢查委員會 (FFIEC) '
 description: Microsoft 會協助金融服務用戶端遵守《聯邦金融機構檢查理事會 (FFIEC) 的審計要求。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1830d0d61fe0787d7f8e8034af2e4ca64bdb0bc8
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 1c2d1167a68362be700a7cf39cf2cdd7bf61ca97
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261021"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482688"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>聯邦金融機構檢查委員會 (FFIEC) 
 

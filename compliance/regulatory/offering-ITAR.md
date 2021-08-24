@@ -1,8 +1,8 @@
 ---
 title: 'Arm 規章中的國際流量 (ITAR) '
 description: Azure 政府支援客戶在具有 Arm Regs 功能的系統中建立國際流量。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d5bebc4a270a11518989c548ef17ac48b8f79b5cc5720f09bc8677c40e422421
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293882"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482918"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Arm 規章中的國際流量 (ITAR) 
 

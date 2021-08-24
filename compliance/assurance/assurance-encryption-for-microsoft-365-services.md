@@ -10,7 +10,7 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: None
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,12 +21,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 77371208a5bd6d67fb9239ceebb18319b9a9253c265d7233ed789d75ba2e1815
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 480e7e03564075707c90e25ad5777631c1e68ed8
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287182"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482025"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>商務用 Skype、商務用 OneDrive、SharePoint 線上、Microsoft Teams 及 Exchange Online 的加密
 
@@ -112,6 +112,6 @@ Teams 會使用 TLS 及 MTLS 來加密立即訊息。 不論流量是限制在�
 
 Teams 會使用認證型權杖，以透過輪流安全地存取媒體轉送。 媒體轉送透過 TLS 安全通道交換權杖。
 
-#### <a name="fips"></a>Fips
+#### <a name="fips"></a>FIPS
 
 Teams 會使用 FIPS (聯邦資訊處理標準) 相容性演算法，以進行加密金鑰交換。 如需實施 FIPS 的詳細資訊，請參閱 [聯邦資訊處理標準 (FIPS) 發佈 140-2](/microsoft-365/compliance/offering-fips-140-2)。

@@ -2,7 +2,7 @@
 title: 商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 description: 獨立評估公司已驗證，Azure 和 Office 365 可協助財務公司符合 CFTC 規則1.31 記錄保留和不可變的儲存需求。
 keywords: Microsoft 365, 合規性, 方案
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bc2577e8841798543881b0431c130d1d9cc487af
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260615"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482738"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 

@@ -1,8 +1,8 @@
 ---
 title: " (CJIS) 安全性原則的刑事審判資訊服務"
 description: Microsoft 政府雲端服務遵循美國刑事審判資訊服務安全性原則。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292530"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482728"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a> (CJIS) 安全性原則的刑事審判資訊服務
 

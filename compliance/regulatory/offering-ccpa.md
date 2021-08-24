@@ -1,8 +1,8 @@
 ---
 title: 加州消費者隱私法 (CCPA)
 description: Microsoft 服務和加州消費者隱私權法案 (CCPA) 。
-keywords: Microsoft 365、合規性、方案
-localization_priority: None
+keywords: Microsoft 365, 合規性, 方案
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75f814c49395e5b945d0b9092b1158fad3376ce684ea3a8fb43115d51fe6bba5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288252"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482658"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>加州消費者隱私法 (CCPA)
 
