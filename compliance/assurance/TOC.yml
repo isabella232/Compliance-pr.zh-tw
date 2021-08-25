@@ -80,8 +80,8 @@
       href: assurance-identity-and-access-management.md
     - name: Azure 客戶 Lockbox
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Microsoft 365 系統管理存取控制
-      href: assurance-administrative-access-controls-overview.md
+    - name: Microsoft 365 帳戶管理
+      href: assurance-microsoft-365-account-management.md
     - name: Microsoft 365 技術控制措施
       href: assurance-technology-controls.md
     - name: Office 365 客戶加密箱
