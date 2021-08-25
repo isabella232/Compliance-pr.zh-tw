@@ -2,7 +2,7 @@
 title: 一般資料保護規定
 description: 了解一般資料保護規定 (GDPR) 的 Microsoft 技術指導及尋找實用資訊。
 keywords: Microsoft 365、Microsoft 365 教育版, Microsoft 365 文件, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 1951b902549d0ab214e0a0c284349c30dfc714e4af54e442b8ef8a61b26e6c51
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287933"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482768"
 ---
 # <a name="general-data-protection-regulation-summary"></a>一般資料保護摘要
 
@@ -267,7 +267,7 @@ GDPR 提供歐盟派駐人員，透過一組「資料主體權限」控制個人
 
 **如何知道 GDPR 是否涵蓋組織處理的資料？**
 
-GDPR 會規範個人資料的收集、儲存、使用和共用。 依據 GDPR，個人資料的定義很廣泛，舉凡與已識別或可識別自然人相關的任何資料皆屬之。
+GDPR 會規範個人資料的收集、儲存、使用和共用。依據 GDPR，個人資料的定義很廣泛，舉凡與已識別或可識別自然人相關的任何資料皆屬之。
 
 個人資料可以包括 (但不限於) 線上識別碼 (例如 IP 位址)、員工資訊、銷售資料庫、客戶服務資料、客戶意見反應表、位置資料、生物特徵辨識資料、CCTV 片段、忠誠計劃記錄、健康情況，以及財務資訊等等。 其甚至可以包含似乎不是個人的資訊，例如一張沒有人的風景照，其中該資訊是以帳戶號碼或唯一代碼連結至可辨識的個人。 甚至，如果筆名可以連結至特定個人，則具有筆名的個人資料可以是個人資料。
 

@@ -3,7 +3,7 @@ title: 符合 GDPR 的 Dynamics DPIA
 description: 提供資料控制者有關 Dynamics 365 的資訊，協助您判斷是否需要 DPIA 及要包含哪些詳細資料。
 keywords: DPIA, Microsoft 365, Dynamics 365, Microsoft 365 文件, GDPR
 robots: NOINDEX,NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 40e756f8f359189825a1474a9d8531a9a3d5891e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377760"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482436"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>資料保護影響評估：資料控制者使用 Dynamics 365 的指引
 
@@ -32,7 +32,7 @@ ms.locfileid: "53377760"
 本文件旨在提供資料控制者有關 Dynamics 365 的資訊，協助他們判斷是否需要 DPIA，以及若需要，應包含哪些詳細資料。
 
 >[!Note]
->Microsoft 在本文章中不提供任何法律建議。 本文章僅供參考。 我們鼓勵客戶與其隱私權主管 (和/或指定的資料保護主管 (DPO)) 和/或法律顧問和/或顧問合作，以確定與使用 Microsoft Azure 或其他任何 Microsoft 線上服務相關之任何 DPIA 的必要性和內容。
+>Microsoft 在本文章中不提供任何法律建議。本文章僅供參考。我們鼓勵客戶與其隱私權主管 (及/或指派的資料保護長 (DPO)) 及/或法律顧問及/或顧問合作，以確定與使用 Microsoft Azure 或任何其他 Microsoft 線上服務相關的任何 DPIA 的必要性和內容。
 
 ## <a name="part-1-determining-whether-a-dpia-is-needed"></a>第 1 部分：判斷是否需要 DPIA
 

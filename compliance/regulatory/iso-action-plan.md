@@ -3,7 +3,7 @@ title: Microsoft 365 ISO 27001 行動計畫，前 30 天、90 天及以後的優
 description: 當您工作以符合國際標準組織 (ISO) 需求時可以遵循的優先行動計畫
 keywords: Microsoft 365, Microsoft 365 教育版, Microsoft 365 文件, ISO, ISO 27001
 author: BrendaCarter
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 525870883b67ef37b45af2aa690ce849acd9217d
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 4fc85558c4bef8763b7d6cae039f5ab085df6c61
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261120"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482296"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Microsoft 365 ISO 27001 行動計畫 — 前 30 天、90 天及過後的首要工作
 
@@ -67,7 +67,7 @@ ISO/IEC 27001 是用來實作資訊安全性管理系統 (ISMS) 的國際標準�
 |**適用範圍**|**工作**|
 |:-----|:-----|
 |使用 Microsoft 365 進階資料控管工具和資訊保護，以實作個人資料的持續控管方案。|• 使用[將標籤套用至 Office 365 中的個人資料](/microsoft-365/compliance/apply-labels-to-personal-data-in-office-365)，藉由自動套用 Microsoft 365 標籤來識別文件和電子郵件中的個人資訊。<br>•  使用 [Microsoft Intune](/intune/) 保護在整個組織行動裝置上儲存及存取的機密資料，並且確保對資料使用符合公司規範的裝置。|
-|在 Microsoft 365 及其他 Cloud 應用程式之間監視持續合規性。|• 若要根據標準作業程序 (SOP) 評估效能，請持續使用[合規性管理員](/microsoft-365/compliance/compliance-manager)，針對組織的資訊安全性原則及其實作執行 ISO 27001:2013 定期評估。<br>•   持續審查及監視資訊安全性管理系統。<br>• 使用 [Azure AD Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure)，以高階權限 (例如，特殊權限或系統管理員使用者) 控制及執行所有使用者和群組的定期檢閱。<br>•  部署和設定 [Office 365 中特殊權限的存取管理](/microsoft-365/compliance/privileged-access-management-overview) (部分機器翻譯)，對 Office 365 中特殊權限的系統管理工作提供細微的存取控制。  一旦啟用，使用者必須要求即時存取，透過範圍與時間高度受到限制的核准工作流程，完成提升權限和授與特殊權限的工作。<br>• 標準作業程序 (SOP) 的一部分，是搜尋稽核記錄以檢閱對租用戶組態設定、使用者權限提升以及具風險的使用者活動所做的變更。<br>• 稽核[非擁有者信箱存取](/Exchange/policy-and-compliance/non-owner-mailbox-access-reports) 以識別潛在的資訊外洩，以及主動檢閱所有 Exchange Online 信箱上的非擁有者存取。<br>• 使用 [Microsoft 365 警示原則、資料外洩防護報告和 Microsoft Cloud App Security](/microsoft-365/security/office-365-security/monitor-for-leaks-of-personal-data)，來監視貴組織的雲端應用程式使用方式，並且根據啟發學習法和使用者活動實作進階警示原則。<br>• 使用 [Microsoft Cloud App Security](/cloud-app-security/what-is-cloud-app-security) 自動追蹤有風險的活動，以識別潛在惡意系統管理員、調查資料外洩，或確認是否符合要求的合規性。|
+|在 Microsoft 365 及其他 Cloud 應用程式之間監視持續合規性。|• 若要根據標準作業程序 (SOP) 評估效能，請持續使用[合規性管理員](/microsoft-365/compliance/compliance-manager)，針對組織的資訊安全性原則及其實作執行 ISO 27001:2013 定期評估。<br>•   持續審查及監視資訊安全性管理系統。<br>• 使用 [Azure AD Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure)，以高階權限 (例如，特殊權限或系統管理員使用者) 控制及執行所有使用者和群組的定期檢閱。<br>•  部署及設定 [Office 365 中的 Privileged Access Management](/microsoft-365/compliance/privileged-access-management-overview) (機器翻譯)，在 Office 365 中提供對於特殊權限系統管理工作更細微的存取控制。啟用後，使用者就必須要求 Just-In-Time 存取，透過高度限制範圍和時間的核准工作流程，完成提升權限的工作。<br>• 標準作業程序 (SOP) 的一部分，是搜尋稽核記錄以檢閱對租用戶組態設定、使用者權限提升以及具風險的使用者活動所做的變更。<br>• 稽核[非擁有者信箱存取](/Exchange/policy-and-compliance/non-owner-mailbox-access-reports) 以識別潛在的資訊外洩，以及主動檢閱所有 Exchange Online 信箱上的非擁有者存取。<br>• 使用 [Microsoft 365 警示原則、資料外洩防護報告和 Microsoft Cloud App Security](/microsoft-365/security/office-365-security/monitor-for-leaks-of-personal-data)，來監視貴組織的雲端應用程式使用方式，並且根據啟發學習法和使用者活動實作進階警示原則。<br>• 使用 [Microsoft Cloud App Security](/cloud-app-security/what-is-cloud-app-security) 自動追蹤有風險的活動，以識別潛在惡意系統管理員、調查資料外洩，或確認是否符合要求的合規性。|
 
 ## <a name="learn-more"></a>深入了解
 
