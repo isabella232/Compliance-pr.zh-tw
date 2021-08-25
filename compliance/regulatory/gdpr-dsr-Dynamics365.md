@@ -2,7 +2,7 @@
 title: GDPR 和 CCPA 的 Dynamics 365 資料主體要求
 description: 了解如何尋找及處理個人資料，以及回應 Dynamics 365 客戶提出的 DSR 和 CCPA 要求。
 keywords: Microsoft 365, Microsoft 365 教育版, Microsoft 365 文件, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -19,12 +19,12 @@ hideEdit: true
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 2fff7a2ffb6dc48e43c8a514609f0f584cb60db1
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 7b6919cbdf2ece468eeec8931b652972a74b07dc
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141474"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482406"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Dynamics 365 資料主體要求
 
@@ -34,10 +34,10 @@ ms.locfileid: "53141474"
 
 本指南會討論如何使用 Microsoft 產品、服務及系統管理工具，協助我們的控制者客戶找出個人資料並對其採取動作，以回應 DSR。尤其是包括如何找出、存取與處理在 Microsoft 雲端中常駐的個人資料或個人資訊。以下是本指南中所述程序的快速概觀：
 
-- **探索**：使用搜尋和探索工具，更輕鬆地尋找可能成為 DSR 要求主體的客戶資料。 收集到可能的回應文件之後，您就可以執行下列步驟中所述的一或多個 DSR 動作來回應要求。 或者，您可能判定該要求不符合組織回應 DSR 要求的方針。
+- **探索：** 使用搜尋和探索工具，讓您更輕鬆地找到可能是 DSR 要求主體的客戶資料。一旦收集了潛在回應文件，您就可以執行下列步驟中所述的一或多個 DSR 動作以回應要求。或者，您也可能判斷該要求不符合貴組織回應 DSR 要求的指導方針。
 - **存取：** 擷取在 Microsoft 雲端中常駐的個人資料，若有要求，請製作可供資料主體使用的副本。
 - **修正：** 在適用情況下，對個人資料進行變更或實行其他要求的動作。
-- **限制：** 藉由盡可能移除各種線上服務的授權或關閉所需的服務，以限制個人資料的處理。 您可以
+- **限制**：藉由盡可能移除各種線上服務的授權或關閉所需的服務，以限制個人資料的處理。
 - **刪除：** 永久移除 Microsoft 雲端中常駐的個人資料。
 - **匯出/接收 (可攜性)：** 將個人資料或個人資訊以電子複本 (以電腦可讀取的格式) 提供給資料主體。 CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。 個人的私人、公開或工作角色之間沒有區別。 定義的「個人資訊」一詞大致與 GDPR 下的「個人資料」對應。 不過，CCPA 也包含家庭和家用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.yml)。
 
@@ -50,8 +50,8 @@ ms.locfileid: "53141474"
 - **控制者：** 自然人或法人、公家機關、公司或其他主體，不論單獨或與其他單位聯合，會判斷處理個人資料的用途以及方式，其中此類處理的用途以及方式的判斷是根據聯盟與成員國法律，控制者人選或提名控制者的特定準則可由聯盟與成員國法律提供。
 - **個人資料和資料主體：** 表示與已識別或可識別之自然人 (以下稱為「資料主體」) 相關的任何資訊；可識別的自然人是可以直接或間接識別的人員，尤其是藉由參照如名稱、身分證號碼、位置資料、線上識別碼，或特定於該自然人的身體、生理、基因、心理、經濟、文化或社會身分等一個或多個識別碼來識別。
 - **處理者：** 自然人或法人、公家機關、公司，或代表控制者處理個人資料的其他主體。
-- **客戶資料：** 由客戶本身或客戶代表，透過企業服務所提供給 Microsoft 的所有資料，包括所有文字、音訊、視訊或影像檔案和軟體。 客戶資料包括 (1) 使用者的識別資訊 (例如 Azure Active Directory 中的使用者名稱和連絡人資訊)，以及客戶上傳到特定服務或在特定服務中建立的客戶內容 (例如，Azure 儲存體帳戶中的客戶內容、Azure SQL Database 的客戶內容，或客戶在 Azure 虛擬機器中的虛擬機器映像)。
-- **系統產生的記錄：** Microsoft 產生的記錄及相關資料，可協助 Microsoft 向使用者提供企業服務。 系統產生的記錄主要包含經過假名化處理的資料 (例如唯一識別碼)，一般是由系統所產生的數字，無法單獨用來識別個人，但可用來向使用者提供企業服務。 系統產生的記錄也可能包含使用者的身分識別資訊 (例如使用者名稱)。
+- **客戶資料：** 由客戶本身或代表客戶透過使用企業服務提供給 Microsoft 的所有資料，包括所有文字、音訊、視訊或影像檔案和軟體。客戶資料包括 (1) 使用者的識別資訊 (例如 Azure Active Directory 中的使用者名稱和連絡人資訊)，以及客戶上傳到特定服務或在特定服務中建立的客戶內容 (例如，Azure 儲存體帳戶中的客戶內容、Azure SQL Database 的客戶內容，或 Azure 虛擬機器中客戶的虛擬機器映像)。
+- **系統所產生的記錄檔：** Microsoft 所產生的記錄檔及相關資料，可協助 Microsoft 向使用者提供企業服務。系統所產生的記錄檔主要包含經過假名化處理的資料 (例如唯一識別碼，通常由系統所產生，無法單獨用來識別個人，但可用來向使用者提供企業服務)。系統所產生的記錄檔也可能包含使用者的識別資訊 (例如使用者名稱)。
 
 ## <a name="how-this-guide-can-help-you-meet-your-controller-responsibilities"></a>本指南如何協助您符合您的控制者責任
 
@@ -85,7 +85,7 @@ Dynamics 365 是種以軟體為服務 (SaaS) 的形式提供多重資料處理�
 
 Microsoft 提供有助於回應資料主體權利要求的功能，並可用以存取客戶資料。不過，您有責任確保能適當找出並分類個人資料。
 
-***Dynamics 365 for Customer Engagement*** 提供多種方法 (例如：進階尋找搜尋和搜尋記錄)，讓您搜尋記錄中的個人資料。 這些功能都可讓您識別 (找出) 個人資料。
+***Dynamics 365 for Customer Engagement*** 提供多種方法 (例如：進階尋找搜尋和搜尋記錄)，讓您搜尋記錄中的個人資料。這些功能都可讓您識別 (找出) 個人資料。
 
 - [進階尋找搜尋](/dynamics365/customer-engagement/basics/save-advanced-find-search)
 - 可跨多種記錄類型[搜尋記錄](/dynamics365/customer-engagement/basics/search-records)
@@ -97,7 +97,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 ***Dynamics 365 Customer Service Insights*** 提供的資源清單可協助您 [尋找客戶資料](/dynamics365/ai/customer-service-insights/gdpr-discovery)以便回應來自客戶的 GDPR 要求。
 
-***Dynamics 365 for Finance and Operations*** 提供數個方式讓您搜尋客戶資料。 身為租用戶系統管理員的您，可以執行下列動作來搜尋客戶資料：
+***Dynamics 365 for Finance and Operations*** 提供數種搜尋客戶資料的方式。您可用租用戶系統管理員的身分，執行下列動作來搜尋客戶資料：
 
 - 透過可快速探索個人資料的方法整理客戶資料，請參閱[如何分類資料庫存](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#detailed-inventory)以達成此目的。
 - 使用[人員搜尋報表](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#the-person-search-report)來找出並收集個人資料。
@@ -106,7 +106,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 - 撰寫可找出並匯出個人資料的自訂表單。
 - 撰寫外部入口網站或網站，讓已驗證的客戶查看他/她的個人資料。
 
-***Dynamics 365 Business Central*** 提供數個方式讓您搜尋客戶資料。 如需詳細資訊，請參閱[搜尋、篩選及排序資料](/dynamics365/business-central/ui-enter-criteria-filters)。
+***Dynamics 365 Business Central*** 為您提供數種搜尋客戶資料的方式。如需詳細資訊，請參閱 [搜尋、篩選及排序資料](/dynamics365/business-central/ui-enter-criteria-filters) (英文)。
 
 ***Dynamics 365 for Talent*** 提供可尋找特定個人資料的進階搜尋和篩選功能，以及可匯出該資訊或使用瀏覽器擴充將該資訊列印為 .pdf 檔的 Microsoft Office 匯出功能。
 
@@ -115,13 +115,13 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 ### <a name="providing-a-copy-of-customer-data"></a>提供客戶資料的副本
 
-***Dynamics 365 for Customer Engagement*** 中的客戶資料可使用完整的實體匯出功能來匯出。 客戶資料可以匯出為靜態 Excel 檔案，以利資料可攜性要求。 之後您可以使用 Excel 來編輯要包含在可攜性要求中的個人資料，然後儲存為經常使用的機器可讀取格式，例如 .csv 或 .xml。 透過[常見資料服務 Web API](/powerapps/developer/common-data-service/webapi/overview) 可以匯出 Dynamics 365 for Customer Engagement 記錄。
+您可以使用完整的實體匯出功能來匯出 ***Dynamics 365 for Customer Engagement*** 中的客戶資料。可以將客戶資料匯出至靜態的 Excel 檔案，以促進資料可攜性的要求。您可以使用 Excel 來編輯要包含在可攜性要求中的個人資料，並將其儲存為 .csv 或 .xml 等常用、機器可讀取的格式。您還可以透過 [Common Data Service Web API](/powerapps/developer/common-data-service/webapi/overview) 來匯出 Dynamics 365 for Customer Engagement 記錄。
 
 此外，針對 Dynamics 365 for Marketing，系統會提供[專用的 API](/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact)，讓客戶可建置擴充功能，以便從已擷取的客戶互動中，擷取可能內含個人資料的其他記錄。該 API 會載入後端系統中的所有相關資訊，並將其組合成單一的可攜式文件。
 
 ***Dynamics 365 Customer Service Insights*** 可讓您使用資料匯出來 [提供客戶資料的副本](/dynamics365/ai/customer-service-insights/gdpr-export)。
 
-***Dynamics 365 for Finance and Operations** _ 中的客戶資料可使用完整的實體匯出功能來匯出。 使用 [_資料管理與整合實體*](/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity)，租用戶系統管理員可以利用提供的實體、建立新實體或延伸現有、可重複的個人資料的實體，使用 [*資料匯入及匯出作業*](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)匯出至 Excel 或許多其他常見格式。  另一方面，許多清單可以匯出為靜態 Excel 檔案，以利資料可攜性要求。 將客戶資料匯出至 Excel 後，之後您可以編輯要包含在可攜性要求中的個人資料，然後將檔案儲存為經常使用的機器可讀取格式，例如 .csv 或 .xml。 您也可以考慮使用 *人員搜尋報告* 來提供您已分類為個人資料之資料的資料主題。
+您可以使用完整的實體匯出功能來匯出 ***Dynamics 365 for Finance and Operations** _ 中的客戶資料。使用「[_資料管理與整合實體*](/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity)」，租用戶系統管理員可利用所提供的實體、建立新實體或擴充現有實體，以使用「[*資料匯入及匯出工作*](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)」，將可重複的個人資料匯出至 Excel 或各種其他通用格式。此外，您也可以將許多清單匯出至靜態 Excel 檔案，以促進資料可攜性的要求。將客戶資料匯出至 Excel 時，您可以編輯要包含在可攜性要求中的個人資料，然後將檔案儲存為 .csv 或 .xml 等常用、機器可讀取的格式。您也可以考慮使用 [人員搜尋報表 *]*，將已分類為個人資料的資料提供給資料主體。
 
 在 ***Dynamics 365 Business Central*** 中，您可以使用兩種功能將客戶資料的副本提供給資料主體：
 
@@ -170,7 +170,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 - 大量編輯多個 Dynamics 365 記錄，您可以利用 Microsoft Office 增益集將資料匯出至 Microsoft Excel、進行變更，然後將已修改資料從 Excel 匯入至線上服務。
 - 您可以找出您想要刪除的資料，來刪除在任何欄位中儲存的客戶資料，然後手動刪除內含目標客戶資料的資料元素 (就像對代表資料主題的連絡人記錄與包含個人資料的其它記錄使用實刪除)
 
-此外，針對 Dynamics 365 Marketing，刪除連絡人會確保同時移除與個人資訊的互動資料。針對任何自訂欄位或實體，您必須自訂系統，以確保其會刪除來自相關記錄的所有客戶資料，及/或取消其與連絡人記錄的連結，如此將會移除所有個人資訊。如需詳細資訊：[開發人員指南 (行銷)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide)。
+此外，針對 Dynamics 365 Marketing，刪除連絡人將確保也會移除具有個人資訊的輸出行銷互動資料。 若為任何自訂欄位或實體，您必須自訂您的系統，以確定會從相關記錄中刪除所有客戶資料和/或從連絡人記錄中取消連結，以便移除所有個人資訊。 使用即時行銷模組的客戶也應提出包含其刪除要求的支援票證，以便移除所有即時互動資料。 如需詳細資訊，請參閱 [開發人員指南 (行銷) ](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide) (英文)。
 
 ***Dynamics 365 Customer Service Insights*** 也提供讓組織 [刪除客戶資料](/dynamics365/ai/customer-service-insights/gdpr-delete)的功能。
 
@@ -193,7 +193,7 @@ Microsoft 提供有助於回應資料主體權利要求的功能，並可用以�
 
 針對 ***Dynamics 365 Customer Service Insights***，您可以透過 Azure 管理入口網站 [匯出客戶資料](/dynamics365/ai/customer-service-insights/gdpr-export)。
 
-***Dynamics 365 for Finance and Operations*** 提供資料管理與整合實體，它使得提供的實體、新建立的實體，或延伸可重複的個人資料的實體，能夠使用 [資料匯入和匯出作業](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)匯出至 Excel 或許多其他常見格式。  另一方面，許多清單可以匯出為靜態 Excel 檔案，以利資料可攜性要求。 以此方式將客戶資料匯出至 Excel 後，之後您可以編輯要包含在可攜性要求中的個人資料，然後將檔案儲存為經常使用的機器可讀取格式，例如 .csv 或 .xml。
+***Dynamics 365 for Finance and Operations*** 提供 [資料管理和整合實體]，可利用所提供的實體、建立的新實體或擴充的現有實體，使用 [資料匯入及匯出工作 []](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)，將可重複的個人資料匯出至 Excel 或各種其他通用格式。此外，您也可以將許多清單匯出至靜態 Excel 檔案，以促進資料可攜性的要求。將客戶資料以此方式匯出至 Excel 時，您可以編輯要包含在可攜性要求中的個人資料，然後將檔案儲存為 .csv 或 .xml 等常用、機器可讀取的格式。
 
 Dynamics 365 for Finance and Operations 和 ***Dynamics 365 for Talent*** 兩者都提供了 [人員搜尋報表]，可將已分類為個人資料的資料提供給資料主體。
 

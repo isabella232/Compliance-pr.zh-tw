@@ -17,30 +17,18 @@ metadata:
   ms.date: 11/30/2020
 highlightedContent:
   items:
-    - title: 開始使用 Microsoft 365 合規性的快速工作
-      itemType: get-started
-      url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: 為資料隱私權規定部署資訊保護
-      itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
-    - title: 深入瞭解雲端中的共用責任
-      itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
     - title: 了解 Microsoft 如何保護客戶資料
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
+    - title: 深入瞭解雲端中的共用責任
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
     - title: 深入瞭解 Microsoft 合規性管理員
       itemType: learn
       url: /learn/paths/compmgmt/
-    - title: 管理 Microsoft 365 中的內部風險
-      itemType: learn
-      url: /learn/paths/m365-compliance-insider/
-    - title: 管理資訊保護和控管
-      itemType: learn
-      url: /learn/paths/m365-compliance-information/
-    - title: 深入瞭解 Advanced eDiscovery 和高級審計
-      itemType: learn
-      url: /learn/paths/compliance-discover/
+    - title: 開始使用 Microsoft 365 規範方案指南
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
 productDirectory:
   title: 法規 & 行業法規遵從性
   summary: Microsoft 有關遵循業界區域和國際 & 國內標準及法規的指導方針。

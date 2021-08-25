@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1c2d1167a68362be700a7cf39cf2cdd7bf61ca97
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482688"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505896"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>聯邦金融機構檢查委員會 (FFIEC) 
 
@@ -33,11 +33,16 @@ ms.locfileid: "58482688"
 
 ## <a name="microsoft-and-ffiec"></a>Microsoft 和 FFIEC
 
-Microsoft Azure、Microsoft Power BI 和 Microsoft Office 365 的建立，是為了符合為金融服務中心提供雲端服務的嚴格需求。 在我們的支援中，我們提供指導方針，協助您遵循資訊技術的 FFIEC 審核需求，以及在尋求您的 FFIEC 合規性義務時使用 Azure SOC attestations 的能力。
+Microsoft Azure、Microsoft Power BI 和 Microsoft Office 365 的建立，是為了符合為金融服務中心提供雲端服務的嚴格需求。 Azure 提供金融機構，含 SOC 1 Type 2、SOC 2 Type 2 和 SOC 3 認證報告（由獨立的審計公司產生），以協助客戶滿足其專屬的 FFIEC 合規性義務。 例如，在下列情況下， [SOC 1 類型2認證](./offering-soc-1.md) 會執行：
 
-為了協助金融機構用戶端符合 Azure 的 FFIEC 合規性需求，Microsoft 已 [針對 FFIEC 管制服務工作負載開發 Azure 安全性與合規性藍圖](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)。 它提供使用 Azure 雲端服務的指引，以及客戶遵循 FFIEC 需求和風險評估指導方針的考慮。
+- SSAE 第 18 號，證明標準：釐清與重新編纂，其中包括 AT-C 第 320 節 *與使用者實體對財務報告之內部控制相關的服務組織控制措施檢查報告* (AICPA，專業標準)。
+- SOC 1 報告在服務組織中與使用者實體對財務報告之內部控制相關的控制措施檢查 (AICPA 指南)
 
-為了進一步協助您遵循 FFIEC 需求，Microsoft 雲端服務提供獨立 CPA 公司所產生的 [SOC 認證報告](offering-SOC.md) 。 例如，SOC 1 Type 2 認證是以 AICPA SSAE 18 standard (為基礎，請參閱105節) 取代的 SAS 70，且適用于報告某些財務報告的控制項。 SOC 報告包含審計員對 Microsoft 控制項效能的觀點，以在指定的監控期間達到相關的控制目標。 當針對 Azure、Power BI 和 Office 365 部署的資產採取 FFIEC 特定的合規性義務時，金融機構可使用此正式審計。
+AICPA SSAE 18 standard 取代 SAS 70，其適用于與財務報告上的使用者實體相關的服務組織中的控制項報告。 當您在 Azure 上為部署的資產採取自己的 FFIEC 特定的合規性義務時，這是金融機構可利用技術服務提供者的協力廠商檢查的正式審核。 它包含審計員對控制效能的觀點，以在指定的監控期間達成相關的控制目標。
+
+此外，Azure 已開發一個以 Excel 為基礎的雲端安全性診斷工具，其目的是為了加快金融機構可能想要與 Azure 服務相關執行的風險評估。 此工具是以試算表為基礎，其具有19個獨立的網域，可識別相關標準和金融服務相關規定中所規定的需求，包括 FFIEC IT 檢查手冊。  「風險評估」工具已預先填入說明，包含 Azure 如何符合雲端服務提供者的需求，並可協助客戶滿足其自身的 FFIEC 合規性需求。
+
+此外，客戶也可以使用 Azure FFIEC cloud security 診斷活頁簿隨附的相關指引，它提供 Azure 服務的使用方式，以及客戶合規性與 FFIEC 需求的考慮
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
@@ -46,9 +51,12 @@ Microsoft Azure、Microsoft Power BI 和 Microsoft Office 365 的建立，是為
 - Office 365，Office 365 美國政府
 - Power BI 雲端服務 (可作為獨立服務或包含在 Office 365 品牌方案或套件中)
 
-## <a name="azure-dynamics-365-and-ffiec"></a>Azure、Dynamics 365 和 FFIEC
+## <a name="azure-guidance-documents"></a>Azure 指導檔
 
-如需 Azure、Dynamics 365 及其他線上服務規範的詳細資訊，請參閱 [AZURE FFIEC 服務](/azure/compliance/offerings/offering-ffiec-us)。
+為了協助金融機構受雲端採用的監管 FFIEC，Microsoft 已發佈下列指導檔，可從服務信任入口網站 [資料保護資源-合規性指南](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3) 一節中下載：
+
+- Azure-雲端安全性診斷工具
+- Azure-FFIEC cloud security 診斷活頁簿隨附
 
 ## <a name="office-365-and-ffiec"></a>Office 365 和 FFIEC
 
@@ -79,17 +87,18 @@ Microsoft Azure、Microsoft Power BI 和 Microsoft Office 365 的建立，是為
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 
-### <a name="resources"></a>資源
+## <a name="resources"></a>資源
 
 - [聯邦金融機構檢查委員會 (FFIEC) ](https://www.ffiec.gov/)
 - [雲端計算和美國法規原則的符合性地圖](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [FFIEC 審計 IT 測驗手冊](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
 - [FFIEC 外包技術服務 IT 測驗手冊](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
 
-### <a name="other-microsoft-resources-for-financial-services"></a>其他適用於金融服務的 Microsoft 資源
+## <a name="other-microsoft-resources-for-financial-services"></a>其他適用於金融服務的 Microsoft 資源
 
-- [Microsoft 金融服務合規性計劃](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Microsoft 商務用雲端服務與金融服務](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
-- [共同承擔的雲端運算責任](https://aka.ms/sharedresponsibility)
-- [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Azure 合規性文件](/azure/compliance/)
+- [Azure 可實現合規性世界](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 雲端金融服務資源](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Microsoft 雲端金融服務規範計畫](https://aka.ms/FSCP-Print)
+- [Microsoft Cloud 中金融機構的風險評估與規範指南](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [金融服務行業使用案例](/azure/industry/financial/)

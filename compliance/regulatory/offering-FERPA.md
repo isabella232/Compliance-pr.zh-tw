@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6957f3e1c93dd73821456bc45ef1d8e2e12681a0
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482236"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505946"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>家庭教育權利和隱私權法案 (FERPA) 
 
@@ -35,27 +35,24 @@ ms.locfileid: "58482236"
 
 ## <a name="microsoft-and-ferpa"></a>Microsoft 和 FERPA
 
-FERPA 不需要或認可審核或其他憑證，所以任何受制于 FERPA 的學術機構必須自行評估其使用雲端服務是否會影響其符合 FERPA 需求的能力。 不過，Microsoft 已作出下列合約承諾，以證明其合規性：
-
-- 在其 [線上服務條款](https://aka.ms/Online-Services-Terms)中，Microsoft 同意以 FERPA 下所定義的客戶資料，將「學校官方」當做「合法教育愛好」。  (客戶資料會包含透過學校使用 Microsoft 雲端服務提供的任何學生記錄。 ) 當處理學生教育記錄時，Microsoft 同意遵守 34 CFR 99.33 所強加的限制和需求， () 就如同學校的官員一樣。
-- 此外，Microsoft 只會承諾使用客戶資料以提供其雲端服務及相容性的目的 (例如提高惡意程式碼偵測) ，而且不會將客戶資料公佈。
-- 除了教育機構指引（如合約所述或法律所要求）之外，Microsoft 也 contractually 提交不會披露客戶資料。 透過使用 Microsoft 雲端服務為 Microsoft 提供教育記錄的學校，可確保這些記錄受到嚴格合約限制的使用和披露。
-
-根據這些合約承諾，FERPA （教育機構和協力廠商可存取機密的學生資料）的客戶可以自信地使用範圍內的 Microsoft business 雲端服務來處理、儲存及傳送該資料。
+FERPA 不需要或認可審核或其他憑證，所以任何受制于 FERPA 的學術機構必須自行評估其使用雲端服務是否會影響其符合 FERPA 需求的能力。 在線上服務條款 [資料保護附錄](https://aka.ms/DPA) (DPA) 中，Microsoft 同意以 FERPA 下所定義的客戶資料，將「學校官方」當做「合法教育愛好」。 客戶資料會包含透過學校使用 Azure 提供的任何學生記錄。 當您處理學員教育記錄時，Microsoft 同意遵守 34 CFR 99.33 所強加的限制與需求 () 就如同學校的官員一樣。  Microsoft 已發佈指導方針檔，協助 Azure 客戶滿足其 FERPA 合規性需求。
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 在客戶資料中，Microsoft 同意被指定為「學校官方 ' ' 學校官方 ' 的服務，包含：
 
-- Azure
+- Azure 和 Azure Government
 - Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365、Office 365 美國政府、Office 365 美國政府高及 Office 365 美國政府國防
 
-## <a name="azure-dynamics-365-and-ferpa"></a>Azure、Dynamics 365 和 FERPA
+## <a name="azure-guidance-documents"></a>Azure 指導檔
 
-如需 Azure、Dynamics 365 及其他線上服務規範的詳細資訊，請參閱 [AZURE FERPA 服務](/azure/compliance/offerings/offering-ferpa)。
+您可以下載下列檔，以協助滿足 FERPA 合規性需求：
+
+- [Azure 的 FERPA 實施指南](https://azure.microsoft.com/resources/microsoft-azure-ferpa-implementation-guide/)
+- [Azure FERPA 規範架構對應](https://aka.ms/AzureFERPAMapping)
 
 ## <a name="office-365-and-ferpa"></a>Office 365 和 FERPA
 
@@ -84,10 +81,9 @@ FERPA 不需要或認可的審計或認證。
 
 美國聯邦法律規定對學生教育記錄的隱私權的保護。 它也可讓父母和合格的學生存取這些記錄，以及修正這些記錄的功能，以及與協力廠商的記錄版本相關的特定許可權。
 
-**在哪裡可以找到 FERPA 的詳細資訊？**
+**COPPA 和 CIPA 在 Azure 上的合規性影響為何？**
 
-- [聯邦收銀機： FERPA Final Rule](https://aka.ms/ferpa-reg) (十二月 2011) 
-- [FERPA 父母的一般指導方針](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html)
+COPPA 與 CIPA 是其他法律，其目的是為了保護孩子的隱私權;不過，它們不會直接適用于 Azure。 孩子的線上隱私權防護法案 (COPPA) 是美國聯邦法律，其規定在13時保護孩子的隱私權。 它是由聯邦交易委員會 (FTC) 管理。 COPPA 適用于導向子和 stipulates 的網站和線上服務，這些網站和服務必須需要父母的集合，並使用任何屬於兒童之個人資訊的「父母同意」。 孩子的網際網路防護法案 (CIPA) ，以解決孩子透過網際網路存取有害內容的相關問題。 聯邦通訊傭金 (FCC) 所發出的規則，可對 CIPA 的學校和文件庫實施 CIPA 及定義的需求。 客戶 enquiring 有關 Azure 採用環境中的 COPPA 和 CIPA，應查看線上服務條款 [DPA](https://aka.ms/DPA) 中的「教育版機構」一節，我們會在此說明客戶負責任何使用者對 Microsoft 線上服務使用的任何家長同意。
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
 
@@ -95,8 +91,11 @@ FERPA 不需要或認可的審計或認證。
 
 ### <a name="resources"></a>資源
 
+- [Azure 合規性文件](/azure/compliance/)
+- [Azure 可實現合規性世界](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [家庭教育權利和隱私權法案](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [電子化聯邦法規的電子化程式碼： FERPA](https://aka.ms/FERPA-GPO)
-- [聯邦收銀機： FERPA Final 規則](https://aka.ms/ferpa-reg)
-- [Microsoft Online Services 條款](https://aka.ms/Online-Services-Terms)
-- [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- Microsoft Online Services 條款 [資料保護附錄](https://aka.ms/DPA)
+- [家庭教育權利和隱私權法案 (FERPA) ](https://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title34/34cfr99_main_02.tpl)
+- [聯邦收銀機： FERPA Final 規則](https://www.govinfo.gov/content/pkg/FR-2011-12-02/pdf/2011-30683.pdf)
+- [美國教育版系 FERPA 登陸頁面](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html)

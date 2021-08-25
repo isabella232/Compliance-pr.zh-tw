@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e4fd87384f7be620ab755f29031b52e8877582ce
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482456"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505926"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>證券和 Exchange 傭金 (SEC) 規則 17a-4 (f) 美國
 
@@ -39,21 +39,36 @@ ms.locfileid: "58482456"
 
 Microsoft Azure使用具有保留鎖定功能的原則鎖定和 Microsoft Office 365，不可變的 Blob 儲存體，可協助金融機構符合 SEC Rule 17a-4 (f) 中不可變的儲存需求。
 
-為了評估 Azure 及 Office 365 與 SEC Rule 17a-4 (f) 的相容性，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 在結果報告中：
-
-- **Azure**： [SEC 17a-4 (f) 法規遵從性評估： Microsoft Azure 儲存體](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)、Cohasset 驗證 [Azure 永恆 blob 儲存體](/azure/storage/blobs/storage-blob-immutable-storage)與原則鎖定] 選項，用來保留以不可讀寫的 blob 和不可讀寫的 blob （ (格式）時，可滿足 SEC 規則的不可變化的儲存需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以從 Azure 不可變化的 Blob 儲存體成為 onestop 雲端方案，以進行記錄保留和不可變的儲存。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
-- **Microsoft 365**：針對 [SEC 17a-4 (f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)需求，Cohasset 驗證 Microsoft 365 包含封存功能，可讓受管制的客戶（包括經紀人代理商）儲存資料，以協助其遵守記錄保留的 SEC 需求。 Microsoft 365 中的保留功能可協助保留廣泛的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 尤其是，在 Microsoft 365 中封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間內的資料，而不是以不可重寫、不可讀寫的格式使用。
-
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
+
+## <a name="independent-assessments"></a>獨立評估
+
+為了評估 Azure 及 Office 365 與 SEC Rule 17a-4 (f) 的相容性，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。
+
+### <a name="azure"></a>Azure
+
+[Azure Blob 儲存區的無法使用的儲存體](/azure/storage/blobs/storage-blob-immutable-storage) ，可讓使用者在閱讀許多 (WORM) 狀態時，以寫入一次寫入重要的業務記錄。 這種狀態會使資料成為不可讀寫的，且無法針對使用者指定的時間間隔進行修改。 在保留期間內，可以建立和讀取 blob，但無法修改或刪除。 Azure 不可變儲存體的這些功能可協助客戶滿足其記錄保留需求。
+
+Microsoft 已保留獨立的協力廠商評估事務所，該公司專用於記錄管理和資訊管理，以評估 Azure Blob 儲存區的不可改變的儲存區，以符合 SEC Rule 17a-4 的 (f) 需求。 產生的報表 *[Cohasset 評估：客戶可以使用 Microsoft Azure WORM 儲存體](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)*。
+
+assessor 的觀點 Azure 儲存體搭配 Azure blob 功能和 *鎖定時間型原則* 的 *永恆儲存體*，可保留以非擦除和不可讀寫格式為 (基礎的) 記錄，並符合 SEC Rule 17a-4 (f) 相關的儲存需求。 [FINRA rule 4511 (c)](/azure/compliance/offering-finra-4511-us.md)，以及 [CFTC Rule 1.31 (c) - (d)](offering-cftc-1-31-us.md)的原則型需求。
+
+要求時，Microsoft 也會提供一個 *90 天的字母* ，以符合 SEC 17a-4 (f)  (2) 需求，讓客戶在使用電子儲存介質之前，至少90天通知其指定的檢查授權。 如規章中所述，「成員、經紀人或轉銷商必須提供其自己的標記法或來自 storage 中型廠商或其他協力廠商的相關專業知識，且選取的儲存媒體符合此段落中所設定的條件 (f)  (2) ]。 若要取得 Microsoft *證明的電子儲存體媒體服務* 針對 SEC rule 17a-4，擁有 [azure 支援計畫](https://azure.microsoft.com/support/plans/)的客戶可以在 azure 入口網站中 [建立支援票證](https://azure.microsoft.com/support/create-ticket/)，並要求第四方 rule 17a-4 的證明信。 在此檔中，Microsoft 會提供與 SEC 17a-4 (f)  (2) 需求相關的保證。
+
+### <a name="office-365"></a>Office 365
+
+針對[SEC 17a-4 (f) ](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)需求，Cohasset 驗證 Microsoft 365 包括可讓管制客戶（包括經紀人代理商）的封存功能，以協助其遵守每秒記錄保留需求的方式來儲存資料。 Microsoft 365 中的保留功能可協助保留廣泛的資料，包括電子郵件、語音信箱、共用檔、立即訊息和協力廠商資料。 尤其是，在 Microsoft 365 中封存可讓客戶設定全域或細微的郵件保留原則，以儲存定義期間內的資料，而不是以不可重寫、不可讀寫的格式使用。
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和認證
 
 ### <a name="azure--sec-rule-17"></a>Azure & SEC 規則17
 
 - [SEC 17a-4 (f) & CFTC 1.31 () 相容性評估 Azure 儲存體](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+
+使用 [Azure 支援](https://azure.microsoft.com/support/plans/)[建立支援票證](https://azure.microsoft.com/support/create-ticket/)，可要求 Microsoft 證明儲存體 SEC Rule 17a-4 的 *電子媒體服務*。 在此認證信中，Microsoft 會提供保證，以協助客戶遵循 SEC 17a-4 (f)  (2) 需求。
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & 秒規則17
 
@@ -79,11 +94,12 @@ Microsoft Azure使用具有保留鎖定功能的原則鎖定和 Microsoft Office
 
 ## <a name="resources"></a>資源
 
+- [Azure 合規性文件](/azure/compliance/)
+- [Azure 可實現合規性世界](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [證券和 Exchange 傭金](https://www.sec.gov/) (SEC) [規則 17a-4](https://www.sec.gov/rules/final/34-38245.txt)
+- [Microsoft 雲端金融服務資源](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Microsoft 雲端金融服務規範計畫](https://aka.ms/FSCP-Print)
+- [雲端計演算法規原則和 Microsoft online services 的合規性地圖](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Microsoft Cloud 中金融機構的風險評估與規範指南](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [金融服務行業使用案例](/azure/industry/financial/)
 - [在 Microsoft Office 365、資料保留及規則17a-4 中封存](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
-- [規範 Microsoft 金融服務](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
-- [規範計畫 Microsoft business cloud 服務和金融服務](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
-- [Azure 的金融服務合規性](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融服務雲端風險評定工具](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Microsoft Office 365保留原則](/office365/securitycompliance/retention-policies)
-- [Microsoft 金融服務 Community](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
-- [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
