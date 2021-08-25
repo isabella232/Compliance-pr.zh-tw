@@ -2,7 +2,7 @@
 title: GDPR 和 CCPA 的 Microsoft 支援服務與專業服務資料主體要求
 description: 了解 Microsoft 支援服務與專業服務如何處理 GDPR 和 CCPA 資料主體要求。
 keywords: 專業服務, Microsoft 365, Microsoft 365 教育版, Microsoft 365 文件, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: bee4db3f01fe2add3a031c07e0f97869b08339ed
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141453"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482628"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Microsoft 支援服務與專業服務資料主體要求
 
@@ -31,7 +31,7 @@ ms.locfileid: "53141453"
 
 Microsoft 專業服務包括一組多元化的技術結構設計師、工程師、顧問師，以及致力於達成 Microsoft 任務的支援專業人員，以期讓客戶更有能力與成就。我們的專業服務小組總計包括超過 21,000 名顧問師、數位顧問、頂級支援、工程師和專業銷售人員，這些專業人員在全球 191 個國家/地區工作，可支援 46 種不同的語言，每個月管理數百萬件約定，以及透過內部部署、電話、網路、社群和自動化工具參與客戶與合作夥伴互動。該組織具備廣泛的 Microsoft 產品組合專業知識，並運用廣闊的合作夥伴、技術社群、工具、診斷及通道網路來連結我們與企業客戶。
 
-移至 [Microsoft 專業服務安全性文件網頁](https://www.microsoft.com/professionalservices/overview)，以深入了解 Microsoft 專業服務。 Microsoft 專業服務很認真看待其在一般資料保護規定 (GDPR) 下所需承擔的責任。 本文件中的資訊是為了回答客戶有關 Microsoft 的支援和諮詢供應項目如何根據 GDPR 回應及協助客戶回應資料主體要求 (DSR) 義務的問題。
+要深入了解 Microsoft 專業服務，請移至 [Microsoft 專業服務安全性文件網頁](https://www.microsoft.com/professionalservices/overview)。Microsoft 專業服務十分重視對於一般資料保護規定 (GDPR) 的責任。這份文件中的資訊專用於回答客戶疑問，說明 Microsoft 支援與諮詢服務會如何回應及協助客戶來回應 GDPR 下的資料主體要求 (DSR) 義務。
 
 ### <a name="introduction-to-dsrs"></a>DSR 簡介 
 
@@ -47,10 +47,10 @@ GDPR 賦予人員 (在規範中稱為 *「資料主體」*) 權限，以管理�
 
 #### <a name="overview-of-the-processes-outlined-in-this-guide"></a>本指南中所述程序的概觀
 
-- **探索**：使用搜尋和探索工具，更輕鬆地尋找可能成為 DSR 主體的客戶資料。 收集到可能的回應文件之後，您就可以執行下列步驟中所述的一或多個 DSR 動作來回應要求。 或者，您可能判定該要求不符合組織回應 DSR 的方針。
+- **探索：** 使用搜尋和探索工具，讓您更輕鬆地找到可能是 DSR 主體的客戶資料。一旦收集了潛在回應文件，您就可以執行下列步驟中所述的一或多個 DSR 動作以回應要求。或者，您也可以判斷該要求不符合貴組織回應 DSR 的指導方針。
 - **存取：** 擷取在 Microsoft 雲端中常駐的個人資料，並在要求時製作可供資料主體使用的副本。
 - **修正：** 在適用情況下，對個人資料進行變更或實行其他要求的動作。
-- **限制**：藉由盡可能移除各種 Azure 服務的授權或關閉所需的服務，以限制個人資料的處理。 您也可以從 Microsoft 雲端移除資料，並將它保留在內部部署或另一個位置。
+- **限制：** 透過移除各種不同 Azure 服務的授權，或在可能的時候關閉所需的服務，對個人資料的處理設下限制。您也可以從 Microsoft 雲端中移除資料，並在內部部署或其他位置保留資料。
 - **刪除：** 永久移除 Microsoft 雲端中常駐的個人資料。
 - **匯出/接收 (可攜性)：** 將個人資料或個人資訊以電子複本 (以電腦可讀取的格式) 提供給資料主體。 CCPA 中的個人資訊是任何與已識別或可識別個人相關的資訊。 個人的私人、公開或工作角色之間沒有區別。 定義的「個人資訊」一詞大致與 GDPR 下的「個人資料」對應。 不過，CCPA 也包含家庭和家用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](offering-ccpa.md)和[常見問題集](ccpa-faq.yml)。
 
@@ -64,9 +64,9 @@ GDPR 賦予人員 (在規範中稱為 *「資料主體」*) 權限，以管理�
 
 #### <a name="additional-terms-and-definitions-that-may-be-helpful-in-understanding-this-guide"></a>有助於了解本指南的其他術語和定義
 
-- **支援和查閱資料：** 包括所有文字、音訊、視訊、影像檔或軟體的所有資料，由客戶或代表客戶 (或客戶授權 Microsoft 以從線上服務取得) 提供給 Microsoft，透過與 Microsoft 的約定以取得支援或專業服務。 若要釐清，這不包括 Microsoft 是資料控制者時收集的資料，包括客戶連絡人資料。
-- **客戶連絡人：** 個人資料可能是您與 Microsoft 商務關係的其中一部分，例如客戶連絡人資訊中包含的個人資料。 這可能包括您的名稱、電子郵件或主要合約服務管理員 (CSM) (線上服務的全域或 IT 系統管理員，或類似角色) 的電話號碼。
-- **假名化資料** 當您對 Microsoft 企業產品和服務使用 Microsoft 支援時，Microsoft 會產生一些資訊，其連結至 Microsoft 數字識別碼以提供支援。 此資訊通常稱為「假名化資料」，雖然若未使用其他資訊時，此資料並不屬於特定資料主體，但是在 GDPR 對個人資料的廣泛定義下，其中某部分可能會被視為個人資料。 在專業服務中，達成或協助達成 DSR 的要求一律會自動包含處理假名化資料。
+- **支援和查閱資料:** 是包括所有文字、音訊、視訊、影像檔或軟體的所有資料，由客戶或代表客戶 (或客戶授權 Microsoft 從線上服務取得) 提供給 Microsoft，透過與 Microsoft 的約定以取得支援或專業服務。若要釐清，這不包括 Microsoft 是資料控制者時收集的資料，包括客戶連絡人資料。
+- **客戶連絡人:** 是屬於您與 Microsoft 商務關係一部分的個人資料，例如客戶連絡人資訊中包含的個人資料。這可能包括您的名稱、電子郵件或主要合約服務管理員 (CSM) (線上服務的全域或 IT 系統管理員，或類似角色) 的電話號碼。
+- **假名化資料:** 當您對 Microsoft 企業產品和服務使用 Microsoft 支援時，Microsoft 會產生一些資訊，其連結至 Microsoft 數字識別碼以提供支援。這通常稱為「假名化資料」。雖然若未使用其他資訊時，此資料並不屬於特定資料主體，但是在 GDPR 對個人資料的廣泛定義下，其中某部分可能會被視為個人資料。在專業服務中，達成或協助達成 DSR 的要求一律會自動包含處理假名化資料。
 
 ### <a name="how-to-use-this-guide"></a>如何使用本指南
 
@@ -89,7 +89,7 @@ Microsoft 會如何回應客戶連絡人或 IT 系統管理員的要求來執行
 
 客戶應了解，DSR 只涵蓋客戶連絡人的個人資料，且不會變更或刪除提交為約定 (例如文字記錄、案例說明、檔案、工作產品) 一部分的任何客戶資料，因為 Microsoft 是資料處理者。此外，為維護約定的歷程記錄，不會對已結束的約定進行任何變更，包括開啟約定者的記錄。
 
-當您收到來自客戶連絡人的查詢，其中 Microsoft 為資料控制者時，Microsoft 人員會請客戶連絡人參照 [隱私權回復中心](https://go.microsoft.com/fwlink/?LinkId=321116)。 這是 Microsoft 的主要輸入機制，以供隱私權查詢和投訴。 收到查詢時，隱私權回復中心會指出這是商務或組織帳戶的一部分，並相應回復。
+當 Microsoft 是資料控制者, 從客戶連絡人收到有關 DSR 的查詢時，Microsoft 人員會將客戶連絡人送交給 [隱私權回應中心](https://go.microsoft.com/fwlink/?LinkId=321116)。這是 Microsoft 對隱私權查詢和抱怨的主要輸入機制。在收到查詢時，隱私權回應中心會識別其屬於商業或組織帳戶，並據此回應。
 
 如果 Microsoft 是資料處理者，請參閱下方 <b> 客戶所提供資料的 DSR：商業支援</b>。
 
@@ -133,7 +133,7 @@ Jane 是企業客戶 Contoso 的員工，Contoso 先前已授與她 Dynamics 365
 
 *選項 A：跨 Microsoft 支援服務客戶 DSR*。將 DSR 套用於 Microsoft 支援環境中所有客戶的支援資料。若要這麼做，客戶可以要求 Microsoft 將 DSR 套用於收集的所有支援資料。
 
-*選項 B：特定客戶參與*。 使用線上系統檢閱工單，然後找出特定的約定，其中包含相關的個人資料並向 Microsoft 報告。 如果客戶無法搜尋約定 (工單)，Microsoft 會嘗試提供協助以執行搜尋。
+*選項 B: 特定客戶約定。* 使用線上系統檢閱工單，然後找出特定的約定，其中包含相關的個人資料並向 Microsoft 報告。如果客戶無法搜尋約定 (工單)，Microsoft 會嘗試提供協助以執行搜尋。
 
 *識別出約定之後，要求將 DSR 套用於記錄的特定部分，或 Microsoft 中與該約定相關的所有項目。*
 
@@ -176,13 +176,13 @@ CSM 可移至 [服務中心](https://serviceshub.microsoft.com/support/contactsu
 
 Microsoft 的所有資料都有套用保留期與刪除原則，這些會根據風險及其他因素而有所不同。
 
-若客戶要求跨支援系統刪除資料主體的個人資料，可透過 TAM 進行或在 [服務中心] 或對等系統中填寫支援要求 (SR)。 您 *必須* 指出此要求是協助您在 GDPR 下的 DSR。
+若客戶要求跨支援系統刪除資料主體的個人資料，可透過 TAM 進行或在服務中心或對等系統中填寫支援要求 (SR)。您 *必須* 指出此要求是協助您在 GDPR 下的 DSR。
 
-*選項 A：跨 Microsoft 支援客戶 DSR*。 針對跨系統 DSR，客戶必須提供 Microsoft 需要的個人資料，以識別所需資料 (例如電子郵件地址、電話號碼)。 Microsoft 不會建立相互關聯或研究記錄，而僅會在客戶所提供的識別項上直接進行搜尋。 找到資料時，Microsoft 就會刪除所有約定和所有相關資料。
+*選項 A: 跨 Microsoft 支援服務客戶 DSR*。針對跨系統 DSR，客戶必須提供 Microsoft 需要的個人資料，以識別所需資料 (例如電子郵件地址、電話號碼)。Microsoft 不會建立相互關聯或研究記錄，而僅會在客戶所提供的識別項上直接進行搜尋。找到資料時，Microsoft 就會刪除所有約定和所有相關資料。
 
-> 重要注意事項：這可能會導致客戶組織的重要歷程記錄遺失。
+> 重要注意事項: 這可能會導致客戶組織的重要歷程記錄遺失。
 
-*選項 B：特定客戶參與*。 對於客戶找出並想刪除的特定約定，請勿刪除 [服務中心] 的工單。 這會導致存在於記錄檔和下游系統中的個人資料無法在所需時間範圍內刪除。 相反地，找出必須刪除的工單或工單內的個人資料，並連絡 Microsoft 支援服務，以協助您刪除資料。
+*選項 B: 特定客戶約定。* 對於客戶找出並想刪除的特定約定，請勿刪除服務中心的工單。這會導致存在於記錄檔和下游系統中的個人資料無法在所需時間範圍內刪除。相反地，找出必須刪除的工單或工單內的個人資料，並連絡 Microsoft 支援服務，以協助您刪除資料。
 
 ### <a name="microsoft-support-data-transfer-and-management-tool-dtm-instructions"></a>Microsoft 支援服務資料傳輸和管理工具 (DTM) 指示
 

@@ -16,20 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ad57ba94dbb79e1e8d5536598ef4e2fd3f0fbf55
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482246"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505906"
 ---
 # <a name="european-union-model-clauses"></a>歐盟示範條款
 
 ## <a name="european-union-model-clauses-overview"></a>歐盟示範條款概觀
 
-歐盟 (EU) 資料保護法對將歐盟客戶個人資料傳輸到歐洲經濟區 (EEA) 以外的國家/地區加以規定，其中包括所有歐洲國家/地區、冰島、列支敦斯登和挪威。 歐盟示範條款是服務提供者 (例如 Microsoft) 和客戶之間合約中所用的標準化契約條款，可確保任何離開 EEA 的個人資料，都能在符合歐盟資料保護法以及歐盟資料保護指導方針 95/46/EC 的需求之下，進行傳輸。
-
-在實際層面上，遵守歐盟資料保護法也表示，客戶將個人資料傳輸到歐盟外部時，所需要的個別授權機構批准較少，因為當傳輸是依據符合示範條款的合約時，大部分歐盟會員國不需要額外授權。
+歐盟 (EU) 資料保護法對將歐盟客戶個人資料傳輸到歐洲經濟區 (EEA) 以外的國家/地區加以規定，其中包括所有歐洲國家/地區、冰島、列支敦斯登和挪威。 在實際層面上，遵守歐盟資料保護法也表示，客戶將個人資料傳輸到歐盟外部時，所需要的個別授權機構批准較少，因為當傳輸是依據符合示範條款的合約時，大部分歐盟會員國不需要額外授權。
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft 和歐盟示範條款
 
@@ -71,10 +69,6 @@ Microsoft 會持續評估歐盟標準，並視需要更新服務。
 
 ## <a name="frequently-asked-questions"></a>常見問題集
 
-**歐盟資料保護指導方針 95/46/EC 是什麼？**
-
-此指令設定處理歐盟個人資料的基準。 它提供 Microsoft 將個人資料傳輸到歐盟外的法規架構。 在此指令和我們的合約協定底下，Microsoft 是客戶資料的資料處理者。 客戶身為資料控制者，擁有最終擁有權和責任，確保資料可以合法提供給 Microsoft，在 EEA 外部進行處理。
-
 **為什麼符合示範條款很重要？**
 
 以合約形式承諾示範條款的服務提供者，可以向其客戶保證，個人資料的傳輸和處理都符合歐盟資料保護法的規定。 使用示範條款也表示客戶將個人資料傳輸到歐盟外部，需要向個別資料保護機構取得的核准較少。
@@ -93,6 +87,7 @@ Microsoft 會持續評估歐盟標準，並視需要更新服務。
 
 ## <a name="resources"></a>資源
 
+- [Azure 合規性文件](/azure/compliance/)
 - [歐盟標準組織](https://eur-lex.europa.eu/)
 - [歐盟示範條款](https://aka.ms/EU-model_clauses)
 - [歐盟資料保護指導方針](https://aka.ms/EU-DPD)
