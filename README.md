@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 51c917585c8138a476e9aacd349c6dd46c545d2c140696ebfc4d0aee6f0a67cc
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e340c0c21579bbae4294379bf2a2b3adae222cd5
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288162"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676772"
 ---
 # <a name="overview"></a>概觀
 
@@ -20,11 +20,11 @@ ms.locfileid: "54288162"
 2. 移至 docs.microsoft.com 上您要編輯的頁面。
 3. 在頁面右側，按一下 [ **編輯** (鉛筆圖示]) 。
 
-   ![Docs.microsoft.com 上的 [編輯] 按鈕](compliance/media/quick-update-edit.png)
+   ![Docs.microsoft.com 上的 [編輯] 按鈕。](compliance/media/quick-update-edit.png)
 
 4. GitHub 的對應主題檔案隨即開啟，您需要按一下 [**編輯此** 檔案] 鉛筆圖示。
 
-   ![Github.com 上的 [編輯] 按鈕](compliance/media/quick-update-github.png)
+   ![Github.com 上的 [編輯] 按鈕。](compliance/media/quick-update-github.png)
 
 5. 主題會在按行編號的編輯頁面中開啟，您可以在其中對檔案進行變更。 使用 Markdown 語言寫入和編輯 GitHub 中的檔案。 如需關於使用 Markdown 的說明，請參閱 [主控 Markdown](https://guides.github.com/features/mastering-markdown/)。 選取 [ **預覽變更** ] 索引標籤，以在移至時查看您的變更。
 
@@ -35,15 +35,15 @@ ms.locfileid: "54288162"
 
    當您準備好時，請按一下 [綠色 **提議檔變更** ] 按鈕。
 
-   ![建議檔變更區段](compliance/media/propose-file-change.png)
+   ![建議檔變更區段。](compliance/media/propose-file-change.png)
 
 7. 在出現的 [ **比較變更** ] 頁面上，按一下 [綠色 **建立拉取要求** ] 按鈕。
 
-   ![比較變更頁面](compliance/media/comparing-changes-page.png)
+   ![[比較變更] 頁面。](compliance/media/comparing-changes-page.png)
 
 8. 在出現的 [ **開啟提取要求** ] 頁面上，按一下 [綠色 **建立拉取要求** ] 按鈕。
 
-   ![開啟「提取要求」頁面](compliance/media/open-a-pull-request-page.png)
+   ![開啟 [提取要求] 頁面。](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
 > 在您的組織中，您的許可權會決定您在最後幾個步驟中看到的內容。 沒有特殊許可權的人員將會看到「 **建議檔案變更** 」區段及後續的確認頁面（如所述）。 具有建立及核准其自有之拉取要求的許可權的人員，會看到類似的「 **認可變更** 」一節，具有額外的選項可讓您建立新的分支和較少的確認頁面。<br/><br/>點是：按一下向您呈現的任何綠色按鈕，直到沒有其他。

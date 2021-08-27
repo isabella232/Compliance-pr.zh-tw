@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ba9d4c5f3e2781613ef3946e1089deff6e6266f7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b22c078715f2bbbf63ae5d6af8fb073aed1f1b48
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481685"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676792"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Microsoft 安全性事件管理：偵測和分析
 
@@ -36,7 +36,7 @@ Microsoft 採取以風險為基礎的方法來偵測惡意活動。 我們使用
 
 Microsoft online services 中的安全性偵測機制也包含不同來源所啟動的通知和警示。 Microsoft 線上服務安全性回應小組是安全性事件升級程式的主要 orchestrators。 這些小組會接收所有升級，並負責分析和確認安全性事件的有效性。
 
-![安全性事件管理工作流程](../media/assurance-sim-workflow.png)
+![安全性事件管理工作流程。](../media/assurance-sim-workflow.png)
 
 偵測的其中一個主要主要專案是通知：
 
@@ -61,7 +61,7 @@ Azure、Dynamics 365 及 Microsoft 365 服務小組也會使用透過安全性�
 - 範圍
 - 受影響的承租人數目
 - 區域
-- Service
+- 服務
 - 事件的詳細資料
 - 特定客戶行業或市場規定。
 

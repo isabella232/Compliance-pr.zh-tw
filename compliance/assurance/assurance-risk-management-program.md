@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481775"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678602"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 風險管理計畫
+# <a name="microsoft-365-risk-management-program"></a>Microsoft 365風險管理計劃
 
 Microsoft 365 風險管理計劃的目的在於識別、評估和管理 Microsoft 365 風險。 Microsoft 365 的優先順序是符合合約義務和資格鑒定、增加客戶信任，以及維護我們的競爭優勢。 雖然 Microsoft 365 風險管理計劃個別運作，但是會將其與最相符的 Enterprise 風險管理 (ERM) 計畫的原則、優先順序及方法。 使用 ERM 計畫，可在不同的商業單位和工程群組中進行一致的比較，對整個企業中的風險管理造成更為內聚的方法。
 
@@ -37,7 +37,7 @@ Microsoft 365 信任小組負責管理 Microsoft 365 風險管理計劃，並執
 
 風險管理活動分為四個階段：「識別」、「評估」、「回應」和「監控」和「報告」。
 
-![風險管理流程活動](../media/assurance-risk-management-review-process.png)
+![風險管理流程活動。](../media/assurance-risk-management-review-process.png)
 
 ## <a name="identification"></a>識別
 

@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ae5177f524fd8f2025198aa5155821f4aa759050
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481765"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678592"
 ---
 # <a name="risk-management-overview"></a>風險管理概觀
 
@@ -35,7 +35,7 @@ ms.locfileid: "58481765"
 
 Microsoft 的風險管理與 Enterprise 風險管理 (ERM) 架構相符。 ERM 會啟動整體企業風險管理程序，並與企業中的管理作業搭配運作，以識別並確定 Microsoft 最重要風險的責任歸屬。
 
-![風險管理結構](../media/assurance-risk-management-structure.png)
+![風險管理結構。](../media/assurance-risk-management-structure.png)
 
 Microsoft ERM 可啟用整個企業的常見風險管理原則，讓業務單位能夠獨立地協助一致和比較的風險評估。 這種協調讓 Microsoft 能夠以整合的方式來匯總和報告風險資訊以進行管理。 ERM 會為 Microsoft 的業務單位提供風險管理程序常用的方法、工具和目標。 Microsoft 365 及其他工程群組和商務單位使用這些工具，在 ERM 的指導下，以自己的風險管理程式來執行個別的風險評估。
 

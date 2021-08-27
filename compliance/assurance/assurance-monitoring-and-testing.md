@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 940e5a4aa0a1327da6d964d9babf0ae3fb897598
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481855"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678612"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Microsoft 365 中的攻擊模擬
 
@@ -64,7 +64,7 @@ Microsoft Azure 和 Microsoft 365 人員都會以全時紅色 Teams 和藍色 Te
 
 紅色小組的角色是攻擊和滲透環境所使用的步驟與敵人相同：
 
-![違反階段](../media/office-365-isolation-breach-stages.png)
+![違反階段。](../media/office-365-isolation-breach-stages.png)
 
 除了其他功能之外，紅色小組特別嘗試破壞租使用者隔離邊界，以找出隔離設計中的錯誤或缺口。
 
@@ -86,6 +86,6 @@ Microsoft Azure 和 Microsoft 365 人員都會以全時紅色 Teams 和藍色 Te
 
 這些步驟會形成會平行于敵人執行的安全性事件回應，如下所示：
 
-![違反回應階段](../media/office-365-isolation-breach-response-stages.png)
+![違反回應階段。](../media/office-365-isolation-breach-response-stages.png)
 
 紅色小組違規可讓您運用藍色的小組偵測和回應實際的攻擊端對端的能力。 最重要的是，它允許在遭到真實侵犯之前進行的安全性事件回應。 此外，因為紅色的小組遭到破壞，所以藍色小組會增強其形勢知曉，當您處理未來的缺口時，可能會有價值， (不論是來自紅色小組還是其他敵人) 。 在整個偵測和回應程式中，藍色小組會產生切實可行的情報，並深入瞭解環境中的實際狀況， (s) 會嘗試辯護。 這通常是透過透過資料分析和取證所執行，在回應紅色小組攻擊時，以及建立威脅指示器（如受損指標）時，由藍色小組執行。 很像紅色小組識別安全性案例中的缺口，藍色小組識別其偵測和回應能力的缺口。 此外，因為紅色的小組會為現實世界的攻擊，所以藍色的小組可以正確地評估其能力，或無法處理已確定和持續的敵人。 最後，紅色小組缺口會同時測量我們的破壞回應的準備工作和影響。

@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35e6757d64dd0c2bffc1b1cbc62e23f524b8ac9
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: cb9d27f02ec53c98e2f00d3106f8e4be8798d78f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481735"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678582"
 ---
 # <a name="microsoft-security-incident-management"></a>Microsoft 安全性事件管理
 
@@ -63,7 +63,7 @@ Microsoft 線上服務安全性小組和服務小組共同運作，並對以 NIS
 - **包容，eradication，** 復原：指的是根據上一個階段所做的分析所採取的安全性事件所需及適當的動作。 在此階段中，您也可能需要更多分析，以完全從安全性事件復原。
 - **事件後活動**：指復原安全性事件之後所執行的檢討後分析。 在處理過程中所執行的作業動作會經過檢查，以判斷是否需要在準備或偵測和分析階段進行任何變更。
 
-![安全性事件管理階段](../media/assurance-sim-phases.png)
+![安全性事件管理階段。](../media/assurance-sim-phases.png)
 
 ## <a name="federated-security-response-model"></a>同盟安全性回應模型
 

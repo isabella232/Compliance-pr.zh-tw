@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5da29f30c9f6886ce047f4e3fd51669a2f510ca8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 02df77f949cf1633017dd25f4cff17175c536d53
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481715"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676812"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Microsoft 365 中的 SharePoint 和 OneDrive 資料復原
 
@@ -43,7 +43,7 @@ SharePoint 有一個自訂的解決方案，可用於儲存 Azure 儲存體中�
 
 SharePoint 會使用 Append-Only 儲存區。 此程式可確保檔案在初始儲存後無法變更或損毀，但也可以使用產品版本的版本設定，即可檢索任何先前版本的檔內容。
 
-![Blob 儲存恢復](../media/assurance-blob-storage-resiliency-diagram.png)
+![Blob 儲存恢復能力。](../media/assurance-blob-storage-resiliency-diagram.png)
 
 任一資料中心的 SharePoint 環境都可以存取兩個 Azure 區域中的儲存體容器。 基於效能原因，相同本地資料中心內的儲存容器永遠都是可取的，但是在所需閾值內，未看到結果的讀取要求將會有相同的遠端資料中心要求的內容，以確保資料永遠可用。
 
@@ -53,7 +53,7 @@ SharePoint 中繼資料在儲存使用者內容的位置和存取機碼儲存于
 
 SharePoint 會使用 Azure SQL 所提供的複寫模型，並已建立專屬的自動化技術，以判斷所需的容錯移轉，並視需要啟動操作。 如此一來，它會進入 Azure SQL 視點的「手動資料庫容錯移轉」類別。 Azure SQL 資料庫可復原性的最新指標可在[這裡](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)取得。
 
-![中繼資料恢復](../media/assurance-metadata-resiliency-diagram.png)
+![中繼資料恢復性。](../media/assurance-metadata-resiliency-diagram.png)
 
 SharePoint 使用 Azure SQL 的備份系統來啟用 (PITR) 的時間點還原，最多可達14天。 PITR 會在[稍後的章節](#deletion-backup-and-point-in-time-restore)中涵蓋。
 

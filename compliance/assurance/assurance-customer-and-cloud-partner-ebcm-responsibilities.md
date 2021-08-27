@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4ebd8a02efc7bae74504cf22b1b927673e22e7de
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 5bc9f37cdf6d8f30ea71eddb612232b11844a4ba
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482146"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676819"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>企業商務持續性管理客戶與雲端合作夥伴責任
 
@@ -60,7 +60,7 @@ Microsoft 為客戶可以使用的服務狀態通訊保留多個通道。
 
 提供 Microsoft 365 雲端服務的存取權，是貴組織與 Microsoft 之間的合作夥伴關係。 下圖摘要了 Microsoft 與客戶之間在服務事件和一般作業期間的責任權衡方式。
 
-![客戶與 Microsoft 的責任權衡方式](../media/responsibilities.png)
+![客戶和 Microsoft 責任的平衡。](../media/responsibilities.png)
 
 ## <a name="your-environment---service-continuity"></a>您的環境 - 服務持續性
 
@@ -80,6 +80,6 @@ Microsoft 發佈[網路連線原則](/microsoft-365/enterprise/microsoft-365-net
 許多共同作業解決方案都與系統相依，例如公司廣域網路 (WAN)。 當這些系統無法使用時，貴組織會如何回應？
 這個圖形呈現可能會影響多個區域的問題。 隨附的表格提供要考量的範例
 
-![系統的卞氏圖表圖表](../media/venn-diagram.png)
+![系統的卞氏圖表。](../media/venn-diagram.png)
 
 您的持續性計劃應考量每個區域。 例如：如果您需要使用者在公司網路上，但是現在有暴風雪，這些使用者要如何取得關鍵資源的存取權？ 如果大雪阻止使用者進辦公室，而且需要服務工程師才能連線到公司網路，對於他們在家持有公司筆記型電腦是否有原則管制？

@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: e7434613707cec900506e85c5e61b6cd45c98d3c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 42320db7a7f792e12cb255900c172083794d8070
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482366"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678662"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>提交刪除要求的 FASTTRACK 移轉工具組
 
@@ -49,9 +49,9 @@ Microsoft 在 Windows 平台和 PowerShell 主控台支援此工具組的最初�
 
 PowerShell 主控台應用程式的 PowerShell 資源庫中提供此工具組。若要找出並載入此 cmdlet 模組，請先在系統管理員模式中開啟 PowerShell，以讓它具有適當的權限可安裝模組。若您先前尚未使用過 PowerShell，請移至您的 Windows 工作列，然後在搜尋方塊中輸入 “PowerShell”。使用滑鼠右鍵選取主控台應用程式，然後選擇 [以系統管理員身分執行]，然後按一下 [是] 來執行 Windows PowerShell。
 
-![PowerShell - 以系統管理員身分執行](../media/fasttrack-powershell_image.png)
+![PowerShell - 以系統管理員身分執行。](../media/fasttrack-powershell_image.png)
 
-![PowerShell - 允許應用程式進行變更](../media/fasttrack-run-powershell_image.png)
+![PowerShell - 允許應用程式進行變更。](../media/fasttrack-run-powershell_image.png)
 
 主控台現已開啟，您必須設定指令碼執行的權限。輸入下列命令以允許指令碼執行：
 
@@ -63,7 +63,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 ***設定執行原則***
 
-![在 PowerShell 中設定執行原則變更](../media/powershell-set-execution-policy_image.png)
+![在 PowerShell 中設定執行原則變更。](../media/powershell-set-execution-policy_image.png)
 
 現在您已將主控台設定為允許指令碼，請執行下一個命令來安裝此模組：
 

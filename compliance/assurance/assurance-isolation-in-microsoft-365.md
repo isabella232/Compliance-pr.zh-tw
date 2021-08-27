@@ -20,18 +20,18 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 82378b72d8dc17441a1ab92fc7ac222d7b9d4036
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481925"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678622"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>Microsoft 365 中的隔離與存取控制
 
 Azure Active Directory (Azure AD) 和 Microsoft 365 使用高度複雜的資料模型，其中包含數十項服務、數百個實體、成千上萬的關聯性，以及數十個屬性。 在高層級，Azure AD 和服務目錄是承租人和收件者的容器，並使用以狀態型複寫通訊協定保持同步。 除了 Azure AD 中持有的目錄資訊之外，每個服務工作負載都有自己的目錄服務基礎結構。
  
-![租使用者資料同步 Microsoft 365](../media/office-365-isolation-tenant-data-sync.png)
+![Microsoft 365 租使用者資料同步處理。](../media/office-365-isolation-tenant-data-sync.png)
 
 在此模型中，不會有單一的目錄資料來源。 特定系統擁有個別的資料，但沒有任何單一系統可容納所有的資料。 在此資料模型中，與 Azure AD 共同處理的 Microsoft 365 服務。 Azure AD 是共用資料的「實際系統」，這通常是每項服務所使用的小型和靜態資料。 Microsoft 365 和 Azure AD 內使用的同盟模型會提供資料的共用檢視。
 

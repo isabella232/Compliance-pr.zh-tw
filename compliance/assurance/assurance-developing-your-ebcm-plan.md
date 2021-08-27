@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 71e84ad97c560cd90b8ba49a1c568dd70fd516f5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482066"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676782"
 ---
 # <a name="developing-your-business-continuity-plan"></a>開發您的業務持續性計畫
 
@@ -83,7 +83,7 @@ ms.locfileid: "58482066"
 當您清查商務程序，並將關係對應到其他程序和技術之後，您必須為所有程序建置驗證案例。 基本上就是要了解如何驗證您的商務程序持續性計劃。 您可能會發現某些內容更重要，而且您想要優先處理這些問題。
 請記得在建立計劃之後，對員工進行事件回應和持續性措施的定期訓練相當重要。 您應該透過納入每個驗證或測試的學習，使用後續事件檢閱來增強復原策略。
 
-![功能驗證 visio](../media/capability-validation-visio.png)
+![visio 的功能驗證。](../media/capability-validation-visio.png)
 
 ## <a name="incident-coordination-and-communication"></a>事件協調與通訊
 
