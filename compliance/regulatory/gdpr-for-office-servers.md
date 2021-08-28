@@ -14,12 +14,12 @@ titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: d9a84e886fc81d760e249180c603432ca45c2e65
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f514a966b576f15b2eeba1ae36c5cb88f3e91bd8
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482336"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678632"
 ---
 # <a name="gdpr-for-office-on-premises-servers"></a>適用於內部部署 Office 伺服器的 GDPR
 
@@ -44,7 +44,7 @@ ms.locfileid: "58482336"
 
 下圖列出在各個工作負載中使用的建議功能，以探索、分類、保護及監視個人資料。請參閱本節中的文章以取得詳細資訊。
 
-![圖表描述如何在各個工作負載中探索、分類、保護及監控個人資料功能](../media/gdpr-for-office-servers-image1.png)
+![圖表描述如何在各個工作負載中探索、分類、保護及監控個人資料功能。](../media/gdpr-for-office-servers-image1.png)
 
 ## <a name="illustration-description"></a>圖例說明
 

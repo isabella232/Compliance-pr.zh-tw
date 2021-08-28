@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 40792e2ccb9f1ad9e987da7c9860301100005cff
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f27986532de16c4a674f69148a662df20f1ac77f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482346"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678652"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>適用於 Office Web Apps Server 和 Office Online Server 的 GDPR
 
@@ -28,7 +28,7 @@ Office Online Server 和 Office Web Apps Server 遙測資料是以 ULS 記錄的
 
 每個記錄行包含 CorrelationID。相關的記錄行會共用相同的 CorrelationID。每個 CorrelationID 繫結至單一 SessionID，而一個 SessionID 可能與許多 CorrelationID 相關。每個 SessionID 可能與單一 UserID 相關，某些工作階段是匿名的，因此沒有相關聯的 UserID。為了判斷哪些資料與特定使用者相關聯，會從單一 UserID 對應至與該使用者相關聯的 SessionID、從這些 SessionID 對應至相關聯的 CorrelationID，然後從這些 CorrelationID 對應至這些相互關聯中的所有記錄。請參閱下圖以了解不同識別碼之間的關係。
 
-![顯示 SessionID 與 CorrelationId 之間關係的流程圖](../media/gdpr-for-office-online-server-image1.jpg)
+![顯示 SessionID 與 CorrelationId 之間關係的流程圖。](../media/gdpr-for-office-online-server-image1.jpg)
 
 ## <a name="gathering-logs"></a>收集記錄
 

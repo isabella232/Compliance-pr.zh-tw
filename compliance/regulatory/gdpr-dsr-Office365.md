@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: f09afe6738d2b7ec63682b8b2afa401947e957fd
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: f5b0acae758e149f2bfde5683a0b9f2c45f0db29
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141524"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676832"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 和 CCPA 的 Office 365 資料主體要求
 
@@ -206,7 +206,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![關鍵字對話方塊範例 1](../media/O365-DSR-Doc_image18.png)
+![關鍵字對話方塊範例 1。](../media/O365-DSR-Doc_image18.png)
 
 ##### <a name="example-2&quot;></a>範例 2
 
@@ -218,7 +218,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![關鍵字對話方塊範例 2](../media/O365-DSR-Doc_image19.png)
+![關鍵字對話方塊範例 2。](../media/O365-DSR-Doc_image19.png)
 
 ##### <a name="example-3"></a>範例 3
 
@@ -230,7 +230,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![關鍵字對話方塊範例 3](../media/O365-DSR-Doc_image20.png)
+![關鍵字對話方塊範例 3。](../media/O365-DSR-Doc_image20.png)
 
 #### <a name="working-with-partially-indexed-items-in-content-search"></a>在 [內容搜尋] 中使用已局部編製索引的項目
 
@@ -446,13 +446,13 @@ Microsoft To-Do 中的工作 (稱為 *待辦事項*，儲存在 *待辦事項清
 若要匯出及下載項目：
 
 1. 在安全性與合規性中心中開啟內容搜尋。
-2. 請在搜尋彈出式頁面上，選取![下載圖示](../media/o365-dsr_image21.png) **[更多]**，然後選取 **[匯出結果]**。您也可以匯出報告。
+2. 請在搜尋彈出式頁面上，選取 ![[下載圖示]。](../media/o365-dsr_image21.png) **[更多]**，然後選取 **[匯出結果]**。您也可以匯出報告。
 3. 完成 **[匯出結果]** 彈出式頁面上的區段。請務必使用捲軸，以檢視所有匯出選項。
 4. 回到安全性與合規性中心的內容搜尋頁面，然後選取 [匯出 **]** 索引標籤。
 5. 選取 [重新整理 **]** 來更新頁面。
 6. 在 **[名稱]** 欄中，選取您剛才建立的匯出工作。匯出工作的名稱是內容搜尋名稱加上 **\_Export**。
 7. 在匯出彈出式頁面上的 **[匯出金鑰]** 下，選取 **[複製到剪貼簿]**。您將會在步驟 10 中使用此金鑰下載搜尋結果
-8. 在飛出頁面的頂端，選取 ![下載圖示](../media/o365-dsr_image21.png) [下載結果 **]**。
+8. 在飛出頁面的頂端，選取 ![[下載圖示]。](../media/o365-dsr_image21.png) **[下載結果]**。
 9. 如果系統提示您安裝 **Microsoft Office 365 電子文件探索匯出工具**，請選取 [安裝 **]**。
 10. 在 [電子文件探索匯出工具 **]** 中，於適當的方塊中貼上您在步驟 7 中所複製的匯出金鑰。
 11. 選取 [瀏覽 **]** 以指定要下載搜尋結果檔案的目標位置。
@@ -1470,12 +1470,12 @@ Microsoft Office 365 服務套件包含線上服務，可對已選擇使用服�
 
 使用者可以刪除 Delve 中的下列資訊：
 
-- **設定檔資訊：** 若要刪除設定檔資訊，使用者可以選取 [我 **]** \> [更新設定檔 **]**，來刪除自由格式文字。 根據組織的全域通訊清單中的設定，使用者可能無法刪除其所有設定檔資訊，例如其名稱或工作職稱。
+- **設定檔資訊：** 若要刪除設定檔資訊，使用者可以選取 **[我]** \> **[更新設定檔]**，來刪除自由格式文字。根據貴組織的全域通訊清單中的設定，使用者可能無法刪除其所有設定檔資訊，例如其名稱或工作職稱。
 - **文件和電子郵件附件：** 若要刪除文件或附件，使用者必須移至儲存文件或附件的服務 (例如 SharePoint Online、商務用 OneDrive，或 Exchange Online)，並刪除那裡的文件。
 
 ### <a name="myanalytics"></a>MyAnalytics
 
-MyAnalytics 會提供統計資料，以協助使用者了解其工作時間分配情況。   若要協助您的使用者深入了解在其個人儀表板中呈現給他們的資料，以及資料的計算方式，請將您的使用者導向至 [MyAnalytics 個人儀表板](/workplace-analytics/myanalytics/use/dashboard-2)。
+MyAnalytics 可提供統計資料給使用者，以協助他們了解工作時間分配。若要協助您的使用者深入了解在其個人儀表板中呈現給他們的資料，以及資料的計算方式，請將您的使用者導向至 [MyAnalytics 個人儀表板](/workplace-analytics/myanalytics/use/dashboard-2)。
 
 #### <a name="access-and-export"></a>存取及匯出
 
@@ -1554,7 +1554,7 @@ Microsoft 也讓您能夠存取、匯出及刪除系統所產生的記錄，根�
 
 5. 選取 [建立]。
 
-匯出要求會進入 **擱置** 狀態。 您可以在 [使用者隱私權]  >  [概觀] 刀鋒視窗上，檢視報告狀態。
+匯出要求會進入 **[擱置]** 狀態。您可以在 **[使用者隱私權]** > **[概觀]** 刀鋒視窗上，檢視報告狀態。
 
 > [!IMPORTANT]
 > 因為個人資料可能來自多個系統，有可能匯出程序需要長達 1 個月才能完成。
@@ -1564,11 +1564,11 @@ Microsoft 也讓您能夠存取、匯出及刪除系統所產生的記錄，根�
 如果您從 Azure 入口網站匯出或刪除資料時遇到問題，請前往 Azure 入口網站 **[協助 + 支援]** 刀鋒視窗，並在 **[訂閱管理]** > **[訂閱的隱私權和合規性要求]** > **[隱私權刀鋒視窗和 GDPR 要求]** 下提交新票證。
 
 > [!NOTE]
-> 當您從 Azure 入口網站匯出資料時，少數應用程式的系統產生資料不會匯出。 若要匯出這些應用程式的資料，請參閱[匯出系統所產生記錄資料的其他步驟](/microsoft-365/compliance/gdpr-system-generated-log-data)。
+> 從 Azure 入口網站匯出資料時，不會匯出一些應用程式的系統產生資料。若要匯出這些應用程式的資料，請參閱 [[匯出系統所產生記錄資料的其他步驟]](/microsoft-365/compliance/gdpr-system-generated-log-data)。
 
 下列內容摘要說明系統所產生記錄檔的存取和匯出：
 
-- **使用 Azure 入口網站進行匯出要求需要多久時間才能完成要求？：** 視各種因素而定。 通常應該會在一到兩天內完成，但最多可能需要 30 天。
+- **使用 Azure 入口網站進行匯出要求需要多久時間才能完成要求？：** 視各種因素而定。通常應該會在一到兩天內完成，但最多可能需要 30 天。
 - **輸出的格式是什麼？：** 輸出是電腦可讀取的結構化檔案，例如 XML、CSV 或 JSON。
 - **誰有權存取 Azure 入口網站，以提交對系統所產生記錄檔的存取要求？**：Office 365 全域系統管理員將有權存取 Azure 入口網站。
 - **匯出結果會傳回哪些資料？**：結果包含 Microsoft 儲存之系統產生的記錄。 匯出的資料會跨越不同的 Microsoft 服務，包括 Office 365、Azure 和 Dynamics。 結果不會包含可能造成服務安全性或穩定性受損的資料。
@@ -1593,7 +1593,7 @@ Microsoft 也讓您能夠存取、匯出及刪除系統所產生的記錄，根�
 
 永久刪除使用者帳戶會將 30 天內近乎所有 Office 365 服務上的使用者資料，從系統產生的記錄中移除，可能危及服務安全性或穩定性的資料除外。 
 
-此 30 天期限的一個例外是，在 Exchange Online 中永久刪除使用者帳戶所需的時間超過 30 天。 這是因為 Exchange Online 內容的重要本質，並且為了防止資料意外外洩。 Exchange Online已經過設計，在永久刪除了使用者帳戶之後，會故意將資料置於保留狀態最多 60 天。 若要在 30 天時間範圍內永久刪除使用者的 Exchange Online 資料，請永久刪除 Azure Active Directory 中的使用者帳戶，然後連絡 [Microsoft 支援](https://support.microsoft.com/)，並要求在排定的刪除程序外手動移除使用者的 Exchange Online 資料。 如需詳細資訊，請參閱本指南先前所述的[移除 Exchange Online 資料](#removing-exchange-online-data)。
+此 30 天期間有一個例外，就是永久刪除 Exchange Online 中的使用者帳戶所需的時間超過 30 天。這是因為 Exchange Online 內容的重要本質，並防止資料意外流失。Exchange Online 已經過設計，在永久刪除了使用者帳戶之後，故意將處於保留狀態的資料最多保留 60 天。若要在 30 天時間範圍內永久刪除使用者的 Exchange Online 資料，請永久刪除 Azure Active Directory 中的使用者帳戶，然後連絡 [Microsoft 支援](https://support.microsoft.com/)，並要求在排定的刪除程序外手動移除使用者的 Exchange Online 資料。如需詳細資訊，請參閱本指南先前所述的[移除 Exchange Online 資料](#removing-exchange-online-data)。
 
 刪除使用者帳戶不會移除系統為 Yammer 和 Kaizala 所產生的記錄。若要從這些應用程式中移除資料，請參閱以下其中一項：
 
@@ -1622,10 +1622,10 @@ Microsoft 也讓您能夠存取、匯出及刪除系統所產生的記錄，根�
 
 本指南的第 1 至 3 部分涵蓋 Microsoft 是貴組織之資料處理者的產品和服務，因此 DSR 功能可供您的租用戶系統管理員使用。有各種不同情況，其中貴組織的使用者可能使用其公司或學校帳戶 (也稱為「Azure Active Directory 識別碼」或「AAD」) 來登入 Microsoft 是資料控制者的 Microsoft 產品和服務。對於所有這類產品和服務，您的使用者必須直接向 Microsoft 提出資料主體要求，而且 Microsoft 將會直接對使用者履行要求。經由設計，涉及儲存使用者撰寫內容的產品和服務可讓使用者存取、匯出、修正和刪除其使用者撰寫的內容，這是產品既有產品功能的一部分。可能適用此情況的情節如下：
 
-- **選擇性連線的線上服務：** 企業用 Microsoft 365 應用程式會使特定選擇性連線的線上服務可供使用者使用。 服務和相關使用者控制項的清單會列在[這裡](https://support.office.com/article/microsoft-s-other-connected-services-92c234f1-dc91-4dc1-925d-6c90fc3816d8)。 您可以決定是否要允許使用者使用這些服務。 如需詳細資訊，請參閱[系統管理員如何在企業用 Microsoft 365 應用程式中管理控制器服務](/DeployOffice/manage-controller-services-office-365-proplus)。 如果這些選擇性服務處理個人資料，Microsoft 是這些服務的資料控制者。
-- **使用者意見反應：** 如果使用者選擇提供對 Microsoft 產品和服務提供意見反應，則 Microsoft 是這類意見反應的資料控制者，甚至其中包含個人資料。 Microsoft 將會對 Microsoft 所收集的意見反應履行任何資料主體要求 (包括由 Microsoft 子處理者所管理的意見反應)，但若 Microsoft 已指示使用者不要在意見反應收集過程中包含個人資料，則不在此限。 例外：如果 Microsoft 已指示使用者不要在意見反應收集過程中包含個人資料，則 Microsoft 將信賴該指示，並將假設未提供任何個人資料。 已利用第三方意見反應服務提供者建立個別帳戶的使用者必須直接向那些提供者履行其 DSR。
+- **選擇性連線的線上服務** – Microsoft 365 Apps 企業版使特定選擇性連線的線上服務可供使用者使用。此服務和相關使用者控制項的清單會列在 [這裡](https://support.office.com/article/microsoft-s-other-connected-services-92c234f1-dc91-4dc1-925d-6c90fc3816d8)。您可以決定是否允許使用者使用這些服務。如需詳細資訊，請參閱 [系統管理員如何在 Microsoft 365 Apps 企業版中管理控制器服務](/DeployOffice/manage-controller-services-office-365-proplus)。如果這些選擇性服務處理個人資料，Microsoft 就是這些服務的資料控制者。
+- **使用者意見反應：** 如果使用者選擇提供對 Microsoft 產品和服務提供意見反應，則 Microsoft 是這類意見反應的資料控制者，甚至其中包含個人資料。Microsoft 會對 Microsoft 所收集的意見反應履行任何資料主體要求 (包括由 Microsoft 子處理者所管理的意見反應)，但若 Microsoft 已指示使用者不要在意見反應收集過程中包含個人資料，則不在此限。例外：如果 Microsoft 已指示使用者不要在意見反應收集過程中包含個人資料，則 Microsoft 信賴該指示，並將假設未提供任何個人資料。已利用第三方意見反應服務提供者建立個別帳戶的使用者必須直接向那些提供者履行其 DSR。
 - **Windows 透過公司或學校帳戶來驗證** - 如果貴組織已購買 Windows 授權，而且您的使用者使用其公司或學校帳戶向組織提供的 Windows 進行驗證，Microsoft 會充當資料控制者。
-- **使用者取得的產品或服務** - 如果您允許您的使用者以其個人身分取得使用 AAD 進行驗證的 Microsoft 產品或服務 (例如 Office 附加元件或可在 Microsoft Store 取得的應用程式)，Microsoft 可能是資料控制者。 對於任何這類 Microsoft 產品或服務，使用者必須直接連絡 Microsoft 來發出 DSR。
+- **使用者取得的產品或服務：** 如果您允許您的使用者以其個人身分取得使用 AAD 進行驗證的 Microsoft 產品或服務 (例如 Office 附加元件或可在 Microsoft Store 取得的應用程式)，Microsoft 可能是資料控制者。對於任何這類 Microsoft 產品或服務，使用者必須直接連絡 Microsoft 來發出 DSR。
 
 > [!IMPORTANT]
 > 如果您刪除透過 Azure Active Directory 啟用的使用者，則您的 (先前) 使用者將無法登入任何產品或服務，其先前倚靠公司或學校帳戶來使用它們。此外，Microsoft 將再也無法驗證與產品或服務之 DSR 要求有關的使用者，Microsoft 是資料控制者。如果您想要讓使用者可以對這類服務發出 DSR，請務必指示您的使用者在刪除使用者的 AAD 帳戶之前先這樣做。
@@ -1706,7 +1706,7 @@ IT 系統管理員可以使用安全性與合規性中心的稽核記錄搜尋�
 - 已移動檔案
 - 已上傳或下載檔案
 
-您可以搜尋特定活動的稽核記錄、活動類型、特定使用者所執行的活動，以及其他搜尋準則。 除了 SharePoint Online 和商務用 OneDrive 活動外，您也可以搜尋 Flow、Power BI 和 Microsoft Teams 中的活動。 稽核記錄會保留 90 天。 因此，您將無法搜尋 90 天以前發生的使用者活動。 如需稽核活動的完整清單，以及如何搜尋稽核記錄，請參閱[搜尋安全性與合規性中心的稽核記錄](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)。
+您可以搜尋特定活動的稽核記錄、活動類型、特定使用者所執行的活動，以及其他搜尋準則。除了 SharePoint Online 和商務用 OneDrive 活動外，您也可以搜尋 Flow、Power BI 和 Microsoft Teams 中的活動。稽核記錄會保留 90 天。因此，您將無法搜尋 90 天以前的使用者活動。如需稽核活動的完整清單，以及如何搜尋稽核記錄，請參閱 [[搜尋安全性與合規性中心的稽核記錄]](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)。
 
 > [!TIP]
 > 若要解決上述的 90 天限制，並維護貴組織稽核記錄的執行歷程記錄，您可以根據週期性排程 (例如，每隔 30 天) 匯出所有活動，以具有貴組織稽核記錄的連續記錄。
