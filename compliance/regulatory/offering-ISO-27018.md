@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 4398f120af9f051c0255b63e25c7534f15b03c0f
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482998"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561361"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>保護雲端中個人資料的 ISO/IEC 27018 工作條例規定
 
@@ -64,6 +64,7 @@ Microsoft 和 ISO/IEC 27018
 - Power BI Embedded
 - Power Virtual Agent
 - 適用於端點的 Microsoft Defender: 端點偵測與回應、自動調查與補救、安全分數
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-isoiec-27018"></a>Azure、Dynamics 365 和 ISO/IEC 27018
 
