@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505926"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707122"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>證券和 Exchange 傭金 (SEC) 規則 17a-4 (f) 美國
 
@@ -54,7 +54,7 @@ Microsoft Azure使用具有保留鎖定功能的原則鎖定和 Microsoft Office
 
 Microsoft 已保留獨立的協力廠商評估事務所，該公司專用於記錄管理和資訊管理，以評估 Azure Blob 儲存區的不可改變的儲存區，以符合 SEC Rule 17a-4 的 (f) 需求。 產生的報表 *[Cohasset 評估：客戶可以使用 Microsoft Azure WORM 儲存體](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)*。
 
-assessor 的觀點 Azure 儲存體搭配 Azure blob 功能和 *鎖定時間型原則* 的 *永恆儲存體*，可保留以非擦除和不可讀寫格式為 (基礎的) 記錄，並符合 SEC Rule 17a-4 (f) 相關的儲存需求。 [FINRA rule 4511 (c)](/azure/compliance/offering-finra-4511-us.md)，以及 [CFTC Rule 1.31 (c) - (d)](offering-cftc-1-31-us.md)的原則型需求。
+assessor 的觀點 Azure 儲存體搭配 Azure blob 功能和 *鎖定時間型原則* 的 *永恆儲存體*，可保留以非擦除和不可讀寫格式為 (基礎的) 記錄，並符合 SEC Rule 17a-4 (f) 相關的儲存需求。 [FINRA rule 4511 (c)](offering-FINRA-4511.md)，以及 [CFTC Rule 1.31 (c) - (d)](offering-cftc-1-31-us.md)的原則型需求。
 
 要求時，Microsoft 也會提供一個 *90 天的字母* ，以符合 SEC 17a-4 (f)  (2) 需求，讓客戶在使用電子儲存介質之前，至少90天通知其指定的檢查授權。 如規章中所述，「成員、經紀人或轉銷商必須提供其自己的標記法或來自 storage 中型廠商或其他協力廠商的相關專業知識，且選取的儲存媒體符合此段落中所設定的條件 (f)  (2) ]。 若要取得 Microsoft *證明的電子儲存體媒體服務* 針對 SEC rule 17a-4，擁有 [azure 支援計畫](https://azure.microsoft.com/support/plans/)的客戶可以在 azure 入口網站中 [建立支援票證](https://azure.microsoft.com/support/create-ticket/)，並要求第四方 rule 17a-4 的證明信。 在此檔中，Microsoft 會提供與 SEC 17a-4 (f)  (2) 需求相關的保證。
 

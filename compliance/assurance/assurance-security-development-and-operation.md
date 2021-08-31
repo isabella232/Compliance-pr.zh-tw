@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: fc6113dbf5c095cc4b22eb8ed0a4527d84f7e143
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b74c004e63838900f87c774a8acf84ab8aeb03d4
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481745"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707112"
 ---
 # <a name="security-development-and-operations-overview"></a>安全性開發和作業概述
 
@@ -56,7 +56,7 @@ Microsoft 採用高級策略來管理開放來源安全性，其使用工具和�
 - 判斷這些元件是否具有任何弱點。
 - 發現影響這些元件的弱點時，作出適當回應。
 
-Microsoft 工程小組會負責產品或服務中包含的所有開放原始碼軟體的安全性。 為了在規模範圍內達到此安全性，Microsoft 已透過 CG 將基本功能建立到工程系統中，以自動化開放來源偵測、法律需求工作流程，以及易受攻擊元件的警示。 自動 CG 工具會針對開放來源元件及相關的安全性弱點或法律義務，掃描 Microsoft 的版本。 找到的元件會註冊並提交至適當的小組，以用於商務和安全性審查。 這些審查旨在評估與開放原始碼元件相關的任何法律義務或安全性弱點，並在核准部署元件前加以解決。
+Microsoft 工程小組會負責產品或服務中包含的所有開放原始碼軟體的安全性。 為了在規模上達成這項安全性，Microsoft 已透過元件控管 (CG) ，將基本功能建立到工程系統中，以自動化開放來源偵測、法律需求工作流程，以及易受攻擊元件的警示。 自動 CG 工具會針對開放來源元件及相關的安全性弱點或法律義務，掃描 Microsoft 的版本。 找到的元件會註冊並提交至適當的小組，以用於商務和安全性審查。 這些審查旨在評估與開放原始碼元件相關的任何法律義務或安全性弱點，並在核准部署元件前加以解決。
 
 ## <a name="related-external-regulations--certifications"></a>相關的外部法規 & 認證
 

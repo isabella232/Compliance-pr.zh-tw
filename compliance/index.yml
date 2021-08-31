@@ -22,7 +22,7 @@ highlightedContent:
       url: /learn/paths/audit-safeguard-customer-data/
     - title: 深入瞭解雲端中的共用責任
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
+      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - title: 深入瞭解 Microsoft 合規性管理員
       itemType: learn
       url: /learn/paths/compmgmt/
@@ -49,7 +49,7 @@ conceptualContent:
   title: 服務保證
   summary: 請先瞭解 Microsoft 如何保護客戶資料，以進行安全性和風險評估。
   items:
-    - title: 結構
+    - title: 架構
       links:
         - url: /learn/modules/audit-architecture/
           itemType: learn

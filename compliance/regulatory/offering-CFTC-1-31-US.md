@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8bb9f380d57e932576c969f10512f508de7c6ada
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482738"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707132"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>商品先期傭金 (CFTC) 規則 1.31 (c-d) 美國
 
@@ -39,7 +39,7 @@ ms.locfileid: "58482738"
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
-若要評估 Azure 與 CFTC 規則1.31 的相容性 (3-d) 中，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 在產生的報告中， [CFTC 1.31 (c) – (d) 相容性評估： Microsoft Azure 儲存體](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)，Cohasset 驗證使用原則鎖定選項的[Azure 永恆 blob 儲存體](/azure/storage/blobs/storage-blob-immutable-storage)，當用來保留以不可讀寫的 blob 和不可讀寫的 blob （ (格式）時，會符合 CFTC 規則的原則型需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以依靠 Azure 不可篡改的 Blob 儲存體做為記錄保留的一站式雲端方案。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
+若要評估 Azure 與 CFTC 規則1.31 的相容性 (3-d) 中，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 在產生的報告中， [CFTC 1.31 (c)  (d) 合規性評估： Microsoft Azure 儲存體](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)，Cohasset 會驗證[Azure 永恆 blob 儲存體](/azure/storage/blobs/storage-blob-immutable-storage)時使用原則鎖定選項，當用來保留以不可讀寫的 blob 和不可讀寫的 blob （ (格式）時，會符合 CFTC 規則的原則型需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。 具有敏感工作負載的軟體提供者和合作夥伴現在可以依靠 Azure 不可篡改的 Blob 儲存體做為記錄保留的一站式雲端方案。 金融機構現在可以組建自己的應用程式，利用這些功能，並保持不相容。
 
 ### <a name="microsoft-365"></a>Microsoft 365
 

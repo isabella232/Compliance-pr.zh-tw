@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479765"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707142"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>金融行業規章機關 (FINRA) 規則 4511 (c) 美國
 
@@ -41,7 +41,7 @@ Microsoft Azure使用具有保留鎖定之原則鎖定和 Microsoft Office 365 �
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-若要評估 Azure 與 FINRA 規則4511的相容性 (c) 中，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 產生的報告、 [SEC 17a-4 (f) & CFTC 1.31 (c-d) 相容性評估： Microsoft Azure 儲存體](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)，其搭配 Azure 相容性與 FINRA 規則 4511 (c) ，其會遵從 SEC 原則 17a-4 (f) 的格式和媒體需求。
+若要評估 Azure 與 FINRA 規則4511的相容性 (c) 中，Microsoft 保留了專門從事記錄管理和資訊管理、Cohasset 關聯的獨立評估事務所。 產生的報告、 [SEC 17a-4 (f) & CFTC 1.31 (c-d) 相容性評估： Microsoft Azure 儲存體](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)，其搭配 Azure 相容性與 FINRA 規則 4511 (c) ，其會遵從 SEC 原則 17a-4 (f) 的格式和媒體需求。
 
 Cohasset 使用原則鎖定選項驗證[Azure 永恆 blob 儲存體](/azure/storage/blobs/storage-blob-immutable-storage)，當用來保留不可讀寫和不可讀寫 (WORM) 格式的時間範圍內的 blob 時，會符合相關的 FINRA 儲存需求。 每個 Blob (記錄) 都會受到保護，無法進行修改、覆寫或刪除，直到必要的保留期間到期併發行任何關聯的合法保留期間為止。
 
