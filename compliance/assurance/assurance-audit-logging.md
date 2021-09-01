@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3212ca2a42677dc27afda8a7598b39d7f24bf27c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 11695a941e5d5e6740833ab19bf2d68ac487c1c5
+ms.sourcegitcommit: 5e6e25ed264b248522ad49ea25490962db08e471
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482186"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58832256"
 ---
 # <a name="audit-logging-overview"></a>稽核記錄概觀
 
@@ -53,6 +53,8 @@ Microsoft online services 內部審核記錄會從各種來源捕獲記錄資料
 在 NRT 中使用規則、統計及機器學習方法來處理記錄檔，以偵測系統效能指示器和潛在的安全性事件。 機器教學模型使用儲存在 Cosmos 或 Kusto 中的內送記錄資料和歷史記錄資料，以持續提升偵測功能。 安全性相關的偵測會產生警示，向通話工程師通報潛在的事件，並在適用時觸發自動修復動作。 除了自動化的安全性監控之外，服務小組也會流量分析工具及儀表板，進行資料關聯、互動式查詢及資料分析。 這些報告可用於監視及改善服務的整體效能。
 
 如需安全性監視及警示的詳細資訊，請參閱 [安全性監視綜述](assurance-security-monitoring.md)。
+
+![審核資料流程。](../media/assurance-audit-data-flow.png)
 
 ## <a name="how-do-microsoft-online-services-protect-audit-logs"></a>Microsoft online services 如何保護審核記錄？
 
