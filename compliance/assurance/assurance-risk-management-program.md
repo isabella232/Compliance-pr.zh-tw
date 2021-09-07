@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.openlocfilehash: 8e895308358853f2c59009503d079361dca84c49
+ms.sourcegitcommit: 91038a980f08745a12ab6b223ed90a6cd561c5bf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678602"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923113"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365風險管理計劃
 
-Microsoft 365 風險管理計劃的目的在於識別、評估和管理 Microsoft 365 風險。 Microsoft 365 的優先順序是符合合約義務和資格鑒定、增加客戶信任，以及維護我們的競爭優勢。 雖然 Microsoft 365 風險管理計劃個別運作，但是會將其與最相符的 Enterprise 風險管理 (ERM) 計畫的原則、優先順序及方法。 使用 ERM 計畫，可在不同的商業單位和工程群組中進行一致的比較，對整個企業中的風險管理造成更為內聚的方法。
+Microsoft 365 風險管理計劃的目的在於識別、評估和管理 Microsoft 365 風險。 Microsoft 最重要的是，主動識別並處理可能會影響服務基礎結構的風險，以及我們的客戶、資料及其信任。 此外，您必須具備強健的風險管理計劃，以符合合約義務，並維護客戶所依賴的公開資格鑒定，以滿足其自身的規範需求。 雖然 Microsoft 365 風險管理計劃個別運作，但是會將其與最相符的 Enterprise 風險管理 (ERM) 計畫的原則、優先順序及方法。 使用 ERM 計畫，可在不同的商業單位和工程群組中進行一致的比較，對整個企業中的風險管理造成更為內聚的方法。
 
-Microsoft 365 信任小組負責管理 Microsoft 365 風險管理計劃，並執行 ERM 計畫所展示的活動。 信任小組著重于整合風險管理架構與現有的 Microsoft 365 工程、服務作業及規範程式，讓風險管理計劃更有效率且更有效率。
+Microsoft 365 信任小組負責管理 Microsoft 365 風險管理計劃，以及執行 ERM 程式所定義的活動。 信任小組著重于整合風險管理架構與現有的 Microsoft 365 工程、服務作業及規範程式，讓風險管理計劃更有效率且更有效率。
 
 信任小組也會維護 Microsoft 365 控制架構，這是一組合理化的控制項，在使用支援的合規性活動適當實施時，可讓工程小組遵守重要的規章和認證。 這個架構會隨著風險管理程式的一部分，持續更新，以反映意見反應和結果。
 
@@ -47,7 +47,7 @@ Microsoft 365 信任小組負責管理 Microsoft 365 風險管理計劃，並執
 
 識別階段也會檢查決策記錄、作用中的安全性和符合性例外狀況，以及先前風險評估的緩解工作。
 
-## <a name="assessment"></a>評估
+## <a name="assessment"></a>評定
 
 每個識別的風險都會使用三個計量法評估：影響、可能性及控制缺陷。
 
