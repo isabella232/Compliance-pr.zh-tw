@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6c20c62feb1ff3ab23eeb97d5ad11abb5ad85a07
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481755"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947008"
 ---
 # <a name="securing-the-microsoft-365-infrastructure"></a>保護 Microsoft 365 基礎結構
 
@@ -83,7 +83,7 @@ Microsoft 大規模的安全性監控只有透過使用自動雲端式解決方�
 
 如需 Microsoft 365 中安全性監視的詳細資訊，請參閱[安全性監視概述](assurance-security-monitoring.md)。
 
-## <a name="assessment"></a>評估
+## <a name="assessment"></a>評定
 
 ### <a name="automated-assessments"></a>自動評估
 

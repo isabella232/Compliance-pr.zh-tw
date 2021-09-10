@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505886"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947747"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>2002 年沙賓法案 (SOX)
 
@@ -94,7 +94,7 @@ AICPA SSAE 18 standard 取代 SAS 70，其適用于與財務報告上的使用�
 
 - [Azure 合規性文件](/azure/compliance/)
 - [Azure 可實現合規性世界](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
-- [Microsoft 365 規範選項](/compliance/regulatory/offering-home)
+- [Microsoft 365 合規性方案](/compliance/regulatory/offering-home)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [2002 (SOX 的 Sarbanes-Oxley 法案](https://www.congress.gov/bill/107th-congress/house-bill/3763)) 
 - [證券和 Exchange 傭金](https://www.sec.gov/) (秒) 

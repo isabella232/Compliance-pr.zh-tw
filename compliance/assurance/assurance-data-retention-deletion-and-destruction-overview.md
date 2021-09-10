@@ -20,11 +20,11 @@ f1.keywords:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: c851b235a70104720457d08c51529ee7b25c65e4
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862353"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946952"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Microsoft 365 中的資料保留、刪除及銷毀
 
@@ -57,7 +57,7 @@ Microsoft 有一個用於 Microsoft 365 的資料處理標準原則，用以指�
 
 ## <a name="related-links"></a>相關連結
 
-- [資料貼上裝置銷毀](assurance-data-bearing-device-destruction.md)
+- [資料承載裝置毀壞](assurance-data-bearing-device-destruction.md)
 - [Office 365 中的不變性](assurance-data-immutability.md)
 - [Exchange Online 資料刪除](assurance-exchange-online-data-deletion.md)
 - [SharePoint Online 資料刪除](assurance-sharepoint-online-data-deletion.md)

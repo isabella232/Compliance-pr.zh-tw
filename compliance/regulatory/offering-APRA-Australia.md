@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: e8e6ca43cbce4755ab29f3ef7cadc06a5dda7e32
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482286"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947636"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>澳大利亞 Prudential 規章核證機關 (APRA) 
 
@@ -96,7 +96,7 @@ CPS 234 會密切反映核心 Microsoft 安全性框架：「保護」、「偵�
 
 **金融機構是否需要在外包材料商務活動之前 APRA 核准？**
 
-不對。 不過，大多數管制的財務組織必須在 APRA 後通知，以在澳大利亞以外的外包材料商務活動的合約或諮詢 APRA，再將這些活動外包于澳大利亞以外的地方。
+否。 不過，大多數管制的財務組織必須在 APRA 後通知，以在澳大利亞以外的外包材料商務活動的合約或諮詢 APRA，再將這些活動外包于澳大利亞以外的地方。
 
 此外，如果雲端服務被視為具有「提升或極端固有的風險」（如 APRA [資訊理論文](https://www.apra.gov.au/sites/default/files/information_paper_-_outsourcing_involving_cloud_computing_services.pdf)中的雲所述），則鼓勵財務機構 (，但不需要) 參考 APRA，不論服務是否在澳大利亞或之外的地方提供。
 

@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482466"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947702"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>健康保險流通與責任法案 (HIPAA) & 狀況資訊技術以實現經濟和臨床健康情況 (高科技) 法案
 
@@ -94,7 +94,7 @@ HIPAA 業務關聯協定也適用于範圍內的 Microsoft Professional 服務�
 
 **與 Microsoft 建立業務關聯的合約是否可確保我的組織符合 HIPAA 和高科技法案？**
 
-不對。 透過提供一種業務關聯合約，Microsoft 可協助支援您的 HIPAA 法規遵從性。 不過，使用 Microsoft 服務不會自行取得 HIPAA 規範。 您的組織負責確保您已具備適當的規範方案和內部程式，而且您的 Microsoft 服務的特殊用途，會與 HIPAA 和高科技法案的義務相符。
+否。 透過提供一種業務關聯合約，Microsoft 可協助支援您的 HIPAA 法規遵從性。 不過，使用 Microsoft 服務不會自行取得 HIPAA 規範。 您的組織負責確保您已具備適當的規範方案和內部程式，而且您的 Microsoft 服務的特殊用途，會與 HIPAA 和高科技法案的義務相符。
 
 **Microsoft 是否可以使用我組織的業務關聯協定？**
 

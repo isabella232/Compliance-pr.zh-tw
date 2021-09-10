@@ -1,5 +1,5 @@
 ---
-title: 資料貼上裝置銷毀
+title: 資料承載裝置毀壞
 description: 在本文中，您將會看到 Microsoft 資料中心的資料貼上裝置銷毀處理常式的概述。
 ms.author: robmazz
 author: robmazz
@@ -21,13 +21,13 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6a26334b805be069298302d3ad1e8e5b9e728150
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862395"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946935"
 ---
-# <a name="data-bearing-device-destruction"></a>資料貼上裝置銷毀
+# <a name="data-bearing-device-destruction"></a>資料承載裝置毀壞
 
 ## <a name="data-destruction-overview"></a>資料銷毀概述
 

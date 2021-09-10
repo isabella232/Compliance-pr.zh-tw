@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481045"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947683"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>英國 Government-Cloud (G-Cloud) 
 
@@ -44,7 +44,7 @@ Microsoft 服務數位市場的約會表示 UK 政府的代理商和合作夥伴
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
 - Azure
-- Microsoft 雲端 App 安全性
+- Microsoft 雲端應用程式安全性
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
