@@ -19,11 +19,11 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 ms.openlocfilehash: 325dc91f1d3480414236abfde38eb48d372f3e69
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482426"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947767"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>資料保護影響評估：適用於使用 Windows 診斷資料處理者設定的控制器指引
 
@@ -35,7 +35,7 @@ ms.locfileid: "58482426"
 本文件旨在提供控制者有關 Windows 診斷資料處理者設定的資訊，協助他們判斷是否需要 DPIA，以及若需要，應包含哪些詳細資料。
 
 >[!Note]
->Microsoft 在本文件中不提供任何法律建議。 本文件僅供參考。 我們鼓勵客戶與其隱私權主管和法律顧問合作，以確定與使用 Windows 診斷資料處理者設定或其他任何 Microsoft 線上服務相關之任何 DPIA 的必要性和內容。
+>Microsoft 在本文章中不提供任何法律建議。本文章僅供參考。我們鼓勵客戶與其隱私權主管和法律顧問合作，以確定與他們使用 Windows 診斷資料處理器設定或任何其他 Microsoft 線上服務相關的任何 DPIA 的必要性和內容。
 
 ## <a name="part-1-determining-whether-a-dpia-is-needed"></a>第 1 部分：判斷是否需要 DPIA
 

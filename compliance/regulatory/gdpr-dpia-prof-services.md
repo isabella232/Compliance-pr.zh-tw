@@ -19,17 +19,17 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088962"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947762"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>資料保護影響評估：適用於使用 Microsoft 專業服務之資料控制者的指引
 
 ## <a name="introduction-to-microsoft-professional-services"></a>Microsoft 專業服務簡介
 
-Microsoft 專業服務包括多元的技術架構設計人員、工程師、顧問及支援專業人員的群組，這些人員致力於達成 Microsoft 讓客戶達成更多目標的使命。 如需深入了解 Microsoft 專業服務，請瀏覽 [Microsoft 專業服務信任頁面](https://aka.ms/pstrust)。
+Microsoft 專業服務包括多元的技術架構設計人員、工程師、顧問及支援專業人員的群組，這些人員致力於達成 Microsoft 讓客戶達成更多目標的使命。請前往 [Microsoft 專業服務信任頁面](https://aka.ms/pstrust)，以深入了解 Microsoft 專業服務。
 
 Microsoft 專業服務恪遵一般資料保護規定 (GDPR) 下的義務。本文件的資訊旨在提供有關客戶在準備 GDPR 下的資料保護影響評估 (DPIA) 時，如何使用 Microsoft 的支援和諮詢服務。
 
@@ -51,7 +51,7 @@ GDPR 第 35 條規定，「如果某種處理，特別是使用新技術，並�
 |||
 
 > [!Note]
-> <sup>1</sup> 關於「大規模」處理的準則，GDPR 第 91 條闡明：「如果處理是有關於個別醫生、其他醫療保健專業人員或律師之病患或客戶的個人資料，則處理個人資料不應視為大規模。 在此類情況下，資料保護影響評估不應強制」。
+> <sup>1</sup>關於「大規模」處理的標準，GDPR 第 91 條闡明：「如果處理涉及來自患者或客戶的個人資料，則不應認為對個人資料的處理是大規模的由個別醫生、其他醫療保健專業人員或律師進行。在這種情況下，不應強制進行資料保護影響評估。」。
   
 [自訂開發附註] 專業服務提供各式各樣的諮詢解決方案。資料控制者可能會要求解決方案，而這個解決方案依據上述準則，是高風險解決方案。例如，資料控制者可能會要求專業服務建立解決方案以開發商業智慧引擎，來進行雇用決策或信用申請，或者建立的解決方案牽涉到使用者追蹤、人工智慧 (AI)/分析的特殊使用，或處理個人資料的特殊類別。
 
