@@ -20,8 +20,8 @@ ms.openlocfilehash: d0f7bd0db5d71c91a163e05e582ad8c227a8aa22
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947633"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158751"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>基準資訊化人民解放陣線標準 (BIR 2012)
 

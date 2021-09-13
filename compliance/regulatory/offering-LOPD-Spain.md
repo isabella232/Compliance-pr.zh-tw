@@ -20,8 +20,8 @@ ms.openlocfilehash: 3e3d8bdd755ae032b0f027150a2211a5fe14f7e5
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947698"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158610"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>西班牙皇家法令 1720/2007、西班牙組織法 15/1999 (LOPD)
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 66e0803e41717cfd80fc4c3e4481457d5a165303
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947699"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158609"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>新加坡金融管理局 (MAS) 和新加坡銀行協會 (ABS)
 

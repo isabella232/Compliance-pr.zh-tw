@@ -25,8 +25,8 @@ ms.openlocfilehash: 3545a6e5746553e59603fbf68432ee4705a21f3f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946957"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158687"
 ---
 # <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>SharePoint在 Microsoft 365 中刪除線上資料
 

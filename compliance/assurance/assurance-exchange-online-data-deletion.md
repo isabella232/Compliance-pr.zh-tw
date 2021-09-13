@@ -24,8 +24,8 @@ ms.openlocfilehash: 9dd365e075226d8fdbfd1a9f9e371df2668f814d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946953"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158476"
 ---
 # <a name="exchange-online-data-deletion-in-microsoft-365"></a>Microsoft 365 中的 Exchange Online 資料刪除
 

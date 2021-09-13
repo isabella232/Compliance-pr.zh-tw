@@ -23,8 +23,8 @@ ms.openlocfilehash: 0c99c28ee6a291acbcfe913a87aa107d3be5c75a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946989"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158684"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Microsoft 安全性事件管理：包容、eradication 及恢復
 

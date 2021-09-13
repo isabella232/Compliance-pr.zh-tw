@@ -24,8 +24,8 @@ ms.openlocfilehash: 764259e22b23ecc7cea363283fc313a94875a2d1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947165"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158572"
 ---
 # <a name="service-resource-limits"></a>服務資源限制
 

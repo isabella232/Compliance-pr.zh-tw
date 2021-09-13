@@ -21,8 +21,8 @@ ms.openlocfilehash: 1b513c80c24ae6c06488972196579aff30e703fa
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947009"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158530"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>企業業務連續性法律免責聲明
 

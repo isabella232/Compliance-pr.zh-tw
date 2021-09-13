@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480515"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158597"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>國家標準和技術研究院 (NIST) Cybersecurity Framework (CSF) 
 

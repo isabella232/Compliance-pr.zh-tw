@@ -24,8 +24,8 @@ ms.openlocfilehash: e29c6501ce4c8f1ee645a8c4b5bf22eee6e9cab8
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947787"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158496"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-microsoft-365-compliance-center"></a>使用 Microsoft 365 合規性中心的 DSR 案例工具來管理 GDPR 資料主體要求
 

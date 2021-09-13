@@ -20,8 +20,8 @@ ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947684"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158844"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>金融行業規章機關 (FINRA) 規則 4511 (c) 美國
 

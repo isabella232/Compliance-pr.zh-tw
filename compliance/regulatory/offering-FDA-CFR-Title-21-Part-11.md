@@ -20,8 +20,8 @@ ms.openlocfilehash: 5d6f590a9035b8628645bdfa46f794c1dfbcd4fb
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947674"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158768"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>食品和藥品管理 CFR Title 21 第11部分
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947676"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158771"
 ---
 # <a name="european-union-model-clauses"></a>歐盟示範條款
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 94e032efec2fd10f1d352f4f1b610916abe23cf7
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947689"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158624"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>美國內年收入服務出版物1075
 

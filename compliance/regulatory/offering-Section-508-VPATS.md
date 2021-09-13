@@ -20,8 +20,8 @@ ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947735"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158888"
 ---
 # <a name="us-section-508"></a>U.S. Section 508
 

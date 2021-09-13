@@ -20,8 +20,8 @@ ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947685"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158927"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Gramm-Leach-Bliley Act (GLBA)
 

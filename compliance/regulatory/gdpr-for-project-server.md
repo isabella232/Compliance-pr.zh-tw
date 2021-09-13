@@ -18,8 +18,8 @@ ms.openlocfilehash: ee4dad3a8b3c4bc6ffb67db78cb083c8524ddad5
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947770"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158501"
 ---
 # <a name="gdpr-for-project-server"></a>適用於 Project Server 的 GDPR
 

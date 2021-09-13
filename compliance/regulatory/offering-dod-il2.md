@@ -20,8 +20,8 @@ ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947663"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158603"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>國防部門 (DoD) 影響等級 2 (IL2) 
 

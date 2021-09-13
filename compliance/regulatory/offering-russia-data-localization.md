@@ -20,8 +20,8 @@ ms.openlocfilehash: 093ec578cd83dc6c52485101d232d9ccff88489e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947730"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158591"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>俄文個人資料當地語系化需求
 

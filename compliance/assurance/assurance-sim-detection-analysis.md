@@ -23,8 +23,8 @@ ms.openlocfilehash: b22c078715f2bbbf63ae5d6af8fb073aed1f1b48
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947001"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158683"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Microsoft 安全性事件管理：偵測和分析
 

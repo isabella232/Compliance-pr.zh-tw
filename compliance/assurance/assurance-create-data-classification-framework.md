@@ -24,8 +24,8 @@ ms.openlocfilehash: 17aa73258f1ecc4db9cc13a5df08b1aa76a583a7
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946936"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158550"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>建立設計完善的資料分類架構
 

@@ -21,8 +21,8 @@ ms.openlocfilehash: bb21ec78b048562211f977d365dacdfb83aacb55
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947742"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158643"
 ---
 # <a name="microsoft-support-and-professional-services-and-breach-notification-under-the-gdpr"></a>GDPR 規定的 Microsoft 支援服務與專業服務以及外洩通知
 

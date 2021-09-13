@@ -20,8 +20,8 @@ ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947746"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158891"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>證券和 Exchange 傭金 (SEC) 規則 17a-4 (f) 美國
 

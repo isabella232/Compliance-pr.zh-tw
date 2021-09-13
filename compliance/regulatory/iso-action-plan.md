@@ -20,8 +20,8 @@ ms.openlocfilehash: 4fc85558c4bef8763b7d6cae039f5ab085df6c61
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947641"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158489"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Microsoft 365 ISO 27001 行動計畫 — 前 30 天、90 天及過後的首要工作
 

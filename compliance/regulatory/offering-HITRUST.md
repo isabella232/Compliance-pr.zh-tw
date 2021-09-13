@@ -20,8 +20,8 @@ ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947703"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158583"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>狀況資訊信任同盟 (HITRUST) 常見的安全性架構 (CSF) 
 
