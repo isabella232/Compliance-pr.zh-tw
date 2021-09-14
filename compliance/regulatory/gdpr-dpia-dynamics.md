@@ -22,8 +22,8 @@ ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947754"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158444"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>資料保護影響評估：資料控制者使用 Dynamics 365 的指引
 
@@ -45,7 +45,7 @@ GDPR 第 35 條規定，「如果某種處理，特別是使用新技術，並�
 | 大規模有系統地監視可公開進入的地區 | Dynamics 365 並非特別設計用來進行或協助這類監視。 <br><br> 不過，資料控制可以使用它來處理透過這類監視收集到的資料。 |
 
 >[!Note]
-><sup>1</sup> 關於「大規模」處理的準則，GDPR 第 91 條闡明：「如果處理是有關於個別醫生、其他醫療保健專業人員或律師之病患或客戶的個人資料，則處理個人資料不應視為大規模。 在此類情況下，資料保護影響評估不應強制」。
+><sup>1</sup>關於「大規模」處理的標準，GDPR 第 91 條闡明：「如果處理涉及來自患者或客戶的個人資料，則不應認為對個人資料的處理是大規模的由個別醫生、其他醫療保健專業人員或律師進行。在這種情況下，不應強制進行資料保護影響評估。」。
 
 ## <a name="part-2-contents-of-a-dpia"></a>第 2 部分：DPIA 的內容
 
