@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e1613765d3ffb7b43b80d07823fe8aef45719b70
-ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
+ms.openlocfilehash: ba0d0bbea11000144d7091455c6ee204f2c17037
+ms.sourcegitcommit: 856111c112a30160950fdd0ce94369aff7e176dc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "59486190"
+ms.locfileid: "59489370"
 ---
 # <a name="microsoft-denial-of-service-defense-strategy"></a>Microsoft 拒絕服務防禦策略
 
@@ -49,7 +49,7 @@ Microsoft 也採用攻擊性的方法來 DDoS 防衛。 Botnets 是一種常見�
 
 ## <a name="application-level-defenses"></a>應用層級防護
 
-Microsoft 工程小組遵循 [Microsoft Operational Security 保障](https://www.microsoft.com/SDL/OperationalSecurityAssurance) 所設定的嚴格標準，協助保護客戶資料。 Microsoft 的雲端服務是專為支援高負載而建立，可協助您防範應用層級的 DDoS 攻擊。 Microsoft 的向外延展架構跨多部全球資料中心分配服務，其相關工作負載具有區域隔離和工作負載特有的節流功能。
+Microsoft 的雲端服務是專為支援高負載而建立，可協助您防範應用層級的 DDoS 攻擊。 Microsoft 的向外延展架構跨多部全球資料中心分配服務，其相關工作負載具有區域隔離和工作負載特有的節流功能。
 
 客戶在初始設定服務期間所識別的每一個客戶國家或地區，會決定該客戶資料的主要儲存位置。 根據主要/備份策略，在重複資料中心之間複製客戶資料。 主要資料中心會裝載應用程式軟體，以及軟體中所執行的所有主要客戶資料。 備份資料中心提供自動容錯移轉。 如果主要資料中心因任何原因而停止運作，則要求會重新導向到備份資料中心內的軟體和客戶資料的複本。 在任何指定的時間，都可能會在主要或備份資料中心處理客戶資料。 跨多個資料中心散佈資料，可在一部資料中心遭到攻擊時減少受影響的面範圍。 此外，受影響的資料中心內的服務可快速重新導向至次要資料中心，以便在攻擊期間維持可用性，並在緩解攻擊之後重新導向主要資料中心。
 
