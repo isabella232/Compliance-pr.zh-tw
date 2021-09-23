@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 79d0f7bfff27f28b65d8f29c71f472024fbcd07e
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158924"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486350"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>聯邦金融機構檢查委員會 (FFIEC) 
 
@@ -70,7 +70,7 @@ AICPA SSAE 18 standard 取代 SAS 70，其適用于與財務報告上的使用�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商業** | Azure Active Directory，Azure 資訊保護，預約，合規性管理員，Delve，Exchange Online，Exchange Online Protection，表單，Kaizala，microsoft Analytics，microsoft 預約，microsoft Defender for Office 365，microsoft Graph，Microsoft Teams，microsoft To-Do for Web、MyAnalytics Office 365 進階合規性安全性 Office 365 雲端 App 安全性相容性Center、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint 線上、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 | **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
@@ -83,7 +83,7 @@ AICPA SSAE 18 standard 取代 SAS 70，其適用于與財務報告上的使用�
 
 為了協助您符合這些義務，Microsoft 會依照上述方式，提供與 SOC 標準的相容性相關資訊。 不過，最後，您可以決定我們的服務是否遵循適用于您機構的特定法律和規定。 FFIEC 也會建議 ' 審計報告或評論的使用者不應完全依賴報告中所包含的資訊，以驗證 TSP 的內部控制環境。 FFIEC IT 測驗手冊的 [外包技術手冊](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) 中所討論的功能，應使用其他驗證與監控程式。
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 36e3ddb58a61bc3a0a14a300e15f22262027fc92
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158839"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486340"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>聯邦風險與授權管理計畫 (FedRAMP)
 
@@ -75,9 +75,9 @@ Microsoft 政府雲端服務提供 public tool 客戶與 FedRAMP 及強大的指
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **GCC** | 活動摘要服務，Bing 服務，Delve，Exchange Online，Exchange Online Protection，基礎結構，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務，Office 使用狀況報告，商務用 OneDrive，人員卡片，SharePoint 線上，商務用 Skype，Windows Ink |
-| **GCC High** | 活動摘要服務，Bing 服務，Exchange Online，Exchange Online Protection，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
-| **DoD** | 活動摘要服務，Bing 服務，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
+| **GCC** | 活動摘要服務，Bing 服務，預約，Delve，Exchange Online，Exchange Online Protection，基礎結構，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office線上、Office 服務、Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype、Windows Ink |
+| **GCC High** | 活動摘要服務，Bing 服務，預約，Exchange Online，Exchange Online Protection，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構、Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype、Windows Ink |
+| **DoD** | 活動摘要服務，Bing 服務，預約，Exchange Online Protection，Exchange Online，智慧服務，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構、Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype、Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
@@ -103,7 +103,7 @@ FISMA 是一種聯邦法律，只需要我們的聯邦代理商和其合作夥�
 
 是。 您可以使用 Microsoft 雲端服務的認證，作為需要聯邦政府機構 ATO 之任何計畫或倡議的基礎。 不過，您必須為這些服務之外的元件達成您自己的授權。
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評估風險
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>使用 Microsoft 合規性管理員來評定風險
 
 [Microsoft 合規性管理員](/microsoft-365/compliance/compliance-manager)是 [Microsoft 365 合規性中心](/microsoft-365/compliance/microsoft-365-compliance-center)的功能，可協助您了解組織的合規性狀況，並採取行動以協助降低風險。 合規性管理員會提供特優範本以為此法規建立評定。 可在合規性管理員的 [評定範本] 頁面尋找範本。 瞭解如何[在合規性管理員中建立評估](/microsoft-365/compliance/compliance-manager-assessments)。
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: aa85357047d3f92b694023b102fa7141eb26344d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158868"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486440"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>2002 年沙賓法案 (SOX)
 
@@ -74,9 +74,9 @@ AICPA SSAE 18 standard 取代 SAS 70，其適用于與財務報告上的使用�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | 擴充迴圈、自動替代文字、Azure 資訊保護、二進位轉換服務、預約、Delve 檔專案、編輯器、Exchange Online、表單、[插入線上媒體]、[Insights]、[Kaizala]、[microsoft Analytics]、[microsoft 預約]、[microsoft Graph]、[Microsoft Teams]、[MyAnalytics]、[Office 365 雲端 App 安全性]、Office 365 的影片、Office 365、商務用 OneDrive、Power Apps PowerApps、Power Automate、Power BI PowerPoint  |
+| **商業** | 擴充迴圈，自動替代文字，Azure 資訊保護，二進位轉換服務，預約，Delve，檔專案，編輯器，Exchange Online，表單，插入線上媒體，Insights，Kaizala，microsoft Analytics，microsoft 預約，microsoft Graph，Microsoft Teams，MyAnalytics，Office 365 雲端 App 安全性，Office 365 群組，商務用 OneDrive，Planner，Power Apps，PowerApps，Power Automate，Power BI，PowerPoint 設計工具，PowerPoint 線上檔服務，SharePoint 線上，商務用 Skype，StaffHub，Stream，Sway，To-Do，Web 轉譯服務，Yammer Enterprise  |
 
-### <a name="audits-reports-and-certificates"></a>稽核、報告和認證
+### <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
 [SOC 1 Type 2](offering-SOC.md) 報告：
 

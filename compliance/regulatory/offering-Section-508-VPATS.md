@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 08e57873bb1664ce7cafc9aa1c193f6976651faf
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158888"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486450"
 ---
 # <a name="us-section-508"></a>U.S. Section 508
 
@@ -56,10 +56,11 @@ Microsoft 在開發產品和服務時，508考慮到其對所有客戶都可以�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | Access，Azure Active Directory，預約，合規性管理員，Delve，Excel，Exchange Online，Forms，Kaizala，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 系統管理入口網站，Office 365 入口網站 iOS，Office 365 系統管理員入口網站，Office 365 進階合規性附加元件、Office 365 和 Azure AD 登入 Office 365 的安全性 Office 365 規範Center，Office 365 影片，Office 365 Web 套件，Office 設定工具，Office 鏡頭，Office 線上，Office Pro 加號，商務用 OneDrive，OneDrive，OneNote，Outlook，Outlook，PowerApps 線上，Power Automate，Power BI，SharePoint，SharePoint，Yammer  |
-| **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
-| **GCC High** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype |
-| **DoD** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、Power BI、SharePoint Online、商務用 Skype |
+| **用戶端** | Access，Excel，Office 365 的 Android 管理入口網站，Office 365 iOS 的管理入口網站、Office 設定工具、Office 鏡頭、OneNote、Outlook、PowerPoint、Project、SharePoint、To-Do、Visio、、Word |
+| **商業** | Azure Active Directory、預定、合規性管理員、Delve，Exchange Online，Forms，Kaizala，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 和 Azure AD 登入，Office 365 Business Center，Office 365 客戶入口網站，Office 365 安全性 & 規範中心 Office，Office 線上，Pro 商務用 OneDrive，OneDrive，Outlook，PowerApps，Power Automate Power BI |
+| **GCC** | Azure Active Directory，合規性管理員，Delve，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 客戶入口網站，Office 365 安全性 & 規範中心，Office 線上，Office Pro，商務用 OneDrive，PowerApps，Power Automate流 |
+| **GCC High** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 客戶入口網站，Office 365 安全性 & 規範中心，Office 線上，Office Pro 加，商務用 OneDrive，PowerApps |
+| **DoD** | Azure Active Directory，Exchange Online，Forms，Microsoft Defender for Office 365，Microsoft Teams，Office 365 進階合規性附加元件，Office 365 客戶入口網站，Office 365 安全性 & 規範中心，Office 線上，Office Pro 加，商務用 OneDrive，Planner，Power BI，商務用 Skype |
 
 ### <a name="microsoft-accessibility-conformance-reports"></a>Microsoft 協助工具一致性報告
 
