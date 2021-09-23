@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 91735f08e93777a7ffa1a9c86d3a4776cc8cf1a0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: af9568a2ecb3e2b2be1fe3086b48e82f95f0869d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158482"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486213"
 ---
 # <a name="enisa-information-assurance-framework"></a>ENISA 資訊保證架構
 
@@ -64,7 +64,7 @@ CSA STAR 登錄中已列出 Azure 合規性，這是一個可公開存取的免�
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商業** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Microsoft Defender、Microsoft Graph、Microsoft Teams、網頁版 Microsoft To-Do、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ### <a name="resources"></a>資源
 

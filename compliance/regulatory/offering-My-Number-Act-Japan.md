@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e38e5f2c370692a60d07ac25491ae457e0ed34c0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: a770f37d778d56116050adefa03f2b27a1241792
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158563"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486270"
 ---
 # <a name="my-number-act-japan"></a>個人編號法案 (日本)
 
@@ -39,13 +39,13 @@ ms.locfileid: "59158563"
 
 Microsoft 商務雲端服務在 [Microsoft Online Services 條款](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)中說明了這些需求，規定了包含「個人編號」資料的客戶資料的責任和擁有權屬於客戶，而非 Microsoft。 客戶因此必須具備適當的控制措施，以保護客戶資料中所包含的「個人編號」資料。
 
-因為 Microsoft 無法存取儲存於雲端服務中的「個人編號」資料，所以不需要處理「個人編號」資料的「委外」合約。 如果客戶希望 Microsoft 具有存取包含「個人編號」資料的客戶資料，客戶必須先與 Microsoft 針對每個案例先建立額外的委外合約，才能提出這樣的要求。
+因為 Microsoft 無法存取儲存於雲端服務中的「個人編號」資料，所以不需要處理「個人編號」資料的「委外」合約。 如果客戶希望 Microsoft 存取包含「個人編號」資料的客戶資料, 客戶必須先與 Microsoft 針對每個案例先建立額外的外包合約, 才能提出這樣的要求。
 
 這項條款也陳述 Microsoft 致力於使用客戶資料僅用來提供客戶服務，而非任何廣告或類似的商業用途，並且 Microsoft 已具備強健的存取控制系統。
 
 針對安全性疑慮，Microsoft 商務雲端服務符合[雲端安全性標記 (金色)](offering-cs-mark-gold-japan.md) 標準，此為日本第一個雲端服務提供者的安全性認證。
 
-因此，Microsoft 商務雲端服務支援「個人編號法案」的需求，並不會以客戶之名建立其他義務，(例如由個人資料個別擁有者的同意權)。
+因此, Microsoft 商務雲端服務支援「個人編號法案」的需求, 並不會據以跟客戶建立其他義務, (例如由個人資料個別擁有者的同意權)。
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
@@ -66,7 +66,7 @@ Microsoft 商務雲端服務在 [Microsoft Online Services 條款](https://www.m
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Defender、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office 365 影片、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商業** | Azure Active Directory、Azure 資訊保護、Bookings、合規性管理員、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、適用於 Office 365 的 Microsoft Defender、Microsoft Graph、Microsoft Teams、網頁版 Microsoft To-Do、MyAnalytics、Office 365 進階合規性附加元件、Office 365 雲端 App 安全性、Office 365 群組、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>實作方法
 

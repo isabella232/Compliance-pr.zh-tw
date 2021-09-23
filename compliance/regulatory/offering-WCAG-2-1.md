@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 3208fab9675c02ec1e7af0824a05f9a062b311b2
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158828"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486430"
 ---
 # <a name="web-content-accessibility-guidelines"></a>網頁內容協助工具指導方針
 
@@ -62,10 +62,11 @@ Microsoft 發行了 WCAG 報告，其中反映了完整產品或服務。 其通
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | Excel、Exchange 系統管理中心、Office 365 系統管理中心 (入口網站)、Office 365 和 Azure AD 登入體驗、Office 365 客戶入口網站、Office 365 安全性與合規性中心、Office 365 影片、Office Lens、Office.com、OneDrive 系統管理中心、商務用 OneDrive、OneDrive 同步處理用戶端、OneNote、Orcas、Outlook Groups、Outlook、PowerPoint、Project、Word  |
-| **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
-| **GCC High** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype |
-| **DoD** | Azure Active Directory、Exchange Online、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office Pro Plus、商務用 OneDrive、Planner、Forms、Power BI、SharePoint Online、商務用 Skype |
+| **用戶端** | Access，Excel、Android 版 Office 365 系統管理入口網站、iOS 版 Office 365 系統管理入口網站、Office 設定工具、Office 鏡頭、OneNote、Outlook、PowerPoint、Project、SharePoint、To-Do、Visio、Word |
+| **商業** | Exchange 系統管理中心、Office 365 客戶入口網站、Office 365 安全性與合規性中心、Office.com、OneDrive 系統管理中心、商務用 OneDrive、OneDrive 同步處理用戶端、Orcas、Outlook Groups |
+| **GCC** | Azure Active Directory、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 客戶入口網站、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、商務用 Skype、Stream |
+| **GCC High** | Azure Active Directory、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 客戶入口網站、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、商務用 Skype |
+| **DoD** | Azure Active Directory、Exchange Online、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、Office 365 進階合規性附加元件、Office 365 客戶入口網站、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、Forms、Power BI、商務用 Skype |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Microsoft 協助工具一致性報告
 

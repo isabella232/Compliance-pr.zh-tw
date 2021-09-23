@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 438780ab33c99bae410218bdb54265093105c16b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: b43e882bc23523929a3bbcf7e0c9f667a2ab783f
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158556"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486260"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -53,7 +53,7 @@ Microsoft 已經分析我們目前的認證與保證聲明，並建立 [NEN 7510
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | Azure 資訊保護、Bookings、Delve、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 雲端 App 安全性、Office 365 群組、Office 365 影片、商務用 OneDrive、Planner、Power Apps、Power Automate、Power BI for Office 365、PowerApps、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商業** | Azure 資訊保護、Bookings、Delve、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、網頁版 Microsoft To-Do、MyAnalytics、Office 365 雲端 App 安全性、Office 365 群組、商務用 OneDrive、Planner、Power Apps、Power Automate、Power BI for Office 365、PowerApps、SharePoint Online、商務用 Skype、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>稽核、報告和憑證
 
