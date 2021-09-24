@@ -1,7 +1,7 @@
 ---
 title: 'Arm 規章中的國際流量 (ITAR) '
 description: Azure 政府支援客戶在具有 Arm Regs 功能的系統中建立國際流量。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365, compliance, offerings , 合規性, 方案
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e91675de1f8f974b643b46a5367d9d3754d32e96
+ms.sourcegitcommit: 3fac638ed9a54411d113dd2db1c942b77657b96d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158612"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59501318"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Arm 規章中的國際流量 (ITAR) 
 
@@ -43,7 +43,9 @@ ITAR 對舉報違規有特定責任，可提供某些風險降低的效益。 mi
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 範圍內雲端平台與服務
 
+- Azure
 - Azure 政府
+- Azure 政府機密
 - Office 365美國政府高、Office 365 防衛
 
 ## <a name="azure-dynamics-365-and-itar"></a>Azure、Dynamics 365 和 ITAR
