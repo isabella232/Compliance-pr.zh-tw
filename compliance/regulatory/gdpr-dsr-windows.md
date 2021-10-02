@@ -18,21 +18,22 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 52db464f30ac518cb60fcb62ad908e0fb3de31eb
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158436"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050567"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>適用於 GDPR 和 CCPA 的 Windows 診斷資料處理者設定資料主體要求
 
->[!NOTE]
->本主題適用於 Windows 10 企業版、專業版和教育版 (版本 1809，2021 年 7 月更新及更新版本)。
+**適用於：**
+-   Windows 10 企業版、專業版和教育版版本 1809 (包含 2021 年 7 月更新和更新的版本)
+-   Windows 11 企業版、專業版和教育版
 
 ## <a name="introduction-to-data-subject-requests-dsrs"></a>資料主體要求 (DSR) 簡介
 
-歐盟一般資料保護規定 (GDPR) 賦予人們 (在此法規中稱為 _資料主體_) 權利來管理雇主或其他類型的代理機構或組織 (稱為 _資料控制者_ 或僅稱為 _控制者_) 所收集的個人資料。 依據 GDPR，個人資料的定義很廣泛，舉凡與已識別或可識別自然人相關的任何資料皆屬之。 GDPR 為資料主體提供其個人資料的特定權限；這些權限包括取得個人資料副本、要求對該資料進行更正、限制對該資料的處理、刪除該資料，或是以電子格式接收該資料以移至另一個控制者。 由資料主體向控制者提出以對其個人資料採取行動的正式要求，稱為 _資料主體要求_ 或 DSR。
+歐盟一般資料保護規範 (GDPR) 賦予人員 (在規範中稱為 _資料主體_) 權限，以管理由雇主或其他類型的公司或組織 (稱為 _資料控制者_ 或簡稱 _控制者_) 收集而來的個人資料。依據 GDPR，個人資料的定義極為廣泛，係指與已識別或可識別的自然人相關的任何資料。GDPR 賦予資料主體對其個人資料的特定權限，這些權限包括取得個人資料副本、要求更正資料、限制資料的處理、刪除資料或以電子格式接收資料，以便轉交給其他控制者。由資料主體向控制者提出對其個人資料採取某項動作的正式要求，稱為 _資料主體要求_ 或 DSR。
 
 同樣地，加州消費者隱私法 (CCPA) 為加州消費者提供隱私權和義務，包括與 GDPR 資料主體權利相似的權利，例如，刪除、存取和接收 (可攜性) 其個人資訊的權利。 CCPA 也提供特定揭露、針對選擇行使權時的歧視提供保護，以及特定資料傳輸的「選擇退出/選擇加入」需求分類為「銷售」。 銷售的廣泛定義，包括出於有價值的考量而共用資料。 如需 CCPA 的詳細資訊，請參閱[加州消費者隱私法](/microsoft-365/compliance/offering-ccpa)和[常見問題集](/microsoft-365/compliance/ccpa-faq)。
 
@@ -72,7 +73,7 @@ Microsoft 提供您功能以存取、刪除及匯出與使用者以 Windows 診�
 > 某些 Windows 診斷資料僅與裝置識別碼相關聯，且未與特定使用者相關聯。 此類型的裝置層級資料不會匯出，且在 30 天內會從我們的系統中刪除。<br><br>
 > 不支援修正 Windows 診斷資料的功能。 Windows 診斷資料構成了 Windows 中所進行的實際動作，對這類資料的修改會危害動作的歷程記錄，並增加安全性風險並危害可靠性。
 
-下一章節提供如何執行與 Azure Active Directory (AAD) 使用者識別碼相關聯之 Windows 診斷資料的資料主體要求步驟。 如需詳細資訊，請參閱 [Windows 10 & 隱私權合規性：適用於 IT 和合規性專業人員的指南。](/windows/privacy/windows-10-and-privacy-compliance)
+下一章節提供如何執行與 Azure Active Directory (AAD) 使用者識別碼相關聯之 Windows 診斷資料的資料主體要求步驟。 如需詳細資訊，請參閱 [Windows 10 & Windows 11 隱私權合規性: 適用於 IT 和合規性專業人員的指南](/windows/privacy/windows-10-and-privacy-compliance)。
 
 ## <a name="executing-dsrs-against-windows-diagnostic-data"></a>針對 Windows 診斷資料執行 DSR
 
@@ -90,16 +91,16 @@ Microsoft 提供了一種根據特定使用者的 Azure Active Directory 物件�
 
 針對以使用者為基礎的刪除要求，Microsoft 提供兩種解決方案。  可提供入口網站體驗，讓企業客戶的租用戶系統管理員有能夠管理 DSR 刪除要求的功能。 [Azure DSR，第 1 部分，步驟 5：刪除](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete)說明如何透過刪除使用者和相關聯的資料，在 Azure 入口網站中執行適用於 Windows 診斷資料的 DSR 刪除要求。
 
-Microsoft 還能夠透過預先存在的應用程式開發介面 (API) 直接刪除使用者，進而刪除 Windows 診斷資料。 詳細資料請參閱 [API 參考文件](/graph/api/directory-deleteditems-delete)。
+Microsoft 也提供刪除使用者的功能，進而直接透過預先存在的應用程式開發介面 (API) 刪除 Windows 診斷資料。詳細資料請參閱 [API 參考文件](/graph/api/directory-deleteditems-delete)。
 
 >[!IMPORTANT]
 >刪除收集的資料並不會停止從裝置的進一步收集。 若要關閉資料收集，請按照 [各自服務的參考文件](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management)中所述的程序。
 
 ### <a name="step-3-export"></a>步驟 3：匯出
 
-租用戶系統管理員是貴組織中唯一可以存取與特定使用者使用以 Windows 診斷資料處理者設定啟用的裝置相關聯之 Windows 診斷資料的人員。 針對匯出要求所擷取的資料會以機器可讀取的格式提供；且會以檔案的形式提供，讓使用者知道與資料相關聯的是哪些裝置與服務。 如上所述，所擷取的資料不會包含可能造成 Windows 裝置安全性或穩定性受損的資料。 [Azure DSR，第 2 部分，步驟 3：匯出](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)說明如何透過 Azure 入口網站執行適用於 Windows 診斷資料的 DSR 匯出要求。
+租用戶系統管理員是貴組織中唯一可以存取與特定使用者使用以 Windows 診斷資料處理者設定啟用的裝置相關聯之 Windows 診斷資料的人員。針對匯出要求所擷取的資料會以機器可讀取的格式提供；且會以檔案的形式提供，讓使用者知道與資料相關聯的是哪些裝置與服務。如上所述，所擷取的資料不會包含可能造成 Windows 裝置安全性或穩定性受損的資料。[Azure DSR，第 2 部分，步驟 3: 匯出](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) 說明如何透過 Azure 入口網站執行適用於 Windows 診斷資料的 DSR 匯出要求。
 
-Microsoft 還能夠直接透過預先存在的應用程式開發介面 (API) 匯出 Windows 診斷資料。 詳細資料請參閱 [API 參考文件](/graph/api/user-exportpersonaldata)。
+Microsoft 還能夠直接透過預先存在的應用程式開發介面 (API) 匯出 Windows 診斷資料。詳細資料請參閱 [API 參考文件](/graph/api/user-exportpersonaldata)。
 
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>通知我們有關匯出或刪除的問題
 
