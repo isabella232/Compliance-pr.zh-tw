@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 10f8253d9acbed535d4aec31734be1ee16dd2b3a
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158493"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050577"
 ---
 # <a name="general-data-protection-regulation-summary"></a>一般資料保護摘要
 
@@ -53,8 +53,8 @@ GDPR 提供人員管理組織中收集之個人資料的權限。 透過資料�
 
 以下任務與達成 GDPR 標準相關。 請跟隨清單中的連結來取得有關實作的詳細資料。  
 
-- **[資料主體要求 (DSR)](gdpr-data-subject-requests.md)**。 由資料主體向控制者提出以對其個人資料採取行動 (變更、限制、存取) 的正式要求。
-- **[外洩通知](gdpr-breach-notification.md)**。 在 GDPR 規範下，個人資料外洩是「導致意外或非法損毀、遺失、變更、未經授權洩漏或存取所傳輸、儲存或處理的個人資料之安全性缺口。」
+- **[資料主體要求 (DSR)](gdpr-data-subject-requests.md)**。由資料主體向控制者提出以對其個人資料採取行動 (變更、限制、存取) 的正式要求。
+- **[外洩通知](gdpr-breach-notification.md)**。在 GDPR 規範下，個人資料外洩是「導致意外或非法損毀、遺失、變更、未經授權洩漏或存取所傳輸、儲存或處理的個人資料之安全性缺口。」
 - **[資料保護影響評估](gdpr-data-protection-impact-assessments.md)**。 GDPR 規定資料控制者為「可能導致自然人之權利和自由高風險」的資料作業準備資料保護影響評估 (DPIA)。
 
 如上所述，GDPR 的建議動作方案和責任整備檢查清單提供使用 Microsoft 產品和服務時，實作或評估 GDPR 合規性的指南。
@@ -65,7 +65,7 @@ GDPR 提供人員管理組織中收集之個人資料的權限。 透過資料�
 
 ## <a name="data-subject-request-dsr"></a>資料主體要求 (DSR)
 
-GDPR 會授予使用者 (或資料主體) 關於處理其個人資料的特定權限，包括修正錯誤資料、清除資料或限制其處理、接收其資料及滿足將其資料傳送至另一個控制者的要求等權限。 控制者會負責提供即時且 GDPR 合規性的回覆。 如需技術詳細資訊，請參閱[資料主體要求](gdpr-data-subject-requests.md)。  
+GDPR 會授予使用者 (或資料主體) 關於處理其個人資料的特定權限，包括修正錯誤資料、清除資料或限制其處理、接收其資料及滿足將其資料傳送至另一個控制者的要求等權限。控制者會負責提供即時且與 GDPR 一致的回覆。如需技術詳細資訊，請參閱[資料主體要求](gdpr-data-subject-requests.md)。  
 
 ### <a name="dsr-faqs"></a>DSR 常見問題集
 
@@ -220,11 +220,11 @@ Microsoft 長期以來一直使用標準合同條款 (也稱為示範條款) 作
 
 GDPR 會對收集或處理個人資料的組織施加多種要求，包括遵守六個關鍵原則的要求：
 
-- 處理和使用個人資料時 *透明*、*公平* 和 *合法*。 您需要清楚了解使用個人資料的方式，而且也需要「依法」處理該資料。
-- 將個人資料的處理限制為 *指定*、*明確* 且 *合法的目的*。 您將無法重複使用或揭露個人資料，因為這與當初收集資料的目的「抵觸」。
+- 處理和使用個人資料時 *透明*、*公平* 和 *合法*。您需要清楚了解使用個人資料的方式，而且也需要「依法」處理該資料。
+- 將個人資料的處理限制為 *指定*、*明確* 且 *合法的目的*。您將無法重複使用或揭露個人資料，因為這與當初收集資料的目的「抵觸」。
 - *儘量只收集和儲存夠用且與預期目的相關的個人資料*。
 - 確保 *個人資料正確無誤* ，並讓其可以進行 *清除或修正*。 您必須採取步驟，以確保您保留的個人資料正確無誤，並在錯誤發生時加以更正。
-- *限制個人資料的儲存*。 您必須確保只保留實現資料收集目的所需的個人資料。
+- *限制個人資料的儲存*。您必須確保只保留實現資料收集目的所需的個人資料。
 - 確保個人資料的 *安全性*、*完整性* 和 *機密性*。 貴組織必須採取步驟，透過技術和組織安全措施保護個人資料的安全。
 
 雖然 Microsoft 會隨時在您邁向 GDPR 旅程的過程中提供協助，但您需要了解貴組織對於 GDPR 有哪些具體義務，以及如何符合這些義務。
@@ -313,7 +313,7 @@ GDPR 會規範個人資料的收集、儲存、使用和共用。依據 GDPR，�
 
 **GDPR 會處理加密嗎？**
 
-在 GDPR 中，會將加密識別為保護措施，以在受到資料外洩影響時，使個人資料呈現無法辨識的狀態。 因此，無論是否使用加密，都會影響個人資料外洩的通知需求。 在某些情況下，GDPR 還會指出加密是一種適當的技術或組織措施，取決於風險。 支付卡行業資料安全標準和部分金融服務行業特定的嚴格合規性指導方針，也需要加密。 Microsoft 產品和服務 (例如 Azure、Dynamics 365、Enterprise Mobility + Security、Office Microsoft 365、SQL Server/Azure SQL Database 和 Windows 10) 為傳輸中資料和靜態資料提供強大的加密功能。
+在 GDPR 中，會將加密識別為保護措施，以在受到資料外洩影響時，使個人資料呈現無法辨識的狀態。 因此，無論是否使用加密，都會影響個人資料外洩的通知需求。 在某些情況下，GDPR 還會指出加密是一種適當的技術或組織措施，取決於風險。 支付卡行業資料安全標準和部分金融服務行業特定的嚴格合規性指導方針，也需要加密。 Microsoft 產品和服務 (例如 Azure、Dynamics 365、Enterprise Mobility + Security、Office Microsoft 365、SQL Server/Azure SQL Database、Windows 10 及 Windows 11) 為傳輸中資料和靜態資料提供強大的加密功能。
 
 **GDPR 如何變更組織對個人資料外洩的回應？**
 
