@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 632c8c40348e155d4acefb0c2ed66f1e1a2500b1
+ms.sourcegitcommit: 963eeffcf34f2696a1530ef95154adc2fa3a1941
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158607"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60266703"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>雲端安全性聯盟 (CSA) STAR 自我評定
 
@@ -72,7 +72,7 @@ STAR 提供三個保證層級；CSA-STAR 自我評定是層級 1 的介紹性方
 
 **CSA CCM 符合哪些產業標準？**
 
-CCM 符合產業公認的安全性標準、規定及控制措施架構，例如：ISO 27001、PCI DSS、HIPAA、AICPA SOC 2、NERC CIP、FedRAMP、NIST 等等。 如需最新清單，請瀏覽 [CSA 網站](https://cloudsecurityalliance.org/)。
+CCM 符合產業公認的安全性標準、規定及控制措施架構，例如：ISO 27001、PCI DSS、HIPAA、AICPA SOC 2、NERC CIP、FedRAMP、NIST 等等。如需最新清單，請瀏覽 [CSA 網站](https://cloudsecurityalliance.org/)。
 
 **為什麼 CSA STAR 自我評定很重要？**
 
@@ -80,11 +80,11 @@ CCM 符合產業公認的安全性標準、規定及控制措施架構，例如�
 
 **Office 365 獲得哪些 CSA STAR 保證層級？**
 
-- **層級 1**：**CSA STAR 自我評定**：是雲端服務提供者所提供的免費供應項目，用於記載其安全性控制措施以協助客戶評估服務安全性。
+- **層級 1**：**CSA STAR 自我評定**：是雲端服務提供者所提供的 [免費供應項目](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365)，用於記載其安全性控制措施以協助客戶評估服務安全性。
 
 ### <a name="office-365-resources"></a>Office 365 資源
 
-- [雲端安全性聯盟](https://cloudsecurityalliance.org/)
+- [雲端安全性聯盟 - Microsoft 365](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365)
 - [雲端控制矩陣 (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [自我評定問卷 (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [CSA 安全性、信任與保證註冊 (STAR)](https://cloudsecurityalliance.org/star/)
