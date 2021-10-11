@@ -28,10 +28,18 @@
   items:
     - name: 資料中心安全性概觀
       href: assurance-datacenter-security.md
-    - name: 資料中心 TVRA
+    - name: 資料中心架構與基礎結構
+      href: assurance-datacenter-architecture-infrastructure.md
+    - name: 資料中心風險管理
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: 環境保護
+      href: assurance-datacenter-environmental-safeguards.md
+    - name: 實體存取安全性
+      href: assurance-datacenter-physical-access-security.md
     - name: 資料承載裝置毀壞
       href: assurance-data-bearing-device-destruction.md
+    - name: 商務持續性與災害復原
+      href: assurance-datacenter-business-continuity-disaster-recovery.md
     - name: 供應鏈安全性
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 加密和金鑰管理
