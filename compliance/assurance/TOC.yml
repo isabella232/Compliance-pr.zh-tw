@@ -36,6 +36,8 @@
       href: assurance-datacenter-environmental-safeguards.md
     - name: 實體存取安全性
       href: assurance-datacenter-physical-access-security.md
+    - name: 資產管理
+      href: assurance-datacenter-asset-management.md
     - name: 資料承載裝置毀壞
       href: assurance-data-bearing-device-destruction.md
     - name: 商務持續性與災害復原
