@@ -328,3 +328,7 @@
   items:
     - name: CCPA - 常見問題集
       href: ccpa-faq.yml
+- name: 維吉尼亞消費者資料保護法 (VCDPA)
+  items:
+    - name: VCDPA - 常見問題集
+      href: vcdpa-faq.yml
