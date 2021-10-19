@@ -1,5 +1,5 @@
 ---
-title: 資料中心架構和基礎結構
+title: 資料中心架構與基礎結構
 description: Microsoft datacenter 架構和基礎結構的概述。
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,14 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 44876abef95f269d454139fd721194ef3d48dcd4
-ms.sourcegitcommit: cf424cb1e7c12048120977f294f780b776119a96
+ms.openlocfilehash: 6d9304cd0099ba95da8c58432802a3b1c836b1d4
+ms.sourcegitcommit: 02b7aa81f950037d3c959a522336a7d7af579e86
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60265095"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477948"
 ---
-# <a name="datacenter-architecture-and-infrastructure"></a>資料中心架構和基礎結構
+# <a name="datacenter-architecture-and-infrastructure"></a>資料中心架構與基礎結構
 
 Microsoft 資料中心的設計目的是為了實施縱深防禦策略，利用多層的保護層來可靠地保護我們的雲端架構，並支援基礎結構。 冗余是內置於多個層級的所有系統，以支援資料中心可用性。
 
@@ -35,6 +35,10 @@ Microsoft 具有遍佈全球的高安全性資料中心設施，可建立分散�
 地區是透過大量和復原網路互連的資料中心集合。 地區是組織成地區，向客戶授與特定資料派駐和合規性時，必須能夠讓他們的資料和應用程式保持關閉。 內建容錯可讓地區承受透過其連線至專屬、高容量網路基礎結構的完整區域失敗。
 
 地區中實體個別的位置稱為可用性區域，每個區域都是由一個或多個以獨立電源、冷卻及網路為設定的資料中心組成。 可用性區域可讓重要的應用程式以高可用性和低延遲複寫執行。
+
+下圖顯示全域基礎結構對地區和可用性區域在相同資料常駐界限內，以取得高可用性、嚴重損壞修復和備份。
+
+![資料常駐界限。](../media/assurance-data-residency-boundary.png)
 
 地理位置分散的資料中心可讓 Microsoft 讓服務更接近客戶、減少網路延遲，並允許地域冗余備份和容錯移轉。
 
