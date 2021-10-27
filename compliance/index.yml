@@ -20,9 +20,9 @@ highlightedContent:
     - title: 了解 Microsoft 如何保護客戶資料
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
-    - title: 深入瞭解雲端中的共用責任
+    - title: Microsoft Cloud 的風險評估指南
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+      url: /compliance/assurance/assurance-risk-assessment-guide
     - title: 深入瞭解 Microsoft 合規性管理員
       itemType: learn
       url: /learn/paths/compmgmt/
