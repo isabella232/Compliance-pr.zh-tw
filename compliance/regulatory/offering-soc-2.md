@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92fb47f98e60eb655ee68b38cb747a7d2eb9d2ff
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 99144f348b74ffa15752dbd9ec80ff8fbf17e538
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158923"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678440"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>系統與組織控制措施 (SOC) 2 Type 2
 
@@ -44,7 +44,7 @@ Office 365 SOC 2 證明是根據信譽良好的 CPA 公司進行嚴格的獨立�
 範圍中的 Microsoft 線上服務會顯示在 Azure SOC 2 Type 2 證明報告中：
 
 - Azure (如何詳細深入資訊，請參閱 [Microsoft Azure 合規性方案](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)或 Azure SOC 2 Type 2 證明報告)
-- Azure DevOps (請參閱個別的 Azure DevOps SOC 2 Type 2 證明報告)
+- Azure DevOps (請參閱個別的 [Azure DevOps SOC 2 Type 2 證明報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3))
 - Dynamics 365 (如需詳細深入資訊，請參閱 Azure SOC 2 Type 2 證明報告)
 - Microsoft 365 Defender
 - Microsoft 雲端 App 安全性 (MCAS)
@@ -87,9 +87,9 @@ Office 365 SOC 2 證明是根據信譽良好的 CPA 公司進行嚴格的獨立�
 
 ### <a name="office-365-audit-reports"></a>Office 365 稽核報告
 
-- [Office 365 核心版 - SSAE 18 SOC 2 報告](https://aka.ms/o365SOC-2)
-- [Office 365 微服務 T1-SSAE 18 SOC2 Type I 報告](https://aka.ms/o365-MS-SOC-2-type1)
-- [請參閱 Bridge Letter 和其他稽核報告](https://aka.ms/auditreports)
+- [Office 365 核心版 - SSAE 18 SOC 2 報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Office 365 微服務 T1-SSAE 18 SOC2 Type I 報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e2dd6942-e70d-4222-8013-960514742f19&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [請參閱 Bridge Letter 和其他稽核報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 
 您必須在 Office 365 或 [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 美國政府中擁有現有的訂閱或免費試用帳戶，才能下載 SOC 1 和 SOC 2 證明報告，以及任何橋接信件 (如果需要)。
 
