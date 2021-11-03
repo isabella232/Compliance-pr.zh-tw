@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4b255918c3bb46757d5bd12ae33d907200dd37b0
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158812"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678450"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a> (CJIS) 安全性原則的刑事審判資訊服務
 
@@ -76,7 +76,7 @@ FBI 不會提供符合 CJIS 需求的 Microsoft 認證。 相反地，microsoft 
 
 ### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>美國 (目前為11/5/2020 的州的 CJIS 狀態) 
 
-45州和哥倫比亞含管理合約的地區，在綠色地圖上以綠色反白顯示：
+44州和哥倫比亞含管理合約的地區，在綠色地圖上以綠色反白顯示：
 
 Alabama，阿拉斯加，亞利桑那，Arkansas，加州，科羅拉多，Connecticut，佛羅里達，格魯吉亞，夏威夷，Idaho，Illinois，印地安那州 Iowa、Kansas、Kentucky、Maine、麻塞諸塞、密歇根、Minnesota、Mississippi、Missouri、Montana、Nebraska、Nevada、New Hampshire、New Jersey、New 墨西哥、紐約、北卡羅萊納州、北 Dakota、Oklahoma、德克薩斯、猶他州、Rhode、南部卡羅萊納州、華盛頓、德克薩斯、Tennessee、Vermont、Wisconsin、、
 

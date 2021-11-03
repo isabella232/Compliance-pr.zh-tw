@@ -1,5 +1,5 @@
 ---
-title: Microsoft Cloud 的風險評估指南
+title: Microsoft Cloud 的風險評定指南
 description: 深入瞭解 Microsoft Cloud 的風險評估指南
 ms.author: robmazz
 author: robmazz
@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a7b6e345afa49d82f96d9eb9e5c804fc7cbf5ffe
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: df4b98f90c70bab3bd7f09e6312833d8a7ea768b
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584847"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678430"
 ---
-# <a name="risk-assessment-guide-for-microsoft-cloud"></a>Microsoft Cloud 的風險評估指南
+# <a name="risk-assessment-guide-for-microsoft-cloud"></a>Microsoft Cloud 的風險評定指南
 
 「雲端風險評估」的目標是確定遷移至雲端的系統和資料，不會將任何新的或不明的風險引入組織中。 其重點是保證資訊處理的機密性、完整性、可用性和隱私權，並使已識別的風險降低低於公認的內部風險閾值。
 
-在共用責任模式中，雲端服務提供者 (CSP) 負責管理 *雲端* 的安全性和合規性（提供者）。 客戶自行負責管理和設定雲端中的安全性和合規性，依照其需求和風險容限。
+在共用責任模式中，雲端服務提供者 (CSP) 負責管理 *雲端* 的安全性和合規性（提供者）。 客戶自行負責管理和設定 *雲端中的* 安全性和合規性，依照其需求和風險容限。
 
 ![共用責任模型。](../media/assurance-shared-responsibility-model.png)
 
@@ -41,7 +41,7 @@ ms.locfileid: "60584847"
 
 您可以將雲端部署分類為服務 (IaaS) 、平臺為服務 (PaaS) 或軟體作為服務 (SaaS) 。 根據適用的雲端服務模型，在此解決方案的安全性控制層級的責任層級會控制在 CSP 與客戶之間的倒班。 在傳統內部部署模型中，客戶負責整個堆疊。 移至雲端時，會將所有實體安全性責任轉移至 CSP。 根據組織的雲端服務模型，其他責任會轉移到 CSP。 不過，在大部分的服務模式中，您的組織仍然負責存取雲端、網路連線、帳戶和身分識別及資料的裝置。 Microsoft 致力於建立服務，讓客戶能夠跨整個生命週期控制其資料。
 
-Microsoft 雲端的運作方式是超大型，以 DevSecOps 與自動化的組合來標準化運作模型。 Microsoft 作業系統模型變更與傳統內部部署運作模型相比，風險的接近方式，這會導致管理風險的不同和有時候不熟悉的控制項的實施。 當您執行您的雲端風險評估時，請記住 Microsoft 的目標是確定所有風險都已解決，但不一定要執行組織所執行的相同控制。 Microsoft 可使用一組不同的控制措施，以及應反映在雲端風險評估中的風險。 設計及實施強預防性控制措施可減少偵探和修正控制項所需的許多工作。
+Microsoft 雲端的運作方式是超大型，以 DevSecOps 與自動化的組合來標準化運作模型。 Microsoft 作業系統模型變更與傳統內部部署運作模型相比，風險的接近方式，這會導致管理風險的不同和有時候不熟悉的控制項的實施。 當您執行您的雲端風險評估時，請記住 Microsoft 的目標是確定所有風險都已解決，但不一定要執行組織所執行的相同控制。 Microsoft 可使用一組不同的控制措施，以及應反映在雲端風險評估中的風險。 設計及實施強預防性控制措施可減少偵探和修正控制項所需的許多工作。 例如，Microsoft [對零執行的 Access (ZSA) ](assurance-microsoft-365-service-engineer-access-control.md)的實現。
 
 ## <a name="adopt-a-framework"></a>採用架構
 
