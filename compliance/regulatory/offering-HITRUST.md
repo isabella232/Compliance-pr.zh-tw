@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e95b5c2b73f6b48cbab40bbc5d8d3aff6375cc48
+ms.sourcegitcommit: 9843c6a0318dfea189b07f9cd80e33c3e8f6d676
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158583"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725671"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>狀況資訊信任同盟 (HITRUST) 常見的安全性架構 (CSF) 
 
@@ -64,7 +64,7 @@ HITRUST 提供三種確定性或評估等級：自我評估、CSF 驗證及 CSF 
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office 服務基礎結構，Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype Windows Ink |
+| **商業** | 活動摘要服務，Bing 服務，Delve，Exchange Online Protection，Exchange Online，Microsoft Teams，Office 365 客戶入口網站，Office 線上，Office服務基礎結構、Office 使用狀況報告、商務用 OneDrive、人員卡片、SharePoint 線上、商務用 Skype、Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 稽核、報告和認證
 
@@ -93,7 +93,7 @@ Microsoft 提供最全面的選項，與其他雲端服務提供者相較。 為
 ### <a name="resources"></a>資源
 
 - [HITRUST 同盟](https://hitrustalliance.net/)
-- [HITRUST CSF 9。3](https://hitrustalliance.net/csf-license-agreement/)
+- [HITRUST CSF 9。5](https://hitrustalliance.net/csf-license-agreement/)
 - [瞭解和利用 CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [進一步瞭解 HITRUST 共用責任計畫](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 - [Microsoft 信任中心的合規性](https://www.microsoft.com/trust-center/compliance/compliance-overview)
