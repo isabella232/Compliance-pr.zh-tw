@@ -1,7 +1,7 @@
 ---
 title: 健康保險流通與責任法案 (HIPAA) & 狀況資訊技術以實現經濟和臨床健康情況 (高科技) 法案
 description: Microsoft 提供健康保險可攜性 & 責任法案 (Baa) 的相關業務關聯協定。
-keywords: Microsoft 365, 合規性, 方案
+keywords: Microsoft 365、合規性、方案
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 373d9c36d67324a1d3792786c45731b3da21686a
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158723"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60780129"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>健康保險流通與責任法案 (HIPAA) & 狀況資訊技術以實現經濟和臨床健康情況 (高科技) 法案
 
@@ -54,7 +54,6 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 - Dynamics 365 和 Dynamics 365 美國政府
 - Intune
 - Microsoft 雲端應用程式安全性
-- [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft 保健 Bot 服務
 - [Microsoft 受管理的電腦](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft 專業服務：Azure、Dynamics 365、Intune 及商務用 Microsoft 365 中型企業和企業客戶的頂級與內部部署
@@ -79,7 +78,7 @@ Microsoft enterprise 雲端服務也涵蓋 FedRAMP 評估。 Microsoft Azure 和
 
 | **適用性** | **範圍內服務** |
 |:------------------|:----------------------|
-| **商業** | Access Online，Azure Active Directory，Azure 通訊服務，合規性管理員，客戶加密箱，Delve，Exchange Online，Forms，Griffin，Identity Manager，密碼箱 (圓環) ，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件，Office 365 客戶入口網站，Office 365 Microservices (（包括但不限於 Kaizala、ObjectStore、Sway、Power Automate、PowerPoint 線上檔服務、查詢批註服務、學校資料同步處理、Siphon、語音、StaffHub、可擴展的應用程式) 、Office 365 安全性 & 規範中心、Office 線上、Office Pro Plus、Office 服務基礎結構、商務用 OneDrive、加密、PowerApps 線上 |
+| **商業** | Access Online，Azure Active Directory，Azure 通訊服務，合規性管理員，客戶加密箱，Delve，Exchange Online，Forms，Griffin，Identity Manager，密碼箱 (圓環) ，Microsoft Defender for Office 365，Microsoft Teams，MyAnalytics，Office 365 進階合規性附加元件、Office 365 客戶入口網站 Office 365 Microservices (包括但不限於 Kaizala、ObjectStore、Sway、Power Automate、PowerPoint 線上檔服務、查詢批註服務學校資料同步處理，Siphon，Speech，StaffHub，可擴展的應用程式) ，Office 365 安全性 & 規範中心，Office 線上，Office Pro 加，Office 服務基礎結構，商務用 OneDrive，Planner，PowerApps，Power BI，Project Online，使用客戶金鑰的服務加密，SharePoint 線上，商務用 Skype，資料流程 |
 | **GCC** | Azure Active Directory、Azure Communications Service、合規性管理員、Delve、Exchange Online、Forms、適用於 Office 365 的 Microsoft Defender、Microsoft Teams、MyAnalytics、Office 365 進階合規性附加元件、Office 365 安全性與合規性中心、Office Online、Office 專業增強版、商務用 OneDrive、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、商務用 Skype、Stream |
 
 ### <a name="frequently-asked-questions"></a>常見問題集
